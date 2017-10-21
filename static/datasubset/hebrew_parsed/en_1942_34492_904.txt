@@ -1,0 +1,3269 @@
+1	"	_	yyQUOT	yyQUOT	_	5	punct	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	אהבה	_	NN	NN	gen=F|num=S	5	subj	_	_
+4	היא	_	COP	COP	gen=F|num=S|per=3	5	cop	_	_
+5	שיר	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+6	ש	_	REL	REL	_	5	rcmod	_	_
+7	איננו	_	COP	COP	gen=M|num=S|per=3	8	aux	_	_
+8	נגמר	_	BN	BN	gen=M|num=S|per=A	6	relcomp	_	_
+9	...	_	yyELPS	yyELPS	_	5	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	5	punct	_	_
+2	לעיתים	_	RB	RB	_	4	det	_	_
+3	ה	_	DEF	DEF	_	4	def	_	_
+4	חיים	_	NN	NN	gen=M|num=P	5	subj	_	_
+5	עשויים	_	MD	MD	gen=M|num=P|per=A	0	ROOT	_	_
+6	לחלוף	_	VB	VB	_	5	xcomp	_	_
+7	ב	_	PREPOSITION	PREPOSITION	_	6	prepmod	_	_
+8	מהירות	_	NN	NN	gen=F|num=S	7	pobj	_	_
+9	...	_	yyELPS	yyELPS	_	5	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	4	punct	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	תקווה	_	NN	NN	gen=F|num=S	4	subj	_	_
+4	עלולה	_	MD	MD	gen=F|num=S|per=A	0	ROOT	_	_
+5	לפוג	_	VB	VB	_	4	xcomp	_	_
+6	...	_	yyELPS	yyELPS	_	5	comp	_	_
+7	"	_	yyQUOT	yyQUOT	_	12	punct	_	_
+8	אולם	_	NNT	NNT	gen=M|num=S	12	subj	_	_
+9	ה	_	DEF	DEF	_	10	def	_	_
+10	אהבה	_	NN	NN	gen=F|num=S	8	gobj	_	_
+11	היא	_	COP	COP	gen=F|num=S|per=3	12	cop	_	_
+12	מוסיקה	_	NN	NN	gen=F|num=S	6	pobj	_	_
+13	עריבה	_	NNP	NNP	gen=F,M|num=S	12	nn	_	_
+14	...	_	yyELPS	yyELPS	_	4	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	3	punct	_	_
+2	אשר	_	CC	CC	_	3	advmod	_	_
+3	באה	_	VB	VB	gen=F|num=S|per=3|tense=PAST	0	ROOT	_	_
+4	יום	_	NNT	NNT	gen=M|num=S	3	subj	_	_
+5	יום	_	NN	NN	gen=M|num=S	4	gobj	_	_
+6	,	_	yyCM	yyCM	_	3	punct	_	_
+7	עם	_	IN	IN	_	3	prepmod	_	_
+8	עלות	_	NNT	NNT	gen=F|num=S	7	pobj	_	_
+9	ה	_	DEF	DEF	_	10	def	_	_
+10	שחר	_	NN	NN	gen=M|num=S	8	gobj	_	_
+11	...	_	yyELPS	yyELPS	_	3	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	5	punct	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	אהבה	_	NN	NN	gen=F|num=S	5	subj	_	_
+4	היא	_	COP	COP	gen=F|num=S|per=3	5	cop	_	_
+5	שיר	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+6	ש	_	REL	REL	_	5	rcmod	_	_
+7	איננו	_	COP	COP	gen=M|num=S|per=3	8	aux	_	_
+8	נגמר	_	BN	BN	gen=M|num=S|per=A	6	relcomp	_	_
+9	...	_	yyELPS	yyELPS	_	5	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	7	punct	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	חוזר	_	NN	NN	gen=M|num=S	7	conj	_	_
+4	על	_	IN	IN	_	3	prepmod	_	_
+5	עצמו	_	PRP	PRP	gen=M|num=S|per=3	4	pobj	_	_
+6	שוב	_	RB	RB	_	3	mod	_	_
+7	ו	_	CONJ	CONJ	_	0	ROOT	_	_
+8	שוב	_	RB	RB	_	7	conj	_	_
+9	...	_	yyELPS	yyELPS	_	7	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	10	punct	_	_
+2	כמו	_	IN	IN	_	10	prepmod	_	_
+3	קולות	_	NNT	NNT	gen=M|num=P	2	pobj	_	_
+4	ה	_	DEF	DEF	_	5	def	_	_
+5	מלאכים	_	NN	NN	gen=M|num=P	3	gobj	_	_
+6	ה	_	REL	REL	_	3	rcmod	_	_
+7	שרים	_	BN	BN	gen=M|num=P|per=A	6	relcomp	_	_
+8	ב	_	PREPOSITION	PREPOSITION	_	7	prepmod	_	_
+9	גןעדן	_	NNP	NNP	_	8	pobj	_	_
+10	...	_	yyELPS	yyELPS	_	0	ROOT	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	7	punct	_	_
+2	מנגינת	_	NNT	NNT	gen=F|num=S	7	subj	_	_
+3	ה	_	DEF	DEF	_	4	def	_	_
+4	אהבה	_	NN	NN	gen=F|num=S	2	gobj	_	_
+5	ה	_	DEF	DEF	_	6	def	_	_
+6	מתוקה	_	JJ	JJ	gen=F|num=S	2	amod	_	_
+7	זורמת	_	BN	BN	gen=F|num=S|per=A	0	ROOT	_	_
+8	...	_	yyELPS	yyELPS	_	7	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	11	punct	_	_
+2	כמו	_	IN	IN	_	11	prepmod	_	_
+3	קולות	_	NNT	NNT	gen=M|num=P	2	pobj	_	_
+4	ה	_	DEF	DEF	_	5	def	_	_
+5	מלאכים	_	NN	NN	gen=M|num=P	3	gobj	_	_
+6	ש	_	REL	REL	_	3	rcmod	_	_
+7	שרים	_	BN	BN	gen=M|num=P|per=A	6	relcomp	_	_
+8	ב	_	PREPOSITION	PREPOSITION	_	7	prepmod	_	_
+9	גן	_	NNT	NNT	gen=M|num=S	8	pobj	_	_
+10	עדן	_	NN	NN	gen=M|num=S	9	gobj	_	_
+11	...	_	yyELPS	yyELPS	_	0	ROOT	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	7	punct	_	_
+2	מנגינת	_	NNT	NNT	gen=F|num=S	7	subj	_	_
+3	ה	_	DEF	DEF	_	4	def	_	_
+4	אהבה	_	NN	NN	gen=F|num=S	2	gobj	_	_
+5	ה	_	DEF	DEF	_	6	def	_	_
+6	מתוקה	_	JJ	JJ	gen=F|num=S	2	amod	_	_
+7	זורמת	_	BN	BN	gen=F|num=S|per=A	0	ROOT	_	_
+8	...	_	yyELPS	yyELPS	_	7	punct	_	_
+9	התעורר	_	VB	VB	gen=M|num=S|per=3|tense=PAST	7	xcomp	_	_
+10	!	_	yyEXCL	yyEXCL	_	7	punct	_	_
+
+1	הו	_	INTJ	INTJ	_	8	hd	_	_
+2	,	_	yyCM	yyCM	_	6	punct	_	_
+3	מה	_	QW	QW	_	6	advmod	_	_
+4	עכשיו	_	RB	RB	_	6	advmod	_	_
+5	?	_	yyQM	yyQM	_	6	subj	_	_
+6	התעורר	_	VB	VB	gen=M|num=S|per=3|tense=PAST	8	parataxis	_	_
+7	,	_	yyCM	yyCM	_	6	punct	_	_
+8	אדון	_	TTL	TTL	gen=M|num=S	10	subj	_	_
+9	ינשוף	_	NNT	NNT	gen=M|num=S	10	cop	_	_
+10	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	על	_	IN	IN	_	0	ROOT	_	_
+2	מה	_	QW	QW	_	1	pobj	_	_
+3	ה	_	DEF	DEF	_	4	def	_	_
+4	מהומה	_	NN	NN	gen=F|num=S	2	subj	_	_
+5	?	_	yyQM	yyQM	_	1	punct	_	_
+
+1	התעורר	_	VB	VB	gen=M|num=S|per=3|tense=PAST	2	prd	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	זה	_	PRP	PRP	gen=M|num=S|per=3	2	subj	_	_
+2	קרה	_	VB	VB	gen=M|num=S|per=3|tense=PAST	3	prd	_	_
+3	!	_	yyEXCL	yyEXCL	_	5	punct	_	_
+4	זה	_	PRP	PRP	gen=M|num=S|per=3	5	subj	_	_
+5	קרה	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+6	!	_	yyEXCL	yyEXCL	_	5	punct	_	_
+
+1	ה	_	DEF	DEF	_	2	def	_	_
+2	נסיך	_	NN	NN	gen=M|num=S	5	subj	_	_
+3	ה	_	DEF	DEF	_	4	def	_	_
+4	קטן	_	JJ	JJ	gen=M|num=S	2	amod	_	_
+5	נולד	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+6	.	_	yyDOT	yyDOT	_	5	punct	_	_
+
+1	אנחנו	_	PRP	PRP	gen=F,M|num=P|per=1	2	subj	_	_
+2	הולכים	_	BN	BN	gen=M|num=P|per=A	0	ROOT	_	_
+3	לראות	_	VB	VB	_	2	xcomp	_	_
+4	את	_	AT	AT	_	3	obj	_	_
+5	הוא	_	S_PRN	S_PRN	gen=M|num=S|per=3	4	hd	_	_
+6	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	בוא	_	NN	NN	gen=M|num=S	2	hd	_	_
+2	,	_	yyCM	yyCM	_	0	ROOT	_	_
+3	כדי	_	IN	IN	_	2	hd	_	_
+4	ש	_	REL	REL	_	3	pobj	_	_
+5	נמהר	_	VB	VB	gen=F,M|num=P|per=1|tense=FUTURE	4	prd	_	_
+6	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	הסתכלו	_	VB	VB	gen=F,M|num=P|per=3|tense=PAST	0	ROOT	_	_
+2	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	תראו	_	VB	VB	gen=F,M|num=P|per=2|tense=FUTURE	0	ROOT	_	_
+2	את	_	AT	AT	_	1	obj	_	_
+3	הוא	_	S_PRN	S_PRN	gen=M|num=S|per=3	2	hd	_	_
+4	,	_	yyCM	yyCM	_	1	punct	_	_
+
+1	נכון	_	JJ	JJ	gen=M|num=S	2	dep	_	_
+2	ש	_	REL	REL	_	0	ROOT	_	_
+3	הוא	_	PRP	PRP	gen=M|num=S|per=3	4	subj	_	_
+4	חמוד	_	JJ	JJ	gen=M|num=S	2	ccomp	_	_
+5	?	_	yyQM	yyQM	_	2	punct	_	_
+
+1	הו	_	INTJ	INTJ	_	7	dep	_	_
+2	,	_	yyCM	yyCM	_	7	punct	_	_
+3	זה	_	PRP	PRP	gen=M|num=S|per=3	4	det	_	_
+4	אירוע	_	NN	NN	gen=M|num=S	5	dep	_	_
+5	כל	_	DTT	DTT	_	7	dep	_	_
+6	כך	_	RB	RB	_	7	mod	_	_
+7	מיוחד	_	JJ	JJ	gen=M|num=S	0	ROOT	_	_
+8	.	_	yyDOT	yyDOT	_	7	punct	_	_
+
+1	נכון	_	JJ	JJ	gen=M|num=S	9	parataxis	_	_
+2	,	_	yyCM	yyCM	_	9	punct	_	_
+3	אדוני	_	NNT	NNT	gen=M|num=P	9	subj	_	_
+4	.	_	yyDOT	yyDOT	_	5	hd	_	_
+5	לא	_	RB	RB	_	3	gobj	_	_
+6	ב	_	PREPOSITION	PREPOSITION	_	3	prepmod	_	_
+7	כל	_	DTT	DTT	_	8	det	_	_
+8	יום	_	NN	NN	gen=M|num=S	6	pobj	_	_
+9	נולד	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+10	נסיך	_	NN	NN	gen=M|num=P|suf_gen=M|suf_num=S|suf_per=2	9	obj	_	_
+11	.	_	yyDOT	yyDOT	_	9	punct	_	_
+
+1	ש	_	REL	REL	_	3	subj	_	_
+2	יהיה	_	COP	COP	gen=M|num=S|per=3	3	cop	_	_
+3	ב	_	PREPOSITION	PREPOSITION	_	6	mod	_	_
+4	מזל	_	NN	NN	gen=M|num=S	3	pobj	_	_
+5	טוב	_	JJ	JJ	gen=M|num=S	4	amod	_	_
+6	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	כן	_	RB	RB	_	5	parataxis	_	_
+2	,	_	yyCM	yyCM	_	5	punct	_	_
+3	מזל	_	NN	NN	gen=M|num=S	5	hd	_	_
+4	טוב	_	JJ	JJ	gen=M|num=S	3	amod	_	_
+5	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	מזל	_	NN	NN	gen=M|num=S	3	subj	_	_
+2	טוב	_	JJ	JJ	gen=M|num=S	1	amod	_	_
+3	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	תודה	_	NN	NN	gen=F|num=S	2	subj	_	_
+2	רבה	_	JJ	JJ	gen=F|num=S	0	ROOT	_	_
+3	ל	_	IN	IN	_	2	prepmod	_	_
+4	אתם	_	S_PRN	S_PRN	gen=M|num=P|per=2	3	pobj	_	_
+5	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	קדימה	_	RB	RB	_	3	advmod	_	_
+2	,	_	yyCM	yyCM	_	3	punct	_	_
+3	התעורר	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+4	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	ישלנואורחים	_	NN	NN	gen=M|num=P	0	ROOT	_	_
+2	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	שלום	_	NN	NN	gen=M|num=S	4	subj	_	_
+2	,	_	yyCM	yyCM	_	1	punct	_	_
+3	שלום	_	NN	NN	gen=M|num=S	1	appos	_	_
+4	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	שלום	_	NN	NN	gen=M|num=S	2	subj	_	_
+2	ל	_	IN	IN	_	0	ROOT	_	_
+3	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	2	pobj	_	_
+4	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	שלום	_	NN	NN	gen=M|num=S	3	hd	_	_
+2	,	_	yyCM	yyCM	_	3	punct	_	_
+3	נסיך	_	NN	NN	gen=M|num=P|suf_gen=M|suf_num=S|suf_per=2	0	ROOT	_	_
+4	קטן	_	JJ	JJ	gen=M|num=S	3	amod	_	_
+5	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	שלום	_	NN	NN	gen=M|num=S	3	hd	_	_
+2	,	_	yyCM	yyCM	_	3	punct	_	_
+3	שלום	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+4	ל	_	IN	IN	_	3	prepmod	_	_
+5	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	4	pobj	_	_
+6	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	שלום	_	NN	NN	gen=M|num=S	7	subj	_	_
+2	ל	_	IN	IN	_	1	prepmod	_	_
+3	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	2	pobj	_	_
+4	,	_	yyCM	yyCM	_	1	punct	_	_
+5	נסיך	_	NN	NN	gen=M|num=S	1	appos	_	_
+6	קטן	_	JJ	JJ	gen=M|num=S	5	amod	_	_
+7	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	הסתכלו	_	VB	VB	gen=F,M|num=P|per=3|tense=PAST	4	cc	_	_
+2	,	_	yyCM	yyCM	_	4	punct	_	_
+3	הוא	_	PRP	PRP	gen=M|num=S|per=3	4	subj	_	_
+4	ניסה	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+5	את	_	POS	POS	_	4	advmod	_	_
+6	היא	_	S_PRN	S_PRN	gen=F|num=S|per=3	5	hd	_	_
+7	לקום	_	VB	VB	_	4	xcomp	_	_
+8	!	_	yyEXCL	yyEXCL	_	4	punct	_	_
+
+1	קצת	_	RB	RB	_	2	advmod	_	_
+2	מתנדנד	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+3	,	_	yyCM	yyCM	_	2	punct	_	_
+4	נכון	_	JJ	JJ	gen=M|num=S	2	parataxis	_	_
+5	?	_	yyQM	yyQM	_	2	punct	_	_
+
+1	טמפר	_	NNP	NNP	gen=F,M|num=S	2	subj	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	אבל	_	CC	CC	_	5	cc	_	_
+2	...	_	yyELPS	yyELPS	_	5	parataxis	_	_
+3	הוא	_	PRP	PRP	gen=M|num=S|per=3	5	subj	_	_
+4	באמת	_	RB	RB	_	5	advmod	_	_
+5	מתנדנד	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+6	.	_	yyDOT	yyDOT	_	5	punct	_	_
+
+1	אתה	_	PRP	PRP	gen=M|num=S|per=2	2	subj	_	_
+2	לא	_	RB	RB	_	0	ROOT	_	_
+3	?	_	yyQM	yyQM	_	2	punct	_	_
+
+1	נראה	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+2	ל	_	IN	IN	_	1	prepmod	_	_
+3	אני	_	S_PRN	S_PRN	gen=F,M|num=S|per=1	2	pobj	_	_
+4	ש	_	REL	REL	_	1	comp	_	_
+5	הוא	_	PRP	PRP	gen=M|num=S|per=3	6	subj	_	_
+6	מתחיל	_	BN	BN	gen=M|num=S|per=A	4	ccomp	_	_
+7	ל	_	PREPOSITION	PREPOSITION	_	6	comp	_	_
+8	היות	_	NN	NN	gen=M|num=S	7	pobj	_	_
+9	מנומנם	_	JJ	JJ	gen=M|num=S	8	amod	_	_
+10	כ	_	PREPOSITION	PREPOSITION	_	8	prepmod	_	_
+11	ה	_	DEF	DEF	_	12	def	_	_
+12	זה	_	PRP	PRP	gen=M|num=S|per=3	10	pobj	_	_
+13	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	אני	_	PRP	PRP	gen=F,M|num=S|per=1	2	subj	_	_
+2	חושב	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+3	ש	_	REL	REL	_	2	comp	_	_
+4	הגיע	_	VB	VB	gen=M|num=S|per=3|tense=PAST	3	ccomp	_	_
+5	ה	_	DEF	DEF	_	6	def	_	_
+6	זמן	_	NN	NN	gen=M|num=S	4	subj	_	_
+7	ש	_	REL	REL	_	6	rcmod	_	_
+8	כולנו	_	DT	DT	suf_gen=F,M|suf_num=P|suf_per=1	7	relcomp	_	_
+9	נלך	_	VB	VB	gen=F,M|num=P|per=1|tense=FUTURE	8	prd	_	_
+10	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	בואו	_	NN	NN	gen=M|num=S|suf_gen=M|suf_num=S|suf_per=3	0	ROOT	_	_
+2	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	טמפר	_	NNP	NNP	gen=F,M|num=S	2	subj	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	בוא	_	NN	NN	gen=M|num=S	2	subj	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	איך	_	QW	QW	_	2	advmod	_	_
+2	תקראי	_	VB	VB	gen=F|num=S|per=2|tense=FUTURE	0	ROOT	_	_
+3	ל	_	IN	IN	_	2	prepmod	_	_
+4	הוא	_	S_PRN	S_PRN	gen=M|num=S|per=3	3	pobj	_	_
+5	?	_	yyQM	yyQM	_	2	punct	_	_
+
+1	ובכן	_	RB	RB	_	4	advmod	_	_
+2	,	_	yyCM	yyCM	_	4	punct	_	_
+3	אני	_	PRP	PRP	gen=F,M|num=S|per=1	4	subj	_	_
+4	חושבת	_	BN	BN	gen=F|num=S|per=A	0	ROOT	_	_
+5	ש	_	REL	REL	_	4	comp	_	_
+6	אקרא	_	VB	VB	gen=F,M|num=S|per=1|tense=FUTURE	5	ccomp	_	_
+7	ל	_	IN	IN	_	6	prepmod	_	_
+8	הוא	_	S_PRN	S_PRN	gen=M|num=S|per=3	7	pobj	_	_
+9	"	_	yyQUOT	yyQUOT	_	6	subj	_	_
+10	במבי	_	NNP	NNP	gen=F,M|num=S	9	hd	_	_
+11	"	_	yyQUOT	yyQUOT	_	9	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	6	ccomp	_	_
+2	במבי	_	NNP	NNP	gen=F,M|num=S	1	hd	_	_
+3	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+4	..	_	NNP	NNP	gen=F,M|num=S	6	subj	_	_
+5	אני	_	PRP	PRP	gen=F,M|num=S|per=1	4	nn	_	_
+6	מניח	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+7	ש	_	REL	REL	_	6	comp	_	_
+8	זה	_	PRP	PRP	gen=M|num=S|per=3	9	subj	_	_
+9	יתאים	_	VB	VB	gen=M|num=S|per=3|tense=FUTURE	7	ccomp	_	_
+10	.	_	yyDOT	yyDOT	_	6	punct	_	_
+
+1	ב	_	PREPOSITION	PREPOSITION	_	0	ROOT	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	מבי	_	NN	NN	gen=M|num=S	1	pobj	_	_
+4	ה	_	DEF	DEF	_	5	def	_	_
+5	קטן	_	JJ	JJ	gen=M|num=S	3	amod	_	_
+6	של	_	POS	POS	_	3	prepmod	_	_
+7	אני	_	S_PRN	S_PRN	gen=F,M|num=S|per=1	6	gobj	_	_
+8	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	כבר	_	RB	RB	_	2	advmod	_	_
+2	מתחיל	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+3	ללכת	_	VB	VB	_	2	xcomp	_	_
+4	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	תראו	_	VB	VB	gen=F,M|num=P|per=2|tense=FUTURE	3	punct	_	_
+2	,	_	yyCM	yyCM	_	3	punct	_	_
+3	תראו	_	VB	VB	gen=F,M|num=P|per=2|tense=FUTURE	0	ROOT	_	_
+4	,	_	yyCM	yyCM	_	3	punct	_	_
+5	מה	_	QW	QW	_	3	hd	_	_
+6	אתםאומריםעלזה	_	NNP	NNP	gen=F,M|num=S	5	nn	_	_
+7	?	_	yyQM	yyQM	_	3	punct	_	_
+8	...	_	yyELPS	yyELPS	_	3	punct	_	_
+
+1	בוקר	_	NN	NN	gen=M|num=S	3	subj	_	_
+2	טוב	_	JJ	JJ	gen=M|num=S	1	amod	_	_
+3	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	בוקר	_	NN	NN	gen=M|num=S	5	subj	_	_
+2	טוב	_	JJ	JJ	gen=M|num=S	1	amod	_	_
+3	,	_	yyCM	yyCM	_	1	punct	_	_
+4	גברת	_	TTL	TTL	gen=F|num=S	1	appos	_	_
+5	שלוית	_	BNT	BNT	gen=F|num=S|per=A	0	ROOT	_	_
+6	.	_	yyDOT	yyDOT	_	5	punct	_	_
+
+1	ו	_	CONJ	CONJ	_	8	cc	_	_
+2	היכן	_	QW	QW	_	8	advmod	_	_
+3	ה	_	DEF	DEF	_	4	def	_	_
+4	נסיך	_	NN	NN	gen=M|num=S	8	subj	_	_
+5	ה	_	DEF	DEF	_	6	def	_	_
+6	צעיר	_	JJ	JJ	gen=M|num=S	4	amod	_	_
+7	ה	_	NNP	NNP	gen=F,M|num=S	4	nn	_	_
+8	...	_	yyELPS	yyELPS	_	0	ROOT	_	_
+9	הו	_	INTJ	INTJ	_	8	punct	_	_
+10	!	_	yyEXCL	yyEXCL	_	8	punct	_	_
+
+1	בוקר	_	NN	NN	gen=M|num=S	2	subj	_	_
+2	טוב	_	JJ	JJ	gen=M|num=S	0	ROOT	_	_
+3	,	_	yyCM	yyCM	_	2	punct	_	_
+4	במבי	_	NNP	NNP	gen=F,M|num=S	2	dep	_	_
+5	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	בוקר	_	NN	NN	gen=M|num=S	6	subj	_	_
+2	טוב	_	JJ	JJ	gen=M|num=S	1	amod	_	_
+3	,	_	yyCM	yyCM	_	1	punct	_	_
+4	נסיך	_	NN	NN	gen=M|num=P|suf_gen=M|suf_num=S|suf_per=2	1	appos	_	_
+5	צעיר	_	JJ	JJ	gen=M|num=S	4	amod	_	_
+6	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	להתראות	_	VB	VB	_	2	prd	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	בוקר	_	NN	NN	gen=M|num=S	2	subj	_	_
+2	טוב	_	JJ	JJ	gen=M|num=S	0	ROOT	_	_
+3	ל	_	IN	IN	_	2	prepmod	_	_
+4	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	3	pobj	_	_
+5	,	_	yyCM	yyCM	_	2	punct	_	_
+6	נסיך	_	NN	NN	gen=M|num=S	2	obj	_	_
+7	צעיר	_	JJ	JJ	gen=M|num=S	6	amod	_	_
+8	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	בוקר	_	NN	NN	gen=M|num=S	6	subj	_	_
+2	טוב	_	JJ	JJ	gen=M|num=S	1	amod	_	_
+3	,	_	yyCM	yyCM	_	1	punct	_	_
+4	נסיך	_	NN	NN	gen=M|num=P|suf_gen=M|suf_num=S|suf_per=2	1	appos	_	_
+5	צעיר	_	JJ	JJ	gen=M|num=S	4	amod	_	_
+6	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	בוקר	_	NN	NN	gen=M|num=S	2	subj	_	_
+2	טוב	_	JJ	JJ	gen=M|num=S	0	ROOT	_	_
+3	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	יום	_	NN	NN	gen=M|num=S	2	subj	_	_
+2	יפה	_	JJ	JJ	gen=M|num=S	0	ROOT	_	_
+3	היום	_	RB	RB	_	2	mod	_	_
+4	!	_	yyEXCL	yyEXCL	_	2	punct	_	_
+
+1	מה	_	QW	QW	_	0	ROOT	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	עניין	_	NN	NN	gen=M|num=S	1	subj	_	_
+4	?	_	yyQM	yyQM	_	1	punct	_	_
+
+1	מה	_	QW	QW	_	2	advmod	_	_
+2	קרה	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+3	?	_	yyQM	yyQM	_	2	punct	_	_
+
+1	האם	_	QW	QW	_	6	advmod	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	נסיך	_	NN	NN	gen=M|num=S	6	subj	_	_
+4	ה	_	DEF	DEF	_	5	def	_	_
+5	צעיר	_	JJ	JJ	gen=M|num=S	3	amod	_	_
+6	נפל	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+7	?	_	yyQM	yyQM	_	6	punct	_	_
+
+1	הוא	_	PRP	PRP	gen=M|num=S|per=3	2	subj	_	_
+2	קיבל	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+3	הכה	_	BN	BN	gen=M|num=S|per=A	2	obj	_	_
+4	את	_	POS	POS	_	3	obj	_	_
+5	היא	_	S_PRN	S_PRN	gen=F|num=S|per=3	4	hd	_	_
+6	?	_	yyQM	yyQM	_	2	punct	_	_
+
+1	כואב	_	BN	BN	gen=M|num=S|per=A	8	parataxis	_	_
+2	ל	_	IN	IN	_	1	prepmod	_	_
+3	הוא	_	S_PRN	S_PRN	gen=M|num=S|per=3	2	pobj	_	_
+4	?	_	yyQM	yyQM	_	1	dep	_	_
+5	לא	_	RB	RB	_	1	advmod	_	_
+6	,	_	yyCM	yyCM	_	8	punct	_	_
+7	הוא	_	COP	COP	gen=M|num=S|per=3	8	cop	_	_
+8	ב	_	PREPOSITION	PREPOSITION	_	0	ROOT	_	_
+9	ה	_	DEF	DEF	_	10	def	_	_
+10	סדר	_	NN	NN	gen=M|num=S	8	pobj	_	_
+11	.	_	yyDOT	yyDOT	_	8	punct	_	_
+
+1	הוא	_	PRP	PRP	gen=M|num=S|per=3	3	subj	_	_
+2	לא	_	RB	RB	_	3	advmod	_	_
+3	הולך	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+4	כל	_	DTT	DTT	_	5	mod	_	_
+5	כך	_	RB	RB	_	3	advmod	_	_
+6	טוב	_	JJ	JJ	gen=M|num=S	5	mod	_	_
+7	נכון	_	JJ	JJ	gen=M|num=S	5	dep	_	_
+8	?	_	yyQM	yyQM	_	3	punct	_	_
+
+1	טמפר	_	NNP	NNP	gen=F,M|num=S	2	subj	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	כן	_	RB	RB	_	3	det	_	_
+2	,	_	yyCM	yyCM	_	3	punct	_	_
+3	אמא	_	NN	NN	gen=F|num=S	0	ROOT	_	_
+4	?	_	yyQM	yyQM	_	3	punct	_	_
+
+1	מה	_	QW	QW	_	2	det	_	_
+2	אביך	_	NN	NN	gen=M|num=S|suf_gen=M|suf_num=S|suf_per=2	3	subj	_	_
+3	אמר	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+4	ל	_	IN	IN	_	3	comp	_	_
+5	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	4	pobj	_	_
+6	הבוקר	_	RB	RB	_	3	advmod	_	_
+7	?	_	yyQM	yyQM	_	3	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	8	punct	_	_
+2	אם	_	CC	CC	_	3	cc	_	_
+3	אין	_	EX	EX	_	8	comp	_	_
+4	ל	_	IN	IN	_	3	comp	_	_
+5	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	4	pobj	_	_
+6	דבר	_	NN	NN	gen=M|num=S	3	subj	_	_
+7	נחמד	_	JJ	JJ	gen=M|num=S	6	amod	_	_
+8	לומר	_	VB	VB	_	0	ROOT	_	_
+9	,	_	yyCM	yyCM	_	8	punct	_	_
+
+1	מוטב	_	MD	MD	_	0	ROOT	_	_
+2	ש	_	REL	REL	_	1	ccomp	_	_
+3	לא	_	RB	RB	_	4	advmod	_	_
+4	תאמר	_	VB	VB	gen=F|num=S|per=3|tense=FUTURE	2	ccomp	_	_
+5	כלום	_	PRP	PRP	_	4	obj	_	_
+6	...	_	yyELPS	yyELPS	_	4	comp	_	_
+7	"	_	yyQUOT	yyQUOT	_	6	punct	_	_
+
+1	קדימה	_	NNP	NNP	_	4	subj	_	_
+2	במבי	_	NNP	NNP	gen=F,M|num=S	1	nn	_	_
+3	,	_	yyCM	yyCM	_	4	punct	_	_
+4	קום	_	VB	VB	gen=M|num=S|per=2|tense=IMPERATIVE	0	ROOT	_	_
+5	.	_	yyDOT	yyDOT	_	4	punct	_	_
+
+1	נסה	_	BN	BN	gen=F|num=S|per=A	0	ROOT	_	_
+2	שוב	_	RB	RB	_	1	advmod	_	_
+3	!	_	yyEXCL	yyEXCL	_	1	punct	_	_
+
+1	קדימה	_	RB	RB	_	2	advmod	_	_
+2	קום	_	VB	VB	gen=M|num=S|per=2|tense=IMPERATIVE	4	obj	_	_
+3	,	_	yyCM	yyCM	_	4	punct	_	_
+4	קום	_	VB	VB	gen=M|num=S|per=2|tense=IMPERATIVE	0	ROOT	_	_
+5	במבי	_	NNP	NNP	gen=F,M|num=S	4	subj	_	_
+6	!	_	yyEXCL	yyEXCL	_	4	punct	_	_
+
+1	קום	_	VB	VB	gen=M|num=S|per=2|tense=IMPERATIVE	0	ROOT	_	_
+2	,	_	yyCM	yyCM	_	1	punct	_	_
+
+1	נסה	_	BN	BN	gen=F|num=S|per=A	0	ROOT	_	_
+2	שנית	_	RB	RB	_	1	advmod	_	_
+3	,	_	yyCM	yyCM	_	1	punct	_	_
+
+1	אני	_	PRP	PRP	gen=F,M|num=S|per=1	2	subj	_	_
+2	מתופף	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+3	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	לכן	_	CC	CC	_	3	cc	_	_
+2	הם	_	PRP	PRP	gen=M|num=P|per=3	3	subj	_	_
+3	קוראים	_	BN	BN	gen=M|num=P|per=A	0	ROOT	_	_
+4	ל	_	IN	IN	_	3	prepmod	_	_
+5	אני	_	S_PRN	S_PRN	gen=F,M|num=S|per=1	4	pobj	_	_
+6	"	_	yyQUOT	yyQUOT	_	3	comp	_	_
+7	טמפר	_	NNP	NNP	gen=F,M|num=S	6	hd	_	_
+8	"	_	yyQUOT	yyQUOT	_	6	punct	_	_
+9	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	טמפר	_	NNP	NNP	gen=F,M|num=S	2	subj	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	קדימה	_	RB	RB	_	2	advmod	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	אתה	_	PRP	PRP	gen=M|num=S|per=2	2	subj	_	_
+2	יכול	_	MD	MD	gen=M|num=S|per=A	0	ROOT	_	_
+3	לעשות	_	VB	VB	_	2	xcomp	_	_
+4	את	_	AT	AT	_	3	obj	_	_
+5	זה	_	PRP	PRP	gen=M|num=S|per=3	4	hd	_	_
+6	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	קפוץ	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+2	מ	_	PREPOSITION	PREPOSITION	_	1	comp	_	_
+3	עליו	_	NN	NN	gen=M|num=P|suf_gen=M|suf_num=S|suf_per=3	2	pobj	_	_
+4	,	_	yyCM	yyCM	_	1	punct	_	_
+5	הנה	_	RB	RB	_	1	advmod	_	_
+6	,	_	yyCM	yyCM	_	1	punct	_	_
+7	ככה	_	RB	RB	_	1	advmod	_	_
+8	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	קפוץ	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+2	מ	_	PREPOSITION	PREPOSITION	_	1	comp	_	_
+3	עליו	_	NN	NN	gen=M|num=P|suf_gen=M|suf_num=S|suf_per=3	2	pobj	_	_
+4	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	ככה	_	RB	RB	_	0	ROOT	_	_
+2	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	לא	_	RB	RB	_	2	advmod	_	_
+2	קפצת	_	VB	VB	gen=M|num=S|per=2|tense=PAST	0	ROOT	_	_
+3	די	_	RB	RB	_	2	advmod	_	_
+4	גבוה	_	JJ	JJ	gen=M|num=S	2	subj	_	_
+5	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	הנה	_	RB	RB	_	8	parataxis	_	_
+2	,	_	yyCM	yyCM	_	8	punct	_	_
+3	עכשיו	_	RB	RB	_	5	det	_	_
+4	ה	_	DEF	DEF	_	5	def	_	_
+5	רגל	_	NN	NN	gen=M|num=S	8	obj	_	_
+6	ה	_	DEF	DEF	_	7	def	_	_
+7	שניה	_	CD	CD	gen=F|num=S	5	amod	_	_
+8	.	_	yyDOT	yyDOT	_	0	ROOT	_	_
+
+1	אוי	_	INTJ	INTJ	_	4	parataxis	_	_
+2	,	_	yyCM	yyCM	_	4	punct	_	_
+3	מה	_	QW	QW	_	4	advmod	_	_
+4	קרה	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+5	הפעם	_	RB	RB	_	4	advmod	_	_
+6	?	_	yyQM	yyQM	_	4	punct	_	_
+
+1	אלה	_	PRP	PRP	gen=M|num=P|per=3	2	subj	_	_
+2	ציפורים	_	NN	NN	gen=M|num=P	0	ROOT	_	_
+3	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	הוא	_	PRP	PRP	gen=M|num=S|per=3	2	subj	_	_
+2	ניסה	_	BN	BN	gen=M|num=S|per=A	5	comp	_	_
+3	את	_	POS	POS	_	2	advmod	_	_
+4	היא	_	S_PRN	S_PRN	gen=F|num=S|per=3	3	gobj	_	_
+5	לדבר	_	VB	VB	_	0	ROOT	_	_
+6	פוררררר	_	NNP	NNP	gen=F,M|num=S	5	subj	_	_
+7	.	_	yyDOT	yyDOT	_	8	subj	_	_
+8	תראו	_	VB	VB	gen=F,M|num=P|per=2|tense=FUTURE	5	xcomp	_	_
+9	!	_	yyEXCL	yyEXCL	_	8	ccomp	_	_
+
+1	הוא	_	PRP	PRP	gen=M|num=S|per=3	2	subj	_	_
+2	ניסה	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+3	את	_	POS	POS	_	2	prepmod	_	_
+4	היא	_	S_PRN	S_PRN	gen=F|num=S|per=3	3	gobj	_	_
+5	לומר	_	VB	VB	_	2	xcomp	_	_
+6	ציפור	_	NN	NN	gen=M|num=S	5	obj	_	_
+7	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	תגיד	_	VB	VB	gen=M|num=S|per=2|tense=FUTURE	0	ROOT	_	_
+2	"	_	yyQUOT	yyQUOT	_	1	subj	_	_
+3	ציפור	_	NN	NN	gen=M|num=S	2	hd	_	_
+4	"	_	yyQUOT	yyQUOT	_	2	punct	_	_
+
+1	ציפוררר	_	NNP	NNP	gen=F,M|num=S	0	ROOT	_	_
+2	...	_	yyELPS	yyELPS	_	1	punct	_	_
+3	פוררד	_	NNP	NNP	gen=F,M|num=S	1	nn	_	_
+4	!	_	yyEXCL	yyEXCL	_	1	punct	_	_
+
+1	ציפור	_	NNT	NNT	gen=M|num=S	4	subj	_	_
+2	קדימה	_	NN	NN	gen=F|num=S	1	gobj	_	_
+3	,	_	yyCM	yyCM	_	4	punct	_	_
+4	תגיד	_	VB	VB	gen=F|num=S|per=3|tense=FUTURE	0	ROOT	_	_
+5	"	_	yyQUOT	yyQUOT	_	4	obj	_	_
+6	ציפור	_	NN	NN	gen=M|num=S	5	hd	_	_
+7	"	_	yyQUOT	yyQUOT	_	5	punct	_	_
+8	,	_	yyCM	yyCM	_	4	punct	_	_
+9	תגיד"ציפור	_	NNP	NNP	gen=M|num=S	4	hd	_	_
+10	"	_	yyQUOT	yyQUOT	_	4	punct	_	_
+11	.	_	yyDOT	yyDOT	_	4	punct	_	_
+
+1	קדימה	_	RB	RB	_	3	advmod	_	_
+2	,	_	yyCM	yyCM	_	3	punct	_	_
+3	תגיד	_	VB	VB	gen=F|num=S|per=3|tense=FUTURE	0	ROOT	_	_
+4	"	_	yyQUOT	yyQUOT	_	3	subj	_	_
+5	ציפור	_	NN	NN	gen=M|num=S	4	hd	_	_
+6	"	_	yyQUOT	yyQUOT	_	4	punct	_	_
+7	,	_	yyCM	yyCM	_	4	punct	_	_
+8	תגיד"ציפור	_	NNP	NNP	gen=M|num=S	4	hd	_	_
+9	"	_	yyQUOT	yyQUOT	_	4	punct	_	_
+10	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	קדימה	_	RB	RB	_	3	advmod	_	_
+2	,	_	yyCM	yyCM	_	3	punct	_	_
+3	תגיד	_	VB	VB	gen=F|num=S|per=3|tense=FUTURE	0	ROOT	_	_
+4	"	_	yyQUOT	yyQUOT	_	3	obj	_	_
+5	ציפור	_	NN	NN	gen=M|num=S	4	hd	_	_
+6	"	_	yyQUOT	yyQUOT	_	4	punct	_	_
+7	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	תגיד	_	VB	VB	gen=M|num=S|per=2|tense=FUTURE	0	ROOT	_	_
+2	"	_	yyQUOT	yyQUOT	_	1	subj	_	_
+3	ציפור	_	NN	NN	gen=M|num=S	2	hd	_	_
+4	"	_	yyQUOT	yyQUOT	_	2	punct	_	_
+5	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	ציפור	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+2	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	הוא	_	PRP	PRP	gen=M|num=S|per=3	2	subj	_	_
+2	דיבר	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+3	!	_	yyEXCL	yyEXCL	_	2	punct	_	_
+
+1	,	_	yyCM	yyCM	_	3	punct	_	_
+2	הוא	_	PRP	PRP	gen=M|num=S|per=3	3	subj	_	_
+3	דיבר	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+4	,	_	yyCM	yyCM	_	3	punct	_	_
+5	אימא	_	NN	NN	gen=F|num=S	3	obj	_	_
+6	!	_	yyEXCL	yyEXCL	_	3	punct	_	_
+
+1	ה	_	DEF	DEF	_	2	def	_	_
+2	נסיך	_	NN	NN	gen=M|num=S	5	subj	_	_
+3	ה	_	DEF	DEF	_	4	def	_	_
+4	צעיר	_	JJ	JJ	gen=M|num=S	2	amod	_	_
+5	אמר	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+6	"	_	yyQUOT	yyQUOT	_	5	obj	_	_
+7	ציפור	_	NN	NN	gen=M|num=S	6	hd	_	_
+8	"	_	yyQUOT	yyQUOT	_	6	punct	_	_
+9	!	_	yyEXCL	yyEXCL	_	5	punct	_	_
+
+1	ציפור	_	NN	NN	gen=M|num=S	6	hd	_	_
+2	,	_	yyCM	yyCM	_	6	punct	_	_
+3	ציפור	_	NN	NN	gen=M|num=S	6	subj	_	_
+4	,	_	yyCM	yyCM	_	3	punct	_	_
+5	ציפור	_	NN	NN	gen=M|num=S	3	appos	_	_
+6	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	ציפור	_	NN	NN	gen=M|num=S	2	subj	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	לא	_	RB	RB	_	5	advmod	_	_
+2	,	_	yyCM	yyCM	_	5	punct	_	_
+3	זה	_	PRP	PRP	gen=M|num=S|per=3	5	subj	_	_
+4	לא	_	RB	RB	_	5	det	_	_
+5	ציפור	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+6	.	_	yyDOT	yyDOT	_	5	punct	_	_
+
+1	זה	_	PRP	PRP	gen=M|num=S|per=3	2	subj	_	_
+2	פרפר	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+3	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	פר	_	NN	NN	gen=M|num=S	2	subj	_	_
+2	...	_	yyELPS	yyELPS	_	0	ROOT	_	_
+3	פרפר	_	NN	NN	gen=M|num=S	2	obj	_	_
+4	!	_	yyEXCL	yyEXCL	_	2	punct	_	_
+
+1	לא	_	RB	RB	_	4	advmod	_	_
+2	,	_	yyCM	yyCM	_	4	punct	_	_
+3	זה	_	PRP	PRP	gen=M|num=S|per=3	4	det	_	_
+4	פרח	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+5	.	_	yyDOT	yyDOT	_	4	punct	_	_
+
+1	פרח	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+2	?	_	yyQM	yyQM	_	1	punct	_	_
+
+1	אההה	_	NN	NN	gen=F|num=S	2	conj	_	_
+2	,	_	yyCM	yyCM	_	0	ROOT	_	_
+3	הוא	_	PRP	PRP	gen=M|num=S|per=3	4	subj	_	_
+4	יפה	_	RB	RB	_	2	conj	_	_
+5	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	יפה	_	JJ	JJ	gen=F|num=S	0	ROOT	_	_
+2	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	פרח	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+2	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	אני	_	PRP	PRP	gen=F,M|num=S|per=1	0	ROOT	_	_
+2	?	_	yyQM	yyQM	_	1	punct	_	_
+
+1	זה	_	PRP	PRP	gen=M|num=S|per=3	3	subj	_	_
+2	לא	_	RB	RB	_	3	advmod	_	_
+3	פרח	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+4	!	_	yyEXCL	yyEXCL	_	3	advmod	_	_
+5	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	הוא	_	PRP	PRP	gen=M|num=S|per=3	2	subj	_	_
+2	קטן	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+3	...	_	yyELPS	yyELPS	_	2	punct	_	_
+
+1	הו	_	INTJ	INTJ	_	4	cc	_	_
+2	,	_	yyCM	yyCM	_	4	punct	_	_
+3	זה	_	PRP	PRP	gen=M|num=S|per=3	4	subj	_	_
+4	בסדר	_	INTJ	INTJ	_	0	ROOT	_	_
+5	.	_	yyDOT	yyDOT	_	4	punct	_	_
+
+1	הוא	_	PRP	PRP	gen=M|num=S|per=3	2	subj	_	_
+2	יכול	_	MD	MD	gen=M|num=S|per=A	0	ROOT	_	_
+3	לקרוא	_	VB	VB	_	2	xcomp	_	_
+4	ל	_	IN	IN	_	3	prepmod	_	_
+5	אני	_	S_PRN	S_PRN	gen=F,M|num=S|per=1	4	pobj	_	_
+6	פרח	_	NNT	NNT	gen=M|num=S	3	obj	_	_
+7	...	_	yyELPS	yyELPS	_	6	gobj	_	_
+8	אם	_	CC	CC	_	2	ccomp	_	_
+9	הוא	_	PRP	PRP	gen=M|num=S|per=3	10	subj	_	_
+10	רוצה	_	BN	BN	gen=M|num=S|per=A	8	ccomp	_	_
+11	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	לא	_	RB	RB	_	3	mod	_	_
+2	אכפת	_	RB	RB	_	3	mod	_	_
+3	ל	_	IN	IN	_	5	mod	_	_
+4	אני	_	S_PRN	S_PRN	gen=F,M|num=S|per=1	3	pobj	_	_
+5	...	_	yyELPS	yyELPS	_	10	cc	_	_
+6	פרח	_	NN	NN	gen=M|num=S	10	subj	_	_
+7	,	_	yyCM	yyCM	_	6	punct	_	_
+8	יפה	_	JJ	JJ	gen=F|num=S	6	amod	_	_
+9	יפה	_	JJ	JJ	gen=F|num=S	6	amod	_	_
+10	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	הו	_	INTJ	INTJ	_	2	cc	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+3	...	_	yyELPS	yyELPS	_	2	punct	_	_
+
+1	.	_	yyDOT	yyDOT	_	3	prepmod	_	_
+2	אני	_	PRP	PRP	gen=F,M|num=S|per=1	3	subj	_	_
+3	חושב	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+4	ש	_	REL	REL	_	3	comp	_	_
+5	כדאי	_	MD	MD	_	4	ccomp	_	_
+6	ללכת	_	VB	VB	_	5	xcomp	_	_
+7	הביתה	_	RB	RB	_	6	advmod	_	_
+8	עכשיו	_	RB	RB	_	5	advmod	_	_
+9	..	_	NNP	NNP	gen=M|num=S	5	subj	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	טיף	_	NN	NN	gen=M|num=S	10	subj	_	_
+3	,	_	yyCM	yyCM	_	10	punct	_	_
+4	טיף	_	NN	NN	gen=M|num=S	10	hd	_	_
+5	,	_	yyCM	yyCM	_	10	punct	_	_
+6	טף	_	NNT	NNT	gen=M|num=S	10	subj	_	_
+7	טיפות	_	NN	NN	gen=F|num=P	6	gobj	_	_
+8	אפריל	_	NNP	NNP	gen=M|num=S	6	nn	_	_
+9	ה	_	DEF	DEF	_	10	cop	_	_
+10	קטנות	_	NN	NN	gen=F|num=S	1	hd	_	_
+11	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	2	punct	_	_
+2	מנגנות	_	BN	BN	gen=F|num=P|per=A	0	ROOT	_	_
+3	ב	_	PREPOSITION	PREPOSITION	_	2	prepmod	_	_
+4	צליל	_	NN	NN	gen=M|num=S	3	pobj	_	_
+5	נעים	_	JJ	JJ	gen=M|num=S	4	amod	_	_
+6	...	_	yyELPS	yyELPS	_	4	amod	_	_
+7	כש	_	TEMP	TEMP	_	2	ccomp	_	_
+8	הן	_	RB	RB	_	11	advmod	_	_
+9	ב	_	PREPOSITION	PREPOSITION	_	11	prepmod	_	_
+10	אדמה	_	NN	NN	gen=F|num=S	9	pobj	_	_
+11	נוגעות	_	BN	BN	gen=F|num=P|per=A	7	ccomp	_	_
+12	"	_	yyQUOT	yyQUOT	_	2	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	טיף	_	NN	NN	gen=M|num=S	10	subj	_	_
+3	,	_	yyCM	yyCM	_	10	punct	_	_
+4	טיף	_	NN	NN	gen=M|num=S	10	hd	_	_
+5	,	_	yyCM	yyCM	_	10	punct	_	_
+6	טף	_	NNT	NNT	gen=M|num=S	10	subj	_	_
+7	טיפות	_	NN	NN	gen=F|num=P	6	gobj	_	_
+8	אפריל	_	NNP	NNP	gen=M|num=S	6	nn	_	_
+9	ה	_	DEF	DEF	_	10	cop	_	_
+10	קטנות	_	NN	NN	gen=F|num=S	1	hd	_	_
+11	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	מה	_	QW	QW	_	4	advmod	_	_
+3	אתה	_	PRP	PRP	gen=M|num=S|per=2	4	subj	_	_
+4	יכול	_	MD	MD	gen=M|num=S|per=A	1	hd	_	_
+5	להשוות	_	VB	VB	_	4	xcomp	_	_
+6	עם	_	IN	IN	_	5	comp	_	_
+7	ה	_	DEF	DEF	_	8	def	_	_
+8	צליל	_	NN	NN	gen=M|num=S	6	pobj	_	_
+9	ה	_	DEF	DEF	_	10	def	_	_
+10	נפלא	_	JJ	JJ	gen=M|num=S	8	amod	_	_
+11	?	_	yyQM	yyQM	_	5	punct	_	_
+12	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	צליל	_	NN	NN	gen=M|num=S	1	subj	_	_
+3	נפלא	_	JJ	JJ	gen=M|num=S	2	amod	_	_
+4	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+5	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+6	צליל	_	NN	NN	gen=M|num=S	1	hd	_	_
+7	נפלא	_	JJ	JJ	gen=M|num=S	6	amod	_	_
+8	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	טיף	_	NN	NN	gen=M|num=S	4	subj	_	_
+3	,	_	yyCM	yyCM	_	4	punct	_	_
+4	טף	_	NN	NN	gen=M|num=S	1	hd	_	_
+5	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+6	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+7	טיף	_	NN	NN	gen=M|num=S	9	hd	_	_
+8	,	_	yyCM	yyCM	_	9	punct	_	_
+9	טף	_	NN	NN	gen=M|num=S	1	subj	_	_
+10	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	טיף	_	NN	NN	gen=M|num=S	13	subj	_	_
+3	,	_	yyCM	yyCM	_	13	punct	_	_
+4	טיף	_	NN	NN	gen=M|num=S	7	subj	_	_
+5	,	_	yyCM	yyCM	_	4	punct	_	_
+6	טף	_	NN	NN	gen=M|num=S	4	hd	_	_
+7	כש	_	TEMP	TEMP	_	13	conj	_	_
+8	יש	_	EX	EX	_	7	ccomp	_	_
+9	עננים	_	NN	NN	gen=M|num=P	8	subj	_	_
+10	ב	_	PREPOSITION	PREPOSITION	_	9	prepmod	_	_
+11	ה	_	DEF	DEF	_	12	def	_	_
+12	שמים	_	NN	NN	gen=M|num=P	10	pobj	_	_
+13	"	_	yyQUOT	yyQUOT	_	1	hd	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	מנגינה	_	NN	NN	gen=F|num=S	1	hd	_	_
+4	ה	_	DEF	DEF	_	5	def	_	_
+5	נפלאה	_	JJ	JJ	gen=F|num=S	3	amod	_	_
+6	ש	_	REL	REL	_	3	rcmod	_	_
+7	ל	_	PREPOSITION	PREPOSITION	_	9	prepmod	_	_
+8	ך	_	RB	RB	_	7	pobj	_	_
+9	תחייך	_	VB	VB	gen=F|num=S|per=3|tense=FUTURE	6	relcomp	_	_
+10	ב	_	PREPOSITION	PREPOSITION	_	9	prepmod	_	_
+11	אלפי	_	CDT	CDT	gen=M|num=P	12	num	_	_
+12	קרניים	_	NN	NN	gen=F|num=P	10	pobj	_	_
+13	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	טיף	_	NN	NN	gen=M|num=S	13	subj	_	_
+3	,	_	yyCM	yyCM	_	13	punct	_	_
+4	טיף	_	NN	NN	gen=M|num=S	7	subj	_	_
+5	,	_	yyCM	yyCM	_	4	punct	_	_
+6	טף	_	NN	NN	gen=M|num=S	4	hd	_	_
+7	כש	_	TEMP	TEMP	_	13	conj	_	_
+8	יש	_	EX	EX	_	7	ccomp	_	_
+9	עננים	_	NN	NN	gen=M|num=P	8	subj	_	_
+10	ב	_	PREPOSITION	PREPOSITION	_	9	prepmod	_	_
+11	ה	_	DEF	DEF	_	12	def	_	_
+12	שמים	_	NN	NN	gen=M|num=P	10	pobj	_	_
+13	"	_	yyQUOT	yyQUOT	_	1	hd	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	2	punct	_	_
+2	עלה	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+3	את	_	POS	POS	_	2	subj	_	_
+4	היא	_	S_PRN	S_PRN	gen=F|num=S|per=3	3	gobj	_	_
+5	ב	_	PREPOSITION	PREPOSITION	_	2	prepmod	_	_
+6	ליבך	_	NN	NN	gen=M|num=S|suf_gen=M|suf_num=S|suf_per=2	5	pobj	_	_
+7	מנגינה	_	NN	NN	gen=F|num=S	9	hd	_	_
+8	אחת	_	CD	CD	gen=F|num=S	7	num	_	_
+9	ו	_	CONJ	CONJ	_	2	obj	_	_
+10	שתיים	_	CD	CD	gen=F|num=S	9	hd	_	_
+11	..	_	NNP	NNP	gen=F,M|num=S	9	nn	_	_
+12	"	_	yyQUOT	yyQUOT	_	2	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	שיר	_	NN	NN	gen=M|num=S	1	hd	_	_
+4	ה	_	DEF	DEF	_	5	def	_	_
+5	יפה	_	JJ	JJ	gen=M|num=S	3	amod	_	_
+6	של	_	POS	POS	_	3	prepmod	_	_
+7	טיפות	_	NNT	NNT	gen=F|num=P	6	gobj	_	_
+8	ה	_	DEF	DEF	_	9	def	_	_
+9	מים	_	NN	NN	gen=M|num=P	7	gobj	_	_
+10	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	טיף	_	NN	NN	gen=M|num=S	10	subj	_	_
+3	,	_	yyCM	yyCM	_	10	punct	_	_
+4	טיף	_	NN	NN	gen=M|num=S	10	hd	_	_
+5	,	_	yyCM	yyCM	_	10	punct	_	_
+6	טף	_	NNT	NNT	gen=M|num=S	10	subj	_	_
+7	טיפות	_	NN	NN	gen=F|num=P	6	gobj	_	_
+8	אפריל	_	NNP	NNP	gen=M|num=S	6	nn	_	_
+9	ה	_	DEF	DEF	_	10	cop	_	_
+10	קטנות	_	NN	NN	gen=F|num=S	1	hd	_	_
+11	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	2	subj	_	_
+2	מנגנות	_	BN	BN	gen=F|num=P|per=A	7	conj	_	_
+3	את	_	AT	AT	_	2	obj	_	_
+4	שיר	_	NNT	NNT	gen=M|num=S	3	hd	_	_
+5	ה	_	DEF	DEF	_	6	def	_	_
+6	גשם	_	NN	NN	gen=M|num=S	4	gobj	_	_
+7	ו	_	CONJ	CONJ	_	0	ROOT	_	_
+8	מ	_	PREPOSITION	PREPOSITION	_	10	prepmod	_	_
+9	עלנופלותכמוזרם	_	NN	NN	gen=M|num=S	8	pobj	_	_
+10	...	_	yyELPS	yyELPS	_	7	conj	_	_
+11	"	_	yyQUOT	yyQUOT	_	10	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	טיף	_	NN	NN	gen=M|num=S	10	subj	_	_
+3	,	_	yyCM	yyCM	_	10	punct	_	_
+4	טיף	_	NN	NN	gen=M|num=S	10	hd	_	_
+5	,	_	yyCM	yyCM	_	10	punct	_	_
+6	טף	_	NNT	NNT	gen=M|num=S	10	subj	_	_
+7	טיפות	_	NN	NN	gen=F|num=P	6	gobj	_	_
+8	אפריל	_	NNP	NNP	gen=M|num=S	6	nn	_	_
+9	ה	_	DEF	DEF	_	10	cop	_	_
+10	קטנות	_	NN	NN	gen=F|num=S	1	hd	_	_
+11	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	מה	_	QW	QW	_	4	advmod	_	_
+3	אתה	_	PRP	PRP	gen=M|num=S|per=2	4	subj	_	_
+4	יכול	_	MD	MD	gen=M|num=S|per=A	1	hd	_	_
+5	להשוות	_	VB	VB	_	4	xcomp	_	_
+6	עם	_	IN	IN	_	5	comp	_	_
+7	ה	_	DEF	DEF	_	8	def	_	_
+8	צליל	_	NN	NN	gen=M|num=S	6	pobj	_	_
+9	ה	_	DEF	DEF	_	10	def	_	_
+10	נפלא	_	JJ	JJ	gen=M|num=S	8	amod	_	_
+11	?	_	yyQM	yyQM	_	5	punct	_	_
+12	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	טיף	_	NN	NN	gen=M|num=S	13	subj	_	_
+3	,	_	yyCM	yyCM	_	13	punct	_	_
+4	טיף	_	NN	NN	gen=M|num=S	7	subj	_	_
+5	,	_	yyCM	yyCM	_	4	punct	_	_
+6	טף	_	NN	NN	gen=M|num=S	4	hd	_	_
+7	כש	_	TEMP	TEMP	_	13	conj	_	_
+8	יש	_	EX	EX	_	7	ccomp	_	_
+9	עננים	_	NN	NN	gen=M|num=P	8	subj	_	_
+10	ב	_	PREPOSITION	PREPOSITION	_	9	prepmod	_	_
+11	ה	_	DEF	DEF	_	12	def	_	_
+12	שמים	_	NN	NN	gen=M|num=P	10	pobj	_	_
+13	"	_	yyQUOT	yyQUOT	_	1	hd	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	מנגינה	_	NN	NN	gen=F|num=S	1	hd	_	_
+4	ה	_	DEF	DEF	_	5	def	_	_
+5	נפלאה	_	JJ	JJ	gen=F|num=S	3	amod	_	_
+6	ש	_	REL	REL	_	3	rcmod	_	_
+7	ל	_	PREPOSITION	PREPOSITION	_	9	prepmod	_	_
+8	ך	_	RB	RB	_	7	pobj	_	_
+9	תחייך	_	VB	VB	gen=F|num=S|per=3|tense=FUTURE	6	relcomp	_	_
+10	ב	_	PREPOSITION	PREPOSITION	_	9	prepmod	_	_
+11	אלפי	_	CDT	CDT	gen=M|num=P	12	num	_	_
+12	קרניים	_	NN	NN	gen=F|num=P	10	pobj	_	_
+13	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	8	punct	_	_
+2	טיף	_	NN	NN	gen=M|num=S	8	hd	_	_
+3	,	_	yyCM	yyCM	_	8	punct	_	_
+4	טיף	_	NN	NN	gen=M|num=S	8	hd	_	_
+5	,	_	yyCM	yyCM	_	4	punct	_	_
+6	טף	_	NN	NN	gen=M|num=S	4	hd	_	_
+7	כש	_	TEMP	TEMP	_	4	cc	_	_
+8	יש	_	EX	EX	_	0	ROOT	_	_
+9	עננים	_	NN	NN	gen=M|num=P	8	subj	_	_
+10	ב	_	PREPOSITION	PREPOSITION	_	8	prepmod	_	_
+11	מרום	_	NNT	NNT	gen=M|num=S	10	pobj	_	_
+12	"	_	yyQUOT	yyQUOT	_	11	gobj	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	מנגינה	_	NN	NN	gen=F|num=S	1	hd	_	_
+4	ה	_	DEF	DEF	_	5	def	_	_
+5	נפלאה	_	JJ	JJ	gen=F|num=S	3	amod	_	_
+6	ש	_	REL	REL	_	3	rcmod	_	_
+7	ל	_	PREPOSITION	PREPOSITION	_	9	prepmod	_	_
+8	ך	_	RB	RB	_	7	pobj	_	_
+9	ממלאה	_	BN	BN	gen=F|num=S|per=3	6	relcomp	_	_
+10	את	_	AT	AT	_	9	obj	_	_
+11	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	10	hd	_	_
+12	ב	_	PREPOSITION	PREPOSITION	_	9	prepmod	_	_
+13	חום	_	NN	NN	gen=M|num=S	12	pobj	_	_
+14	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	שיר	_	NN	NN	gen=M|num=S	14	subj	_	_
+3	של	_	POS	POS	_	2	gen	_	_
+4	חורף	_	NN	NN	gen=M|num=S	3	gobj	_	_
+5	חדש	_	JJ	JJ	gen=M|num=S	4	amod	_	_
+6	,	_	yyCM	yyCM	_	4	punct	_	_
+7	אורח	_	NNT	NNT	gen=M|num=S	4	hd	_	_
+8	"	_	yyQUOT	yyQUOT	_	7	gobj	_	_
+9	"	_	yyQUOT	yyQUOT	_	14	punct	_	_
+10	שיר	_	NNT	NNT	gen=M|num=S	14	dep	_	_
+11	ה	_	DEF	DEF	_	12	def	_	_
+12	גשם	_	NN	NN	gen=M|num=S	10	gobj	_	_
+13	ה	_	DEF	DEF	_	14	punct	_	_
+14	שמח	_	JJ	JJ	gen=M|num=S	1	hd	_	_
+15	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	שיר	_	NN	NN	gen=M|num=S	14	subj	_	_
+3	של	_	POS	POS	_	2	gen	_	_
+4	חורף	_	NN	NN	gen=M|num=S	3	gobj	_	_
+5	חדש	_	JJ	JJ	gen=M|num=S	4	amod	_	_
+6	,	_	yyCM	yyCM	_	4	punct	_	_
+7	אורח	_	NNT	NNT	gen=M|num=S	4	hd	_	_
+8	"	_	yyQUOT	yyQUOT	_	7	gobj	_	_
+9	"	_	yyQUOT	yyQUOT	_	14	punct	_	_
+10	שיר	_	NN	NN	gen=M|num=S	14	conj	_	_
+11	של	_	POS	POS	_	10	gen	_	_
+12	חורף	_	NN	NN	gen=M|num=S	11	gobj	_	_
+13	חדש	_	JJ	JJ	gen=M|num=S	12	amod	_	_
+14	,	_	yyCM	yyCM	_	1	hd	_	_
+15	אורח	_	NN	NN	gen=M|num=S	14	conj	_	_
+16	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	..	_	NNP	NNP	gen=F,M|num=S	3	subj	_	_
+3	איך	_	QW	QW	_	17	hd	_	_
+4	ש	_	REL	REL	_	3	rcmod	_	_
+5	אני	_	PRP	PRP	gen=F,M|num=S|per=1	6	subj	_	_
+6	אוהב	_	BN	BN	gen=M|num=S|per=A	4	relcomp	_	_
+7	לשמוע	_	VB	VB	_	6	xcomp	_	_
+8	את	_	AT	AT	_	7	obj	_	_
+9	ה	_	DEF	DEF	_	10	def	_	_
+10	טפטוף	_	NN	NN	gen=M|num=S	8	hd	_	_
+11	נגיעות	_	NNT	NNT	gen=F|num=P	17	parataxis	_	_
+12	ה	_	DEF	DEF	_	13	def	_	_
+13	מים	_	NN	NN	gen=M|num=P	11	gobj	_	_
+14	בעלה	_	NN	NN	gen=M|num=S|suf_gen=F|suf_num=S|suf_per=3	17	subj	_	_
+15	שטוף	_	BN	BN	gen=M|num=S|per=A	14	amod	_	_
+16	.	_	yyDOT	yyDOT	_	17	cop	_	_
+17	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	8	punct	_	_
+2	כאשר	_	CC	CC	_	8	cc	_	_
+3	ה	_	DEF	DEF	_	4	def	_	_
+4	טיפות	_	NN	NN	gen=F|num=P	8	subj	_	_
+5	ב	_	PREPOSITION	PREPOSITION	_	4	prepmod	_	_
+6	שלולית	_	NN	NN	gen=F|num=S	5	pobj	_	_
+7	נעלמות	_	BN	BN	gen=F|num=P|per=A	6	amod	_	_
+8	נראה	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+9	כי	_	CC	CC	_	8	ccomp	_	_
+10	כל	_	DTT	DTT	_	12	det	_	_
+11	ה	_	DEF	DEF	_	12	def	_	_
+12	צרות	_	NN	NN	gen=F|num=P	14	subj	_	_
+13	לא	_	RB	RB	_	14	advmod	_	_
+14	קיימות	_	JJ	JJ	gen=F|num=P	9	ccomp	_	_
+15	"	_	yyQUOT	yyQUOT	_	8	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	טיף	_	NN	NN	gen=M|num=S	10	subj	_	_
+3	,	_	yyCM	yyCM	_	10	punct	_	_
+4	טיף	_	NN	NN	gen=M|num=S	10	hd	_	_
+5	,	_	yyCM	yyCM	_	10	punct	_	_
+6	טף	_	NNT	NNT	gen=M|num=S	10	subj	_	_
+7	טיפות	_	NN	NN	gen=F|num=P	6	gobj	_	_
+8	אפריל	_	NNP	NNP	gen=M|num=S	6	nn	_	_
+9	ה	_	DEF	DEF	_	10	cop	_	_
+10	קטנות	_	NN	NN	gen=F|num=S	1	hd	_	_
+11	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	..	_	NNP	NNP	gen=F,M|num=S	3	subj	_	_
+3	איך	_	QW	QW	_	17	hd	_	_
+4	ש	_	REL	REL	_	3	rcmod	_	_
+5	אני	_	PRP	PRP	gen=F,M|num=S|per=1	6	subj	_	_
+6	אוהב	_	BN	BN	gen=M|num=S|per=A	4	relcomp	_	_
+7	לשמוע	_	VB	VB	_	6	xcomp	_	_
+8	את	_	AT	AT	_	7	obj	_	_
+9	ה	_	DEF	DEF	_	10	def	_	_
+10	טפטוף	_	NN	NN	gen=M|num=S	8	hd	_	_
+11	נגיעות	_	NNT	NNT	gen=F|num=P	17	parataxis	_	_
+12	ה	_	DEF	DEF	_	13	def	_	_
+13	מים	_	NN	NN	gen=M|num=P	11	gobj	_	_
+14	בעלה	_	NN	NN	gen=M|num=S|suf_gen=F|suf_num=S|suf_per=3	17	subj	_	_
+15	שטוף	_	BN	BN	gen=M|num=S|per=A	14	amod	_	_
+16	.	_	yyDOT	yyDOT	_	17	cop	_	_
+17	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	טיף	_	NN	NN	gen=M|num=S	10	subj	_	_
+3	,	_	yyCM	yyCM	_	10	punct	_	_
+4	טיף	_	NN	NN	gen=M|num=S	10	hd	_	_
+5	,	_	yyCM	yyCM	_	10	punct	_	_
+6	טף	_	NNT	NNT	gen=M|num=S	10	subj	_	_
+7	טיפות	_	NN	NN	gen=F|num=P	6	gobj	_	_
+8	אפריל	_	NNP	NNP	gen=M|num=S	6	nn	_	_
+9	ה	_	DEF	DEF	_	10	cop	_	_
+10	קטנות	_	NN	NN	gen=F|num=S	1	hd	_	_
+11	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	טיפות	_	NN	NN	gen=F|num=P	1	hd	_	_
+3	אפריל	_	NNP	NNP	gen=M|num=S	2	nn	_	_
+4	ה	_	DEF	DEF	_	5	def	_	_
+5	קטנות	_	JJ	JJ	gen=F|num=P	2	amod	_	_
+6	,	_	yyCM	yyCM	_	1	punct	_	_
+7	ב	_	PREPOSITION	PREPOSITION	_	1	prepmod	_	_
+8	ליל	_	NNT	NNT	gen=M|num=S	7	pobj	_	_
+9	חורף	_	NN	NN	gen=M|num=S	8	gobj	_	_
+10	כסוף	_	JJ	JJ	gen=M|num=S	8	amod	_	_
+11	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	טיף	_	NN	NN	gen=M|num=S	10	subj	_	_
+3	,	_	yyCM	yyCM	_	10	punct	_	_
+4	טיף	_	NN	NN	gen=M|num=S	10	hd	_	_
+5	,	_	yyCM	yyCM	_	10	punct	_	_
+6	טף	_	NNT	NNT	gen=M|num=S	10	subj	_	_
+7	טיפות	_	NN	NN	gen=F|num=P	6	gobj	_	_
+8	אפריל	_	NNP	NNP	gen=M|num=S	6	nn	_	_
+9	ה	_	DEF	DEF	_	10	cop	_	_
+10	קטנות	_	NN	NN	gen=F|num=S	1	hd	_	_
+11	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	..	_	NNP	NNP	gen=F,M|num=S	3	subj	_	_
+3	איך	_	QW	QW	_	17	hd	_	_
+4	ש	_	REL	REL	_	3	rcmod	_	_
+5	אני	_	PRP	PRP	gen=F,M|num=S|per=1	6	subj	_	_
+6	אוהב	_	BN	BN	gen=M|num=S|per=A	4	relcomp	_	_
+7	לשמוע	_	VB	VB	_	6	xcomp	_	_
+8	את	_	AT	AT	_	7	obj	_	_
+9	ה	_	DEF	DEF	_	10	def	_	_
+10	טפטוף	_	NN	NN	gen=M|num=S	8	hd	_	_
+11	נגיעות	_	NNT	NNT	gen=F|num=P	17	parataxis	_	_
+12	ה	_	DEF	DEF	_	13	def	_	_
+13	מים	_	NN	NN	gen=M|num=P	11	gobj	_	_
+14	בעלה	_	NN	NN	gen=M|num=S|suf_gen=F|suf_num=S|suf_per=3	17	subj	_	_
+15	שטוף	_	BN	BN	gen=M|num=S|per=A	14	amod	_	_
+16	.	_	yyDOT	yyDOT	_	17	cop	_	_
+17	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	טיף	_	NN	NN	gen=M|num=S	10	subj	_	_
+3	,	_	yyCM	yyCM	_	10	punct	_	_
+4	טיף	_	NN	NN	gen=M|num=S	10	hd	_	_
+5	,	_	yyCM	yyCM	_	10	punct	_	_
+6	טף	_	NNT	NNT	gen=M|num=S	10	subj	_	_
+7	טיפות	_	NN	NN	gen=F|num=P	6	gobj	_	_
+8	אפריל	_	NNP	NNP	gen=M|num=S	6	nn	_	_
+9	ה	_	DEF	DEF	_	10	cop	_	_
+10	קטנות	_	NN	NN	gen=F|num=S	1	hd	_	_
+11	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	עם	_	IN	IN	_	1	prepmod	_	_
+3	ה	_	DEF	DEF	_	4	def	_	_
+4	צליל	_	NN	NN	gen=M|num=S	2	pobj	_	_
+5	ה	_	DEF	DEF	_	6	def	_	_
+6	נפלא	_	JJ	JJ	gen=M|num=S	4	amod	_	_
+7	מ	_	PREPOSITION	PREPOSITION	_	4	prepmod	_	_
+8	ה	_	DEF	DEF	_	9	def	_	_
+9	אפשרלהשוות	_	NN	NN	gen=M|num=P	7	pobj	_	_
+10	?	_	yyQM	yyQM	_	1	punct	_	_
+11	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	צליל	_	NN	NN	gen=M|num=S	1	hd	_	_
+4	ה	_	DEF	DEF	_	5	def	_	_
+5	נפלא	_	JJ	JJ	gen=M|num=S	3	amod	_	_
+6	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	אמא	_	NN	NN	gen=F|num=S	4	subj	_	_
+2	,	_	yyCM	yyCM	_	4	punct	_	_
+3	מה	_	QW	QW	_	4	advmod	_	_
+4	נעשה	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+5	היום	_	RB	RB	_	4	advmod	_	_
+6	?	_	yyQM	yyQM	_	4	punct	_	_
+
+1	היום	_	RB	RB	_	2	advmod	_	_
+2	אקח	_	VB	VB	gen=F,M|num=S|per=1|tense=FUTURE	0	ROOT	_	_
+3	את	_	AT	AT	_	2	obj	_	_
+4	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	3	hd	_	_
+5	אל	_	IN	IN	_	2	prepmod	_	_
+6	ה	_	DEF	DEF	_	7	def	_	_
+7	אחו	_	NN	NN	gen=M|num=S	5	pobj	_	_
+8	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	אחו	_	NN	NN	gen=M|num=S	5	subj	_	_
+2	,	_	yyCM	yyCM	_	5	punct	_	_
+3	מה	_	QW	QW	_	5	advmod	_	_
+4	זה	_	PRP	PRP	gen=M|num=S|per=3	5	subj	_	_
+5	אחו	_	VB	VB	gen=F,M|num=P|per=2|tense=IMPERATIVE	0	ROOT	_	_
+6	?	_	yyQM	yyQM	_	5	punct	_	_
+
+1	ה	_	DEF	DEF	_	2	def	_	_
+2	אחו	_	NN	NN	gen=M|num=S	4	subj	_	_
+3	זה	_	PRP	PRP	gen=M|num=S|per=3	4	cop	_	_
+4	מקום	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+5	נפלא	_	JJ	JJ	gen=M|num=S	4	amod	_	_
+6	.	_	yyDOT	yyDOT	_	4	punct	_	_
+
+1	אם	_	CC	CC	_	6	prepmod	_	_
+2	כן	_	RB	RB	_	1	pobj	_	_
+3	,	_	yyCM	yyCM	_	6	punct	_	_
+4	מדוע	_	QW	QW	_	6	advmod	_	_
+5	לא	_	RB	RB	_	6	advmod	_	_
+6	ביקרנו	_	VB	VB	gen=F,M|num=P|per=1|tense=PAST	0	ROOT	_	_
+7	ב	_	IN	IN	_	6	prepmod	_	_
+8	הוא	_	S_PRN	S_PRN	gen=M|num=S|per=3	7	pobj	_	_
+9	ב	_	PREPOSITION	PREPOSITION	_	6	prepmod	_	_
+10	ה	_	DEF	DEF	_	11	def	_	_
+11	עבר	_	NN	NN	gen=M|num=S	9	pobj	_	_
+12	?	_	yyQM	yyQM	_	6	punct	_	_
+
+1	מפני	_	IN	IN	_	0	ROOT	_	_
+2	ש	_	REL	REL	_	1	pobj	_	_
+3	היית	_	COP	COP	gen=M|num=S|per=2|tense=PAST	2	ccomp	_	_
+4	עדיין	_	RB	RB	_	5	mod	_	_
+5	צעיר	_	JJ	JJ	gen=M|num=S	3	prd	_	_
+6	מ	_	PREPOSITION	PREPOSITION	_	5	mod	_	_
+7	ידיי	_	NN	NN	gen=F|num=P|suf_gen=F,M|suf_num=S|suf_per=1	6	pobj	_	_
+8	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	אמא	_	NN	NN	gen=F|num=S	4	subj	_	_
+2	,	_	yyCM	yyCM	_	4	punct	_	_
+3	את	_	AT	AT	_	4	obj	_	_
+4	יודעת	_	BN	BN	gen=F|num=S|per=A	0	ROOT	_	_
+5	מה	_	QW	QW	_	4	obj	_	_
+6	?	_	yyQM	yyQM	_	4	punct	_	_
+
+1	מה	_	QW	QW	_	0	ROOT	_	_
+2	?	_	yyQM	yyQM	_	1	punct	_	_
+
+1	אנחנו	_	PRP	PRP	gen=F,M|num=P|per=1	4	subj	_	_
+2	לא	_	RB	RB	_	4	advmod	_	_
+3	ה	_	DEF	DEF	_	4	def	_	_
+4	צביים	_	NN	NN	gen=M|num=P	0	ROOT	_	_
+5	ה	_	DEF	DEF	_	6	def	_	_
+6	יחידים	_	JJ	JJ	gen=M|num=P	4	amod	_	_
+7	,	_	yyCM	yyCM	_	4	punct	_	_
+8	ש	_	REL	REL	_	4	rcmod	_	_
+9	גרים	_	BN	BN	gen=M|num=P|per=A	8	relcomp	_	_
+10	ב	_	PREPOSITION	PREPOSITION	_	9	prepmod	_	_
+11	ה	_	DEF	DEF	_	12	def	_	_
+12	יער	_	NN	NN	gen=M|num=S	10	pobj	_	_
+13	ה	_	DEF	DEF	_	14	def	_	_
+14	זה	_	PRP	PRP	gen=M|num=S|per=3	12	amod	_	_
+15	.	_	yyDOT	yyDOT	_	4	punct	_	_
+
+1	מ	_	PREPOSITION	PREPOSITION	_	6	prepmod	_	_
+2	מי	_	QW	QW	_	1	pobj	_	_
+3	ש	_	REL	REL	_	2	rcmod	_	_
+4	מעת	_	NNT	NNT	gen=F|num=S	3	relcomp	_	_
+5	זאת	_	PRP	PRP	gen=F|num=S|per=3	4	gobj	_	_
+6	?	_	yyQM	yyQM	_	0	ROOT	_	_
+
+1	טמפר	_	NNP	NNP	gen=F,M|num=S	2	subj	_	_
+2	סיפר	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+3	ל	_	IN	IN	_	2	prepmod	_	_
+4	אני	_	S_PRN	S_PRN	gen=F,M|num=S|per=1	3	pobj	_	_
+5	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	ובכן	_	RB	RB	_	4	parataxis	_	_
+2	,	_	yyCM	yyCM	_	4	punct	_	_
+3	הוא	_	PRP	PRP	gen=M|num=S|per=3	4	subj	_	_
+4	צודק	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+5	.	_	yyDOT	yyDOT	_	4	punct	_	_
+
+1	יש	_	EX	EX	_	0	ROOT	_	_
+2	עוד	_	RB	RB	_	1	advmod	_	_
+3	צביים	_	NN	NN	gen=M|num=P	1	subj	_	_
+4	ביער	_	VB	VB	gen=M|num=S|per=3|tense=PAST	3	mod	_	_
+5	מ	_	PREPOSITION	PREPOSITION	_	4	prepmod	_	_
+6	לבדינו	_	NN	NN	gen=M|num=P|suf_gen=F,M|suf_num=P|suf_per=1	5	pobj	_	_
+7	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	אם	_	CC	CC	_	7	prepmod	_	_
+2	כך	_	PRP	PRP	per=3	1	pobj	_	_
+3	,	_	yyCM	yyCM	_	7	punct	_	_
+4	מדוע	_	QW	QW	_	7	advmod	_	_
+5	מעולם	_	RB	RB	_	6	mod	_	_
+6	לא	_	RB	RB	_	7	advmod	_	_
+7	פגשתי	_	VB	VB	gen=F,M|num=S|per=1|tense=PAST	0	ROOT	_	_
+8	את	_	AT	AT	_	7	obj	_	_
+9	הם	_	S_PRN	S_PRN	gen=M|num=P|per=3	8	hd	_	_
+10	?	_	yyQM	yyQM	_	7	punct	_	_
+
+1	אתה	_	PRP	PRP	gen=M|num=S|per=2	3	subj	_	_
+2	עוד	_	RB	RB	_	3	advmod	_	_
+3	תפגוש	_	VB	VB	gen=F|num=S|per=3|tense=FUTURE	0	ROOT	_	_
+4	את	_	AT	AT	_	3	obj	_	_
+5	הם	_	S_PRN	S_PRN	gen=M|num=P|per=3	4	hd	_	_
+6	פעם	_	RB	RB	_	3	advmod	_	_
+7	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	ב	_	PREPOSITION	PREPOSITION	_	0	ROOT	_	_
+2	אחו	_	NN	NN	gen=M|num=S	1	pobj	_	_
+3	?	_	yyQM	yyQM	_	1	punct	_	_
+
+1	יתכן	_	MD	MD	_	0	ROOT	_	_
+2	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	ש	_	REL	REL	_	0	ROOT	_	_
+2	שש	_	CD	CD	gen=F|num=S	3	number	_	_
+3	!	_	yyEXCL	yyEXCL	_	4	subj	_	_
+4	שקט	_	JJ	JJ	gen=M|num=S	1	ccomp	_	_
+5	עכשיו	_	RB	RB	_	4	mod	_	_
+6	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	כמעט	_	RB	RB	_	2	advmod	_	_
+2	הגענו	_	VB	VB	gen=F,M|num=P|per=1|tense=PAST	0	ROOT	_	_
+3	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	ה	_	DEF	DEF	_	2	def	_	_
+2	אחו	_	NN	NN	gen=M|num=S	3	subj	_	_
+3	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	חכה	_	NN	NN	gen=F|num=S	2	subj	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	במבי	_	NNP	NNP	gen=F,M|num=S	2	subj	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+3	חכה	_	NN	NN	gen=F|num=S	2	conj	_	_
+4	!	_	yyEXCL	yyEXCL	_	2	punct	_	_
+
+1	לעולם	_	RB	RB	_	2	mod	_	_
+2	אל	_	RB	RB	_	3	advmod	_	_
+3	תתפרץ	_	VB	VB	gen=F|num=S|per=3|tense=FUTURE	0	ROOT	_	_
+4	כך	_	RB	RB	_	3	advmod	_	_
+5	אל	_	IN	IN	_	3	prepmod	_	_
+6	ה	_	DEF	DEF	_	7	def	_	_
+7	אחו	_	NN	NN	gen=M|num=S	5	pobj	_	_
+8	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	עלולה	_	MD	MD	gen=F|num=S|per=A	0	ROOT	_	_
+2	לארוב	_	VB	VB	_	1	xcomp	_	_
+3	ל	_	IN	IN	_	2	prepmod	_	_
+4	אנחנו	_	S_PRN	S_PRN	gen=F,M|num=P|per=1	3	pobj	_	_
+5	סכנה	_	NN	NN	gen=F|num=S	2	obj	_	_
+6	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	איננו	_	COP	COP	gen=F,M|num=P|per=1	2	advmod	_	_
+2	מוגנים	_	JJ	JJ	gen=M|num=P	0	ROOT	_	_
+3	שם	_	RB	RB	_	2	advmod	_	_
+4	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	ה	_	DEF	DEF	_	2	def	_	_
+2	אחו	_	NN	NN	gen=M|num=S	3	subj	_	_
+3	רחב	_	JJ	JJ	gen=M|num=S	5	conj	_	_
+4	מאוד	_	RB	RB	_	3	mod	_	_
+5	ו	_	CONJ	CONJ	_	0	ROOT	_	_
+6	חשוף	_	JJ	JJ	gen=M|num=S	5	conj	_	_
+7	.	_	yyDOT	yyDOT	_	19	number	_	_
+8	אין	_	EX	EX	_	7	ccomp	_	_
+9	כאן	_	RB	RB	_	8	advmod	_	_
+10	עצים	_	NN	NN	gen=M|num=P	11	hd	_	_
+11	או	_	CC	CC	_	8	subj	_	_
+12	שיחים	_	NN	NN	gen=M|num=P	11	hd	_	_
+13	,	_	yyCM	yyCM	_	11	punct	_	_
+14	ש	_	REL	REL	_	11	rcmod	_	_
+15	נוכל	_	MD	MD	gen=F,M|num=P|per=1|tense=FUTURE	14	relcomp	_	_
+16	להסתתר	_	VB	VB	_	15	xcomp	_	_
+17	בין	_	IN	IN	_	16	prepmod	_	_
+18	הם	_	S_PRN	S_PRN	gen=M|num=P|per=3	17	pobj	_	_
+19	.	_	yyDOT	yyDOT	_	5	punct	_	_
+
+1	לכן	_	CC	CC	_	5	cc	_	_
+2	,	_	yyCM	yyCM	_	5	punct	_	_
+3	על	_	IN	IN	_	5	prepmod	_	_
+4	אנחנו	_	S_PRN	S_PRN	gen=F,M|num=P|per=1	3	pobj	_	_
+5	להיות	_	COP	COP	num=S	0	ROOT	_	_
+6	מאוד	_	RB	RB	_	7	mod	_	_
+7	זהירים	_	JJ	JJ	gen=M|num=P	5	prd	_	_
+8	.	_	yyDOT	yyDOT	_	5	punct	_	_
+
+1	חכה	_	NN	NN	gen=F|num=S	0	ROOT	_	_
+2	כאן	_	RB	RB	_	1	mod	_	_
+3	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	אני	_	PRP	PRP	gen=F,M|num=S|per=1	2	subj	_	_
+2	אצא	_	VB	VB	gen=F,M|num=S|per=1|tense=FUTURE	10	ccomp	_	_
+3	ראשונה	_	RB	RB	_	2	advmod	_	_
+4	,	_	yyCM	yyCM	_	2	punct	_	_
+5	אם	_	CC	CC	_	2	ccomp	_	_
+6	לא	_	RB	RB	_	7	advmod	_	_
+7	נשקפת	_	BN	BN	gen=F|num=S|per=A	5	ccomp	_	_
+8	סכנה	_	NN	NN	gen=F|num=S	7	subj	_	_
+9	,	_	yyCM	yyCM	_	10	punct	_	_
+10	אקרא	_	VB	VB	gen=F,M|num=S|per=1|tense=FUTURE	0	ROOT	_	_
+11	ל	_	IN	IN	_	10	prepmod	_	_
+12	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	11	pobj	_	_
+13	.	_	yyDOT	yyDOT	_	10	punct	_	_
+
+1	בוא	_	NN	NN	gen=M|num=S	10	subj	_	_
+2	,	_	yyCM	yyCM	_	1	punct	_	_
+3	במבי	_	NNP	NNP	gen=F,M|num=S	1	hd	_	_
+4	,	_	yyCM	yyCM	_	1	punct	_	_
+5	ה	_	REL	REL	_	1	rcmod	_	_
+6	כל	_	DTT	DTT	_	7	subj	_	_
+7	ב	_	PREPOSITION	PREPOSITION	_	5	relcomp	_	_
+8	ה	_	DEF	DEF	_	9	def	_	_
+9	סדר	_	NN	NN	gen=M|num=S	7	pobj	_	_
+10	.	_	yyDOT	yyDOT	_	0	ROOT	_	_
+
+1	קדימה	_	RB	RB	_	0	ROOT	_	_
+2	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	בוקר	_	NNT	NNT	gen=M|num=S	7	subj	_	_
+2	טוב	_	NNT	NNT	gen=M|num=S	1	gobj	_	_
+3	ה	_	DEF	DEF	_	4	def	_	_
+4	נסיך	_	NN	NN	gen=M|num=S	2	gobj	_	_
+5	ב	_	PREPOSITION	PREPOSITION	_	1	prepmod	_	_
+6	מבי	_	NNP	NNP	_	5	pobj	_	_
+7	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	בוקר	_	NN	NN	gen=M|num=S	2	dep	_	_
+2	טוב	_	JJ	JJ	gen=M|num=S	0	ROOT	_	_
+3	נסיך	_	NN	NN	gen=M|num=P|suf_gen=M|suf_num=S|suf_per=2	2	subj	_	_
+4	צעיר	_	JJ	JJ	gen=M|num=S	3	amod	_	_
+5	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	שלום	_	NN	NN	gen=M|num=S	5	subj	_	_
+2	,	_	yyCM	yyCM	_	5	punct	_	_
+3	מה	_	QW	QW	_	5	advmod	_	_
+4	אתם	_	PRP	PRP	gen=M|num=P|per=2	5	subj	_	_
+5	אוכלים	_	NN	NN	gen=M|num=P	0	ROOT	_	_
+6	?	_	yyQM	yyQM	_	5	punct	_	_
+
+1	תלתן	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+2	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	זה	_	PRP	PRP	gen=M|num=S|per=3	3	subj	_	_
+2	מאוד	_	RB	RB	_	3	advmod	_	_
+3	טעים	_	JJ	JJ	gen=M|num=S	0	ROOT	_	_
+4	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	טעים	_	JJ	JJ	gen=M|num=S	2	dep	_	_
+2	...	_	yyELPS	yyELPS	_	3	obj	_	_
+3	מעורר	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+4	תאבון	_	NNP	NNP	gen=F,M|num=S	3	subj	_	_
+5	!	_	yyEXCL	yyEXCL	_	3	punct	_	_
+
+1	אתה	_	PRP	PRP	gen=M|num=S|per=2	2	subj	_	_
+2	רוצה	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+3	לטעום	_	VB	VB	_	2	xcomp	_	_
+4	?	_	yyQM	yyQM	_	2	punct	_	_
+
+1	לא	_	RB	RB	_	2	det	_	_
+2	את	_	AT	AT	_	4	subj	_	_
+3	ה	_	DEF	DEF	_	4	def	_	_
+4	דבר	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+5	ה	_	DEF	DEF	_	6	def	_	_
+6	ירוק	_	JJ	JJ	gen=M|num=S	4	amod	_	_
+7	ה	_	DEF	DEF	_	8	def	_	_
+8	זה	_	PRP	PRP	gen=M|num=S|per=3	4	amod	_	_
+9	.	_	yyDOT	yyDOT	_	4	punct	_	_
+
+1	אכול	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+2	רק	_	RB	RB	_	1	advmod	_	_
+3	את	_	AT	AT	_	1	obj	_	_
+4	ה	_	DEF	DEF	_	5	def	_	_
+5	תפרחת	_	NN	NN	gen=F|num=S	3	hd	_	_
+6	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	זה	_	PRP	PRP	gen=M|num=S|per=3	3	subj	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	חלק	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+4	הכי	_	RB	RB	_	5	mod	_	_
+5	טעים	_	JJ	JJ	gen=M|num=S	3	amod	_	_
+6	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	טמפר	_	NNP	NNP	gen=F,M|num=S	2	subj	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	כן	_	RB	RB	_	3	det	_	_
+2	,	_	yyCM	yyCM	_	3	punct	_	_
+3	אמא	_	NN	NN	gen=F|num=S	0	ROOT	_	_
+4	?	_	yyQM	yyQM	_	3	punct	_	_
+
+1	מה	_	QW	QW	_	2	det	_	_
+2	אביך	_	NN	NN	gen=M|num=S|suf_gen=M|suf_num=S|suf_per=2	3	subj	_	_
+3	אמר	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+4	ל	_	IN	IN	_	3	prepmod	_	_
+5	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	4	pobj	_	_
+6	?	_	yyQM	yyQM	_	3	punct	_	_
+
+1	ב	_	PREPOSITION	PREPOSITION	_	0	ROOT	_	_
+2	איזה	_	DTT	DTT	_	3	det	_	_
+3	עיניין	_	NNP	NNP	gen=F,M|num=S	1	pobj	_	_
+4	?	_	yyQM	yyQM	_	1	punct	_	_
+
+1	בעיניין	_	NNP	NNP	gen=F,M|num=S	0	ROOT	_	_
+2	אכילת	_	NNT	NNT	gen=F|num=S	1	subj	_	_
+3	ה	_	DEF	DEF	_	4	def	_	_
+4	תפרחת	_	NN	NN	gen=F|num=S	2	gobj	_	_
+5	ללא	_	IN	IN	_	1	prepmod	_	_
+6	אכילת	_	NNT	NNT	gen=F|num=S	5	pobj	_	_
+7	ה	_	DEF	DEF	_	8	def	_	_
+8	ירק	_	NN	NN	gen=M|num=S	6	gobj	_	_
+9	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	אה	_	INTJ	INTJ	_	4	cc	_	_
+2	,	_	yyCM	yyCM	_	4	punct	_	_
+3	כן	_	PRP	PRP	per=3	4	subj	_	_
+4	...	_	yyELPS	yyELPS	_	0	ROOT	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	15	punct	_	_
+2	זה	_	PRP	PRP	gen=M|num=S|per=3	3	det	_	_
+3	תענוג	_	NN	NN	gen=M|num=S	5	subj	_	_
+4	גדול	_	JJ	JJ	gen=M|num=S	3	amod	_	_
+5	לאכול	_	VB	VB	_	15	conj	_	_
+6	ירקות	_	NN	NN	gen=M|num=P	5	obj	_	_
+7	,	_	yyCM	yyCM	_	15	punct	_	_
+8	הם	_	PRP	PRP	gen=M|num=P|per=3	9	subj	_	_
+9	יצמיחו	_	VB	VB	gen=F,M|num=P|per=3|tense=FUTURE	15	conj	_	_
+10	ל	_	IN	IN	_	9	prepmod	_	_
+11	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	10	pobj	_	_
+12	אזניים	_	NN	NN	gen=F|num=P	9	obj	_	_
+13	ארוכות	_	JJ	JJ	gen=F|num=P	12	amod	_	_
+14	,	_	yyCM	yyCM	_	15	punct	_	_
+15	ו	_	CONJ	CONJ	_	0	ROOT	_	_
+16	רגליים	_	NN	NN	gen=F|num=P	15	conj	_	_
+17	גדולות	_	JJ	JJ	gen=F|num=P	18	conj	_	_
+18	ו	_	CONJ	CONJ	_	16	amod	_	_
+19	חזקות	_	JJ	JJ	gen=F|num=P	18	conj	_	_
+20	,	_	yyCM	yyCM	_	15	punct	_	_
+
+1	אבל	_	CC	CC	_	9	cc	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	טעם	_	NN	NN	gen=M|num=S	9	subj	_	_
+4	גרוע	_	JJ	JJ	gen=M|num=S	5	conj	_	_
+5	ו	_	CONJ	CONJ	_	3	amod	_	_
+6	בא	_	JJ	JJ	gen=M|num=S	5	conj	_	_
+7	מ	_	PREPOSITION	PREPOSITION	_	3	prepmod	_	_
+8	זה	_	PRP	PRP	gen=M|num=S|per=3	7	pobj	_	_
+9	לבכות	_	VB	VB	_	0	ROOT	_	_
+10	"	_	yyQUOT	yyQUOT	_	9	punct	_	_
+
+1	את	_	AT	AT	_	6	obj	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	חלק	_	NN	NN	gen=M|num=S	1	hd	_	_
+4	ה	_	DEF	DEF	_	5	def	_	_
+5	זה	_	PRP	PRP	gen=M|num=S|per=3	3	amod	_	_
+6	המצאתי	_	VB	VB	gen=F,M|num=S|per=1|tense=PAST	0	ROOT	_	_
+7	ב	_	PREPOSITION	PREPOSITION	_	6	prepmod	_	_
+8	עצמי	_	PRP	PRP	gen=F,M|num=S|per=1	7	pobj	_	_
+9	.	_	yyDOT	yyDOT	_	6	punct	_	_
+
+1	ה	_	DEF	DEF	_	2	subj	_	_
+2	יזהר	_	VB	VB	gen=M|num=S|per=3|tense=FUTURE	0	ROOT	_	_
+3	!	_	yyEXCL	yyEXCL	_	2	punct	_	_
+
+1	זו	_	PRP	PRP	gen=F|num=S|per=3	2	subj	_	_
+2	פלין	_	NNP	NNP	gen=F,M|num=S	0	ROOT	_	_
+3	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	הוא	_	PRP	PRP	gen=M|num=S|per=3	3	subj	_	_
+2	קצת	_	RB	RB	_	3	mod	_	_
+3	ביישן	_	JJ	JJ	gen=M|num=S	0	ROOT	_	_
+4	,	_	yyCM	yyCM	_	3	punct	_	_
+5	נכון	_	JJ	JJ	gen=M|num=S	3	mod	_	_
+6	אמא	_	NN	NN	gen=F|num=S	3	hd	_	_
+7	?	_	yyQM	yyQM	_	3	punct	_	_
+
+1	טוב	_	JJ	JJ	gen=M|num=S	15	subj	_	_
+2	,	_	yyCM	yyCM	_	15	punct	_	_
+3	אולי	_	RB	RB	_	4	mod	_	_
+4	אם	_	CC	CC	_	15	ccomp	_	_
+5	תגידי	_	VB	VB	gen=F|num=S|per=2|tense=FUTURE	4	ccomp	_	_
+6	ל	_	IN	IN	_	5	prepmod	_	_
+7	הוא	_	S_PRN	S_PRN	gen=M|num=S|per=3	6	pobj	_	_
+8	"	_	yyQUOT	yyQUOT	_	5	obj	_	_
+9	שלום	_	NN	NN	gen=M|num=S	8	hd	_	_
+10	"	_	yyQUOT	yyQUOT	_	8	punct	_	_
+11	הוא	_	PRP	PRP	gen=M|num=S|per=3	15	subj	_	_
+12	כבר	_	RB	RB	_	15	advmod	_	_
+13	ל	_	IN	IN	_	15	prepmod	_	_
+14	הוא	_	S_PRN	S_PRN	gen=M|num=S|per=3	13	pobj	_	_
+15	יתבייש	_	VB	VB	gen=M|num=S|per=3|tense=FUTURE	0	ROOT	_	_
+16	.	_	yyDOT	yyDOT	_	15	punct	_	_
+
+1	שלום	_	NN	NN	gen=M|num=S	3	subj	_	_
+2	,	_	yyCM	yyCM	_	3	punct	_	_
+3	ב	_	PREPOSITION	PREPOSITION	_	0	ROOT	_	_
+4	מבי	_	NN	NN	gen=F|num=P	3	pobj	_	_
+5	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	אמרתי	_	VB	VB	gen=F,M|num=S|per=1|tense=PAST	0	ROOT	_	_
+2	"	_	yyQUOT	yyQUOT	_	1	obj	_	_
+3	שלום	_	NN	NN	gen=M|num=S	2	hd	_	_
+4	"	_	yyQUOT	yyQUOT	_	2	punct	_	_
+5	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	הי	_	INTJ	INTJ	_	5	parataxis	_	_
+2	,	_	yyCM	yyCM	_	5	punct	_	_
+3	אתה	_	PRP	PRP	gen=M|num=S|per=2	5	subj	_	_
+4	לא	_	RB	RB	_	5	advmod	_	_
+5	מתכוון	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+6	לענות	_	VB	VB	_	5	xcomp	_	_
+7	ל	_	IN	IN	_	6	prepmod	_	_
+8	היא	_	S_PRN	S_PRN	gen=F|num=S|per=3	7	pobj	_	_
+9	?	_	yyQM	yyQM	_	5	punct	_	_
+
+1	אתהלאמפחד	_	NNP	NNP	gen=F,M|num=S	3	subj	_	_
+2	,	_	yyCM	yyCM	_	3	punct	_	_
+3	נכון	_	JJ	JJ	gen=M|num=S	0	ROOT	_	_
+4	?	_	yyQM	yyQM	_	3	punct	_	_
+
+1	ובכן	_	RB	RB	_	2	hd	_	_
+2	,	_	yyCM	yyCM	_	0	ROOT	_	_
+3	קדימה	_	RB	RB	_	2	hd	_	_
+4	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	קדימה	_	RB	RB	_	3	advmod	_	_
+2	,	_	yyCM	yyCM	_	3	punct	_	_
+3	תגיד	_	VB	VB	gen=F|num=S|per=3|tense=FUTURE	0	ROOT	_	_
+4	שלום	_	NN	NN	gen=M|num=S	3	obj	_	_
+5	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	שלום	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+2	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	ל	_	IN	IN	_	0	ROOT	_	_
+2	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	1	pobj	_	_
+3	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	הוא	_	PRP	PRP	gen=M|num=S|per=3	2	subj	_	_
+2	נעצר	_	BN	BN	gen=M|num=S|per=A	3	conj	_	_
+3	ו	_	CONJ	CONJ	_	0	ROOT	_	_
+4	ה	_	DEF	DEF	_	5	def	_	_
+5	ביט	_	NN	NN	gen=M|num=S	3	conj	_	_
+6	ב	_	IN	IN	_	5	prepmod	_	_
+7	אני	_	S_PRN	S_PRN	gen=F,M|num=S|per=1	6	pobj	_	_
+8	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	כן	_	RB	RB	_	4	parataxis	_	_
+2	,	_	yyCM	yyCM	_	4	punct	_	_
+3	אני	_	PRP	PRP	gen=F,M|num=S|per=1	4	subj	_	_
+4	יודעת	_	BN	BN	gen=F|num=S|per=A	0	ROOT	_	_
+5	.	_	yyDOT	yyDOT	_	4	punct	_	_
+
+1	מדוע	_	QW	QW	_	3	advmod	_	_
+2	כולם	_	DT	DT	suf_gen=M|suf_num=P|suf_per=3	1	dep	_	_
+3	השתתקו	_	VB	VB	gen=F,M|num=P|per=3|tense=PAST	0	ROOT	_	_
+4	כאשר	_	CC	CC	_	3	comp	_	_
+5	הוא	_	PRP	PRP	gen=M|num=S|per=3	6	subj	_	_
+6	הגיע	_	VB	VB	gen=M|num=S|per=3|tense=PAST	4	ccomp	_	_
+7	אל	_	IN	IN	_	6	prepmod	_	_
+8	ה	_	DEF	DEF	_	9	def	_	_
+9	אחו	_	NN	NN	gen=M|num=S	7	pobj	_	_
+10	?	_	yyQM	yyQM	_	3	punct	_	_
+
+1	כולם	_	PRP	PRP	gen=M|num=P|per=3	2	subj	_	_
+2	מכבדים	_	BN	BN	gen=M|num=P|per=A	0	ROOT	_	_
+3	את	_	AT	AT	_	2	obj	_	_
+4	הוא	_	S_PRN	S_PRN	gen=M|num=S|per=3	3	hd	_	_
+5	מאוד	_	RB	RB	_	2	advmod	_	_
+6	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	כי	_	CC	CC	_	15	cc	_	_
+2	מ	_	PREPOSITION	PREPOSITION	_	15	parataxis	_	_
+3	כל	_	DTT	DTT	_	5	det	_	_
+4	ה	_	DEF	DEF	_	5	def	_	_
+5	צביים	_	NN	NN	gen=M|num=P	2	pobj	_	_
+6	ש	_	REL	REL	_	5	rcmod	_	_
+7	חיים	_	BN	BN	gen=M|num=P|per=A	6	relcomp	_	_
+8	כאן	_	RB	RB	_	7	advmod	_	_
+9	,	_	yyCM	yyCM	_	15	punct	_	_
+10	ב	_	PREPOSITION	PREPOSITION	_	15	prepmod	_	_
+11	ה	_	DEF	DEF	_	12	def	_	_
+12	יער	_	NN	NN	gen=M|num=S	10	pobj	_	_
+13	,	_	yyCM	yyCM	_	15	punct	_	_
+14	הוא	_	PRP	PRP	gen=M|num=S|per=3	15	subj	_	_
+15	האריך	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+16	חיים	_	BN	BN	gen=M|num=P|per=A	15	ccomp	_	_
+17	יותר	_	RB	RB	_	16	advmod	_	_
+18	מ	_	PREPOSITION	PREPOSITION	_	16	prepmod	_	_
+19	כולם	_	DT	DT	suf_gen=M|suf_num=P|suf_per=3	18	pobj	_	_
+20	.	_	yyDOT	yyDOT	_	15	punct	_	_
+
+1	הוא	_	PRP	PRP	gen=M|num=S|per=3	3	subj	_	_
+2	מאוד	_	RB	RB	_	3	advmod	_	_
+3	חכם	_	JJ	JJ	gen=M|num=S	5	conj	_	_
+4	,	_	yyCM	yyCM	_	5	punct	_	_
+5	ו	_	CONJ	CONJ	_	0	ROOT	_	_
+6	גם	_	RB	RB	_	8	advmod	_	_
+7	מאוד	_	RB	RB	_	8	advmod	_	_
+8	פיקח	_	VB	VB	gen=M|num=S|per=3|tense=PAST	5	conj	_	_
+9	.	_	yyDOT	yyDOT	_	5	punct	_	_
+
+1	לכן	_	CC	CC	_	3	advmod	_	_
+2	הוא	_	PRP	PRP	gen=M|num=S|per=3	3	subj	_	_
+3	ידוע	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+4	ב	_	PREPOSITION	PREPOSITION	_	3	comp	_	_
+5	שם	_	NN	NN	gen=M|num=S	4	pobj	_	_
+6	...	_	yyELPS	yyELPS	_	5	pobj	_	_
+7	ה	_	DEF	DEF	_	8	def	_	_
+8	נסיך	_	NN	NN	gen=M|num=S	6	gobj	_	_
+9	ה	_	DEF	DEF	_	10	def	_	_
+10	גדול	_	JJ	JJ	gen=M|num=S	8	amod	_	_
+11	של	_	POS	POS	_	8	prepmod	_	_
+12	ה	_	DEF	DEF	_	13	def	_	_
+13	יער	_	NN	NN	gen=M|num=S	11	gobj	_	_
+14	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	פלין	_	NNP	NNP	gen=F,M|num=S	2	subj	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	במבי	_	NNP	NNP	gen=F,M|num=S	2	subj	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	אמא	_	NN	NN	gen=F|num=S	2	subj	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	במבי	_	NNP	NNP	gen=F,M|num=S	2	subj	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	אמא	_	NN	NN	gen=F|num=S	2	subj	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	צא	_	VB	VB	gen=M|num=S|per=2|tense=IMPERATIVE	0	ROOT	_	_
+2	החוצה	_	RB	RB	_	1	advmod	_	_
+3	,	_	yyCM	yyCM	_	1	punct	_	_
+4	ב	_	PREPOSITION	PREPOSITION	_	1	prepmod	_	_
+5	מבי	_	NN	NN	gen=F|num=P	4	pobj	_	_
+6	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	בוא	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+2	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	עכשיו	_	RB	RB	_	6	advmod	_	_
+2	ה	_	DEF	DEF	_	6	def	_	_
+3	כל	_	DTT	DTT	_	6	det	_	_
+4	ב	_	PREPOSITION	PREPOSITION	_	3	prep	_	_
+5	ה	_	DEF	DEF	_	6	def	_	_
+6	סדר	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+7	.	_	yyDOT	yyDOT	_	6	punct	_	_
+
+1	איננו	_	COP	COP	gen=F,M|num=P|per=1	2	advmod	_	_
+2	צריכים	_	MD	MD	gen=M|num=P|per=A	0	ROOT	_	_
+3	עוד	_	RB	RB	_	2	advmod	_	_
+4	להתחבא	_	VB	VB	_	2	xcomp	_	_
+5	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	מה	_	QW	QW	_	2	subj	_	_
+2	קרה	_	NN	NN	gen=F|num=S	0	ROOT	_	_
+3	,	_	yyCM	yyCM	_	2	punct	_	_
+4	אמא	_	NN	NN	gen=F|num=S	2	hd	_	_
+5	?	_	yyQM	yyQM	_	2	punct	_	_
+
+1	מדוע	_	QW	QW	_	3	advmod	_	_
+2	כולם	_	DT	DT	suf_gen=M|suf_num=P|suf_per=3	1	dep	_	_
+3	ברחו	_	VB	VB	gen=F,M|num=P|per=3|tense=PAST	0	ROOT	_	_
+4	?	_	yyQM	yyQM	_	3	punct	_	_
+
+1	אדם	_	NN	NN	gen=M|num=S	2	subj	_	_
+2	נכנס	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+3	אל	_	IN	IN	_	2	prepmod	_	_
+4	תוך	_	IN	IN	_	3	pobj	_	_
+5	ה	_	DEF	DEF	_	6	def	_	_
+6	יער	_	NN	NN	gen=M|num=S	4	pobj	_	_
+7	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	אמא	_	NN	NN	gen=F|num=S	3	subj	_	_
+2	,	_	yyCM	yyCM	_	3	punct	_	_
+3	תראי	_	VB	VB	gen=F|num=S|per=2|tense=FUTURE	0	ROOT	_	_
+4	!	_	yyEXCL	yyEXCL	_	3	punct	_	_
+
+1	מה	_	QW	QW	_	3	subj	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	דבר	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+4	ה	_	DEF	DEF	_	5	def	_	_
+5	לבן	_	JJ	JJ	gen=M|num=S	3	amod	_	_
+6	ה	_	DEF	DEF	_	7	def	_	_
+7	זה	_	PRP	PRP	gen=M|num=S|per=3	3	amod	_	_
+8	?	_	yyQM	yyQM	_	3	punct	_	_
+
+1	זה	_	PRP	PRP	gen=M|num=S|per=3	2	subj	_	_
+2	שלג	_	NNT	NNT	gen=M|num=S	0	ROOT	_	_
+
+1	שלג	_	NNT	NNT	gen=M|num=S	0	ROOT	_	_
+2	?	_	yyQM	yyQM	_	1	punct	_	_
+
+1	כן	_	RB	RB	_	5	parataxis	_	_
+2	,	_	yyCM	yyCM	_	5	punct	_	_
+3	ה	_	DEF	DEF	_	4	def	_	_
+4	חורף	_	NN	NN	gen=M|num=S	5	subj	_	_
+5	הגיע	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+6	.	_	yyDOT	yyDOT	_	5	punct	_	_
+
+1	הי	_	INTJ	INTJ	_	5	advmod	_	_
+2	,	_	yyCM	yyCM	_	5	punct	_	_
+3	ב	_	PREPOSITION	PREPOSITION	_	5	prepmod	_	_
+4	מבי	_	NN	NN	gen=F|num=P	3	pobj	_	_
+5	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	הסתכל	_	VB	VB	gen=M|num=S|per=3|tense=PAST	4	cc	_	_
+2	מה	_	QW	QW	_	4	advmod	_	_
+3	אני	_	PRP	PRP	gen=F,M|num=S|per=1	4	subj	_	_
+4	יכול	_	MD	MD	gen=M|num=S|per=A	0	ROOT	_	_
+5	לעשות	_	VB	VB	_	4	xcomp	_	_
+6	!	_	yyEXCL	yyEXCL	_	4	punct	_	_
+
+1	בוא	_	NN	NN	gen=M|num=S	2	subj	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	זה	_	PRP	PRP	gen=M|num=S|per=3	2	subj	_	_
+2	בסדר	_	INTJ	INTJ	_	0	ROOT	_	_
+3	!	_	yyEXCL	yyEXCL	_	2	punct	_	_
+
+1	הבט	_	VB	VB	gen=M|num=S|per=2|tense=IMPERATIVE	2	prd	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	ה	_	DEF	DEF	_	2	def	_	_
+2	מים	_	NN	NN	gen=M|num=P	3	subj	_	_
+3	קשים	_	JJ	JJ	gen=M|num=P	0	ROOT	_	_
+4	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	איזה	_	DTT	DTT	_	2	det	_	_
+2	כיף	_	NN	NN	gen=M|num=S	3	subj	_	_
+3	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+4	נכון	_	JJ	JJ	gen=M|num=S	3	amod	_	_
+5	במבי	_	NNP	NNP	gen=F,M|num=S	3	hd	_	_
+6	?	_	yyQM	yyQM	_	3	punct	_	_
+
+1	קדימה	_	RB	RB	_	2	det	_	_
+2	,	_	yyCM	yyCM	_	3	punct	_	_
+3	קום	_	VB	VB	gen=M|num=S|per=2|tense=IMPERATIVE	0	ROOT	_	_
+4	,	_	yyCM	yyCM	_	3	punct	_	_
+5	הנה	_	RB	RB	_	3	advmod	_	_
+6	,	_	yyCM	yyCM	_	3	punct	_	_
+7	ככה	_	RB	RB	_	3	advmod	_	_
+8	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	אתה	_	PRP	PRP	gen=M|num=S|per=2	4	subj	_	_
+2	לא	_	RB	RB	_	4	advmod	_	_
+3	הכי	_	RB	RB	_	4	mod	_	_
+4	יציב	_	JJ	JJ	gen=M|num=S	0	ROOT	_	_
+5	ב	_	PREPOSITION	PREPOSITION	_	4	prepmod	_	_
+6	ה	_	DEF	DEF	_	7	def	_	_
+7	עולם	_	NN	NN	gen=M|num=S	5	pobj	_	_
+8	,	_	yyCM	yyCM	_	4	punct	_	_
+9	הא	_	NNP	NNP	gen=F|num=S	4	hd	_	_
+10	?	_	yyQM	yyQM	_	4	punct	_	_
+
+1	אתה	_	PRP	PRP	gen=M|num=S|per=2	2	subj	_	_
+2	מוכרח	_	MD	MD	gen=M|num=S|per=A	0	ROOT	_	_
+3	לייצב	_	VB	VB	_	2	xcomp	_	_
+4	את	_	AT	AT	_	3	obj	_	_
+5	ארבעת	_	CDT	CDT	gen=M|num=P	6	num	_	_
+6	רגליך	_	NN	NN	gen=F|num=P|suf_gen=F|suf_num=S|suf_per=2	4	hd	_	_
+7	ב	_	IN	IN	_	3	prepmod	_	_
+8	הוא	_	S_PRN	S_PRN	gen=M|num=S|per=3	7	pobj	_	_
+9	זמנית	_	RB	RB	_	3	advmod	_	_
+10	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	השתדל	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+2	ש	_	REL	REL	_	1	comp	_	_
+3	לא	_	RB	RB	_	4	advmod	_	_
+4	לזוז	_	VB	VB	_	2	ccomp	_	_
+5	עכשיו	_	RB	RB	_	4	advmod	_	_
+6	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	התעורר	_	VB	VB	gen=M|num=S|per=3|tense=PAST	2	prd	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	התעורר	_	VB	VB	gen=M|num=S|per=3|tense=PAST	2	prd	_	_
+2	!	_	yyEXCL	yyEXCL	_	3	subj	_	_
+3	התעורר	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+4	,	_	yyCM	yyCM	_	3	punct	_	_
+5	פרח	_	NN	NN	gen=M|num=S	3	obj	_	_
+6	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	ה	_	DEF	DEF	_	2	def	_	_
+2	הה	_	NN	NN	gen=M|num=S	7	subj	_	_
+3	...	_	yyELPS	yyELPS	_	2	nn	_	_
+4	ה	_	DEF	DEF	_	5	def	_	_
+5	אביב	_	NN	NN	gen=M|num=S	3	nn	_	_
+6	כבר	_	RB	RB	_	7	advmod	_	_
+7	הגיע	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+8	?	_	yyQM	yyQM	_	7	punct	_	_
+
+1	לא	_	RB	RB	_	0	ROOT	_	_
+2	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	ה	_	DEF	DEF	_	2	def	_	_
+2	חורף	_	NN	NN	gen=M|num=S	4	subj	_	_
+3	רק	_	RB	RB	_	4	advmod	_	_
+4	התחיל	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+5	.	_	yyDOT	yyDOT	_	4	punct	_	_
+
+1	מה	_	QW	QW	_	3	advmod	_	_
+2	אתה	_	PRP	PRP	gen=M|num=S|per=2	3	subj	_	_
+3	עשה	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+4	את	_	POS	POS	_	3	comp	_	_
+5	היא	_	S_PRN	S_PRN	gen=F|num=S|per=3	4	hd	_	_
+6	?	_	yyQM	yyQM	_	3	punct	_	_
+
+1	ישן	_	JJ	JJ	gen=M|num=S	2	dep	_	_
+2	ש	_	REL	REL	_	0	ROOT	_	_
+3	ינת	_	NNP	NNP	gen=M|num=S	5	subj	_	_
+4	חורף	_	NN	NN	gen=M|num=S	3	nn	_	_
+5	?	_	yyQM	yyQM	_	2	punct	_	_
+
+1	לשם	_	IN	IN	_	4	prepmod	_	_
+2	מה	_	QW	QW	_	1	pobj	_	_
+3	אתה	_	PRP	PRP	gen=M|num=S|per=2	4	subj	_	_
+4	עשה	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+5	את	_	POS	POS	_	4	obj	_	_
+6	היא	_	S_PRN	S_PRN	gen=F|num=S|per=3	5	hd	_	_
+7	זאת	_	PRP	PRP	gen=F|num=S|per=3	6	nn	_	_
+8	?	_	yyQM	yyQM	_	4	punct	_	_
+
+1	כל	_	DTT	DTT	_	3	det	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	פרחים	_	NN	NN	gen=M|num=P	7	subj	_	_
+4	כמו	_	IN	IN	_	3	prepmod	_	_
+5	אני	_	S_PRN	S_PRN	gen=F,M|num=S|per=1	4	pobj	_	_
+6	,	_	yyCM	yyCM	_	7	punct	_	_
+7	ישנים	_	JJ	JJ	gen=M|num=P	0	ROOT	_	_
+8	ב	_	PREPOSITION	PREPOSITION	_	7	prepmod	_	_
+9	ה	_	DEF	DEF	_	10	def	_	_
+10	חורף	_	NN	NN	gen=M|num=S	8	pobj	_	_
+11	.	_	yyDOT	yyDOT	_	7	punct	_	_
+
+1	טוב	_	JJ	JJ	gen=M|num=S	0	ROOT	_	_
+2	,	_	yyCM	yyCM	_	1	punct	_	_
+3	אז	_	RB	RB	_	4	det	_	_
+4	לילה	_	NN	NN	gen=M|num=S	1	dep	_	_
+5	טוב	_	JJ	JJ	gen=M|num=S	4	amod	_	_
+6	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	ה	_	DEF	DEF	_	2	def	_	_
+2	חורף	_	NN	NN	gen=M|num=S	6	subj	_	_
+3	מאוד	_	RB	RB	_	4	mod	_	_
+4	ארוך	_	JJ	JJ	gen=M|num=S	2	amod	_	_
+5	,	_	yyCM	yyCM	_	6	punct	_	_
+6	נכון	_	JJ	JJ	gen=M|num=S	0	ROOT	_	_
+7	?	_	yyQM	yyQM	_	6	punct	_	_
+
+1	הוא	_	PRP	PRP	gen=M|num=S|per=3	2	subj	_	_
+2	נראה	_	VB	VB	gen=M|num=S|per=3|tense=PAST	5	conj	_	_
+3	ארוך	_	JJ	JJ	gen=M|num=S	2	advmod	_	_
+4	,	_	yyCM	yyCM	_	5	punct	_	_
+5	אך	_	CC	CC	_	0	ROOT	_	_
+6	הוא	_	PRP	PRP	gen=M|num=S|per=3	7	subj	_	_
+7	יגמר	_	VB	VB	gen=M|num=S|per=3|tense=FUTURE	5	conj	_	_
+8	ב	_	PREPOSITION	PREPOSITION	_	7	prepmod	_	_
+9	סופו	_	NN	NN	gen=M|num=S|suf_gen=M|suf_num=S|suf_per=3	8	pobj	_	_
+10	של	_	POS	POS	_	9	gen	_	_
+11	דבר	_	NN	NN	gen=M|num=S	10	gobj	_	_
+12	.	_	yyDOT	yyDOT	_	5	punct	_	_
+
+1	אני	_	PRP	PRP	gen=F,M|num=S|per=1	4	subj	_	_
+2	כל	_	DTT	DTT	_	3	mod	_	_
+3	כך	_	RB	RB	_	4	mod	_	_
+4	רעב	_	JJ	JJ	gen=M|num=S	0	ROOT	_	_
+5	,	_	yyCM	yyCM	_	4	punct	_	_
+6	אמא	_	NN	NN	gen=F|num=S	4	hd	_	_
+7	.	_	yyDOT	yyDOT	_	4	punct	_	_
+
+1	כן	_	RB	RB	_	4	parataxis	_	_
+2	,	_	yyCM	yyCM	_	4	punct	_	_
+3	אני	_	PRP	PRP	gen=F,M|num=S|per=1	4	subj	_	_
+4	יודעת	_	BN	BN	gen=F|num=S|per=A	0	ROOT	_	_
+5	.	_	yyDOT	yyDOT	_	4	punct	_	_
+
+1	במבי	_	NNP	NNP	gen=F,M|num=S	0	ROOT	_	_
+2	,	_	yyCM	yyCM	_	1	punct	_	_
+3	בוא	_	NN	NN	gen=M|num=S	1	hd	_	_
+4	ל	_	PREPOSITION	PREPOSITION	_	3	prepmod	_	_
+5	כאן	_	RB	RB	_	4	pobj	_	_
+6	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	הסתכל	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+2	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	עשב	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+2	טרי	_	JJ	JJ	gen=M|num=S	1	amod	_	_
+3	של	_	POS	POS	_	1	prepmod	_	_
+4	תחילת	_	NNT	NNT	gen=F|num=S	3	gobj	_	_
+5	ה	_	DEF	DEF	_	6	def	_	_
+6	אביב	_	NN	NN	gen=M|num=S	4	gobj	_	_
+7	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	במבי	_	NNP	NNP	gen=F,M|num=S	2	subj	_	_
+2	...	_	yyELPS	yyELPS	_	0	ROOT	_	_
+3	מהר	_	RB	RB	_	2	advmod	_	_
+4	!	_	yyEXCL	yyEXCL	_	2	punct	_	_
+
+1	אל	_	IN	IN	_	4	prepmod	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	עצים	_	NN	NN	gen=M|num=P	1	pobj	_	_
+4	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	ה	_	DEF	DEF	_	2	def	_	_
+2	סבך	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+3	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	יותר	_	RB	RB	_	2	mod	_	_
+2	מהר	_	RB	RB	_	3	advmod	_	_
+3	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	במבי	_	NNP	NNP	gen=F,M|num=S	5	subj	_	_
+2	,	_	yyCM	yyCM	_	5	punct	_	_
+3	יותר	_	RB	RB	_	5	detmod	_	_
+4	מהר	_	RB	RB	_	3	det	_	_
+5	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	אל	_	IN	IN	_	2	dep	_	_
+2	תביט	_	VB	VB	gen=F|num=S|per=3|tense=FUTURE	0	ROOT	_	_
+3	לאחור	_	RB	RB	_	2	advmod	_	_
+4	!	_	yyEXCL	yyEXCL	_	2	punct	_	_
+
+1	המשך	_	NN	NN	gen=M|num=S	2	subj	_	_
+2	לרוץ	_	VB	VB	_	0	ROOT	_	_
+3	!	_	yyEXCL	yyEXCL	_	2	punct	_	_
+
+1	מהר	_	RB	RB	_	4	parataxis	_	_
+2	!	_	yyEXCL	yyEXCL	_	4	punct	_	_
+3	המשך	_	NN	NN	gen=M|num=S	4	subj	_	_
+4	לרוץ	_	VB	VB	_	0	ROOT	_	_
+5	!	_	yyEXCL	yyEXCL	_	4	punct	_	_
+
+1	הצלחנו	_	VB	VB	gen=F,M|num=P|per=1|tense=PAST	2	prd	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	הצלחנו	_	VB	VB	gen=F,M|num=P|per=1|tense=PAST	0	ROOT	_	_
+2	,	_	yyCM	yyCM	_	1	punct	_	_
+3	אמא	_	NN	NN	gen=F|num=S	1	obj	_	_
+4	!	_	yyEXCL	yyEXCL	_	1	prep	_	_
+
+1	הצ	_	NNP	NNP	gen=F,M|num=S	2	subj	_	_
+2	...	_	yyELPS	yyELPS	_	0	ROOT	_	_
+3	אמא	_	NN	NN	gen=F|num=S	2	hd	_	_
+4	?	_	yyQM	yyQM	_	2	punct	_	_
+
+1	אמא	_	NN	NN	gen=F|num=S	3	subj	_	_
+2	,	_	yyCM	yyCM	_	3	punct	_	_
+3	היכן	_	QW	QW	_	0	ROOT	_	_
+4	את	_	AT	AT	_	3	obj	_	_
+5	?	_	yyQM	yyQM	_	3	punct	_	_
+
+1	אמא	_	NN	NN	gen=F|num=S	5	subj	_	_
+2	של	_	IN	IN	_	1	prepmod	_	_
+3	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	2	pobj	_	_
+4	לא	_	RB	RB	_	5	advmod	_	_
+5	תחזור	_	VB	VB	gen=F|num=S|per=3|tense=FUTURE	0	ROOT	_	_
+6	.	_	yyDOT	yyDOT	_	5	punct	_	_
+
+1	בוא	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+2	,	_	yyCM	yyCM	_	1	punct	_	_
+3	בני	_	NNT	NNT	gen=M|num=P	1	hd	_	_
+4	.	_	yyDOT	yyDOT	_	3	gobj	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	4	punct	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	אביב	_	NN	NN	gen=M|num=S	4	subj	_	_
+4	הגיע	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+5	,	_	yyCM	yyCM	_	4	punct	_	_
+6	עת	_	NN	NN	gen=F|num=S	7	subj	_	_
+7	לשיר	_	VB	VB	_	4	ccomp	_	_
+8	...	_	yyELPS	yyELPS	_	7	ccomp	_	_
+9	ה	_	DEF	DEF	_	10	def	_	_
+10	אביב	_	NN	NN	gen=M|num=S	11	subj	_	_
+11	הגיע	_	VB	VB	gen=M|num=S|per=3|tense=PAST	15	conj	_	_
+12	,	_	yyCM	yyCM	_	15	punct	_	_
+13	כה	_	RB	RB	_	14	mod	_	_
+14	יפה	_	JJ	JJ	gen=M|num=S	15	conj	_	_
+15	ו	_	CONJ	CONJ	_	8	ccomp	_	_
+16	פורח	_	JJ	JJ	gen=M|num=S	15	conj	_	_
+
+1	אז	_	RB	RB	_	2	advmod	_	_
+2	הצטרפו	_	VB	VB	gen=F,M|num=P|per=3|tense=PAST	12	conj	_	_
+3	כולכם	_	DT	DT	suf_gen=M|suf_num=P|suf_per=2	2	punct	_	_
+4	אל	_	IN	IN	_	2	prepmod	_	_
+5	/	_	NNP	NNP	gen=M|num=S	4	pobj	_	_
+6	i	_	NNP	NNP	gen=F,M|num=S	5	nn	_	_
+7	שיר	_	NNT	NNT	gen=M|num=S	2	subj	_	_
+8	ה	_	DEF	DEF	_	9	def	_	_
+9	אביב	_	NN	NN	gen=M|num=S	7	gobj	_	_
+10	ה	_	DEF	DEF	_	11	def	_	_
+11	שמח	_	JJ	JJ	gen=M|num=S	7	amod	_	_
+12	ו	_	CONJ	CONJ	_	0	ROOT	_	_
+13	ה	_	DEF	DEF	_	19	def	_	_
+14	כל	_	DTT	DTT	_	19	det	_	_
+15	ב	_	PREPOSITION	PREPOSITION	_	19	prepmod	_	_
+16	שלל	_	NNT	NNT	gen=M|num=S	15	pobj	_	_
+17	צבעים	_	NN	NN	gen=M|num=P	16	gobj	_	_
+18	ילבלב	_	NNP	NNP	gen=F,M|num=S	17	nn	_	_
+19	...	_	yyELPS	yyELPS	_	12	conj	_	_
+20	"	_	yyQUOT	yyQUOT	_	12	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	4	punct	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	אביב	_	NN	NN	gen=M|num=S	4	subj	_	_
+4	הגיע	_	VB	VB	gen=M|num=S|per=3|tense=PAST	8	parataxis	_	_
+5	,	_	yyCM	yyCM	_	4	punct	_	_
+6	ה	_	DEF	DEF	_	7	def	_	_
+7	אביב	_	NN	NN	gen=M|num=S	8	subj	_	_
+8	הגיע	_	VB	VB	gen=M|num=S|per=3|tense=PAST	16	ccomp	_	_
+9	...	_	yyELPS	yyELPS	_	8	ccomp	_	_
+10	בואו	_	NN	NN	gen=M|num=S|suf_gen=M|suf_num=S|suf_per=3	16	subj	_	_
+11	נשיר	_	JJ	JJ	gen=M|num=S	10	amod	_	_
+12	מ	_	PREPOSITION	PREPOSITION	_	10	prepmod	_	_
+13	כל	_	DTT	DTT	_	15	det	_	_
+14	ה	_	DEF	DEF	_	15	def	_	_
+15	לב	_	NN	NN	gen=M|num=S	12	pobj	_	_
+16	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	שיר	_	NN	NN	gen=M|num=S	14	subj	_	_
+3	נחמד	_	JJ	JJ	gen=M|num=S	4	conj	_	_
+4	ו	_	CONJ	CONJ	_	2	amod	_	_
+5	מתוק	_	JJ	JJ	gen=M|num=S	4	conj	_	_
+6	ל	_	PREPOSITION	PREPOSITION	_	2	prepmod	_	_
+7	כבוד	_	NNT	NNT	gen=M|num=S	6	pobj	_	_
+8	ה	_	DEF	DEF	_	9	def	_	_
+9	אביב	_	NN	NN	gen=M|num=S	7	gobj	_	_
+10	כ	_	PREPOSITION	PREPOSITION	_	2	prepmod	_	_
+11	ריחוף	_	NN	NN	gen=M|num=S	10	pobj	_	_
+12	של	_	POS	POS	_	11	gen	_	_
+13	ציפור	_	NN	NN	gen=M|num=S	12	gobj	_	_
+14	כש	_	TEMP	TEMP	_	17	conj	_	_
+15	ירוק	_	JJ	JJ	gen=M|num=S	14	parataxis	_	_
+16	מסביב	_	RB	RB	_	15	mod	_	_
+17	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	4	punct	_	_
+2	כי	_	CC	CC	_	4	cc	_	_
+3	תמיד	_	RB	RB	_	4	advmod	_	_
+4	נראה	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+5	כה	_	RB	RB	_	4	advmod	_	_
+6	נכון	_	JJ	JJ	gen=M|num=S	7	conj	_	_
+7	ו	_	CONJ	CONJ	_	4	advmod	_	_
+8	חכם	_	JJ	JJ	gen=M|num=S	7	conj	_	_
+9	כש	_	TEMP	TEMP	_	8	ccomp	_	_
+10	ה	_	DEF	DEF	_	11	def	_	_
+11	שמש	_	NN	NN	gen=F|num=S	12	subj	_	_
+12	זורחת	_	BN	BN	gen=F|num=S|per=A	15	conj	_	_
+13	יום	_	NN	NN	gen=M|num=S	12	obj	_	_
+14	בהיר	_	JJ	JJ	gen=M|num=S	13	amod	_	_
+15	ו	_	CONJ	CONJ	_	9	ccomp	_	_
+16	גם	_	RB	RB	_	17	mod	_	_
+17	חם	_	JJ	JJ	gen=M|num=S	15	conj	_	_
+18	"	_	yyQUOT	yyQUOT	_	4	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	5	punct	_	_
+2	אז	_	RB	RB	_	3	det	_	_
+3	בואו	_	NN	NN	gen=M|num=S|suf_gen=M|suf_num=S|suf_per=3	5	hd	_	_
+4	נשיר	_	JJ	JJ	gen=M|num=S	3	amod	_	_
+5	שיר	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+6	נחמד	_	JJ	JJ	gen=M|num=S	7	conj	_	_
+7	ו	_	CONJ	CONJ	_	5	amod	_	_
+8	חביב	_	JJ	JJ	gen=M|num=S	7	conj	_	_
+9	ל	_	PREPOSITION	PREPOSITION	_	14	conj	_	_
+10	יום	_	NN	NN	gen=M|num=S	9	pobj	_	_
+11	פורח	_	JJ	JJ	gen=M|num=S	10	amod	_	_
+12	של	_	POS	POS	_	10	prepmod	_	_
+13	אביב	_	NN	NN	gen=M|num=S	12	gobj	_	_
+14	,	_	yyCM	yyCM	_	5	prepmod	_	_
+15	מסביב	_	RB	RB	_	14	conj	_	_
+16	"	_	yyQUOT	yyQUOT	_	5	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	ב	_	PREPOSITION	PREPOSITION	_	4	mod	_	_
+3	ואו	_	INTJ	INTJ	_	2	pobj	_	_
+4	נשיר	_	JJ	JJ	gen=M|num=S	10	mod	_	_
+5	יחד	_	RB	RB	_	4	mod	_	_
+6	שיר	_	NN	NN	gen=M|num=S	4	subj	_	_
+7	ל	_	PREPOSITION	PREPOSITION	_	6	prepmod	_	_
+8	ה	_	DEF	DEF	_	9	def	_	_
+9	אביב	_	NN	NN	gen=M|num=S	7	pobj	_	_
+10	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	ציפורי	_	NNT	NNT	gen=M|num=P	10	conj	_	_
+3	שיר	_	NN	NN	gen=M|num=S	2	gobj	_	_
+4	יפות	_	JJ	JJ	gen=F|num=P	3	amod	_	_
+5	ש	_	REL	REL	_	2	rcmod	_	_
+6	עפות	_	BN	BN	gen=F|num=P|per=A	5	relcomp	_	_
+7	ב	_	PREPOSITION	PREPOSITION	_	6	prepmod	_	_
+8	ה	_	DEF	DEF	_	9	def	_	_
+9	שמחה	_	NN	NN	gen=F|num=S	7	pobj	_	_
+10	ו	_	CONJ	CONJ	_	21	prepmod	_	_
+11	ה	_	DEF	DEF	_	12	def	_	_
+12	מקבלות	_	BN	BN	gen=F|num=P|per=A	10	conj	_	_
+13	את	_	AT	AT	_	12	obj	_	_
+14	חודש	_	NN	NN	gen=M|num=S	13	hd	_	_
+15	מ	_	PREPOSITION	PREPOSITION	_	12	prepmod	_	_
+16	אי	_	P	P	_	17	mod	_	_
+17	ב	_	PREPOSITION	PREPOSITION	_	15	pobj	_	_
+18	שירים	_	NN	NN	gen=M|num=P	17	pobj	_	_
+19	של	_	POS	POS	_	18	gen	_	_
+20	פריחה	_	NN	NN	gen=F|num=S	21	subj	_	_
+21	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	2	subj	_	_
+2	קבלו	_	VB	VB	gen=F,M|num=P|per=3|tense=PAST	13	conj	_	_
+3	מ	_	PREPOSITION	PREPOSITION	_	2	prepmod	_	_
+4	זה	_	PRP	PRP	gen=M|num=S|per=3	5	det	_	_
+5	חשק	_	NN	NN	gen=M|num=S	3	pobj	_	_
+6	כי	_	CC	CC	_	2	comp	_	_
+7	היום	_	RB	RB	_	8	mod	_	_
+8	כה	_	RB	RB	_	9	advmod	_	_
+9	מאיר	_	BN	BN	gen=M|num=S|per=A	6	dep	_	_
+10	שכחו	_	VB	VB	gen=F,M|num=P|per=3|tense=PAST	9	xcomp	_	_
+11	כל	_	DTT	DTT	_	12	det	_	_
+12	צער	_	NN	NN	gen=M|num=S	10	obj	_	_
+13	ו	_	CONJ	CONJ	_	0	ROOT	_	_
+14	מלאו	_	VB	VB	gen=F,M|num=P|per=3|tense=PAST	13	conj	_	_
+15	ליבכם	_	NN	NN	gen=M|num=S|suf_gen=M|suf_num=P|suf_per=2	14	obj	_	_
+16	ב	_	PREPOSITION	PREPOSITION	_	14	prepmod	_	_
+17	ה	_	DEF	DEF	_	18	def	_	_
+18	שיר	_	NN	NN	gen=M|num=S	16	pobj	_	_
+19	...	_	yyELPS	yyELPS	_	13	punct	_	_
+
+1	חכה	_	NN	NN	gen=F|num=S	0	ROOT	_	_
+2	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	הו	_	INTJ	INTJ	_	0	ROOT	_	_
+2	,	_	yyCM	yyCM	_	5	punct	_	_
+3	מה	_	QW	QW	_	5	dep	_	_
+4	עכשיו	_	RB	RB	_	3	advmod	_	_
+5	?	_	yyQM	yyQM	_	1	punct	_	_
+
+1	הי	_	INTJ	INTJ	_	2	mod	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+3	הי	_	INTJ	INTJ	_	2	punct	_	_
+4	!	_	yyEXCL	yyEXCL	_	2	dep	_	_
+
+1	הפסיקו	_	VB	VB	gen=F,M|num=P|per=3|tense=PAST	3	conj	_	_
+2	להשתולל	_	VB	VB	_	1	xcomp	_	_
+3	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	הסתלקו	_	VB	VB	gen=F,M|num=P|per=3|tense=PAST	2	prd	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	4	punct	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	אביב	_	NN	NN	gen=M|num=S	4	subj	_	_
+4	הגיע	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+5	,	_	yyCM	yyCM	_	4	punct	_	_
+6	עת	_	NN	NN	gen=F|num=S	7	subj	_	_
+7	לשיר	_	VB	VB	_	4	hd	_	_
+8	"	_	yyQUOT	yyQUOT	_	4	punct	_	_
+
+1	אני	_	PRP	PRP	gen=F,M|num=S|per=1	2	subj	_	_
+2	אראה	_	VB	VB	gen=F,M|num=S|per=1|tense=FUTURE	0	ROOT	_	_
+3	ל	_	IN	IN	_	2	prepmod	_	_
+4	הם	_	S_PRN	S_PRN	gen=M|num=P|per=3	3	pobj	_	_
+5	!	_	yyEXCL	yyEXCL	_	2	punct	_	_
+
+1	זה	_	PRP	PRP	gen=M|num=S|per=3	2	subj	_	_
+2	ילמד	_	VB	VB	gen=M|num=S|per=3|tense=FUTURE	0	ROOT	_	_
+3	אותם	_	DT	DT	suf_gen=M|suf_num=P|suf_per=3	2	dep	_	_
+4	לקח	_	NN	NN	gen=M|num=S	2	obj	_	_
+5	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	הו	_	INTJ	INTJ	_	0	ROOT	_	_
+2	...	_	yyELPS	yyELPS	_	1	compound	_	_
+3	מה	_	QW	QW	_	2	pobj	_	_
+4	ה	_	DEF	DEF	_	5	def	_	_
+5	טעם	_	NN	NN	gen=M|num=S	3	subj	_	_
+6	?	_	yyQM	yyQM	_	1	punct	_	_
+
+1	ה	_	DEF	DEF	_	2	def	_	_
+2	אביב	_	NN	NN	gen=M|num=S	3	subj	_	_
+3	הגיע	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+4	,	_	yyCM	yyCM	_	3	punct	_	_
+5	עת	_	NN	NN	gen=F|num=S	6	subj	_	_
+6	לשיר	_	VB	VB	_	3	hd	_	_
+7	"	_	yyQUOT	yyQUOT	_	9	punct	_	_
+8	.	_	yyDOT	yyDOT	_	9	ccomp	_	_
+9	"	_	yyQUOT	yyQUOT	_	6	comp	_	_
+
+1	תמיד	_	RB	RB	_	6	advmod	_	_
+2	זה	_	PRP	PRP	gen=M|num=S|per=3	6	subj	_	_
+3	כך	_	RB	RB	_	6	advmod	_	_
+4	,	_	yyCM	yyCM	_	6	punct	_	_
+5	כל	_	DTT	DTT	_	6	det	_	_
+6	אביב	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+7	את	_	AT	AT	_	9	number	_	_
+8	הוא	_	S_PRN	S_PRN	gen=M|num=S|per=3	7	hd	_	_
+9	דבר	_	NN	NN	gen=M|num=S	6	hd	_	_
+10	.	_	yyDOT	yyDOT	_	6	punct	_	_
+
+1	ה	_	DEF	DEF	_	2	def	_	_
+2	אביב	_	NN	NN	gen=M|num=S	4	subj	_	_
+3	הוא	_	PRP	PRP	gen=M|num=S|per=3	2	amod	_	_
+4	חג	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+5	ל	_	PREPOSITION	PREPOSITION	_	4	prepmod	_	_
+6	אהבה	_	NN	NN	gen=F|num=S	5	pobj	_	_
+7	.	_	yyDOT	yyDOT	_	4	punct	_	_
+
+1	אני	_	PRP	PRP	gen=F,M|num=S|per=1	2	subj	_	_
+2	קורא	_	BN	BN	gen=M|num=S|per=A	5	ccomp	_	_
+3	ל	_	PREPOSITION	PREPOSITION	_	2	prepmod	_	_
+4	זה	_	PRP	PRP	gen=M|num=S|per=3	3	pobj	_	_
+5	כאב	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+6	ראש	_	NN	NN	gen=M|num=S	5	subj	_	_
+7	אחד	_	CD	CD	gen=M|num=S	6	num	_	_
+8	גדול	_	JJ	JJ	gen=M|num=S	6	amod	_	_
+
+1	די	_	RB	RB	_	2	mod	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	הסתלקו	_	VB	VB	gen=F,M|num=P|per=3|tense=PAST	6	prd	_	_
+2	מ	_	PREPOSITION	PREPOSITION	_	1	prepmod	_	_
+3	כאן	_	RB	RB	_	2	pobj	_	_
+4	,	_	yyCM	yyCM	_	1	punct	_	_
+5	כולכם	_	DT	DT	suf_gen=M|suf_num=P|suf_per=2	1	parataxis	_	_
+6	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	ו	_	CONJ	CONJ	_	4	cc	_	_
+2	גם	_	RB	RB	_	4	advmod	_	_
+3	אתה	_	PRP	PRP	gen=M|num=S|per=2	4	subj	_	_
+4	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	שלום	_	NN	NN	gen=M|num=S	2	hd	_	_
+2	אדון	_	TTL	TTL	gen=M|num=S	3	subj	_	_
+3	ינשוף	_	VB	VB	gen=M|num=S|per=3|tense=FUTURE	0	ROOT	_	_
+4	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	אינך	_	COP	COP	gen=F|num=S|per=2	2	neg	_	_
+2	זוכר	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+3	את	_	AT	AT	_	2	obj	_	_
+4	אני	_	S_PRN	S_PRN	gen=F,M|num=S|per=1	3	hd	_	_
+5	?	_	yyQM	yyQM	_	2	punct	_	_
+
+1	הרי	_	CC	CC	_	4	advmod	_	_
+2	זהו	_	PRP	PRP	gen=M|num=S|per=3	4	subj	_	_
+3	ה	_	DEF	DEF	_	4	def	_	_
+4	נסיך	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+5	ה	_	DEF	DEF	_	6	def	_	_
+6	צעיר	_	JJ	JJ	gen=M|num=S	4	amod	_	_
+7	.	_	yyDOT	yyDOT	_	4	punct	_	_
+
+1	במבי	_	NNP	NNP	gen=F,M|num=S	2	subj	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	וואהו	_	NNP	NNP	gen=F,M|num=S	2	hd	_	_
+2	...	_	yyELPS	yyELPS	_	3	subj	_	_
+3	השתנית	_	VB	VB	gen=M|num=S|per=2|tense=PAST	0	ROOT	_	_
+4	מאוד	_	RB	RB	_	3	advmod	_	_
+5	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	הסתובב	_	VB	VB	gen=M|num=S|per=3|tense=PAST	4	dep	_	_
+2	,	_	yyCM	yyCM	_	4	punct	_	_
+3	בוא	_	NN	NN	gen=M|num=S	4	subj	_	_
+4	נראה	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+5	את	_	AT	AT	_	4	obj	_	_
+6	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	5	hd	_	_
+7	.	_	yyDOT	yyDOT	_	4	punct	_	_
+
+1	הו	_	INTJ	INTJ	_	4	ccomp	_	_
+2	,	_	yyCM	yyCM	_	4	punct	_	_
+3	אני	_	PRP	PRP	gen=F,M|num=S|per=1	4	subj	_	_
+4	רואה	_	BN	BN	gen=F|num=S|per=A	13	hd	_	_
+5	ש	_	REL	REL	_	4	rcmod	_	_
+6	החלפת	_	VB	VB	gen=M|num=S|per=2|tense=PAST	5	relcomp	_	_
+7	את	_	AT	AT	_	6	obj	_	_
+8	ה	_	DEF	DEF	_	9	def	_	_
+9	כתמים	_	NN	NN	gen=M|num=P	7	hd	_	_
+10	,	_	yyCM	yyCM	_	13	punct	_	_
+11	זוג	_	NNT	NNT	gen=M|num=S	13	subj	_	_
+12	קרניים	_	NN	NN	gen=F|num=P	11	gobj	_	_
+13	חדשות	_	JJ	JJ	gen=F|num=P	0	ROOT	_	_
+
+1	אתה	_	PRP	PRP	gen=M|num=S|per=2	2	subj	_	_
+2	יודע	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+3	,	_	yyCM	yyCM	_	2	punct	_	_
+4	רק	_	RB	RB	_	6	advmod	_	_
+5	אתמול	_	RB	RB	_	4	hd	_	_
+6	שוחחתי	_	VB	VB	gen=F,M|num=S|per=1|tense=PAST	2	hd	_	_
+7	עם	_	IN	IN	_	6	prepmod	_	_
+8	עצמי	_	PRP	PRP	gen=F,M|num=S|per=1	7	pobj	_	_
+9	עליך	_	NN	NN	gen=M|num=P|suf_gen=M|suf_num=S|suf_per=2	6	subj	_	_
+10	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	ו	_	CONJ	CONJ	_	2	cc	_	_
+2	תהינו	_	VB	VB	gen=F,M|num=P|per=1|tense=PAST	0	ROOT	_	_
+3	,	_	yyCM	yyCM	_	2	punct	_	_
+4	מה	_	QW	QW	_	5	subj	_	_
+5	את	_	IN	IN	_	2	ccomp	_	_
+6	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	5	pobj	_	_
+7	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	שלום	_	NN	NN	gen=M|num=S	3	subj	_	_
+2	,	_	yyCM	yyCM	_	3	punct	_	_
+3	ב	_	PREPOSITION	PREPOSITION	_	0	ROOT	_	_
+4	מבי	_	NN	NN	gen=F|num=P	3	pobj	_	_
+5	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	אתה	_	PRP	PRP	gen=M|num=S|per=2	2	subj	_	_
+2	זוכר	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+3	את	_	AT	AT	_	2	obj	_	_
+4	אני	_	S_PRN	S_PRN	gen=F,M|num=S|per=1	3	hd	_	_
+5	?	_	yyQM	yyQM	_	2	punct	_	_
+
+1	טמפר	_	NNP	NNP	gen=F,M|num=S	0	ROOT	_	_
+2	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	נכון	_	JJ	JJ	gen=M|num=S	0	ROOT	_	_
+2	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	שלום	_	NNT	NNT	gen=M|num=S	0	ROOT	_	_
+2	חברים	_	NN	NN	gen=M|num=P	1	gobj	_	_
+3	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	פרח	_	NN	NN	gen=M|num=S	2	subj	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	כן	_	RB	RB	_	4	advmod	_	_
+2	...	_	yyELPS	yyELPS	_	4	subj	_	_
+3	מה	_	QW	QW	_	4	advmod	_	_
+4	קרה	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+5	ל	_	IN	IN	_	4	prepmod	_	_
+6	הם	_	S_PRN	S_PRN	gen=M|num=P|per=3	5	pobj	_	_
+7	?	_	yyQM	yyQM	_	4	punct	_	_
+
+1	מדוע	_	QW	QW	_	3	advmod	_	_
+2	הם	_	PRP	PRP	gen=M|num=P|per=3	3	subj	_	_
+3	מתנהגים	_	BN	BN	gen=M|num=P|per=A	0	ROOT	_	_
+4	כך	_	RB	RB	_	3	advmod	_	_
+5	?	_	yyQM	yyQM	_	3	punct	_	_
+
+1	מה	_	QW	QW	_	4	advmod	_	_
+2	,	_	yyCM	yyCM	_	4	punct	_	_
+3	אינכם	_	COP	COP	gen=M|num=P|per=2	4	aux	_	_
+4	יודעים	_	BN	BN	gen=M|num=P|per=A	0	ROOT	_	_
+5	?	_	yyQM	yyQM	_	4	punct	_	_
+
+1	זו	_	PRP	PRP	gen=F|num=S|per=3	2	subj	_	_
+2	קדחת	_	NNT	NNT	gen=F|num=S	0	ROOT	_	_
+3	ה	_	DEF	DEF	_	4	def	_	_
+4	אביב	_	NN	NN	gen=M|num=S	2	gobj	_	_
+5	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	קדחת	_	NNT	NNT	gen=F|num=S	0	ROOT	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	אביב	_	NN	NN	gen=M|num=S	1	gobj	_	_
+4	?	_	yyQM	yyQM	_	1	punct	_	_
+
+1	כן	_	RB	RB	_	7	parataxis	_	_
+2	,	_	yyCM	yyCM	_	7	punct	_	_
+3	כ	_	PREPOSITION	PREPOSITION	_	7	prepmod	_	_
+4	ימעט	_	VB	VB	gen=M|num=S|per=3|tense=FUTURE	3	prep	_	_
+5	כל	_	DTT	DTT	_	6	det	_	_
+6	אחד	_	CD	CD	gen=M|num=S	3	pobj	_	_
+7	נדבק	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+8	ב	_	PREPOSITION	PREPOSITION	_	7	prepmod	_	_
+9	קדחת	_	NNT	NNT	gen=F|num=S	8	pobj	_	_
+10	ה	_	DEF	DEF	_	11	def	_	_
+11	אביב	_	NN	NN	gen=M|num=S	9	gobj	_	_
+12	,	_	yyCM	yyCM	_	7	punct	_	_
+13	ב	_	PREPOSITION	PREPOSITION	_	7	prepmod	_	_
+14	עונת	_	NNT	NNT	gen=F|num=S	13	pobj	_	_
+15	ה	_	DEF	DEF	_	16	def	_	_
+16	אביב	_	NN	NN	gen=M|num=S	14	gobj	_	_
+17	כן	_	PRP	PRP	per=3	16	dep	_	_
+18	,	_	yyCM	yyCM	_	7	punct	_	_
+19	כ	_	PREPOSITION	PREPOSITION	_	7	comp	_	_
+20	ימעט	_	VB	VB	gen=M|num=S|per=3|tense=FUTURE	32	conj	_	_
+21	כל	_	DTT	DTT	_	22	det	_	_
+22	אחד	_	CD	CD	gen=M|num=S	20	subj	_	_
+23	נדבק	_	VB	VB	gen=M|num=S|per=3|tense=PAST	20	xcomp	_	_
+24	ב	_	PREPOSITION	PREPOSITION	_	23	prepmod	_	_
+25	קדחת	_	NNT	NNT	gen=F|num=S	24	pobj	_	_
+26	ה	_	DEF	DEF	_	27	def	_	_
+27	אביב	_	NN	NN	gen=M|num=S	25	gobj	_	_
+28	,	_	yyCM	yyCM	_	23	punct	_	_
+29	ב	_	PREPOSITION	PREPOSITION	_	20	prepmod	_	_
+30	עונת	_	NNT	NNT	gen=F|num=S	29	pobj	_	_
+31	ה	_	DEF	DEF	_	32	def	_	_
+32	אביב	_	NN	NN	gen=M|num=S	19	pobj	_	_
+
+1	ל	_	PREPOSITION	PREPOSITION	_	5	prepmod	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	דוגמא	_	NN	NN	gen=F|num=S	1	pobj	_	_
+4	,	_	yyCM	yyCM	_	5	punct	_	_
+5	נניח	_	VB	VB	gen=F,M|num=P|per=1|tense=FUTURE	0	ROOT	_	_
+6	ש	_	REL	REL	_	5	comp	_	_
+7	אתה	_	PRP	PRP	gen=M|num=S|per=2	8	subj	_	_
+8	צועד	_	BN	BN	gen=M|num=S|per=A	6	ccomp	_	_
+9	ל	_	PREPOSITION	PREPOSITION	_	8	prepmod	_	_
+10	ה	_	DEF	DEF	_	11	def	_	_
+11	תומך	_	NN	NN	gen=M|num=S	9	pobj	_	_
+12	,	_	yyCM	yyCM	_	36	punct	_	_
+13	שקוע	_	JJ	JJ	gen=M|num=S	36	punct	_	_
+14	ב	_	PREPOSITION	PREPOSITION	_	36	prepmod	_	_
+15	מחשבותיך	_	NN	NN	gen=F|num=P|suf_gen=M|suf_num=S|suf_per=2	14	pobj	_	_
+16	.	_	yyDOT	yyDOT	_	36	cc	_	_
+17	מביט	_	BN	BN	gen=M|num=S|per=A	36	prd	_	_
+18	שמאלה	_	RB	RB	_	17	advmod	_	_
+19	,	_	yyCM	yyCM	_	36	punct	_	_
+20	מביט	_	BN	BN	gen=M|num=S|per=A	36	prd	_	_
+21	ימינה	_	RB	RB	_	20	advmod	_	_
+22	.	_	yyDOT	yyDOT	_	36	cop	_	_
+23	כש	_	TEMP	TEMP	_	36	number	_	_
+24	לפתע	_	RB	RB	_	28	tmod	_	_
+25	פתאום	_	RB	RB	_	28	advmod	_	_
+26	,	_	yyCM	yyCM	_	28	punct	_	_
+27	אתה	_	PRP	PRP	gen=M|num=S|per=2	28	subj	_	_
+28	רואה	_	BN	BN	gen=F|num=S|per=A	36	hd	_	_
+29	ל	_	PREPOSITION	PREPOSITION	_	28	prepmod	_	_
+30	נגד	_	NN	NN	gen=M|num=S	29	pobj	_	_
+31	עיניך	_	NN	NN	gen=F|num=P|suf_gen=M|suf_num=S|suf_per=2	28	subj	_	_
+32	פנים	_	NN	NN	gen=F,M|num=P	28	obj	_	_
+33	כל	_	DTT	DTT	_	34	mod	_	_
+34	כך	_	RB	RB	_	35	mod	_	_
+35	יפות	_	JJ	JJ	gen=F|num=P	32	amod	_	_
+36	.	_	yyDOT	yyDOT	_	5	punct	_	_
+
+1	ו	_	CONJ	CONJ	_	4	cc	_	_
+2	אז	_	RB	RB	_	4	advmod	_	_
+3	אתה	_	PRP	PRP	gen=M|num=S|per=2	4	subj	_	_
+4	מתחיל	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+5	לחוש	_	VB	VB	_	4	xcomp	_	_
+6	ב	_	PREPOSITION	PREPOSITION	_	5	comp	_	_
+7	גופך	_	NN	NN	gen=M|num=S|suf_gen=M|suf_num=S|suf_per=2	6	pobj	_	_
+8	מן	_	IN	IN	_	5	prepmod	_	_
+9	צמרמורת	_	NN	NN	gen=F|num=S	8	pobj	_	_
+10	.	_	yyDOT	yyDOT	_	4	punct	_	_
+
+1	ה	_	DEF	DEF	_	2	def	_	_
+2	ראש	_	NN	NN	gen=M|num=S	5	subj	_	_
+3	של	_	IN	IN	_	2	prepmod	_	_
+4	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	3	pobj	_	_
+5	מתחיל	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+6	להסתובב	_	VB	VB	_	5	xcomp	_	_
+7	!	_	yyEXCL	yyEXCL	_	5	punct	_	_
+
+1	ו	_	CONJ	CONJ	_	3	cc	_	_
+2	אתה	_	PRP	PRP	gen=M|num=S|per=2	3	subj	_	_
+3	מרגיש	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+4	שאתה	_	NN	NN	gen=F|num=S|suf_gen=F|suf_num=S|suf_per=3	3	obj	_	_
+5	קל	_	JJ	JJ	gen=M|num=S	4	amod	_	_
+6	כ	_	PREPOSITION	PREPOSITION	_	3	comp	_	_
+7	ה	_	DEF	DEF	_	8	def	_	_
+8	נוצה	_	NN	NN	gen=F|num=S	6	pobj	_	_
+9	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	ו	_	CONJ	CONJ	_	10	cc	_	_
+2	מבלי	_	IN	IN	_	10	prepmod	_	_
+3	ש	_	REL	REL	_	2	pobj	_	_
+4	תשים	_	VB	VB	gen=F|num=S|per=3|tense=FUTURE	3	ccomp	_	_
+5	לב	_	NN	NN	gen=M|num=S	4	obj	_	_
+6	ל	_	PREPOSITION	PREPOSITION	_	4	comp	_	_
+7	כך	_	PRP	PRP	per=3	6	pobj	_	_
+8	,	_	yyCM	yyCM	_	10	punct	_	_
+9	אתה	_	PRP	PRP	gen=M|num=S|per=2	10	subj	_	_
+10	מרחף	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+11	ב	_	PREPOSITION	PREPOSITION	_	10	prepmod	_	_
+12	ה	_	DEF	DEF	_	13	def	_	_
+13	אויר	_	NN	NN	gen=M|num=S	11	pobj	_	_
+14	.	_	yyDOT	yyDOT	_	10	punct	_	_
+
+1	ו	_	CONJ	CONJ	_	3	cc	_	_
+2	אתם	_	PRP	PRP	gen=M|num=P|per=2	3	subj	_	_
+3	יודעים	_	BN	BN	gen=M|num=P|per=A	0	ROOT	_	_
+4	מה	_	QW	QW	_	5	advmod	_	_
+5	קרה	_	BN	BN	gen=M|num=S|per=A	3	comp	_	_
+6	את	_	POS	POS	_	5	obj	_	_
+7	היא	_	S_PRN	S_PRN	gen=F|num=S|per=3	6	gobj	_	_
+8	אז	_	RB	RB	_	5	advmod	_	_
+9	?	_	yyQM	yyQM	_	3	punct	_	_
+
+1	אתה	_	PRP	PRP	gen=M|num=S|per=2	2	subj	_	_
+2	מסתחרר	_	BN	BN	gen=M|num=S|per=A	4	conj	_	_
+3	,	_	yyCM	yyCM	_	4	punct	_	_
+4	ו	_	CONJ	CONJ	_	0	ROOT	_	_
+5	מאבד	_	BN	BN	gen=M|num=S|per=A	4	conj	_	_
+6	לגמרי	_	RB	RB	_	5	advmod	_	_
+7	את	_	AT	AT	_	5	obj	_	_
+8	ה	_	DEF	DEF	_	9	def	_	_
+9	ראש	_	NN	NN	gen=M|num=S	7	hd	_	_
+10	!	_	yyEXCL	yyEXCL	_	4	punct	_	_
+
+1	הו	_	INTJ	INTJ	_	5	cc	_	_
+2	,	_	yyCM	yyCM	_	5	punct	_	_
+3	זה	_	PRP	PRP	gen=M|num=S|per=3	5	subj	_	_
+4	נורא	_	JJ	JJ	gen=M|num=S	3	amod	_	_
+5	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	יו	_	NNP	NNP	gen=M|num=S	2	subj	_	_
+2	...	_	yyELPS	yyELPS	_	0	ROOT	_	_
+
+1	ממש	_	RB	RB	_	2	mod	_	_
+2	נורא	_	RB	RB	_	3	advmod	_	_
+3	..	_	NNP	NNP	gen=F,M|num=S	0	ROOT	_	_
+
+1	ו	_	CONJ	CONJ	_	4	cc	_	_
+2	זה	_	PRP	PRP	gen=M|num=S|per=3	4	subj	_	_
+3	עוד	_	RB	RB	_	4	mod	_	_
+4	לא	_	RB	RB	_	0	ROOT	_	_
+5	ה	_	DEF	DEF	_	4	dep	_	_
+6	כל	_	DTT	DTT	_	5	dep	_	_
+7	.	_	yyDOT	yyDOT	_	4	punct	_	_
+
+1	זה	_	PRP	PRP	gen=M|num=S|per=3	2	subj	_	_
+2	עלול	_	MD	MD	gen=M|num=S|per=A	0	ROOT	_	_
+3	לקרות	_	VB	VB	_	2	xcomp	_	_
+4	ל	_	PREPOSITION	PREPOSITION	_	3	comp	_	_
+5	כל	_	DTT	DTT	_	6	det	_	_
+6	אחד	_	CD	CD	gen=M|num=S	4	pobj	_	_
+7	מן	_	IN	IN	_	3	prepmod	_	_
+8	אתם	_	S_PRN	S_PRN	gen=M|num=P|per=2	7	pobj	_	_
+9	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	ו	_	CONJ	CONJ	_	6	cc	_	_
+2	לכן	_	CC	CC	_	6	parataxis	_	_
+3	,	_	yyCM	yyCM	_	6	punct	_	_
+4	על	_	IN	IN	_	6	prepmod	_	_
+5	אתם	_	S_PRN	S_PRN	gen=M|num=P|per=2	4	pobj	_	_
+6	להיזהר	_	VB	VB	_	0	ROOT	_	_
+7	.	_	yyDOT	yyDOT	_	6	punct	_	_
+
+1	ו	_	CONJ	CONJ	_	5	cc	_	_
+2	ל	_	IN	IN	_	4	prepmod	_	_
+3	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	2	pobj	_	_
+4	!	_	yyEXCL	yyEXCL	_	5	conj	_	_
+5	ו	_	CONJ	CONJ	_	0	ROOT	_	_
+6	גם	_	RB	RB	_	7	mod	_	_
+7	ל	_	IN	IN	_	5	prepmod	_	_
+8	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	7	pobj	_	_
+9	!	_	yyEXCL	yyEXCL	_	14	punct	_	_
+10	זה	_	PRP	PRP	gen=M|num=S|per=3	11	subj	_	_
+11	עלול	_	MD	MD	gen=M|num=S|per=A	14	conj	_	_
+12	לקרות	_	VB	VB	_	11	xcomp	_	_
+13	ל	_	IN	IN	_	14	punct	_	_
+14	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	5	punct	_	_
+15	...	_	yyELPS	yyELPS	_	5	punct	_	_
+
+1	הי	_	INTJ	INTJ	_	0	ROOT	_	_
+2	,	_	yyCM	yyCM	_	1	punct	_	_
+3	ל	_	IN	IN	_	7	prepmod	_	_
+4	אני	_	S_PRN	S_PRN	gen=F,M|num=S|per=1	3	pobj	_	_
+5	זה	_	PRP	PRP	gen=M|num=S|per=3	7	subj	_	_
+6	לא	_	RB	RB	_	7	advmod	_	_
+7	יקרה	_	JJ	JJ	gen=F|num=S	1	hd	_	_
+8	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	גם	_	RB	RB	_	2	mod	_	_
+2	ל	_	IN	IN	_	0	ROOT	_	_
+3	אני	_	S_PRN	S_PRN	gen=F,M|num=S|per=1	2	pobj	_	_
+4	לא	_	RB	RB	_	2	mod	_	_
+5	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	ו	_	CONJ	CONJ	_	3	cc	_	_
+2	גם	_	RB	RB	_	3	mod	_	_
+3	ל	_	IN	IN	_	0	ROOT	_	_
+4	אני	_	S_PRN	S_PRN	gen=F,M|num=S|per=1	3	pobj	_	_
+5	לא	_	RB	RB	_	3	advmod	_	_
+6	..	_	NNP	NNP	gen=F,M|num=S	3	subj	_	_
+
+1	ו	_	CONJ	CONJ	_	3	cc	_	_
+2	גם	_	RB	RB	_	3	mod	_	_
+3	ל	_	IN	IN	_	0	ROOT	_	_
+4	אני	_	S_PRN	S_PRN	gen=F,M|num=S|per=1	3	pobj	_	_
+5	לא	_	RB	RB	_	3	advmod	_	_
+6	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	קדחת	_	NNT	NNT	gen=F|num=S	0	ROOT	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	אביב	_	NN	NN	gen=M|num=S	1	gobj	_	_
+4	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	שלום	_	NN	NN	gen=M|num=S	3	subj	_	_
+2	,	_	yyCM	yyCM	_	3	punct	_	_
+3	ב	_	PREPOSITION	PREPOSITION	_	0	ROOT	_	_
+4	מבי	_	NN	NN	gen=F|num=P	3	pobj	_	_
+5	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	אינך	_	COP	COP	gen=F|num=S|per=2	2	neg	_	_
+2	זוכר	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+3	את	_	AT	AT	_	2	obj	_	_
+4	אני	_	S_PRN	S_PRN	gen=F,M|num=S|per=1	3	hd	_	_
+5	?	_	yyQM	yyQM	_	2	punct	_	_
+
+1	זאת	_	PRP	PRP	gen=F|num=S|per=3	2	subj	_	_
+2	אני	_	PRP	PRP	gen=F,M|num=S|per=1	0	ROOT	_	_
+3	,	_	yyCM	yyCM	_	2	punct	_	_
+4	פלין	_	NNP	NNP	gen=F,M|num=S	3	prep	_	_
+5	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	במבי	_	NNP	NNP	gen=F,M|num=S	0	ROOT	_	_
+2	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	3	punct	_	_
+2	אני	_	PRP	PRP	gen=F,M|num=S|per=1	3	subj	_	_
+3	שר	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+4	ל	_	IN	IN	_	3	prepmod	_	_
+5	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	4	pobj	_	_
+6	את	_	AT	AT	_	3	obj	_	_
+7	ה	_	DEF	DEF	_	8	def	_	_
+8	שיר	_	NN	NN	gen=M|num=S	6	hd	_	_
+9	..	_	NNP	NNP	gen=F,M|num=S	8	nn	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	5	punct	_	_
+2	ו	_	CONJ	CONJ	_	5	cc	_	_
+3	כש	_	TEMP	TEMP	_	5	ccomp	_	_
+4	אני	_	PRP	PRP	gen=F,M|num=S|per=1	5	subj	_	_
+5	שר	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+6	את	_	AT	AT	_	5	obj	_	_
+7	לצד	_	IN	IN	_	6	prepmod	_	_
+8	אני	_	S_PRN	S_PRN	gen=F,M|num=S|per=1	7	pobj	_	_
+9	..	_	NNP	NNP	gen=F,M|num=S	5	subj	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	4	punct	_	_
+2	ו	_	CONJ	CONJ	_	4	cc	_	_
+3	אני	_	PRP	PRP	gen=F,M|num=S|per=1	4	subj	_	_
+4	רוצה	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+5	ש	_	REL	REL	_	4	comp	_	_
+6	תדעי	_	VB	VB	gen=F|num=S|per=2|tense=FUTURE	5	ccomp	_	_
+7	..	_	NNP	NNP	gen=F,M|num=S	6	subj	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	ש	_	REL	REL	_	1	rcmod	_	_
+3	את	_	AT	AT	_	6	obj	_	_
+4	תמיד	_	RB	RB	_	3	advmod	_	_
+5	תמיד	_	RB	RB	_	3	mod	_	_
+6	איתי	_	NNP	NNP	gen=M|num=S	2	relcomp	_	_
+7	..	_	NNP	NNP	gen=F,M|num=S	6	nn	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	3	punct	_	_
+2	אני	_	PRP	PRP	gen=F,M|num=S|per=1	3	subj	_	_
+3	שר	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+4	ל	_	IN	IN	_	3	prepmod	_	_
+5	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	4	pobj	_	_
+6	את	_	AT	AT	_	3	obj	_	_
+7	ה	_	DEF	DEF	_	8	def	_	_
+8	שיר	_	NN	NN	gen=M|num=S	6	hd	_	_
+9	..	_	NNP	NNP	gen=F,M|num=S	8	nn	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	3	punct	_	_
+2	ו	_	CONJ	CONJ	_	3	hd	_	_
+3	רוצה	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+4	ש	_	REL	REL	_	3	comp	_	_
+5	תראי	_	VB	VB	gen=F|num=S|per=2|tense=FUTURE	3	xcomp	_	_
+6	..	_	NNP	NNP	gen=F,M|num=S	5	nn	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	4	punct	_	_
+2	את	_	AT	AT	_	4	mod	_	_
+3	תמיד	_	RB	RB	_	4	mod	_	_
+4	בתוך	_	IN	IN	_	0	ROOT	_	_
+5	ליבי	_	NNP	NNP	gen=F|num=S	4	pobj	_	_
+6	..	_	NNP	NNP	gen=F,M|num=S	5	nn	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	3	punct	_	_
+2	ב	_	PREPOSITION	PREPOSITION	_	3	prd	_	_
+3	אהבתי	_	VB	VB	gen=F,M|num=S|per=1|tense=PAST	0	ROOT	_	_
+4	אני	_	PRP	PRP	gen=F,M|num=S|per=1	3	subj	_	_
+5	אזכור	_	VB	VB	gen=F,M|num=S|per=1|tense=FUTURE	3	xcomp	_	_
+6	...	_	yyELPS	yyELPS	_	3	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	7	punct	_	_
+2	חיוכך	_	NN	NN	gen=M|num=S|suf_gen=M|suf_num=S|suf_per=2	4	hd	_	_
+3	מאיר	_	BN	BN	gen=M|num=S|per=A	2	amod	_	_
+4	ו	_	CONJ	CONJ	_	7	subj	_	_
+5	את	_	AT	AT	_	4	hd	_	_
+6	אני	_	S_PRN	S_PRN	gen=F,M|num=S|per=1	5	hd	_	_
+7	ישמור	_	VB	VB	gen=M|num=S|per=3|tense=FUTURE	0	ROOT	_	_
+8	...	_	yyELPS	yyELPS	_	7	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	2	punct	_	_
+2	תמצא	_	VB	VB	gen=F|num=S|per=3|tense=FUTURE	0	ROOT	_	_
+3	אהבה	_	NN	NN	gen=F|num=S	2	subj	_	_
+4	כש	_	TEMP	TEMP	_	2	ccomp	_	_
+5	אתה	_	PRP	PRP	gen=M|num=S|per=2	6	subj	_	_
+6	צעיר	_	JJ	JJ	gen=M|num=S	8	conj	_	_
+7	,	_	yyCM	yyCM	_	8	punct	_	_
+8	ו	_	CONJ	CONJ	_	4	ccomp	_	_
+9	אולי	_	RB	RB	_	11	advmod	_	_
+10	עכשיו	_	RB	RB	_	11	advmod	_	_
+11	חודש	_	VB	VB	gen=M|num=S|per=3|tense=PAST	8	conj	_	_
+12	מ	_	PREPOSITION	PREPOSITION	_	11	comp	_	_
+13	אי	_	P	P	_	14	punct	_	_
+14	"	_	yyQUOT	yyQUOT	_	2	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	3	punct	_	_
+2	תמיד	_	RB	RB	_	3	advmod	_	_
+3	תדע	_	VB	VB	gen=F|num=S|per=3|tense=FUTURE	0	ROOT	_	_
+4	ב	_	PREPOSITION	PREPOSITION	_	3	prepmod	_	_
+5	יום	_	NN	NN	gen=M|num=S	4	pobj	_	_
+6	יפה	_	JJ	JJ	gen=M|num=S	5	amod	_	_
+7	כל	_	DTT	DTT	_	8	mod	_	_
+8	כך	_	RB	RB	_	3	advmod	_	_
+9	"	_	yyQUOT	yyQUOT	_	3	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	4	punct	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	אמת	_	NN	NN	gen=F|num=S	4	subj	_	_
+4	ממנה	_	VB	VB	gen=F|num=S|per=3|tense=PAST	0	ROOT	_	_
+5	לא	_	RB	RB	_	4	advmod	_	_
+6	תברח	_	VB	VB	gen=F|num=S|per=3|tense=FUTURE	4	xcomp	_	_
+
+1	את	_	AT	AT	_	7	obj	_	_
+2	חום	_	NNT	NNT	gen=M|num=S	1	hd	_	_
+3	אהבתך	_	NN	NN	gen=F|num=S|suf_gen=M|suf_num=S|suf_per=2	2	gobj	_	_
+4	תמיד	_	RB	RB	_	2	mod	_	_
+5	ב	_	PREPOSITION	PREPOSITION	_	2	prepmod	_	_
+6	ליבה	_	NNP	NNP	_	5	pobj	_	_
+7	תיקח	_	VB	VB	gen=F|num=S|per=3|tense=FUTURE	0	ROOT	_	_
+8	...	_	yyELPS	yyELPS	_	7	subj	_	_
+9	"	_	yyQUOT	yyQUOT	_	8	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	כש	_	TEMP	TEMP	_	9	conj	_	_
+3	ה	_	DEF	DEF	_	4	def	_	_
+4	אושר	_	NN	NN	gen=M|num=S	7	subj	_	_
+5	ה	_	DEF	DEF	_	6	def	_	_
+6	נכסף	_	JJ	JJ	gen=M|num=S	4	amod	_	_
+7	ימצא	_	VB	VB	gen=M|num=S|per=3|tense=FUTURE	2	ccomp	_	_
+8	,	_	yyCM	yyCM	_	9	punct	_	_
+9	ו	_	CONJ	CONJ	_	18	dep	_	_
+10	הוא	_	PRP	PRP	gen=M|num=S|per=3	12	subj	_	_
+11	כה	_	RB	RB	_	12	mod	_	_
+12	מושלם	_	JJ	JJ	gen=M|num=S	9	conj	_	_
+13	ש	_	REL	REL	_	9	rcmod	_	_
+14	נילבבותשם	_	NNP	NNP	gen=M|num=S	15	subj	_	_
+15	יתאחדו	_	VB	VB	gen=F,M|num=P|per=3|tense=FUTURE	13	relcomp	_	_
+16	,	_	yyCM	yyCM	_	18	punct	_	_
+17	אהבהענקיתבם	_	NNP	NNP	gen=F,M|num=S	18	subj	_	_
+18	תפעם	_	VB	VB	gen=F|num=S|per=3|tense=FUTURE	1	hd	_	_
+19	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	ריקוד	_	NN	NN	gen=M|num=S	7	subj	_	_
+3	שקט	_	JJ	JJ	gen=M|num=S	2	amod	_	_
+4	לאור	_	IN	IN	_	2	prepmod	_	_
+5	ה	_	DEF	DEF	_	6	def	_	_
+6	לבנה	_	NN	NN	gen=F|num=S	4	pobj	_	_
+7	ו	_	CONJ	CONJ	_	14	conj	_	_
+8	ב	_	PREPOSITION	PREPOSITION	_	7	prepmod	_	_
+9	חיבוק	_	NNT	NNT	gen=M|num=S	8	pobj	_	_
+10	חומה	_	NN	NN	gen=F|num=S	9	gobj	_	_
+11	של	_	POS	POS	_	10	gen	_	_
+12	אהבה	_	NN	NN	gen=F|num=S	11	gobj	_	_
+13	ישנה	_	JJ	JJ	gen=F|num=S	12	amod	_	_
+14	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	2	punct	_	_
+2	אביא	_	VB	VB	gen=F,M|num=S|per=1|tense=FUTURE	0	ROOT	_	_
+3	אז	_	RB	RB	_	2	advmod	_	_
+4	ל	_	IN	IN	_	2	prepmod	_	_
+5	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	4	pobj	_	_
+6	את	_	AT	AT	_	2	obj	_	_
+7	ה	_	DEF	DEF	_	8	def	_	_
+8	מנגינה	_	NN	NN	gen=F|num=S	6	hd	_	_
+9	"	_	yyQUOT	yyQUOT	_	2	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	3	punct	_	_
+2	אני	_	PRP	PRP	gen=F,M|num=S|per=1	3	subj	_	_
+3	שר	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+4	ל	_	IN	IN	_	3	prepmod	_	_
+5	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	4	pobj	_	_
+6	את	_	AT	AT	_	3	obj	_	_
+7	ה	_	DEF	DEF	_	8	def	_	_
+8	שיר	_	NN	NN	gen=M|num=S	6	hd	_	_
+9	..	_	NNP	NNP	gen=F,M|num=S	8	nn	_	_
+
+1	ו	_	CONJ	CONJ	_	10	cc	_	_
+2	כשאנישראת	_	NNP	NNP	_	6	hd	_	_
+3	לצד	_	IN	IN	_	2	prepmod	_	_
+4	אני	_	S_PRN	S_PRN	gen=F,M|num=S|per=1	3	pobj	_	_
+5	..	_	NNP	NNP	gen=F,M|num=S	2	nn	_	_
+6	ו	_	CONJ	CONJ	_	10	subj	_	_
+7	אור	_	NNT	NNT	gen=M|num=S	6	hd	_	_
+8	ה	_	DEF	DEF	_	9	def	_	_
+9	ירח	_	NN	NN	gen=M|num=S	7	gobj	_	_
+10	את	_	AT	AT	_	0	ROOT	_	_
+11	דרך	_	IN	IN	_	10	prepmod	_	_
+12	אנחנו	_	S_PRN	S_PRN	gen=F,M|num=P|per=1	11	pobj	_	_
+13	מאיר	_	NNP	NNP	gen=M|num=S	14	punct	_	_
+14	"	_	yyQUOT	yyQUOT	_	10	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	11	punct	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	אור	_	NN	NN	gen=M|num=S	4	subj	_	_
+4	קסום	_	VB	VB	gen=M|num=S|per=2|tense=IMPERATIVE	11	conj	_	_
+5	את	_	AT	AT	_	4	obj	_	_
+6	אנחנו	_	S_PRN	S_PRN	gen=F,M|num=P|per=1	5	hd	_	_
+7	סובב	_	NN	NN	gen=M|num=S	4	obj	_	_
+8	מלטף	_	BN	BN	gen=M|num=S|per=A	7	amod	_	_
+9	,	_	yyCM	yyCM	_	11	punct	_	_
+10	עוטף	_	BN	BN	gen=M|num=S|per=A	11	prd	_	_
+11	ו	_	CONJ	CONJ	_	0	ROOT	_	_
+12	חודר	_	BN	BN	gen=M|num=S|per=A	11	conj	_	_
+13	הוא	_	COP	COP	gen=M|num=S|per=3	30	cop	_	_
+14	ל	_	PREPOSITION	PREPOSITION	_	30	prepmod	_	_
+15	ה	_	DEF	DEF	_	16	def	_	_
+16	לב	_	NN	NN	gen=M|num=S	14	pobj	_	_
+17	ו	_	CONJ	CONJ	_	30	cc	_	_
+18	קל	_	JJ	JJ	gen=M|num=S	19	conj	_	_
+19	ו	_	CONJ	CONJ	_	30	ccomp	_	_
+20	פשוט	_	JJ	JJ	gen=M|num=S	23	advmod	_	_
+21	כל	_	DTT	DTT	_	22	mod	_	_
+22	כך	_	RB	RB	_	20	mod	_	_
+23	לראות	_	VB	VB	_	19	conj	_	_
+24	כמה	_	DTT	DTT	_	23	obj	_	_
+25	ש	_	REL	REL	_	23	comp	_	_
+26	את	_	AT	AT	_	29	obj	_	_
+27	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	26	hd	_	_
+28	אני	_	PRP	PRP	gen=F,M|num=S|per=1	29	subj	_	_
+29	אוהב	_	BN	BN	gen=M|num=S|per=A	25	ccomp	_	_
+30	...	_	yyELPS	yyELPS	_	11	punct	_	_
+31	"	_	yyQUOT	yyQUOT	_	11	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	3	punct	_	_
+2	אני	_	PRP	PRP	gen=F,M|num=S|per=1	3	subj	_	_
+3	שר	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+4	ל	_	IN	IN	_	3	prepmod	_	_
+5	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	4	pobj	_	_
+6	את	_	AT	AT	_	3	obj	_	_
+7	ה	_	DEF	DEF	_	8	def	_	_
+8	שיר	_	NN	NN	gen=M|num=S	6	hd	_	_
+9	..	_	NNP	NNP	gen=F,M|num=S	8	nn	_	_
+
+1	כי	_	CC	CC	_	5	mod	_	_
+2	הערב	_	RB	RB	_	5	mod	_	_
+3	כה	_	RB	RB	_	5	mod	_	_
+4	נפלא	_	JJ	JJ	gen=M|num=S	5	conj	_	_
+5	ו	_	CONJ	CONJ	_	14	hd	_	_
+6	צח	_	JJ	JJ	gen=M|num=S	5	conj	_	_
+7	כמה	_	DTT	DTT	_	8	det	_	_
+8	טוב	_	JJ	JJ	gen=M|num=S	5	dep	_	_
+9	,	_	yyCM	yyCM	_	14	punct	_	_
+10	אני	_	PRP	PRP	gen=F,M|num=S|per=1	11	subj	_	_
+11	את	_	IN	IN	_	14	prepmod	_	_
+12	אתה	_	S_PRN	S_PRN	gen=M|num=S|per=2	11	pobj	_	_
+13	...	_	yyELPS	yyELPS	_	14	punct	_	_
+14	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+
+1	זה	_	PRP	PRP	gen=M|num=S|per=3	3	subj	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	אדם	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+4	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	הוא	_	PRP	PRP	gen=M|num=S|per=3	2	subj	_	_
+2	שוב	_	RB	RB	_	0	ROOT	_	_
+3	כאן	_	RB	RB	_	2	hd	_	_
+4	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	ו	_	CONJ	CONJ	_	3	cc	_	_
+2	הם	_	PRP	PRP	gen=M|num=P|per=3	3	subj	_	_
+3	רבים	_	BN	BN	gen=M|num=P|per=A	0	ROOT	_	_
+4	הפעם	_	RB	RB	_	3	advmod	_	_
+5	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	אנחנו	_	PRP	PRP	gen=F,M|num=P|per=1	2	subj	_	_
+2	חייבים	_	MD	MD	gen=M|num=P|per=A	0	ROOT	_	_
+3	להתחבא	_	VB	VB	_	2	xcomp	_	_
+4	עמוק	_	JJ	JJ	gen=M|num=S	3	advmod	_	_
+5	בתוך	_	IN	IN	_	3	prepmod	_	_
+6	ה	_	DEF	DEF	_	7	def	_	_
+7	יער	_	NN	NN	gen=M|num=S	5	pobj	_	_
+8	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	מהר	_	RB	RB	_	3	mod	_	_
+2	,	_	yyCM	yyCM	_	3	punct	_	_
+3	אחרי	_	IN	IN	_	0	ROOT	_	_
+4	!	_	yyEXCL	yyEXCL	_	3	pobj	_	_
+
+1	פלין	_	NNP	NNP	gen=F,M|num=S	2	subj	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	במבי	_	NNP	NNP	gen=F,M|num=S	2	hd	_	_
+2	,	_	yyCM	yyCM	_	0	ROOT	_	_
+3	היכן	_	QW	QW	_	2	hd	_	_
+4	אתה	_	PRP	PRP	gen=M|num=S|per=2	3	subj	_	_
+5	?	_	yyQM	yyQM	_	2	punct	_	_
+
+1	פלין	_	NNP	NNP	gen=F,M|num=S	0	ROOT	_	_
+2	?	_	yyQM	yyQM	_	1	punct	_	_
+
+1	ה	_	DEF	DEF	_	2	def	_	_
+2	קשב	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+3	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	הוא	_	PRP	PRP	gen=M|num=S|per=3	2	subj	_	_
+2	מתקרב	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+3	..	_	NNP	NNP	gen=F|num=S	2	subj	_	_
+4	ש	_	REL	REL	_	2	comp	_	_
+5	שש	_	CD	CD	gen=F|num=S	6	number	_	_
+6	...	_	yyELPS	yyELPS	_	4	ccomp	_	_
+
+1	שקט	_	NN	NN	gen=M|num=S	2	subj	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	שקט	_	NN	NN	gen=M|num=S	2	subj	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	הוא	_	PRP	PRP	gen=M|num=S|per=3	2	subj	_	_
+2	מתקרב	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+3	!	_	yyEXCL	yyEXCL	_	2	punct	_	_
+
+1	אל	_	IN	IN	_	4	prepmod	_	_
+2	תזוזי	_	VB	VB	gen=F|num=S|per=2|tense=FUTURE	1	pobj	_	_
+3	,	_	yyCM	yyCM	_	4	punct	_	_
+4	אין	_	EX	EX	_	0	ROOT	_	_
+5	מה	_	QW	QW	_	4	subj	_	_
+6	להתרגש	_	VB	VB	_	5	prd	_	_
+7	.	_	yyDOT	yyDOT	_	4	punct	_	_
+
+1	מוטב	_	MD	MD	_	0	ROOT	_	_
+2	ש	_	REL	REL	_	1	ccomp	_	_
+3	נעוף	_	VB	VB	gen=F,M|num=P|per=1|tense=FUTURE	2	ccomp	_	_
+4	..	_	NNP	NNP	gen=F,M|num=S	3	subj	_	_
+
+1	לא	_	RB	RB	_	5	parataxis	_	_
+2	,	_	yyCM	yyCM	_	5	punct	_	_
+3	אל	_	IN	IN	_	5	prepmod	_	_
+4	תעופי	_	VB	VB	gen=F|num=S|per=2|tense=FUTURE	3	pobj	_	_
+5	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	מה	_	QW	QW	_	7	subj	_	_
+2	ש	_	REL	REL	_	1	rcmod	_	_
+3	לא	_	RB	RB	_	4	mod	_	_
+4	יקרה	_	JJ	JJ	gen=F|num=S	2	relcomp	_	_
+5	,	_	yyCM	yyCM	_	7	punct	_	_
+6	לא	_	RB	RB	_	7	advmod	_	_
+7	לעוף	_	VB	VB	_	0	ROOT	_	_
+8	!	_	yyEXCL	yyEXCL	_	7	punct	_	_
+
+1	הוא	_	PRP	PRP	gen=M|num=S|per=3	2	subj	_	_
+2	מגיע	_	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+3	!	_	yyEXCL	yyEXCL	_	2	punct	_	_
+
+1	הוא	_	PRP	PRP	gen=M|num=S|per=3	5	subj	_	_
+2	כבר	_	RB	RB	_	3	mod	_	_
+3	ממש	_	RB	RB	_	5	advmod	_	_
+4	קרוב	_	JJ	JJ	gen=M|num=S	3	mod	_	_
+5	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+6	אני	_	PRP	PRP	gen=F,M|num=S|per=1	8	subj	_	_
+7	לא	_	RB	RB	_	8	advmod	_	_
+8	יכולה	_	MD	MD	gen=F|num=S|per=3|tense=BEINONI	10	conj	_	_
+9	יותר	_	RB	RB	_	8	advmod	_	_
+10	!	_	yyEXCL	yyEXCL	_	5	punct	_	_
+
+1	במבי	_	NNP	NNP	gen=F,M|num=S	0	ROOT	_	_
+2	,	_	yyCM	yyCM	_	1	punct	_	_
+3	במבי	_	NNP	NNP	gen=F,M|num=S	1	hd	_	_
+4	!	_	yyEXCL	yyEXCL	_	1	punct	_	_
+
+1	פלין	_	NNP	NNP	gen=F,M|num=S	2	subj	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	מהר	_	RB	RB	_	5	parataxis	_	_
+2	,	_	yyCM	yyCM	_	5	punct	_	_
+3	פלין	_	NNP	NNP	gen=F,M|num=S	5	subj	_	_
+4	,	_	yyCM	yyCM	_	5	punct	_	_
+5	קפצי	_	VB	VB	gen=F|num=S|per=2|tense=IMPERATIVE	6	prd	_	_
+6	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	קום	_	VB	VB	gen=M|num=S|per=2|tense=IMPERATIVE	0	ROOT	_	_
+2	,	_	yyCM	yyCM	_	1	punct	_	_
+3	במבי	_	NNP	NNP	gen=F,M|num=S	1	parataxis	_	_
+4	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	קום	_	VB	VB	gen=M|num=S|per=2|tense=IMPERATIVE	0	ROOT	_	_
+2	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	אתה	_	PRP	PRP	gen=M|num=S|per=2	2	subj	_	_
+2	מוכרח	_	MD	MD	gen=M|num=S|per=A	0	ROOT	_	_
+3	לקום	_	VB	VB	_	2	xcomp	_	_
+4	!	_	yyEXCL	yyEXCL	_	2	punct	_	_
+
+1	קום	_	VB	VB	gen=M|num=S|per=2|tense=IMPERATIVE	2	prd	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	קום	_	VB	VB	gen=M|num=S|per=2|tense=IMPERATIVE	2	prd	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	עכשיו	_	RB	RB	_	4	parataxis	_	_
+2	,	_	yyCM	yyCM	_	4	punct	_	_
+3	בוא	_	NN	NN	gen=M|num=S	4	subj	_	_
+4	את	_	IN	IN	_	0	ROOT	_	_
+5	אני	_	S_PRN	S_PRN	gen=F,M|num=S|per=1	4	pobj	_	_
+6	.	_	yyDOT	yyDOT	_	4	punct	_	_
+
+1	במבי	_	NNP	NNP	gen=F,M|num=S	2	subj	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	התעורר	_	VB	VB	gen=M|num=S|per=3|tense=PAST	2	prd	_	_
+2	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	התעורר	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+2	,	_	yyCM	yyCM	_	1	punct	_	_
+3	אדון	_	TTL	TTL	gen=M|num=S	1	parataxis	_	_
+4	ינשוף	_	NNT	NNT	gen=M|num=S	1	subj	_	_
+5	!	_	yyEXCL	yyEXCL	_	4	gobj	_	_
+
+1	התעורר	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+2	,	_	yyCM	yyCM	_	1	punct	_	_
+3	אדון	_	TTL	TTL	gen=M|num=S	1	parataxis	_	_
+4	ינשוף	_	VB	VB	gen=M|num=S|per=3|tense=FUTURE	3	prd	_	_
+5	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	הו	_	INTJ	INTJ	_	0	ROOT	_	_
+2	,	_	yyCM	yyCM	_	5	punct	_	_
+3	מה	_	QW	QW	_	5	dep	_	_
+4	עכשיו	_	RB	RB	_	3	advmod	_	_
+5	?	_	yyQM	yyQM	_	1	punct	_	_
+
+1	הי	_	INTJ	INTJ	_	3	mod	_	_
+2	,	_	yyCM	yyCM	_	3	punct	_	_
+3	מה	_	QW	QW	_	0	ROOT	_	_
+4	ה	_	DEF	DEF	_	5	def	_	_
+5	מהומה	_	NN	NN	gen=F|num=S	3	subj	_	_
+6	?	_	yyQM	yyQM	_	3	punct	_	_
+
+1	זה	_	PRP	PRP	gen=M|num=S|per=3	2	subj	_	_
+2	קרה	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+3	!	_	yyEXCL	yyEXCL	_	2	punct	_	_
+
+1	קרה	_	NN	NN	gen=F|num=S	0	ROOT	_	_
+2	?	_	yyQM	yyQM	_	1	punct	_	_
+
+1	ב	_	PREPOSITION	PREPOSITION	_	0	ROOT	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	יער	_	NN	NN	gen=M|num=S	1	pobj	_	_
+4	?	_	yyQM	yyQM	_	1	punct	_	_
+
+1	כן	_	RB	RB	_	5	advmod	_	_
+2	,	_	yyCM	yyCM	_	5	punct	_	_
+3	ב	_	PREPOSITION	PREPOSITION	_	5	prepmod	_	_
+4	יער	_	NNT	NNT	gen=M|num=S	3	pobj	_	_
+5	!	_	yyEXCL	yyEXCL	_	0	ROOT	_	_
+
+1	הזדרז	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+2	ב	_	PREPOSITION	PREPOSITION	_	1	prepmod	_	_
+3	מבי	_	NNP	NNP	_	2	pobj	_	_
+4	.	_	yyDOT	yyDOT	_	1	punct	_	_
+
+1	כן	_	RB	RB	_	7	parataxis	_	_
+2	,	_	yyCM	yyCM	_	7	punct	_	_
+3	אבא	_	NN	NN	gen=M|num=S	7	parataxis	_	_
+4	,	_	yyCM	yyCM	_	7	punct	_	_
+5	אני	_	PRP	PRP	gen=F,M|num=S|per=1	7	subj	_	_
+6	כבר	_	RB	RB	_	7	advmod	_	_
+7	בא	_	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+8	.	_	yyDOT	yyDOT	_	7	punct	_	_
+
+1	הו	_	INTJ	INTJ	_	3	conj	_	_
+2	,	_	yyCM	yyCM	_	3	punct	_	_
+3	ו	_	CONJ	CONJ	_	0	ROOT	_	_
+4	ואו	_	INTJ	INTJ	_	3	conj	_	_
+5	...	_	yyELPS	yyELPS	_	4	punct	_	_
+6	הסתכלו	_	VB	VB	gen=F,M|num=P|per=3|tense=PAST	4	prd	_	_
+7	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	הם	_	PRP	PRP	gen=M|num=P|per=3	2	subj	_	_
+2	שניים	_	CD	CD	gen=M|num=P	0	ROOT	_	_
+3	.	_	yyDOT	yyDOT	_	2	punct	_	_
+
+1	אף	_	CC	CC	_	3	mod	_	_
+2	פעם	_	RB	RB	_	3	mod	_	_
+3	ב	_	PREPOSITION	PREPOSITION	_	6	prepmod	_	_
+4	חיי	_	NN	NN	gen=M|num=P|suf_gen=F,M|suf_num=S|suf_per=1	3	pobj	_	_
+5	לא	_	RB	RB	_	6	advmod	_	_
+6	ראיתי	_	VB	VB	gen=F,M|num=S|per=1|tense=PAST	0	ROOT	_	_
+7	יצורים	_	NN	NN	gen=M|num=P	6	subj	_	_
+8	יפים	_	JJ	JJ	gen=M|num=P	7	amod	_	_
+9	כל	_	DTT	DTT	_	10	mod	_	_
+10	כך	_	RB	RB	_	6	advmod	_	_
+11	.	_	yyDOT	yyDOT	_	6	punct	_	_
+
+1	ה	_	DEF	DEF	_	2	def	_	_
+2	נסיך	_	NN	NN	gen=M|num=S	3	subj	_	_
+3	ב	_	PREPOSITION	PREPOSITION	_	0	ROOT	_	_
+4	מבי	_	NN	NN	gen=M|num=S	3	pobj	_	_
+5	ודאי	_	JJ	JJ	gen=M|num=S	4	amod	_	_
+6	גאה	_	JJ	JJ	gen=M|num=S	4	amod	_	_
+7	מאוד	_	RB	RB	_	6	mod	_	_
+8	.	_	yyDOT	yyDOT	_	3	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	5	punct	_	_
+2	ה	_	DEF	DEF	_	3	def	_	_
+3	אהבה	_	NN	NN	gen=F|num=S	5	subj	_	_
+4	היא	_	COP	COP	gen=F|num=S|per=3	5	cop	_	_
+5	שיר	_	NN	NN	gen=M|num=S	0	ROOT	_	_
+6	ש	_	REL	REL	_	5	rcmod	_	_
+7	איננו	_	COP	COP	gen=M|num=S|per=3	8	aux	_	_
+8	נגמר	_	BN	BN	gen=M|num=S|per=A	6	relcomp	_	_
+9	...	_	yyELPS	yyELPS	_	17	cop	_	_
+10	ה	_	DEF	DEF	_	11	def	_	_
+11	חוזר	_	NN	NN	gen=M|num=S	17	dep	_	_
+12	על	_	IN	IN	_	11	prepmod	_	_
+13	עצמו	_	PRP	PRP	gen=M|num=S|per=3	12	pobj	_	_
+14	שוב	_	RB	RB	_	17	mod	_	_
+15	ו	_	CONJ	CONJ	_	14	cc	_	_
+16	שוב	_	RB	RB	_	15	hd	_	_
+17	...	_	yyELPS	yyELPS	_	5	punct	_	_
+18	"	_	yyQUOT	yyQUOT	_	5	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	0	ROOT	_	_
+2	כמו	_	IN	IN	_	1	hd	_	_
+3	קולות	_	NNT	NNT	gen=M|num=P	2	pobj	_	_
+4	ה	_	DEF	DEF	_	5	def	_	_
+5	מלאכים	_	NN	NN	gen=M|num=P	3	gobj	_	_
+6	ה	_	REL	REL	_	3	rcmod	_	_
+7	שרים	_	BN	BN	gen=M|num=P|per=A	6	relcomp	_	_
+8	ב	_	PREPOSITION	PREPOSITION	_	7	prepmod	_	_
+9	גן	_	NNT	NNT	gen=M|num=S	8	pobj	_	_
+10	עדן	_	NNT	NNT	gen=M|num=S	9	gobj	_	_
+11	..	_	NNP	NNP	gen=F,M|num=S	10	gobj	_	_
+12	"	_	yyQUOT	yyQUOT	_	1	punct	_	_
+
+1	"	_	yyQUOT	yyQUOT	_	7	punct	_	_
+2	מנגינת	_	NNT	NNT	gen=F|num=S	7	subj	_	_
+3	ה	_	DEF	DEF	_	4	def	_	_
+4	אהבה	_	NN	NN	gen=F|num=S	2	gobj	_	_
+5	ה	_	DEF	DEF	_	6	def	_	_
+6	מתוקה	_	JJ	JJ	gen=F|num=S	2	amod	_	_
+7	זורמת	_	BN	BN	gen=F|num=S|per=A	0	ROOT	_	_
+8	...	_	yyELPS	yyELPS	_	7	punct	_	_
+9	"	_	yyQUOT	yyQUOT	_	7	punct	_	_
+

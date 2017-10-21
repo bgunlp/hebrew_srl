@@ -1,0 +1,480 @@
+1	-LCB-	_	-LRB-	-LRB-	_	0	null	_	_
+2	\move	_	NN	NN	_	1	null	_	_
+3	-LRB-	_	-LRB-	-LRB-	_	2	dep	_	_
+4	10	_	CD	CD	_	31	dep	_	_
+5	,	_	,	,	_	4	punct	_	_
+6	10	_	CD	CD	_	4	num	_	_
+7	,	_	,	,	_	4	punct	_	_
+8	190	_	CD	CD	_	4	num	_	_
+9	,	_	,	,	_	4	punct	_	_
+10	230	_	CD	CD	_	4	num	_	_
+11	,	_	,	,	_	4	punct	_	_
+12	100	_	CD	CD	_	4	num	_	_
+13	,	_	,	,	_	4	punct	_	_
+14	400	_	CD	CD	_	21	number	_	_
+15	-RRB-	_	-RRB-	-RRB-	_	21	dep	_	_
+16	\fad	_	NN	NN	_	21	dep	_	_
+17	-LRB-	_	-LRB-	-LRB-	_	21	punct	_	_
+18	0	_	NNP	NNP	_	21	nsubj	_	_
+19	,	_	,	,	_	18	punct	_	_
+20	1000	_	CD	CD	_	18	num	_	_
+21	-RRB-	_	-RRB-	-RRB-	_	29	dep	_	_
+22	\fscx25\fscy25\t	_	.	.	_	29	punct	_	_
+23	-LRB-	_	-LRB-	-LRB-	_	29	punct	_	_
+24	0	_	NNP	NNP	_	29	nsubj	_	_
+25	,	_	,	,	_	24	punct	_	_
+26	6000	_	CD	CD	_	24	num	_	_
+27	,	_	,	,	_	24	punct	_	_
+28	\fscx125\fscy125	_	CD	CD	_	24	num	_	_
+29	-RRB-	_	-RRB-	-RRB-	_	4	dep	_	_
+30	\cH000000\3cH00FFFF	_	.	.	_	29	punct	_	_
+31	-RCB-	_	-RRB-	-RRB-	_	3	dep	_	_
+32	anoXmous	_	JJ	JJ	_	31	dep	_	_
+
+1	A	_	DT	DT	_	2	det	_	_
+2	picture	_	NN	NN	_	0	null	_	_
+3	with	_	IN	IN	_	2	prep	_	_
+4	a	_	DT	DT	_	5	det	_	_
+5	smile	_	NN	NN	_	3	pobj	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	perhaps	_	RB	RB	_	5	advmod	_	_
+8	,	_	,	,	_	2	punct	_	_
+9	a	_	DT	DT	_	10	det	_	_
+10	tear	_	NN	NN	_	2	appos	_	_
+11	.	_	.	.	_	2	punct	_	_
+
+1	``	_	``	``	_	3	punct	_	_
+2	Charity	_	NNP	NNP	_	3	nn	_	_
+3	Hospital	_	NNP	NNP	_	0	null	_	_
+4	''	_	''	''	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	Woman	_	NNP	NNP	_	0	null	_	_
+3	whose	_	WP$	WP$	_	4	poss	_	_
+4	sin	_	NN	NN	_	6	nsubj	_	_
+5	was	_	VBD	VBD	_	6	cop	_	_
+6	motherhood	_	NN	NN	_	2	rcmod	_	_
+7	.	_	.	.	_	2	punct	_	_
+
+1	Alone	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	man	_	NN	NN	_	0	null	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	His	_	PRP$	PRP$	_	3	poss	_	_
+2	morning	_	NN	NN	_	3	nn	_	_
+3	promenade	_	NN	NN	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	``	_	``	``	_	3	punct	_	_
+2	Awkward	_	RB	RB	_	3	advmod	_	_
+3	ass	_	JJ	JJ	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+5	''	_	''	''	_	3	punct	_	_
+
+1	``	_	``	``	_	6	punct	_	_
+2	Pardon	_	NNP	NNP	_	6	nsubj	_	_
+3	me	_	PRP	PRP	_	2	dep	_	_
+4	,	_	,	,	_	6	punct	_	_
+5	you	_	PRP	PRP	_	6	nsubj	_	_
+6	dropped	_	VBD	VBD	_	0	null	_	_
+7	something	_	NN	NN	_	6	dobj	_	_
+8	.	_	.	.	_	6	punct	_	_
+9	''	_	''	''	_	6	punct	_	_
+
+1	``	_	``	``	_	4	punct	_	_
+2	Is	_	VBZ	VBZ	_	4	cop	_	_
+3	that	_	DT	DT	_	4	det	_	_
+4	yours	_	NNS	NNS	_	0	null	_	_
+5	?	_	.	.	_	4	punct	_	_
+6	''	_	''	''	_	4	punct	_	_
+
+1	``	_	``	``	_	0	null	_	_
+2	What	_	WP	WP	_	1	null	_	_
+3	its	_	PRP$	PRP$	_	4	poss	_	_
+4	name	_	NN	NN	_	2	dep	_	_
+5	?	_	.	.	_	2	punct	_	_
+6	''	_	''	''	_	2	punct	_	_
+
+1	``	_	``	``	_	0	null	_	_
+2	John	_	NNP	NNP	_	1	null	_	_
+3	''	_	''	''	_	2	punct	_	_
+
+1	Five	_	CD	CD	_	2	num	_	_
+2	years	_	NNS	NNS	_	3	dep	_	_
+3	later	_	RB	RB	_	0	null	_	_
+4	...	_	:	:	_	3	punct	_	_
+
+1	``	_	``	``	_	0	null	_	_
+2	Put	_	VB	VB	_	1	null	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	quater	_	NN	NN	_	2	dobj	_	_
+5	in	_	IN	IN	_	2	prep	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	gas	_	NN	NN	_	8	nn	_	_
+8	meter	_	NN	NN	_	5	pobj	_	_
+9	.	_	.	.	_	2	punct	_	_
+10	''	_	''	''	_	2	punct	_	_
+
+1	``	_	``	``	_	3	punct	_	_
+2	You	_	PRP	PRP	_	3	nsubj	_	_
+3	know	_	VBP	VBP	_	0	null	_	_
+4	what	_	WP	WP	_	5	nsubj	_	_
+5	streets	_	NNS	NNS	_	7	advmod	_	_
+6	we	_	PRP	PRP	_	7	nsubj	_	_
+7	worked	_	VBD	VBD	_	3	dobj	_	_
+8	today	_	NN	NN	_	3	tmod	_	_
+9	?	_	.	.	_	3	punct	_	_
+10	''	_	''	''	_	3	punct	_	_
+
+1	All	_	DT	DT	_	3	nsubj	_	_
+2	's	_	VBZ	VBZ	_	3	cop	_	_
+3	well	_	RB	RB	_	0	null	_	_
+4	...	_	:	:	_	3	punct	_	_
+
+1	Job	_	NNP	NNP	_	2	nn	_	_
+2	number	_	NN	NN	_	0	null	_	_
+3	13	_	CD	CD	_	2	num	_	_
+4	.	_	.	.	_	2	punct	_	_
+
+1	Off	_	NNP	NNP	_	2	nn	_	_
+2	duty	_	NN	NN	_	0	null	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	woman	_	NN	NN	_	5	nsubj	_	_
+3	now	_	RB	RB	_	5	advmod	_	_
+4	a	_	DT	DT	_	5	det	_	_
+5	star	_	NN	NN	_	0	null	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	great	_	JJ	JJ	_	8	amod	_	_
+8	prominence	_	NN	NN	_	6	pobj	_	_
+9	.	_	.	.	_	5	punct	_	_
+
+1	Professor	_	NNP	NNP	_	2	nn	_	_
+2	Guido	_	NNP	NNP	_	0	null	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	impressario	_	NN	NN	_	2	appos	_	_
+5	.	_	.	.	_	2	punct	_	_
+
+1	``	_	``	``	_	8	punct	_	_
+2	Read	_	VB	VB	_	8	dep	_	_
+3	what	_	WP	WP	_	6	dobj	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	critics	_	NNS	NNS	_	6	nsubj	_	_
+6	say	_	VBP	VBP	_	2	ccomp	_	_
+7	...	_	:	:	_	8	punct	_	_
+8	wonderful	_	JJ	JJ	_	0	null	_	_
+9	!	_	.	.	_	8	punct	_	_
+10	''	_	''	''	_	8	punct	_	_
+
+1	Charity	_	NN	NN	_	0	null	_	_
+2	to	_	TO	TO	_	1	prep	_	_
+3	some	_	DT	DT	_	5	det	_	_
+4	a	_	DT	DT	_	5	det	_	_
+5	duty	_	NN	NN	_	2	pobj	_	_
+6	,	_	,	,	_	1	punct	_	_
+7	to	_	TO	TO	_	1	prep	_	_
+8	others	_	NNS	NNS	_	7	pobj	_	_
+9	a	_	DT	DT	_	10	det	_	_
+10	joy	_	NN	NN	_	8	dep	_	_
+11	.	_	.	.	_	1	punct	_	_
+
+1	Enter	_	NNP	NNP	_	3	nn	_	_
+2	his	_	PRP$	PRP$	_	3	poss	_	_
+3	brother	_	NN	NN	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	``	_	``	``	_	3	punct	_	_
+2	You	_	PRP	PRP	_	3	nsubj	_	_
+3	wicked	_	VBD	VBD	_	0	null	_	_
+4	boy	_	NN	NN	_	3	dobj	_	_
+5	.	_	.	.	_	3	punct	_	_
+6	''	_	''	''	_	3	punct	_	_
+
+1	``	_	``	``	_	3	punct	_	_
+2	Go	_	NNP	NNP	_	3	nn	_	_
+3	lick'im	_	NNP	NNP	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+5	''	_	''	''	_	3	punct	_	_
+
+1	``	_	``	``	_	0	null	_	_
+2	If	_	IN	IN	_	5	mark	_	_
+3	your	_	PRP$	PRP$	_	4	poss	_	_
+4	kid	_	NN	NN	_	5	nsubj	_	_
+5	beats	_	VBZ	VBZ	_	12	advcl	_	_
+6	my	_	PRP$	PRP$	_	7	poss	_	_
+7	brother	_	NN	NN	_	5	dobj	_	_
+8	,	_	,	,	_	12	punct	_	_
+9	then	_	RB	RB	_	12	advmod	_	_
+10	i	_	PRP	PRP	_	12	nsubj	_	_
+11	'm	_	VBP	VBP	_	12	aux	_	_
+12	going	_	VBG	VBG	_	1	null	_	_
+13	to	_	TO	TO	_	14	aux	_	_
+14	beat	_	VB	VB	_	12	xcomp	_	_
+15	you	_	PRP	PRP	_	14	dobj	_	_
+16	.	_	.	.	_	12	punct	_	_
+17	''	_	''	''	_	12	punct	_	_
+
+1	``	_	``	``	_	6	punct	_	_
+2	And	_	CC	CC	_	6	cc	_	_
+3	you	_	PRP	PRP	_	6	conj	_	_
+4	would	_	MD	MD	_	6	aux	_	_
+5	n't	_	RB	RB	_	6	neg	_	_
+6	strike	_	VB	VB	_	0	null	_	_
+7	this	_	DT	DT	_	8	det	_	_
+8	man	_	NN	NN	_	6	dobj	_	_
+9	,	_	,	,	_	6	punct	_	_
+10	would	_	MD	MD	_	11	aux	_	_
+11	you	_	PRP	PRP	_	6	dep	_	_
+12	?	_	.	.	_	6	punct	_	_
+13	''	_	''	''	_	6	punct	_	_
+
+1	``	_	``	``	_	11	punct	_	_
+2	Remember	_	VB	VB	_	11	dep	_	_
+3	if	_	IN	IN	_	5	mark	_	_
+4	he	_	PRP	PRP	_	5	nsubj	_	_
+5	smites	_	VBZ	VBZ	_	2	advcl	_	_
+6	you	_	PRP	PRP	_	5	dobj	_	_
+7	on	_	IN	IN	_	5	prep	_	_
+8	one	_	CD	CD	_	9	num	_	_
+9	cheek	_	NN	NN	_	7	pobj	_	_
+10	,	_	,	,	_	11	punct	_	_
+11	offer	_	VBP	VBP	_	0	null	_	_
+12	him	_	PRP	PRP	_	11	dobj	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	other	_	JJ	JJ	_	12	pobj	_	_
+15	.	_	.	.	_	11	punct	_	_
+16	''	_	''	''	_	11	punct	_	_
+
+1	A	_	DT	DT	_	3	det	_	_
+2	successful	_	JJ	JJ	_	3	amod	_	_
+3	retreat	_	NN	NN	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	``	_	``	``	_	0	null	_	_
+2	Oh	_	UH	UH	_	7	dep	_	_
+3	,	_	,	,	_	7	punct	_	_
+4	well	_	RB	RB	_	7	advmod	_	_
+5	,	_	,	,	_	7	punct	_	_
+6	I	_	PRP	PRP	_	7	nsubj	_	_
+7	guess	_	VBP	VBP	_	1	null	_	_
+8	he	_	PRP	PRP	_	11	nsubj	_	_
+9	's	_	VBZ	VBZ	_	11	cop	_	_
+10	not	_	RB	RB	_	11	neg	_	_
+11	in.	_	JJ	JJ	_	7	ccomp	_	_
+12	''	_	''	''	_	11	punct	_	_
+13	.	_	.	.	_	7	punct	_	_
+
+1	``	_	``	``	_	6	punct	_	_
+2	This	_	DT	DT	_	3	det	_	_
+3	child	_	NN	NN	_	6	nsubj	_	_
+4	is	_	VBZ	VBZ	_	6	aux	_	_
+5	ill.	_	RB	RB	_	6	advmod	_	_
+6	Get	_	VB	VB	_	0	null	_	_
+7	a	_	DT	DT	_	8	det	_	_
+8	doctor	_	NN	NN	_	6	dobj	_	_
+9	at	_	IN	IN	_	6	prep	_	_
+10	once	_	RB	RB	_	9	pobj	_	_
+11	!	_	.	.	_	6	punct	_	_
+12	''	_	''	''	_	6	punct	_	_
+
+1	``	_	``	``	_	4	punct	_	_
+2	I	_	PRP	PRP	_	4	nsubj	_	_
+3	must	_	MD	MD	_	4	aux	_	_
+4	go	_	VB	VB	_	0	null	_	_
+5	now	_	RB	RB	_	4	advmod	_	_
+6	,	_	,	,	_	4	punct	_	_
+7	but	_	CC	CC	_	4	cc	_	_
+8	I	_	PRP	PRP	_	10	nsubj	_	_
+9	'll	_	MD	MD	_	10	aux	_	_
+10	return	_	VB	VB	_	4	conj	_	_
+11	.	_	.	.	_	4	punct	_	_
+12	''	_	''	''	_	4	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	country	_	NN	NN	_	3	nn	_	_
+3	doctor	_	NN	NN	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	``	_	``	``	_	0	null	_	_
+2	Say	_	NNP	NNP	_	3	nn	_	_
+3	'ah	_	NNP	NNP	_	5	poss	_	_
+4	'	_	POS	POS	_	3	possessive	_	_
+5	.	_	.	.	_	1	null	_	_
+6	''	_	''	''	_	5	punct	_	_
+
+1	``	_	``	``	_	0	null	_	_
+2	Louder	_	UH	UH	_	1	dep	_	_
+3	!	_	.	.	_	1	punct	_	_
+4	''	_	''	''	_	1	punct	_	_
+
+1	``	_	``	``	_	0	null	_	_
+2	Are	_	VBP	VBP	_	1	null	_	_
+3	you	_	PRP	PRP	_	5	nsubj	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	father	_	NN	NN	_	2	ccomp	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	this	_	DT	DT	_	8	det	_	_
+8	child	_	NN	NN	_	6	pobj	_	_
+9	?	_	.	.	_	2	punct	_	_
+10	''	_	''	''	_	2	punct	_	_
+
+1	``	_	``	``	_	3	punct	_	_
+2	Well	_	UH	UH	_	3	dep	_	_
+3	pràctically	_	RB	RB	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+5	''	_	''	''	_	3	punct	_	_
+
+1	``	_	``	``	_	0	null	_	_
+2	Explain	_	VB	VB	_	1	null	_	_
+3	yourself	_	PRP	PRP	_	2	dobj	_	_
+4	.	_	.	.	_	2	punct	_	_
+5	''	_	''	''	_	2	punct	_	_
+
+1	``	_	``	``	_	4	punct	_	_
+2	This	_	DT	DT	_	3	det	_	_
+3	child	_	NN	NN	_	4	nsubj	_	_
+4	needs	_	VBZ	VBZ	_	0	null	_	_
+5	proper	_	JJ	JJ	_	6	amod	_	_
+6	care	_	NN	NN	_	4	dobj	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	attention	_	NN	NN	_	6	conj	_	_
+9	.	_	.	.	_	4	punct	_	_
+10	''	_	''	''	_	4	punct	_	_
+
+1	``	_	``	``	_	0	null	_	_
+2	I	_	PRP	PRP	_	4	nsubj	_	_
+3	'll	_	MD	MD	_	4	aux	_	_
+4	attend	_	VB	VB	_	1	null	_	_
+5	to	_	TO	TO	_	4	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	matter	_	NN	NN	_	5	pobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+9	''	_	''	''	_	4	punct	_	_
+
+1	Convalescence	_	NNP	NNP	_	0	null	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	proper	_	JJ	JJ	_	3	amod	_	_
+3	care	_	NN	NN	_	0	null	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	attention	_	NN	NN	_	3	conj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	Country	_	NNP	NNP	_	3	nn	_	_
+2	Orfan	_	NNP	NNP	_	3	nn	_	_
+3	Asylum	_	NNP	NNP	_	0	null	_	_
+
+1	``	_	``	``	_	0	null	_	_
+2	Ask	_	VB	VB	_	1	null	_	_
+3	him	_	PRP	PRP	_	2	dobj	_	_
+4	where	_	WRB	WRB	_	7	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	kid	_	NN	NN	_	7	nsubj	_	_
+7	is	_	VBZ	VBZ	_	2	advcl	_	_
+8	.	_	.	.	_	2	punct	_	_
+9	''	_	''	''	_	2	punct	_	_
+
+1	``	_	``	``	_	0	null	_	_
+2	Ask	_	VB	VB	_	1	null	_	_
+3	him	_	PRP	PRP	_	2	dobj	_	_
+4	if	_	IN	IN	_	7	mark	_	_
+5	he	_	PRP	PRP	_	7	nsubjpass	_	_
+6	's	_	VBZ	VBZ	_	7	auxpass	_	_
+7	got	_	VBN	VBN	_	2	advcl	_	_
+8	any	_	DT	DT	_	9	det	_	_
+9	belongings	_	NNS	NNS	_	7	dobj	_	_
+10	.	_	.	.	_	2	punct	_	_
+11	''	_	''	''	_	2	punct	_	_
+
+1	``	_	``	``	_	0	null	_	_
+2	Tell	_	VB	VB	_	1	null	_	_
+3	him	_	PRP	PRP	_	2	dobj	_	_
+4	it	_	PRP	PRP	_	6	nsubj	_	_
+5	's	_	VBZ	VBZ	_	6	cop	_	_
+6	none	_	NN	NN	_	2	dep	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	his	_	PRP$	PRP$	_	9	poss	_	_
+9	business	_	NN	NN	_	7	pobj	_	_
+10	.	_	.	.	_	2	punct	_	_
+11	''	_	''	''	_	2	punct	_	_
+
+1	Night	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	``	_	``	``	_	5	punct	_	_
+2	You	_	PRP	PRP	_	5	nsubj	_	_
+3	do	_	VBP	VBP	_	5	aux	_	_
+4	n't	_	RB	RB	_	5	neg	_	_
+5	charge	_	VB	VB	_	0	null	_	_
+6	for	_	IN	IN	_	5	prep	_	_
+7	a	_	DT	DT	_	8	det	_	_
+8	baby	_	NN	NN	_	6	pobj	_	_
+9	in	_	IN	IN	_	8	prep	_	_
+10	arms	_	NNS	NNS	_	9	pobj	_	_
+11	?	_	.	.	_	5	punct	_	_
+12	''	_	''	''	_	5	punct	_	_
+
+1	$	_	$	$	_	6	nsubj	_	_
+2	1000	_	CD	CD	_	1	num	_	_
+3	Reward	_	VB	VB	_	1	partmod	_	_
+4	Lost	_	JJ	JJ	_	5	amod	_	_
+5	child	_	NN	NN	_	3	dobj	_	_
+6	wanted	_	VBD	VBD	_	0	null	_	_
+7	...	_	:	:	_	6	punct	_	_
+
+1	Dawn	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Dreamland	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Shopping	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Off	_	NNP	NNP	_	0	null	_	_
+2	for	_	IN	IN	_	1	prep	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	spin	_	NN	NN	_	2	pobj	_	_
+5	.	_	.	.	_	1	punct	_	_
+
+1	Sin	_	NNP	NNP	_	2	nn	_	_
+2	creeps	_	NNS	NNS	_	0	null	_	_
+3	in	_	IN	IN	_	2	dep	_	_
+4	.	_	.	.	_	2	punct	_	_
+
+1	Welcome	_	NN	NN	_	0	null	_	_
+2	to	_	TO	TO	_	1	prep	_	_
+3	our	_	PRP$	PRP$	_	4	poss	_	_
+4	city	_	NN	NN	_	2	pobj	_	_
+5	.	_	.	.	_	1	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	trouble	_	NN	NN	_	3	nsubj	_	_
+3	begins	_	VBZ	VBZ	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	``	_	``	``	_	0	null	_	_
+2	Vamp	_	VB	VB	_	1	null	_	_
+3	him	_	PRP	PRP	_	2	dobj	_	_
+4	.	_	.	.	_	2	punct	_	_
+5	''	_	''	''	_	2	punct	_	_
+
+1	Innocence	_	NN	NN	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Getting	_	VBG	VBG	_	0	null	_	_
+2	flighty	_	NN	NN	_	1	dobj	_	_
+3	.	_	.	.	_	1	punct	_	_
+
+1	Her	_	PRP$	PRP$	_	2	poss	_	_
+2	sweetheart	_	NN	NN	_	3	nsubj	_	_
+3	arrives	_	VBZ	VBZ	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	Jealousy	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
