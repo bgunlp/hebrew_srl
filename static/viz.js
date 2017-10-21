@@ -72,17 +72,19 @@ renderWords(data.hebrew.words, 'hebrew', enOffsetY + alignmentSpace);
  * Render Arrows *
  *****************/
 
-const make_renderer = (lang, highestLevel, offsetY) => function ({ head, deprel }, i, nodes) {
-    const direction = lang.toLowerCase() === 'english' ? -1 : 1;
+const make_renderer = (lang, highestLevel, offsetY) => function ({ head, deprel, id }, i, nodes) {
+    head = head - 1;
+    id = id - 1;
 
-    if (deprel === 'ROOT') {
+    if (head < 0) {
         return;
     }
 
+    const direction = lang.toLowerCase() === 'english' ? -1 : 1;
     const arrowId = getArrowId();
-    const level = Math.abs(head - i);
-    const start = head < i ? head : i;
-    const dir = head > i ? 'left' : 'right';
+    const level = Math.abs(head - id);
+    const start = head < id ? head : id;
+    const dir = head > id ? 'left' : 'right';
     const startX = offsetX + start * distance + arrowSpacing * (highestLevel - level) / 4;
     const startY = offsetY;
     const endpoint = offsetX + level * distance + start * distance - arrowSpacing * (highestLevel - level) / 4;
