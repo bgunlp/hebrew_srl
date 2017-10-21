@@ -55,18 +55,18 @@ const renderWords = (lang, y) => {
     wordsArea
         .append('tspan')
         .attr('x', (d, i) => offsetX + i * distance)
-        .text(d => d.text);
+        .text(d => d.form);
 
     /// Add tags 2em below words
     wordsArea
         .append('tspan')
         .attr('x', (d, i) => offsetX + i * distance)
         .attr('dy', '2em')
-        .text(d => d.tag);
+        .text(d => d.upostag);
 };
 
-renderWords('english', enOffsetY + wordSpacing);
-renderWords('hebrew', enOffsetY + alignmentSpace);
+renderWords(data.english.words,'english', enOffsetY + wordSpacing);
+renderWords(data.hebrew.words, 'hebrew', enOffsetY + alignmentSpace);
 
 /*****************
  * Render Arrows *
@@ -120,7 +120,7 @@ const make_renderer = (lang, highestLevel, offsetY) => function ({ head, deprel 
 
 svg
     .selectAll('#enArrow')
-    .data(data)
+    .data(data.english.words)
     .enter()
     .append('g')
     .classed('enArrow', true)
@@ -128,7 +128,7 @@ svg
 
 svg
     .selectAll('#heArrow')
-    .data(data)
+    .data(data.hebrew.words)
     .enter()
     .append('g')
     .classed('heArrow', true)
