@@ -41,13 +41,20 @@ def create(filename):
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    files = os.listdir(os.path.join(DATA_ROOT, 'english_parsed'))
+    return render_template('index.html', files=files)
 
 
 @app.route('/<filename>')
-def subtitles(filename):
-    sents = create(filename)
-    return render_template('index.html', bur=sents[0]['english']['words'])
+def sentence_select(filename):
+    sents = english_sents(filename)
+    return render_template('sentenceselect.html', filename=filename, sents=sents)
+
+
+@app.route('/<filename>/<sent_id>')
+def tree_view(filename, sent_id):
+    data = create(filename)
+    return render_template('treeview.html', data=data[int(sent_id)])
 
 
 if __name__ == '__main__':

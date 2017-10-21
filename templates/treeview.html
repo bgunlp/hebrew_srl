@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+{% block body %}
+    <h1>{{ bur }}</h1>
+    <script type="text/javascript"
+            src="https://d3js.org/d3.v4.min.js"></script>
+    <script type="text/javascript">const data = {{ data|tojson|safe }};</script>
+    <script type="text/javascript"
+            src={{ url_for('static', filename='viz.js') }}></script>
+{% endblock %}

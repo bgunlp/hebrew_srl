@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+{% block body %}
+    <h1>Choose a sentence:</h1>
+    <ul>
+    {% for sent in sents %}
+        <li><a href={{ url_for('tree_view', filename=filename, sent_id=loop.index0 ) }}>{{ sent }}</a></li>
+    {% endfor %}
+    </ul>
+{% endblock %}
