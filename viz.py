@@ -9,6 +9,12 @@ app = Flask(__name__)
 DATA_ROOT = os.path.join(app.root_path, 'static', 'datasubset')
 
 
+def english_sents(filename):
+    with open(os.path.join(DATA_ROOT, 'english_parsed', filename), encoding='utf-8') as f:
+        english = conllu_parse(f.read())
+    return [' '.join([row['form'] for row in sent]) for sent in english]
+
+
 def create(filename):
     with open(os.path.join(DATA_ROOT, 'english_parsed', filename), encoding='utf-8') as f:
         english = conllu_parse(f.read())
