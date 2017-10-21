@@ -47,7 +47,7 @@ const renderWords = (lang, y) => {
         .data(data)
         .enter()
         .append('text')
-        .classed('english', true)
+        .classed(lang, true)
         .attr('text-anchor', 'middle')
         .attr('y', y);
 
@@ -93,15 +93,15 @@ const make_renderer = (lang, highestLevel, offsetY) => function ({ head, deprel 
         .append('path')
         .attr('id', 'arrow-' + arrowId)
         .attr('d', `M${startX},${startY}
-                    L${startX + 10},${startY + direction * level * 50}
-                     ${endpoint - 10},${startY + direction * level * 50}
+                    L${startX + 10},${startY + direction * level * 40}
+                     ${endpoint - 10},${startY + direction * level * 40}
                      ${endpoint},${startY}`)
         .attr('fill', 'none')
         .attr('stroke', 'black');
 
     group
         .append('text')
-        .attr('dy', `${-direction}em`)
+        .attr('dy', `${direction}em`)
         .append('textPath')
         .attr('xlink:href', '#arrow-' + arrowId)
         .attr('text-anchor', 'middle')
