@@ -13,19 +13,18 @@ const distance = 150;
 const offsetX = 50;
 const arrowSpacing = 5;
 const arrowWidth = 10;
-const arrowStroke = 2;
 const wordSpacing = 25;
-const alignmentSpace = 300;
+const alignmentSpace = 500;
 
-const enLevels = [...new Set(data.map((d, i) => Math.abs(d.head - i)))].sort();
+const enLevels = [...new Set(data.english.words.map((d, i) => Math.abs(d.head - i)))].sort();
 const enHighestLevel = enLevels[enLevels.length - 1];
-const enOffsetY = distance / 2 * enHighestLevel;
+const enOffsetY = distance * enHighestLevel;
 
-const heLevels = [...new Set(data.map((d, i) => Math.abs(d.head - i)))].sort();
+const heLevels = [...new Set(data.hebrew.words.map((d, i) => Math.abs(d.head - i)))].sort();
 const heHighestLevel = heLevels[heLevels.length - 1];
 const heOffsetY = distance / 2 * heHighestLevel;
 
-const width = offsetX + data.length * distance;
+const width = offsetX + Math.max(data.english.words.length, data.hebrew.words.length) * distance;
 const height = enOffsetY + 3 * wordSpacing + alignmentSpace;
 
 // Create SVG element
@@ -95,8 +94,8 @@ const make_renderer = (lang, highestLevel, offsetY) => function ({ head, deprel,
         .append('path')
         .attr('id', 'arrow-' + arrowId)
         .attr('d', `M${startX},${startY}
-                    L${startX + 10},${startY + direction * level * 40}
-                     ${endpoint - 10},${startY + direction * level * 40}
+                    C${startX + 20},${startY + direction * level * 50}
+                     ${endpoint - 20},${startY + direction * level * 50}
                      ${endpoint},${startY}`)
         .attr('fill', 'none')
         .attr('stroke', 'black');
