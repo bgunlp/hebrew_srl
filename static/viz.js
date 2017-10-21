@@ -138,4 +138,14 @@ svg
  * Render Alignment *
  ********************/
 
-//TODO
+svg
+    .selectAll('#alignment')
+    .data(data.alignment)
+    .enter()
+    .append('line')
+    .classed('alignment', true)
+    .attr('x1', (d, i) => offsetX + d[0] * distance)        // Same x as words'
+    .attr('y1', enOffsetY + 3 * wordSpacing)                // y coordinate of English words + 2 spacings to avoid overlap
+    .attr('x2', (d, i) => offsetX + d[1] * distance)        // Same x as words'
+    .attr('y2', enOffsetY + alignmentSpace - wordSpacing)   // y coordinates of Hebrew, with an overlap fix
+    .attr('stroke', 'black');
