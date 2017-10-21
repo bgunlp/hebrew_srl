@@ -40,7 +40,7 @@ const svg = d3
  * Render Words *
  ****************/
 
-const renderWords = (lang, y) => {
+const renderWords = (data, lang, y) => {
     // Setup words area
     const wordsArea = svg
         .selectAll(`#${lang}`)
