@@ -48,19 +48,19 @@ def create(filename):
 @app.route('/')
 def index():
     files = os.listdir(os.path.join(DATA_ROOT, 'english_parsed'))
-    return render_template('index.html', files=files)
+    return render_template('index.html', files=files, page='File Selection')
 
 
 @app.route('/<filename>')
 def sentence_select(filename):
     sents = english_sents(filename)
-    return render_template('sentenceselect.html', filename=filename, sents=sents)
+    return render_template('sentenceselect.html', filename=filename, sents=sents, page='Sentence Selection')
 
 
 @app.route('/<filename>/<sent_id>')
 def tree_view(filename, sent_id):
     data = create(filename)
-    return render_template('treeview.html', data=data[int(sent_id)])
+    return render_template('treeview.html', data=data[int(sent_id)], page='Graphic')
 
 
 if __name__ == '__main__':
