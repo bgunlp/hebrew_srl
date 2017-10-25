@@ -1,0 +1,14 @@
+{% extends 'bootstrap/base.html' %}
+
+{% block title %}SRL Viz - {{ page }}{% endblock %}
+
+{% block styles %}
+    {{ super() }}
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+{% endblock %}
+
+{% block content %}
+    <div class="container">
+        {% block page_content %}{% endblock %}
+    </div>
+{% endblock %}

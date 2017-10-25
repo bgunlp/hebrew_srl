@@ -1,9 +1,11 @@
-{% extends "layout.html" %}
-{% block body %}
+{% extends "base.html" %}
+{% block page_content %}
     <h1>Choose a file:</h1>
-    <ul>
+    <ul class="list-group">
     {% for file in files %}
-        <li><a href={{ url_for('sentence_select', filename=file) }}>{{ file }}</a></li>
+        <li class="list-group-item">
+            <a href={{ url_for('sentence_select', filename=file) }}>{{ file }}</a>
+        </li>
     {% endfor %}
     </ul>
 {% endblock %}

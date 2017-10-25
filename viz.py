@@ -3,8 +3,10 @@ import os
 
 from conllu.parser import parse as conllu_parse
 from flask import Flask, render_template
+from flask_bootstrap import Bootstrap
 
 app = Flask(__name__)
+Bootstrap(app)
 
 DATA_ROOT = os.path.join(app.root_path, 'static', 'datasubset')
 
