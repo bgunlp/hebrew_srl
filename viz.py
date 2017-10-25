@@ -64,6 +64,14 @@ def tree_view(filename, sent_id):
     data = create(filename)
     return render_template('treeview.html', data=data[int(sent_id)], page='Graphic')
 
+# TODO Annotate
+# - Error in sentence alignment
+# - Error in word alignment
+# - Poor translation
+# - Poor syntactic parsing
+# - Poor frame parsing
+# - OK
+
 
 if __name__ == '__main__':
     app.run()
