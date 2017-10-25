@@ -75,34 +75,36 @@ renderWords(data.hebrew.words, 'hebrew', enOffsetY + alignmentSpace);
 
 data.english.frames.sort((a, b) => b.annotationSets[0].score - a.annotationSets[0].score);
 
-const { target, annotationSets } = data.english.frames[0];
-const { frameElements } = annotationSets[0];
+if (data.english.frames.length > 0) {
+    const { target, annotationSets } = data.english.frames[0];
+    const { frameElements } = annotationSets[0];
 
-svg
-    .append('text')
-    .classed('english-srl-frame', true)
-    .attr('text-anchor', 'middle')
-    .attr('y', enOffsetY + wordSpacing)
-    .append('tspan')
-    .attr('x', offsetX + target.spans[0].start * distance)
-    .attr('dy', '1em')
-    .text(target.name)
-    .style('font-variant', 'small-caps');
+    svg
+        .append('text')
+        .classed('english-srl-frame', true)
+        .attr('text-anchor', 'middle')
+        .attr('y', enOffsetY + wordSpacing)
+        .append('tspan')
+        .attr('x', offsetX + target.spans[0].start * distance)
+        .attr('dy', '1em')
+        .text(target.name);
 
-frameElements.forEach(({ name, spans }) => {
-    const { start, end } = spans[0];
-    for (let i = start; i < end; i++) {
-        svg
-            .append('text')
-            .classed('english-srl-fe', true)
-            .attr('text-anchor', 'middle')
-            .attr('y', enOffsetY + wordSpacing)
-            .append('tspan')
-            .attr('x', offsetX + i * distance)
-            .attr('dy', '2em')
-            .text(name);
-    }
-});
+    frameElements.forEach(({ name, spans }) => {
+        const { start, end } = spans[0];
+        for (let i = start; i < end; i++) {
+            svg
+                .append('text')
+                .classed('english-srl-fe', true)
+                .attr('text-anchor', 'middle')
+                .attr('y', enOffsetY + wordSpacing)
+                .append('tspan')
+                .attr('x', offsetX + i * distance)
+                .attr('dy', '2em')
+                .text(name);
+        }
+    });
+}
+
 
 /*****************
  * Render Arrows *
