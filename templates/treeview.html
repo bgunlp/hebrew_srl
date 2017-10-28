@@ -1,43 +1,8 @@
 {% extends "base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
 
-{% block content %}
-    {{ super() }}
-    <nav class="navbar navbar-default navbar-fixed-top">
-        <div class="container-fluid">
-            <div class="navbar-header">
-                <a class="navbar-brand" href="#">SRL Viz</a>
-            </div>
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <form class="navbar-form navbar-left">
-                    <div class="checkbox navbar-btn">
-                        <input type="checkbox" id="error-sentence-alignment" class="form-control">
-                        <label class="navbar-link" for="error-sentence-alignment">Error in Sentence Alignment</label>
-                    </div>
-                    <div class="checkbox navbar-btn">
-                        <input type="checkbox" id="error-word-alignment" class="form-control">
-                        <label class="navbar-link" for="error-word-alignment">Error in Word Alignment</label>
-                    </div>
-                    <div class="checkbox navbar-btn">
-                        <input type="checkbox" id="poor-translation" class="form-control">
-                        <label class="navbar-link" for="poor-translation">Poor Translation</label>
-                    </div>
-                    <div class="checkbox navbar-btn">
-                        <input type="checkbox" id="poor-frame-parsing" class="form-control">
-                        <label class="navbar-link" for="poor-frame-parsing">Poor Frame Parsing</label>
-                    </div>
-                    <div class="checkbox navbar-btn">
-                        <input type="checkbox" id="poor-syntactic-parsing" class="form-control">
-                        <label class="navbar-link" for="poor-syntactic-parsing">Poor Syntactic Parsing</label>
-                    </div>
-                    <div class="checkbox navbar-btn">
-                        <input type="checkbox" id="all-ok" class="form-control">
-                        <label class="navbar-link" for="all-ok">OK</label>
-                    </div>
-                    <button type="submit" class="btn btn-default">Submit</button>
-                </form>
-            </div><!-- /.navbar-collapse -->
-        </div><!-- /.container-fluid -->
-    </nav>
+{% block page_content %}
+    {{ wtf.quick_form(form) }}
 {% endblock %}
 
 {% block scripts %}
