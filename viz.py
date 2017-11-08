@@ -2,11 +2,11 @@ import json
 import os
 
 from conllu.parser import parse as conllu_parse
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, redirect, url_for
 from flask_bootstrap import Bootstrap
 from flask_sqlalchemy import SQLAlchemy
 from flask_wtf import FlaskForm
-from wtforms import BooleanField, RadioField, SubmitField
+from wtforms import RadioField, SubmitField
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'balls'
@@ -72,7 +72,6 @@ def create(filename):
             'alignment': alignment_
         }
         sents.append(obj)
-    # return json.dumps(sents, ensure_ascii=False, indent=4)
     return sents
 
 
@@ -85,17 +84,32 @@ def index():
 @app.route('/<filename>')
 def sentence_select(filename):
     sents = english_sents(filename)
-    return render_template('sentenceselect.html', filename=filename, sents=sents, page='Sentence Selection')
+    sent2annotation = {a.sentence: a for a in Annotation.query.filter_by(file=filename)}
+    annotated_sents = []
+    for sent_id, sent in enumerate(sents):
+        annotation = sent2annotation.get(sent_id)
+        if annotation:
+            annotated_sents.append((sent, annotation.message))
+        else:
+            annotated_sents.append((sent, 'none'))
+    return render_template('sentenceselect.html',
+                           filename=filename,
+                           sents=annotated_sents,
+                           page='Sentence Selection')
 
 
 @app.route('/<filename>/<sent_id>', methods=['GET', 'POST'])
 def tree_view(filename, sent_id):
-    form = AnnotationForm()
+    annotation = Annotation.query.filter_by(file=filename, sentence=sent_id).first()
     if request.method == 'POST':
-        if Annotation.query.filter_by(file=filename, sentence=sent_id).first() is None:
-            annotation = Annotation(file=filename, sentence=sent_id, message=form.annotation.data)
-            db.session.add(annotation)
-            db.session.commit()
+        form = AnnotationForm()
+        if annotation:
+            annotation.message = form.annotation.data
+        else:
+            db.session.add(Annotation(file=filename, sentence=sent_id, message=form.annotation.data))
+        db.session.commit()
+        return redirect(url_for('sentence_select', filename=filename))
+    form = AnnotationForm(annotation=annotation.message) if annotation else AnnotationForm()
     data = create(filename)
     return render_template('treeview.html', data=data[int(sent_id)], page='Graphic', form=form)
 
