@@ -1,10 +1,11 @@
 {% extends "base.html" %}
 {% block page_content %}
+    <h1>There are currently {{ total_annotations }} annotations.</h1>
     <h1>Choose a file:</h1>
     <ul class="list-group">
     {% for file in files %}
         <li class="list-group-item">
-            <a href={{ url_for('sentence_select', filename=file) }}>{{ file }}</a>
+            <a href={{ url_for('sentence_select', filename=file) }}>{{ file }} <span class="badge pull-right">{{ annotations_by_file[file] }}</span></a>
         </li>
     {% endfor %}
     </ul>

@@ -78,13 +78,20 @@ def create(filename):
 @app.route('/')
 def index():
     files = os.listdir(os.path.join(DATA_ROOT, 'english_parsed'))
-    return render_template('index.html', files=files, page='File Selection')
+    total_annotations = len(Annotation.query.all())
+    annotations_by_file = {file: len([*Annotation.query.filter_by(file=file)]) for file in files}
+    return render_template('index.html',
+                           files=files,
+                           total_annotations=total_annotations,
+                           annotations_by_file=annotations_by_file,
+                           page='File Selection')
 
 
 @app.route('/<filename>')
 def sentence_select(filename):
     sents = english_sents(filename)
     sent2annotation = {a.sentence: a for a in Annotation.query.filter_by(file=filename)}
+    total_annotations = len(sent2annotation)
     annotated_sents = []
     for sent_id, sent in enumerate(sents):
         annotation = sent2annotation.get(sent_id)
@@ -95,6 +102,7 @@ def sentence_select(filename):
     return render_template('sentenceselect.html',
                            filename=filename,
                            sents=annotated_sents,
+                           total_annotations=total_annotations,
                            page='Sentence Selection')
 
 

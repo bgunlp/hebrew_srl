@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% block page_content %}
+    <h1>This file currently has {{ total_annotations }} annotations.</h1>
     <h1>Choose a sentence:</h1>
     <ul class="list-group">
         {% for sent, annotation in sents %}
