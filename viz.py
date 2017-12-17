@@ -62,7 +62,7 @@ def create(filename):
     sents = []
     for en, he, srl, alignment_ in zip(english, hebrew, english_srl, alignment):
         obj = {
-            'imdbid': filename.split('_')[1],
+            'imdbid': filename.split('_')[2],
             'english': {
                 'frames': srl['frames'],
                 'words': en
