@@ -1,3 +1,4 @@
+from collections import namedtuple
 from itertools import groupby
 from operator import itemgetter
 
@@ -6,14 +7,16 @@ from viz import create as create_data
 
 from imblearn.over_sampling import RandomOverSampler
 from imblearn.pipeline import Pipeline
-# from imdb import IMDb
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.linear_model import PassiveAggressiveClassifier
 # from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
 
 
-# ia = IMDb()
+def dfs(sentence, start):
+    visited, stack = set(), [start]
+    while stack:
+        pass
 
 
 def features(sentence):
@@ -28,11 +31,18 @@ def features(sentence):
     one_to_ones = len([g for g in alignment_groups if len(g) == 1])
     one_to_manys = len(alignment_groups) - one_to_ones
 
+    Node = namedtuple('Node', 'token distance')
+    en_head = [x for x in sentence['english']['words'] if x['head'] == 0],
+    he_head = [x for x in sentence['hebrew']['words'] if x['head'] == 0],
+    en_head_node = Node(en_head, 0)
+    he_head_node = Node(he_head, 0)
+
+
+
     return {
         'en-sent-length': en_sent_length,
         'he-sent-length': he_sent_length,
         'en-he-ratio': en_sent_length / he_sent_length,
-        # 'imdb-rating': rating,
         'number-of-frames': nframes,
         '1-1s': one_to_ones / en_sent_length,
         '1-ns': one_to_manys / en_sent_length
