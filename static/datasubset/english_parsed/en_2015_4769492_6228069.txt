@@ -1,0 +1,7128 @@
+1	Previously	_	RB	RB	_	0	null	_	_
+2	,	_	,	,	_	1	dep	_	_
+3	on	_	IN	IN	_	2	dep	_	_
+4	Royal	_	NNP	NNP	_	5	nn	_	_
+5	Pains	_	NNS	NNS	_	3	pobj	_	_
+6	...	_	:	:	_	3	punct	_	_
+
+1	What	_	WP	WP	_	4	dobj	_	_
+2	do	_	VBP	VBP	_	4	aux	_	_
+3	you	_	PRP	PRP	_	4	nsubj	_	_
+4	mean	_	VB	VB	_	0	null	_	_
+5	,	_	,	,	_	7	punct	_	_
+6	there	_	EX	EX	_	7	expl	_	_
+7	's	_	VBZ	VBZ	_	4	dep	_	_
+8	nothing	_	NN	NN	_	7	nsubj	_	_
+9	you	_	PRP	PRP	_	11	nsubj	_	_
+10	can	_	MD	MD	_	11	aux	_	_
+11	do	_	VB	VB	_	8	rcmod	_	_
+12	?	_	.	.	_	4	punct	_	_
+
+1	You	_	PRP	PRP	_	4	nsubj	_	_
+2	're	_	VBP	VBP	_	4	cop	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	bank	_	NN	NN	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	What	_	WP	WP	_	0	null	_	_
+2	about	_	IN	IN	_	1	dep	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	72hour	_	JJ	JJ	_	5	amod	_	_
+5	hold	_	NN	NN	_	2	pobj	_	_
+6	?	_	.	.	_	1	punct	_	_
+
+1	It	_	PRP	PRP	_	5	nsubj	_	_
+2	's	_	VBZ	VBZ	_	5	cop	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	24hour	_	JJ	JJ	_	5	amod	_	_
+5	hold	_	NN	NN	_	0	null	_	_
+6	?	_	.	.	_	5	punct	_	_
+
+1	-LSB-	_	JJ	JJ	_	2	amod	_	_
+2	glass	_	NN	NN	_	3	nsubj	_	_
+3	shatters	_	VBZ	VBZ	_	0	null	_	_
+4	-RSB-	_	JJ	JJ	_	5	amod	_	_
+5	Jeremiah	_	NNP	NNP	_	6	nsubj	_	_
+6	came	_	VBD	VBD	_	3	ccomp	_	_
+7	to	_	TO	TO	_	8	aux	_	_
+8	see	_	VB	VB	_	6	xcomp	_	_
+9	me	_	PRP	PRP	_	8	iobj	_	_
+10	a	_	DT	DT	_	12	det	_	_
+11	few	_	JJ	JJ	_	12	amod	_	_
+12	days	_	NNS	NNS	_	13	dep	_	_
+13	ago	_	RB	RB	_	8	advmod	_	_
+14	.	_	.	.	_	3	punct	_	_
+
+1	He	_	PRP	PRP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	quite	_	RB	RB	_	4	advmod	_	_
+4	distraught	_	JJ	JJ	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	Maybe	_	RB	RB	_	3	advmod	_	_
+2	he	_	PRP	PRP	_	3	nsubj	_	_
+3	's	_	VBZ	VBZ	_	0	null	_	_
+4	at	_	IN	IN	_	3	prep	_	_
+5	his	_	PRP$	PRP$	_	6	poss	_	_
+6	house	_	NN	NN	_	4	pobj	_	_
+7	out	_	IN	IN	_	3	prep	_	_
+8	here	_	RB	RB	_	7	pobj	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	house	_	NN	NN	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	cop	_	_
+4	empty	_	JJ	JJ	_	0	null	_	_
+5	,	_	,	,	_	4	punct	_	_
+6	and	_	CC	CC	_	4	cc	_	_
+7	it	_	PRP	PRP	_	8	nsubj	_	_
+8	's	_	VBZ	VBZ	_	4	conj	_	_
+9	up	_	RP	RP	_	8	prt	_	_
+10	for	_	IN	IN	_	8	prep	_	_
+11	sale	_	NN	NN	_	10	pobj	_	_
+12	.	_	.	.	_	4	punct	_	_
+
+1	So	_	RB	RB	_	3	advmod	_	_
+2	I	_	PRP	PRP	_	3	nsubj	_	_
+3	have	_	VBP	VBP	_	0	null	_	_
+4	a	_	DT	DT	_	5	det	_	_
+5	headache	_	NN	NN	_	3	dobj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	Big	_	JJ	JJ	_	2	amod	_	_
+2	deal	_	NN	NN	_	0	null	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	Let	_	VB	VB	_	0	null	_	_
+2	me	_	PRP	PRP	_	3	nsubj	_	_
+3	see	_	VB	VB	_	1	ccomp	_	_
+4	this	_	DT	DT	_	3	dobj	_	_
+5	.	_	.	.	_	1	punct	_	_
+
+1	This	_	DT	DT	_	2	nsubj	_	_
+2	is	_	VBZ	VBZ	_	0	null	_	_
+3	n't	_	RB	RB	_	2	neg	_	_
+4	because	_	IN	IN	_	5	dep	_	_
+5	of	_	IN	IN	_	2	prep	_	_
+6	my	_	PRP$	PRP$	_	7	poss	_	_
+7	hep	_	NN	NN	_	5	pobj	_	_
+8	C	_	NNP	NNP	_	7	dep	_	_
+9	,	_	,	,	_	2	punct	_	_
+10	is	_	VBZ	VBZ	_	2	dep	_	_
+11	it	_	PRP	PRP	_	10	nsubj	_	_
+12	?	_	.	.	_	2	punct	_	_
+
+1	-LSB-	_	DT	DT	_	3	det	_	_
+2	beeping	_	VBG	VBG	_	3	amod	_	_
+3	-RSB-	_	NN	NN	_	0	null	_	_
+4	__	_	.	.	_	3	punct	_	_
+
+1	-LRB-	_	-LRB-	-LRB-	_	6	nsubj	_	_
+2	Boris	_	NNP	NNP	_	6	advmod	_	_
+3	-RRB-	_	-RRB-	-RRB-	_	6	nsubj	_	_
+4	Do	_	VBP	VBP	_	6	aux	_	_
+5	n't	_	RB	RB	_	6	neg	_	_
+6	touch	_	VB	VB	_	0	null	_	_
+7	that	_	WDT	WDT	_	6	dobj	_	_
+8	.	_	.	.	_	6	punct	_	_
+
+1	This	_	DT	DT	_	4	nsubj	_	_
+2	certainly	_	RB	RB	_	1	advmod	_	_
+3	...	_	:	:	_	1	punct	_	_
+4	complicates	_	VBZ	VBZ	_	0	null	_	_
+5	things	_	NNS	NNS	_	4	dobj	_	_
+6	.	_	.	.	_	4	punct	_	_
+
+1	Mr.	_	NNP	NNP	_	2	nn	_	_
+2	Lawson	_	NNP	NNP	_	0	null	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	For	_	IN	IN	_	9	prep	_	_
+2	many	_	JJ	JJ	_	3	amod	_	_
+3	weeks	_	NNS	NNS	_	1	pobj	_	_
+4	now	_	RB	RB	_	1	dep	_	_
+5	,	_	,	,	_	9	punct	_	_
+6	it	_	PRP	PRP	_	9	conj	_	_
+7	's	_	VBZ	VBZ	_	9	auxpass	_	_
+8	been	_	VBN	VBN	_	9	cop	_	_
+9	imperative	_	JJ	JJ	_	0	null	_	_
+10	that	_	IN	IN	_	24	complm	_	_
+11	this	_	DT	DT	_	13	det	_	_
+12	operating	_	NN	NN	_	13	nn	_	_
+13	theater	_	NN	NN	_	24	nsubjpass	_	_
+14	and	_	CC	CC	_	13	cc	_	_
+15	the	_	DT	DT	_	17	det	_	_
+16	surgical	_	JJ	JJ	_	17	amod	_	_
+17	procedure	_	NN	NN	_	13	conj	_	_
+18	for	_	IN	IN	_	22	rel	_	_
+19	which	_	WDT	WDT	_	18	pobj	_	_
+20	it	_	PRP	PRP	_	22	nsubjpass	_	_
+21	was	_	VBD	VBD	_	22	auxpass	_	_
+22	built	_	VBN	VBN	_	13	rcmod	_	_
+23	be	_	VB	VB	_	24	auxpass	_	_
+24	kept	_	VBN	VBN	_	9	ccomp	_	_
+25	secret	_	NN	NN	_	24	xcomp	_	_
+26	.	_	.	.	_	9	punct	_	_
+
+1	Well	_	RB	RB	_	0	null	_	_
+2	...	_	:	:	_	1	dep	_	_
+3	your	_	PRP$	PRP$	_	4	poss	_	_
+4	secret	_	NN	NN	_	2	dep	_	_
+5	's	_	POS	POS	_	4	possessive	_	_
+6	safe	_	JJ	JJ	_	4	amod	_	_
+7	with	_	IN	IN	_	6	prep	_	_
+8	me	_	PRP	PRP	_	7	pobj	_	_
+9	.	_	.	.	_	1	punct	_	_
+
+1	'Cause	_	CC	CC	_	5	cc	_	_
+2	I	_	PRP	PRP	_	5	nsubj	_	_
+3	do	_	VBP	VBP	_	5	aux	_	_
+4	n't	_	RB	RB	_	5	neg	_	_
+5	know	_	VB	VB	_	0	null	_	_
+6	it	_	PRP	PRP	_	5	dobj	_	_
+7	.	_	.	.	_	5	punct	_	_
+
+1	Only	_	RB	RB	_	2	quantmod	_	_
+2	two	_	CD	CD	_	3	num	_	_
+3	people	_	NNS	NNS	_	8	nsubjpass	_	_
+4	in	_	IN	IN	_	3	prep	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	world	_	NN	NN	_	4	pobj	_	_
+7	have	_	VBP	VBP	_	8	aux	_	_
+8	known	_	VBN	VBN	_	0	null	_	_
+9	of	_	IN	IN	_	8	prep	_	_
+10	this	_	DT	DT	_	11	det	_	_
+11	surgery	_	NN	NN	_	9	pobj	_	_
+12	...	_	:	:	_	8	punct	_	_
+13	until	_	IN	IN	_	8	prep	_	_
+14	now	_	RB	RB	_	13	pobj	_	_
+15	.	_	.	.	_	8	punct	_	_
+
+1	Well	_	UH	UH	_	5	dep	_	_
+2	,	_	,	,	_	5	punct	_	_
+3	maybe	_	RB	RB	_	5	advmod	_	_
+4	now	_	RB	RB	_	5	advmod	_	_
+5	's	_	VBZ	VBZ	_	0	null	_	_
+6	a	_	DT	DT	_	8	det	_	_
+7	good	_	JJ	JJ	_	8	amod	_	_
+8	time	_	NN	NN	_	5	nsubj	_	_
+9	to	_	TO	TO	_	10	aux	_	_
+10	stop	_	VB	VB	_	8	infmod	_	_
+11	telling	_	VBG	VBG	_	10	xcomp	_	_
+12	me	_	PRP	PRP	_	11	iobj	_	_
+13	things	_	NNS	NNS	_	11	dobj	_	_
+14	I	_	PRP	PRP	_	17	nsubj	_	_
+15	do	_	VBP	VBP	_	17	aux	_	_
+16	n't	_	RB	RB	_	17	neg	_	_
+17	need	_	VB	VB	_	13	rcmod	_	_
+18	to	_	TO	TO	_	19	aux	_	_
+19	know	_	VB	VB	_	17	xcomp	_	_
+20	.	_	.	.	_	5	punct	_	_
+
+1	Evan	_	NNP	NNP	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	that	_	DT	DT	_	4	det	_	_
+4	possibility	_	NN	NN	_	5	nsubj	_	_
+5	disappeared	_	VBD	VBD	_	1	rcmod	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	moment	_	NN	NN	_	5	dobj	_	_
+8	you	_	PRP	PRP	_	9	nsubj	_	_
+9	broke	_	VBD	VBD	_	5	dep	_	_
+10	in	_	IN	IN	_	9	prep	_	_
+11	here	_	RB	RB	_	10	pobj	_	_
+12	.	_	.	.	_	1	punct	_	_
+
+1	You	_	PRP	PRP	_	2	nsubj	_	_
+2	have	_	VBP	VBP	_	0	null	_	_
+3	no	_	DT	DT	_	4	det	_	_
+4	idea	_	NN	NN	_	10	nsubj	_	_
+5	how	_	WRB	WRB	_	6	dep	_	_
+6	sorry	_	JJ	JJ	_	10	advmod	_	_
+7	I	_	PRP	PRP	_	10	nsubj	_	_
+8	am	_	VBP	VBP	_	10	cop	_	_
+9	about	_	RB	RB	_	10	advmod	_	_
+10	that	_	WDT	WDT	_	2	ccomp	_	_
+11	.	_	.	.	_	2	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	patient	_	NN	NN	_	10	nsubj	_	_
+3	we	_	PRP	PRP	_	5	nsubj	_	_
+4	're	_	VBP	VBP	_	5	aux	_	_
+5	expecting	_	VBG	VBG	_	2	rcmod	_	_
+6	,	_	,	,	_	2	punct	_	_
+7	his	_	PRP$	PRP$	_	8	poss	_	_
+8	health	_	NN	NN	_	2	conj	_	_
+9	is	_	VBZ	VBZ	_	10	cop	_	_
+10	crucial	_	JJ	JJ	_	0	null	_	_
+11	to	_	TO	TO	_	10	prep	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	survival	_	NN	NN	_	11	pobj	_	_
+14	of	_	IN	IN	_	13	prep	_	_
+15	an	_	DT	DT	_	17	det	_	_
+16	entire	_	JJ	JJ	_	17	amod	_	_
+17	culture	_	NN	NN	_	14	pobj	_	_
+18	.	_	.	.	_	10	punct	_	_
+
+1	If	_	IN	IN	_	4	mark	_	_
+2	it	_	PRP	PRP	_	4	nsubjpass	_	_
+3	becomes	_	VBZ	VBZ	_	4	auxpass	_	_
+4	known	_	VBN	VBN	_	13	advcl	_	_
+5	that	_	IN	IN	_	7	complm	_	_
+6	he	_	PRP	PRP	_	7	nsubj	_	_
+7	is	_	VBZ	VBZ	_	4	ccomp	_	_
+8	ill	_	RB	RB	_	7	advmod	_	_
+9	,	_	,	,	_	13	punct	_	_
+10	it	_	PRP	PRP	_	13	nsubj	_	_
+11	would	_	MD	MD	_	13	aux	_	_
+12	be	_	VB	VB	_	13	cop	_	_
+13	catastrophic	_	JJ	JJ	_	0	null	_	_
+14	.	_	.	.	_	13	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	promise	_	VBP	VBP	_	0	null	_	_
+3	you	_	PRP	PRP	_	6	advmod	_	_
+4	I	_	PRP	PRP	_	6	nsubj	_	_
+5	'll	_	MD	MD	_	6	aux	_	_
+6	keep	_	VB	VB	_	2	ccomp	_	_
+7	my	_	PRP$	PRP$	_	8	poss	_	_
+8	mouth	_	NN	NN	_	9	nsubj	_	_
+9	shut	_	VBD	VBD	_	6	dep	_	_
+10	.	_	.	.	_	2	punct	_	_
+
+1	Do	_	VB	VB	_	3	aux	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	need	_	VB	VB	_	0	null	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	get	_	VB	VB	_	3	xcomp	_	_
+6	that	_	IN	IN	_	5	dobj	_	_
+7	?	_	.	.	_	3	punct	_	_
+
+1	Come	_	NN	NN	_	0	null	_	_
+2	with	_	IN	IN	_	1	prep	_	_
+3	me	_	PRP	PRP	_	2	pobj	_	_
+4	.	_	.	.	_	1	punct	_	_
+
+1	No	_	DT	DT	_	2	det	_	_
+2	one	_	NN	NN	_	7	nsubj	_	_
+3	at	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	lab	_	NN	NN	_	3	pobj	_	_
+6	has	_	VBZ	VBZ	_	7	aux	_	_
+7	seen	_	VBN	VBN	_	0	null	_	_
+8	Jeremiah	_	NNP	NNP	_	7	dobj	_	_
+9	since	_	IN	IN	_	7	prep	_	_
+10	yesterday	_	NN	NN	_	9	pobj	_	_
+11	.	_	.	.	_	7	punct	_	_
+
+1	No	_	DT	DT	_	2	det	_	_
+2	one	_	NN	NN	_	0	null	_	_
+3	at	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	hospital	_	NN	NN	_	3	pobj	_	_
+6	,	_	,	,	_	2	punct	_	_
+7	either	_	RB	RB	_	2	advmod	_	_
+8	.	_	.	.	_	2	punct	_	_
+
+1	Did	_	NN	NN	_	3	tmod	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	get	_	VBP	VBP	_	0	null	_	_
+4	a	_	DT	DT	_	5	det	_	_
+5	hold	_	NN	NN	_	3	dobj	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	Bob	_	NNP	NNP	_	6	pobj	_	_
+8	?	_	.	.	_	3	punct	_	_
+
+1	Yes	_	UH	UH	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	He	_	PRP	PRP	_	2	nsubj	_	_
+2	said	_	VBD	VBD	_	0	null	_	_
+3	it	_	PRP	PRP	_	7	nsubj	_	_
+4	would	_	MD	MD	_	7	aux	_	_
+5	n't	_	RB	RB	_	7	neg	_	_
+6	be	_	VB	VB	_	7	cop	_	_
+7	appropriate	_	JJ	JJ	_	2	ccomp	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	give	_	VB	VB	_	7	xcomp	_	_
+10	me	_	PRP	PRP	_	9	iobj	_	_
+11	any	_	DT	DT	_	12	det	_	_
+12	information	_	NN	NN	_	9	dobj	_	_
+13	on	_	IN	IN	_	12	prep	_	_
+14	Jeremiah	_	NNP	NNP	_	16	poss	_	_
+15	's	_	POS	POS	_	14	possessive	_	_
+16	therapy	_	NN	NN	_	13	pobj	_	_
+17	.	_	.	.	_	2	punct	_	_
+
+1	He	_	PRP	PRP	_	2	nsubj	_	_
+2	puts	_	VBZ	VBZ	_	0	null	_	_
+3	his	_	PRP$	PRP$	_	4	poss	_	_
+4	house	_	NN	NN	_	2	dobj	_	_
+5	on	_	IN	IN	_	2	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	market	_	NN	NN	_	5	pobj	_	_
+8	,	_	,	,	_	2	punct	_	_
+9	abruptly	_	RB	RB	_	10	advmod	_	_
+10	cancels	_	VBZ	VBZ	_	2	dep	_	_
+11	his	_	PRP$	PRP$	_	12	poss	_	_
+12	appointments	_	NNS	NNS	_	10	dobj	_	_
+13	.	_	.	.	_	2	punct	_	_
+
+1	In	_	IN	IN	_	8	prep	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	past	_	NN	NN	_	1	pobj	_	_
+4	when	_	WRB	WRB	_	5	advmod	_	_
+5	bad	_	JJ	JJ	_	6	amod	_	_
+6	things	_	NNS	NNS	_	8	nsubj	_	_
+7	have	_	VBP	VBP	_	8	aux	_	_
+8	happened	_	VBN	VBN	_	14	advcl	_	_
+9	to	_	TO	TO	_	8	prep	_	_
+10	Jeremiah	_	NNP	NNP	_	9	pobj	_	_
+11	,	_	,	,	_	14	punct	_	_
+12	he	_	PRP	PRP	_	14	nsubjpass	_	_
+13	's	_	VBZ	VBZ	_	14	auxpass	_	_
+14	disappeared	_	VBN	VBN	_	0	null	_	_
+15	into	_	IN	IN	_	14	prep	_	_
+16	his	_	PRP$	PRP$	_	17	poss	_	_
+17	work	_	NN	NN	_	15	pobj	_	_
+18	,	_	,	,	_	14	punct	_	_
+19	like	_	IN	IN	_	14	prep	_	_
+20	when	_	WRB	WRB	_	22	advmod	_	_
+21	he	_	PRP	PRP	_	22	nsubj	_	_
+22	ran	_	VBD	VBD	_	19	pcomp	_	_
+23	away	_	RB	RB	_	22	advmod	_	_
+24	to	_	TO	TO	_	22	prep	_	_
+25	Iceland	_	NNP	NNP	_	24	pobj	_	_
+26	.	_	.	.	_	14	punct	_	_
+
+1	Do	_	VBP	VBP	_	3	aux	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	think	_	VB	VB	_	0	null	_	_
+4	he	_	PRP	PRP	_	5	nsubj	_	_
+5	went	_	VBD	VBD	_	3	ccomp	_	_
+6	back	_	RB	RB	_	5	advmod	_	_
+7	?	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	really	_	RB	RB	_	3	advmod	_	_
+3	hope	_	VBP	VBP	_	0	null	_	_
+4	not	_	RB	RB	_	3	neg	_	_
+5	.	_	.	.	_	3	punct	_	_
+
+1	Any	_	DT	DT	_	2	det	_	_
+2	luck	_	NN	NN	_	0	null	_	_
+3	reaching	_	VBG	VBG	_	2	partmod	_	_
+4	Evan	_	NNP	NNP	_	3	dobj	_	_
+5	?	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	keep	_	VBP	VBP	_	0	null	_	_
+3	getting	_	VBG	VBG	_	2	xcomp	_	_
+4	his	_	PRP$	PRP$	_	5	poss	_	_
+5	voice	_	NN	NN	_	3	dobj	_	_
+6	mail.	_	FW	FW	_	5	nn	_	_
+7	Me	_	FW	FW	_	3	dep	_	_
+8	too	_	RB	RB	_	7	advmod	_	_
+9	.	_	.	.	_	2	punct	_	_
+
+1	Shall	_	NN	NN	_	0	null	_	_
+2	we	_	PRP	PRP	_	3	nsubj	_	_
+3	call	_	VBP	VBP	_	1	rcmod	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	police	_	NN	NN	_	3	dobj	_	_
+6	?	_	.	.	_	1	punct	_	_
+
+1	If	_	IN	IN	_	5	mark	_	_
+2	we	_	PRP	PRP	_	5	nsubj	_	_
+3	ca	_	MD	MD	_	5	aux	_	_
+4	n't	_	RB	RB	_	5	neg	_	_
+5	get	_	VB	VB	_	22	advcl	_	_
+6	in	_	IN	IN	_	5	prep	_	_
+7	touch	_	NN	NN	_	6	pobj	_	_
+8	with	_	IN	IN	_	7	prep	_	_
+9	Jeremiah	_	NNP	NNP	_	8	pobj	_	_
+10	and	_	CC	CC	_	5	cc	_	_
+11	we	_	PRP	PRP	_	14	nsubj	_	_
+12	do	_	VBP	VBP	_	14	aux	_	_
+13	n't	_	RB	RB	_	14	neg	_	_
+14	hear	_	VB	VB	_	5	conj	_	_
+15	from	_	IN	IN	_	14	prep	_	_
+16	Evan	_	NNP	NNP	_	15	pobj	_	_
+17	by	_	IN	IN	_	14	prep	_	_
+18	the	_	DT	DT	_	19	det	_	_
+19	morning	_	NN	NN	_	17	pobj	_	_
+20	,	_	,	,	_	22	punct	_	_
+21	we	_	PRP	PRP	_	22	nsubj	_	_
+22	call	_	VBP	VBP	_	0	null	_	_
+23	the	_	DT	DT	_	24	det	_	_
+24	police	_	NN	NN	_	22	dobj	_	_
+25	.	_	.	.	_	22	punct	_	_
+
+1	As	_	IN	IN	_	4	mark	_	_
+2	I	_	PRP	PRP	_	4	nsubj	_	_
+3	have	_	VBP	VBP	_	4	aux	_	_
+4	received	_	VBN	VBN	_	13	advcl	_	_
+5	an	_	DT	DT	_	8	det	_	_
+6	aborted	_	JJ	JJ	_	8	amod	_	_
+7	call	_	JJ	JJ	_	8	amod	_	_
+8	minutes	_	NNS	NNS	_	9	measure	_	_
+9	ago	_	IN	IN	_	4	advmod	_	_
+10	,	_	,	,	_	13	punct	_	_
+11	I	_	PRP	PRP	_	13	nsubjpass	_	_
+12	am	_	VBP	VBP	_	13	auxpass	_	_
+13	concerned	_	VBN	VBN	_	0	null	_	_
+14	there	_	EX	EX	_	15	expl	_	_
+15	's	_	VBZ	VBZ	_	13	ccomp	_	_
+16	been	_	VBN	VBN	_	19	cop	_	_
+17	a	_	DT	DT	_	19	det	_	_
+18	security	_	NN	NN	_	19	nn	_	_
+19	breach	_	NN	NN	_	15	nsubj	_	_
+20	on	_	IN	IN	_	19	prep	_	_
+21	your	_	PRP$	PRP$	_	22	poss	_	_
+22	end	_	NN	NN	_	20	pobj	_	_
+23	.	_	.	.	_	13	punct	_	_
+
+1	There	_	EX	EX	_	2	expl	_	_
+2	's	_	VBZ	VBZ	_	10	advcl	_	_
+3	been	_	VBN	VBN	_	5	cop	_	_
+4	no	_	DT	DT	_	5	det	_	_
+5	breach	_	NN	NN	_	2	nsubj	_	_
+6	here	_	RB	RB	_	5	advmod	_	_
+7	,	_	,	,	_	10	punct	_	_
+8	I	_	PRP	PRP	_	10	nsubj	_	_
+9	can	_	MD	MD	_	10	aux	_	_
+10	assure	_	VB	VB	_	0	null	_	_
+11	you	_	PRP	PRP	_	10	dobj	_	_
+12	.	_	.	.	_	10	punct	_	_
+
+1	There	_	EX	EX	_	2	expl	_	_
+2	has	_	VBZ	VBZ	_	0	null	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	however	_	RB	RB	_	2	advmod	_	_
+5	,	_	,	,	_	2	punct	_	_
+6	been	_	VBN	VBN	_	7	cop	_	_
+7	chatter	_	NN	NN	_	2	dep	_	_
+8	over	_	IN	IN	_	7	prep	_	_
+9	various	_	JJ	JJ	_	10	amod	_	_
+10	channels	_	NNS	NNS	_	8	pobj	_	_
+11	about	_	IN	IN	_	10	prep	_	_
+12	my	_	PRP$	PRP$	_	13	poss	_	_
+13	presence	_	NN	NN	_	11	pobj	_	_
+14	here	_	RB	RB	_	13	advmod	_	_
+15	in	_	IN	IN	_	13	prep	_	_
+16	the	_	DT	DT	_	17	det	_	_
+17	Hamptons	_	NNS	NNS	_	15	pobj	_	_
+18	.	_	.	.	_	2	punct	_	_
+
+1	That	_	DT	DT	_	2	nsubj	_	_
+2	is	_	VBZ	VBZ	_	12	ccomp	_	_
+3	why	_	WRB	WRB	_	6	advmod	_	_
+4	I	_	PRP	PRP	_	6	nsubj	_	_
+5	have	_	VBP	VBP	_	6	aux	_	_
+6	installed	_	VBN	VBN	_	2	advcl	_	_
+7	my	_	PRP$	PRP$	_	9	poss	_	_
+8	security	_	NN	NN	_	9	nn	_	_
+9	expert	_	NN	NN	_	6	dobj	_	_
+10	,	_	,	,	_	12	punct	_	_
+11	Mr.	_	NNP	NNP	_	12	nn	_	_
+12	Lawson	_	NNP	NNP	_	0	null	_	_
+13	.	_	.	.	_	12	punct	_	_
+
+1	Installed	_	VBN	VBN	_	0	null	_	_
+2	him	_	PRP	PRP	_	1	dep	_	_
+3	?	_	.	.	_	1	punct	_	_
+
+1	Yes	_	UH	UH	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Mr.	_	NNP	NNP	_	2	nn	_	_
+2	Lawson	_	NNP	NNP	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	cop	_	_
+4	undercover	_	NN	NN	_	0	null	_	_
+5	as	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	administrator	_	NN	NN	_	5	pobj	_	_
+8	of	_	IN	IN	_	7	prep	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	hospital	_	NN	NN	_	8	pobj	_	_
+11	now	_	RB	RB	_	7	advmod	_	_
+12	.	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	think	_	VBP	VBP	_	0	null	_	_
+3	it	_	PRP	PRP	_	4	nsubj	_	_
+4	best	_	JJS	JJS	_	2	ccomp	_	_
+5	that	_	IN	IN	_	7	complm	_	_
+6	I	_	PRP	PRP	_	7	nsubj	_	_
+7	exit	_	VBP	VBP	_	4	ccomp	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	country	_	NN	NN	_	7	dobj	_	_
+10	and	_	CC	CC	_	7	cc	_	_
+11	take	_	VB	VB	_	7	conj	_	_
+12	with	_	IN	IN	_	17	mark	_	_
+13	me	_	PRP	PRP	_	17	nsubj	_	_
+14	our	_	PRP$	PRP$	_	15	poss	_	_
+15	adversaries	_	NNS	NNS	_	17	poss	_	_
+16	'	_	POS	POS	_	15	possessive	_	_
+17	attention	_	NN	NN	_	11	advcl	_	_
+18	.	_	.	.	_	2	punct	_	_
+
+1	In	_	IN	IN	_	8	prep	_	_
+2	my	_	PRP$	PRP$	_	3	poss	_	_
+3	absence	_	NN	NN	_	1	pobj	_	_
+4	,	_	,	,	_	8	punct	_	_
+5	Mr.	_	NNP	NNP	_	6	nn	_	_
+6	Lawson	_	NNP	NNP	_	8	nsubj	_	_
+7	will	_	MD	MD	_	8	aux	_	_
+8	step	_	VB	VB	_	0	null	_	_
+9	in	_	RP	RP	_	8	prt	_	_
+10	.	_	.	.	_	8	punct	_	_
+
+1	Perhaps	_	RB	RB	_	4	advmod	_	_
+2	we	_	PRP	PRP	_	4	nsubj	_	_
+3	should	_	MD	MD	_	4	aux	_	_
+4	delay	_	VB	VB	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	That	_	DT	DT	_	5	nsubj	_	_
+2	's	_	VBZ	VBZ	_	5	cop	_	_
+3	not	_	RB	RB	_	5	neg	_	_
+4	an	_	DT	DT	_	5	det	_	_
+5	option	_	NN	NN	_	0	null	_	_
+6	,	_	,	,	_	5	punct	_	_
+7	and	_	CC	CC	_	5	cc	_	_
+8	you	_	PRP	PRP	_	9	nsubj	_	_
+9	know	_	VBP	VBP	_	5	conj	_	_
+10	it	_	PRP	PRP	_	9	dobj	_	_
+11	.	_	.	.	_	5	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	surgery	_	NN	NN	_	6	nsubj	_	_
+3	can	_	MD	MD	_	6	aux	_	_
+4	no	_	RB	RB	_	5	advmod	_	_
+5	longer	_	RB	RB	_	6	advmod	_	_
+6	wait	_	VB	VB	_	0	null	_	_
+7	.	_	.	.	_	6	punct	_	_
+
+1	He	_	PRP	PRP	_	4	nsubj	_	_
+2	does	_	VBZ	VBZ	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	seem	_	VB	VB	_	0	null	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	trust	_	VB	VB	_	4	xcomp	_	_
+7	you	_	PRP	PRP	_	6	dobj	_	_
+8	very	_	RB	RB	_	9	advmod	_	_
+9	much	_	RB	RB	_	6	advmod	_	_
+10	.	_	.	.	_	4	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	feeling	_	NN	NN	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	cop	_	_
+4	mutual	_	JJ	JJ	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	hope	_	VBP	VBP	_	8	ccomp	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	Evan	_	NNP	NNP	_	2	ccomp	_	_
+5	,	_	,	,	_	8	punct	_	_
+6	you	_	PRP	PRP	_	8	nsubjpass	_	_
+7	are	_	VBP	VBP	_	8	auxpass	_	_
+8	prepared	_	VBN	VBN	_	0	null	_	_
+9	.	_	.	.	_	8	punct	_	_
+
+1	Prepared	_	VBN	VBN	_	0	null	_	_
+2	for	_	IN	IN	_	1	prep	_	_
+3	what	_	WP	WP	_	2	pobj	_	_
+4	?	_	.	.	_	1	punct	_	_
+
+1	That	_	DT	DT	_	2	nsubj	_	_
+2	is	_	VBZ	VBZ	_	0	null	_	_
+3	what	_	WP	WP	_	5	dep	_	_
+4	we	_	PRP	PRP	_	5	nsubj	_	_
+5	have	_	VBP	VBP	_	2	ccomp	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	figure	_	VB	VB	_	5	xcomp	_	_
+8	out	_	RP	RP	_	7	prt	_	_
+9	.	_	.	.	_	2	punct	_	_
+
+1	Call	_	VB	VB	_	0	null	_	_
+2	your	_	PRP$	PRP$	_	3	poss	_	_
+3	wife	_	NN	NN	_	1	dobj	_	_
+4	and	_	CC	CC	_	1	cc	_	_
+5	tell	_	VB	VB	_	1	conj	_	_
+6	her	_	PRP	PRP	_	5	dobj	_	_
+7	you	_	PRP	PRP	_	10	nsubj	_	_
+8	're	_	VBP	VBP	_	10	aux	_	_
+9	not	_	RB	RB	_	10	neg	_	_
+10	coming	_	VBG	VBG	_	5	dep	_	_
+11	home	_	NN	NN	_	10	advmod	_	_
+12	.	_	.	.	_	1	punct	_	_
+
+1	Ever	_	RB	RB	_	0	null	_	_
+2	?	_	.	.	_	1	punct	_	_
+
+1	Hi	_	NNP	NNP	_	6	dobj	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	Jeremiah.	_	NNP	NNP	_	1	appos	_	_
+4	It	_	PRP	PRP	_	6	nsubj	_	_
+5	's	_	VBZ	VBZ	_	6	cop	_	_
+6	me	_	PRP	PRP	_	0	null	_	_
+7	again	_	RB	RB	_	6	advmod	_	_
+8	.	_	.	.	_	6	punct	_	_
+
+1	II	_	NNP	NNP	_	2	nsubj	_	_
+2	know	_	VBP	VBP	_	0	null	_	_
+3	that	_	IN	IN	_	5	complm	_	_
+4	I	_	PRP	PRP	_	5	nsubj	_	_
+5	keep	_	VBP	VBP	_	2	ccomp	_	_
+6	leaving	_	VBG	VBG	_	5	xcomp	_	_
+7	messages	_	NNS	NNS	_	6	dobj	_	_
+8	,	_	,	,	_	2	punct	_	_
+9	but	_	CC	CC	_	2	cc	_	_
+10	I	_	PRP	PRP	_	12	nsubjpass	_	_
+11	am	_	VBP	VBP	_	12	auxpass	_	_
+12	worried	_	VBN	VBN	_	2	conj	_	_
+13	about	_	IN	IN	_	12	prep	_	_
+14	you	_	PRP	PRP	_	13	pobj	_	_
+15	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	understand	_	VBP	VBP	_	0	null	_	_
+3	if	_	IN	IN	_	5	mark	_	_
+4	you	_	PRP	PRP	_	5	nsubj	_	_
+5	need	_	VBP	VBP	_	2	advcl	_	_
+6	your	_	PRP$	PRP$	_	7	poss	_	_
+7	space	_	NN	NN	_	5	dobj	_	_
+8	,	_	,	,	_	2	punct	_	_
+9	but	_	CC	CC	_	2	cc	_	_
+10	I	_	PRP	PRP	_	11	nsubj	_	_
+11	wish	_	VBP	VBP	_	2	conj	_	_
+12	you	_	PRP	PRP	_	14	nsubj	_	_
+13	'd	_	MD	MD	_	14	aux	_	_
+14	let	_	VB	VB	_	11	ccomp	_	_
+15	me	_	PRP	PRP	_	16	nsubj	_	_
+16	know	_	VB	VB	_	14	ccomp	_	_
+17	that	_	IN	IN	_	19	complm	_	_
+18	you	_	PRP	PRP	_	19	nsubj	_	_
+19	're	_	VBP	VBP	_	16	ccomp	_	_
+20	okay	_	RB	RB	_	19	advmod	_	_
+21	.	_	.	.	_	2	punct	_	_
+
+1	-LSB-	_	DT	DT	_	3	det	_	_
+2	baby	_	NN	NN	_	3	nn	_	_
+3	cries	_	NNS	NNS	_	8	nsubj	_	_
+4	over	_	IN	IN	_	3	prep	_	_
+5	monitor	_	NN	NN	_	6	nn	_	_
+6	-RSB-	_	NNS	NNS	_	4	pobj	_	_
+7	There	_	RB	RB	_	8	advmod	_	_
+8	goes	_	VBZ	VBZ	_	0	null	_	_
+9	Sashi	_	NNP	NNP	_	8	dobj	_	_
+10	.	_	.	.	_	8	punct	_	_
+
+1	Can	_	MD	MD	_	3	aux	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	hear	_	VB	VB	_	0	null	_	_
+4	her	_	PRP	PRP	_	3	dobj	_	_
+5	?	_	.	.	_	3	punct	_	_
+
+1	She	_	PRP	PRP	_	2	nsubj	_	_
+2	misses	_	VBZ	VBZ	_	0	null	_	_
+3	you	_	PRP	PRP	_	2	dobj	_	_
+4	too	_	RB	RB	_	2	advmod	_	_
+5	,	_	,	,	_	2	punct	_	_
+6	especially	_	RB	RB	_	7	dep	_	_
+7	at	_	IN	IN	_	2	prep	_	_
+8	this	_	DT	DT	_	9	det	_	_
+9	hour	_	NN	NN	_	7	pobj	_	_
+10	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	mean	_	VBP	VBP	_	10	ccomp	_	_
+3	,	_	,	,	_	10	punct	_	_
+4	you	_	PRP	PRP	_	5	dep	_	_
+5	two	_	CD	CD	_	9	nsubj	_	_
+6	were	_	VBD	VBD	_	9	cop	_	_
+7	always	_	RB	RB	_	9	advmod	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	night	_	NN	NN	_	10	nsubj	_	_
+10	owls	_	VBZ	VBZ	_	0	null	_	_
+11	.	_	.	.	_	10	punct	_	_
+
+1	Jeremiah	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Yes	_	UH	UH	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	'm	_	VBP	VBP	_	4	cop	_	_
+3	so	_	RB	RB	_	4	advmod	_	_
+4	glad	_	JJ	JJ	_	0	null	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	see	_	VB	VB	_	4	xcomp	_	_
+7	that	_	IN	IN	_	9	complm	_	_
+8	you	_	PRP	PRP	_	9	nsubj	_	_
+9	're	_	VBP	VBP	_	6	ccomp	_	_
+10	okay	_	RB	RB	_	9	advmod	_	_
+11	.	_	.	.	_	4	punct	_	_
+
+1	We	_	PRP	PRP	_	5	nsubj	_	_
+2	've	_	VBP	VBP	_	5	aux	_	_
+3	been	_	VBN	VBN	_	5	cop	_	_
+4	very	_	RB	RB	_	5	advmod	_	_
+5	worried	_	JJ	JJ	_	0	null	_	_
+6	about	_	IN	IN	_	5	prep	_	_
+7	you	_	PRP	PRP	_	6	pobj	_	_
+8	.	_	.	.	_	5	punct	_	_
+
+1	So	_	RB	RB	_	5	advmod	_	_
+2	you	_	PRP	PRP	_	5	nsubj	_	_
+3	've	_	VBP	VBP	_	5	aux	_	_
+4	been	_	VBN	VBN	_	5	aux	_	_
+5	sleeping	_	VBG	VBG	_	21	advcl	_	_
+6	there	_	RB	RB	_	5	advmod	_	_
+7	during	_	IN	IN	_	5	prep	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	day	_	NN	NN	_	7	pobj	_	_
+10	and	_	CC	CC	_	5	cc	_	_
+11	working	_	VBG	VBG	_	5	conj	_	_
+12	out	_	RP	RP	_	11	prt	_	_
+13	here	_	RB	RB	_	11	advmod	_	_
+14	when	_	WRB	WRB	_	16	advmod	_	_
+15	everyone	_	NN	NN	_	16	nsubj	_	_
+16	's	_	VBZ	VBZ	_	11	advcl	_	_
+17	away	_	RB	RB	_	16	advmod	_	_
+18	at	_	IN	IN	_	16	prep	_	_
+19	night	_	NN	NN	_	18	pobj	_	_
+20	,	_	,	,	_	21	punct	_	_
+21	huh	_	NN	NN	_	0	null	_	_
+22	?	_	.	.	_	21	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	null	_	_
+3	no	_	DT	DT	_	4	det	_	_
+4	idea	_	NN	NN	_	2	dobj	_	_
+5	that	_	IN	IN	_	9	complm	_	_
+6	you	_	PRP	PRP	_	9	nsubj	_	_
+7	were	_	VBD	VBD	_	9	aux	_	_
+8	already	_	RB	RB	_	9	advmod	_	_
+9	working	_	VBG	VBG	_	4	ccomp	_	_
+10	on	_	IN	IN	_	9	prep	_	_
+11	mice	_	NNS	NNS	_	12	nn	_	_
+12	models	_	NNS	NNS	_	10	pobj	_	_
+13	.	_	.	.	_	2	punct	_	_
+
+1	Your	_	PRP$	PRP$	_	2	poss	_	_
+2	research	_	NN	NN	_	4	nsubj	_	_
+3	has	_	VBZ	VBZ	_	4	aux	_	_
+4	progressed	_	VBN	VBN	_	0	null	_	_
+5	so	_	RB	RB	_	6	advmod	_	_
+6	quickly	_	RB	RB	_	4	advmod	_	_
+7	.	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	'm	_	VBP	VBP	_	4	cop	_	_
+3	very	_	RB	RB	_	4	advmod	_	_
+4	busy	_	JJ	JJ	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	Yes	_	UH	UH	_	5	dep	_	_
+2	,	_	,	,	_	5	punct	_	_
+3	I	_	PRP	PRP	_	5	nsubj	_	_
+4	completely	_	RB	RB	_	5	advmod	_	_
+5	understand	_	VBP	VBP	_	0	null	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	Maybe	_	RB	RB	_	4	advmod	_	_
+2	I	_	PRP	PRP	_	4	nsubj	_	_
+3	can	_	MD	MD	_	4	aux	_	_
+4	help	_	VB	VB	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	Uh	_	UH	UH	_	4	dep	_	_
+2	,	_	,	,	_	4	punct	_	_
+3	you	_	PRP	PRP	_	4	nsubj	_	_
+4	ca	_	MD	MD	_	0	null	_	_
+5	n't	_	RB	RB	_	4	neg	_	_
+6	.	_	.	.	_	4	punct	_	_
+
+1	Go	_	NNP	NNP	_	4	tmod	_	_
+2	away	_	RB	RB	_	1	advmod	_	_
+3	,	_	,	,	_	4	punct	_	_
+4	please	_	VB	VB	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	-LSB-	_	DT	DT	_	3	det	_	_
+2	upbeat	_	JJ	JJ	_	3	amod	_	_
+3	music	_	NN	NN	_	0	null	_	_
+4	-RSB-	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	have	_	VBP	VBP	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	pulled	_	VBN	VBN	_	0	null	_	_
+5	an	_	DT	DT	_	6	det	_	_
+6	allnighter	_	NN	NN	_	4	dobj	_	_
+7	since	_	IN	IN	_	4	prep	_	_
+8	college	_	NN	NN	_	7	pobj	_	_
+9	.	_	.	.	_	4	punct	_	_
+
+1	Remember	_	VB	VB	_	0	null	_	_
+2	those	_	DT	DT	_	3	det	_	_
+3	days	_	NNS	NNS	_	1	dobj	_	_
+4	?	_	.	.	_	1	punct	_	_
+
+1	Pulling	_	VBG	VBG	_	0	null	_	_
+2	on	_	IN	IN	_	1	prep	_	_
+3	your	_	PRP$	PRP$	_	4	poss	_	_
+4	earlobes	_	NNS	NNS	_	2	pobj	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	stay	_	VB	VB	_	4	infmod	_	_
+7	awake	_	RB	RB	_	6	advmod	_	_
+8	,	_	,	,	_	1	punct	_	_
+9	crushing	_	VBG	VBG	_	1	conj	_	_
+10	NoDoz	_	NNP	NNP	_	9	dobj	_	_
+11	and	_	CC	CC	_	1	cc	_	_
+12	putting	_	VBG	VBG	_	1	conj	_	_
+13	it	_	PRP	PRP	_	12	dobj	_	_
+14	in	_	IN	IN	_	12	prep	_	_
+15	your	_	PRP$	PRP$	_	16	poss	_	_
+16	coffee	_	NN	NN	_	14	pobj	_	_
+17	,	_	,	,	_	1	punct	_	_
+18	and	_	CC	CC	_	1	cc	_	_
+19	then	_	RB	RB	_	1	advmod	_	_
+20	chasing	_	VBG	VBG	_	1	dep	_	_
+21	your	_	PRP$	PRP$	_	22	poss	_	_
+22	coffee	_	NN	NN	_	20	dobj	_	_
+23	with	_	IN	IN	_	22	prep	_	_
+24	Red	_	NNP	NNP	_	25	nn	_	_
+25	Bull	_	NNP	NNP	_	23	pobj	_	_
+26	?	_	.	.	_	1	punct	_	_
+
+1	Although	_	IN	IN	_	8	mark	_	_
+2	in	_	IN	IN	_	8	prep	_	_
+3	your	_	PRP$	PRP$	_	4	poss	_	_
+4	day	_	NN	NN	_	2	pobj	_	_
+5	,	_	,	,	_	8	punct	_	_
+6	it	_	PRP	PRP	_	8	nsubj	_	_
+7	was	_	VBD	VBD	_	8	cop	_	_
+8	probably	_	RB	RB	_	0	null	_	_
+9	...	_	:	:	_	8	punct	_	_
+
+1	Tab	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	You	_	PRP	PRP	_	3	nsubj	_	_
+2	're	_	VBP	VBP	_	3	cop	_	_
+3	clear	_	JJ	JJ	_	0	null	_	_
+4	on	_	IN	IN	_	3	prep	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	plan	_	NN	NN	_	4	pobj	_	_
+7	?	_	.	.	_	3	punct	_	_
+
+1	Yes	_	UH	UH	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	will	_	MD	MD	_	3	aux	_	_
+3	go	_	VB	VB	_	0	null	_	_
+4	to	_	TO	TO	_	3	prep	_	_
+5	Brazil	_	NNP	NNP	_	4	pobj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	Straight	_	NN	NN	_	0	null	_	_
+2	from	_	IN	IN	_	1	prep	_	_
+3	here	_	RB	RB	_	2	pobj	_	_
+4	.	_	.	.	_	1	punct	_	_
+
+1	Yeah	_	NNP	NNP	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	and	_	CC	CC	_	1	cc	_	_
+4	you	_	PRP	PRP	_	6	nsubj	_	_
+5	will	_	MD	MD	_	6	aux	_	_
+6	not	_	RB	RB	_	1	conj	_	_
+7	...	_	:	:	_	1	punct	_	_
+
+1	Contact	_	NNP	NNP	_	6	advmod	_	_
+2	you	_	PRP	PRP	_	6	nsubj	_	_
+3	once	_	RB	RB	_	6	advmod	_	_
+4	you	_	PRP	PRP	_	6	nsubj	_	_
+5	're	_	VBP	VBP	_	6	dep	_	_
+6	gone	_	VBN	VBN	_	0	null	_	_
+7	.	_	.	.	_	6	punct	_	_
+
+1	This	_	DT	DT	_	3	nsubj	_	_
+2	is	_	VBZ	VBZ	_	3	cop	_	_
+3	great	_	JJ	JJ	_	7	ccomp	_	_
+4	,	_	,	,	_	7	punct	_	_
+5	this	_	DT	DT	_	7	nsubj	_	_
+6	is	_	VBZ	VBZ	_	7	cop	_	_
+7	good	_	JJ	JJ	_	0	null	_	_
+8	.	_	.	.	_	7	punct	_	_
+
+1	Keep	_	JJ	JJ	_	2	amod	_	_
+2	testing	_	NN	NN	_	0	null	_	_
+3	me	_	PRP	PRP	_	2	dep	_	_
+4	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	'm	_	VBP	VBP	_	4	aux	_	_
+3	not	_	RB	RB	_	4	neg	_	_
+4	testing	_	VBG	VBG	_	0	null	_	_
+5	you	_	PRP	PRP	_	4	dobj	_	_
+6	.	_	.	.	_	4	punct	_	_
+
+1	You	_	PRP	PRP	_	2	nsubj	_	_
+2	keep	_	VBP	VBP	_	0	null	_	_
+3	interrupting	_	VBG	VBG	_	2	xcomp	_	_
+4	me	_	PRP	PRP	_	3	dobj	_	_
+5	.	_	.	.	_	2	punct	_	_
+
+1	Oh	_	UH	UH	_	5	dep	_	_
+2	,	_	,	,	_	5	punct	_	_
+3	I	_	PRP	PRP	_	5	nsubj	_	_
+4	'm	_	VBP	VBP	_	5	cop	_	_
+5	sorry	_	JJ	JJ	_	0	null	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	Sorry	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	5	nsubj	_	_
+2	'm	_	VBP	VBP	_	5	cop	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	little	_	JJ	JJ	_	5	amod	_	_
+5	nervous	_	JJ	JJ	_	0	null	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	-LSB-	_	JJ	JJ	_	2	amod	_	_
+2	sighs	_	NNS	NNS	_	0	null	_	_
+3	-RSB-	_	:	:	_	2	punct	_	_
+4	It	_	PRP	PRP	_	7	nsubj	_	_
+5	's	_	VBZ	VBZ	_	7	cop	_	_
+6	all	_	DT	DT	_	7	det	_	_
+7	right	_	NN	NN	_	2	dep	_	_
+8	.	_	.	.	_	2	punct	_	_
+
+1	You	_	PRP	PRP	_	3	nsubj	_	_
+2	've	_	VBP	VBP	_	3	aux	_	_
+3	done	_	VBN	VBN	_	0	null	_	_
+4	quite	_	RB	RB	_	5	advmod	_	_
+5	well	_	RB	RB	_	3	advmod	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	Until	_	IN	IN	_	0	null	_	_
+2	that	_	DT	DT	_	3	det	_	_
+3	moment	_	NN	NN	_	1	pobj	_	_
+4	.	_	.	.	_	1	punct	_	_
+
+1	Your	_	PRP$	PRP$	_	3	poss	_	_
+2	car	_	NN	NN	_	3	nn	_	_
+3	keys	_	NNS	NNS	_	8	nsubj	_	_
+4	,	_	,	,	_	3	punct	_	_
+5	Evan.	_	NNP	NNP	_	3	appos	_	_
+6	Oh	_	UH	UH	_	5	dep	_	_
+7	,	_	,	,	_	3	punct	_	_
+8	right	_	RB	RB	_	0	null	_	_
+9	.	_	.	.	_	8	punct	_	_
+
+1	Just	_	RB	RB	_	4	advmod	_	_
+2	so	_	IN	IN	_	1	dep	_	_
+3	you	_	PRP	PRP	_	4	nsubj	_	_
+4	know	_	VBP	VBP	_	7	advcl	_	_
+5	,	_	,	,	_	7	punct	_	_
+6	I	_	PRP	PRP	_	7	nsubj	_	_
+7	switched	_	VBD	VBD	_	0	null	_	_
+8	cars	_	NNS	NNS	_	7	dobj	_	_
+9	with	_	IN	IN	_	7	prep	_	_
+10	Paige	_	NNP	NNP	_	9	pobj	_	_
+11	,	_	,	,	_	7	punct	_	_
+12	so	_	IN	IN	_	17	mark	_	_
+13	it	_	PRP	PRP	_	17	nsubj	_	_
+14	will	_	MD	MD	_	17	aux	_	_
+15	be	_	VB	VB	_	17	cop	_	_
+16	her	_	PRP$	PRP$	_	17	poss	_	_
+17	car	_	NN	NN	_	7	advcl	_	_
+18	you	_	PRP	PRP	_	20	nsubj	_	_
+19	're	_	VBP	VBP	_	20	aux	_	_
+20	borrowing	_	VBG	VBG	_	17	rcmod	_	_
+21	,	_	,	,	_	17	punct	_	_
+22	not	_	RB	RB	_	17	neg	_	_
+23	mine	_	NN	NN	_	17	dep	_	_
+24	.	_	.	.	_	7	punct	_	_
+
+1	Then	_	RB	RB	_	2	advmod	_	_
+2	thank	_	VB	VB	_	0	null	_	_
+3	Paige	_	NN	NN	_	2	dobj	_	_
+4	for	_	IN	IN	_	2	prep	_	_
+5	me	_	PRP	PRP	_	4	pobj	_	_
+6	.	_	.	.	_	2	punct	_	_
+
+1	Yeah	_	UH	UH	_	4	dep	_	_
+2	,	_	,	,	_	4	punct	_	_
+3	I	_	PRP	PRP	_	4	nsubj	_	_
+4	'll	_	MD	MD	_	0	null	_	_
+5	...	_	:	:	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	ca	_	MD	MD	_	0	null	_	_
+3	n't	_	RB	RB	_	2	neg	_	_
+4	.	_	.	.	_	2	punct	_	_
+
+1	She	_	PRP	PRP	_	4	nsubj	_	_
+2	does	_	VBZ	VBZ	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	know	_	VB	VB	_	0	null	_	_
+5	about	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	plan	_	NN	NN	_	5	pobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	That	_	DT	DT	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	test	_	NN	NN	_	8	nsubj	_	_
+5	,	_	,	,	_	4	punct	_	_
+6	was	_	VBD	VBD	_	8	cop	_	_
+7	n't	_	RB	RB	_	8	neg	_	_
+8	it	_	PRP	PRP	_	0	null	_	_
+9	?	_	.	.	_	8	punct	_	_
+
+1	Just	_	RB	RB	_	2	quantmod	_	_
+2	one	_	CD	CD	_	3	num	_	_
+3	question	_	NN	NN	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	When	_	WRB	WRB	_	10	advmod	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	mystery	_	NN	NN	_	10	nsubj	_	_
+4	VIP	_	NNP	NNP	_	5	nsubj	_	_
+5	arrives	_	VBZ	VBZ	_	3	rcmod	_	_
+6	,	_	,	,	_	3	punct	_	_
+7	should	_	MD	MD	_	10	aux	_	_
+8	I	_	PRP	PRP	_	10	nsubj	_	_
+9	not	_	RB	RB	_	10	neg	_	_
+10	look	_	VBP	VBP	_	0	null	_	_
+11	at	_	IN	IN	_	10	prep	_	_
+12	him	_	PRP	PRP	_	11	pobj	_	_
+13	,	_	,	,	_	10	punct	_	_
+14	just	_	RB	RB	_	19	advmod	_	_
+15	so	_	IN	IN	_	14	dep	_	_
+16	I	_	PRP	PRP	_	19	nsubj	_	_
+17	ca	_	MD	MD	_	19	aux	_	_
+18	n't	_	RB	RB	_	19	neg	_	_
+19	ID	_	VB	VB	_	10	dep	_	_
+20	him	_	PRP	PRP	_	19	dobj	_	_
+21	?	_	.	.	_	10	punct	_	_
+
+1	Not	_	RB	RB	_	6	neg	_	_
+2	that	_	IN	IN	_	6	dep	_	_
+3	I	_	PRP	PRP	_	6	nsubj	_	_
+4	would	_	MD	MD	_	6	aux	_	_
+5	even	_	RB	RB	_	6	advmod	_	_
+6	recognize	_	VB	VB	_	0	null	_	_
+7	him	_	PRP	PRP	_	6	dobj	_	_
+8	.	_	.	.	_	6	punct	_	_
+
+1	I	_	PRP	PRP	_	5	nsubj	_	_
+2	'm	_	VBP	VBP	_	5	cop	_	_
+3	not	_	RB	RB	_	5	dep	_	_
+4	really	_	RB	RB	_	5	advmod	_	_
+5	up	_	RB	RB	_	0	null	_	_
+6	on	_	IN	IN	_	5	prep	_	_
+7	my	_	PRP$	PRP$	_	9	poss	_	_
+8	world	_	NN	NN	_	9	nn	_	_
+9	leaders	_	NNS	NNS	_	6	pobj	_	_
+10	or	_	CC	CC	_	9	cc	_	_
+11	titans	_	NNS	NNS	_	9	conj	_	_
+12	of	_	IN	IN	_	11	prep	_	_
+13	industry	_	NN	NN	_	12	pobj	_	_
+14	or	_	CC	CC	_	13	cc	_	_
+15	ruthless	_	JJ	JJ	_	16	amod	_	_
+16	dictators	_	NNS	NNS	_	13	conj	_	_
+17	.	_	.	.	_	5	punct	_	_
+
+1	Not	_	RB	RB	_	4	advmod	_	_
+2	that	_	IN	IN	_	4	complm	_	_
+3	you	_	PRP	PRP	_	4	nsubj	_	_
+4	hang	_	VBP	VBP	_	0	null	_	_
+5	out	_	RP	RP	_	4	prt	_	_
+6	with	_	IN	IN	_	4	prep	_	_
+7	ruthless	_	JJ	JJ	_	8	amod	_	_
+8	dictators	_	NNS	NNS	_	6	pobj	_	_
+9	.	_	.	.	_	4	punct	_	_
+
+1	You	_	PRP	PRP	_	2	nsubj	_	_
+2	know	_	VBP	VBP	_	8	ccomp	_	_
+3	what	_	WP	WP	_	5	dobj	_	_
+4	I	_	PRP	PRP	_	5	nsubj	_	_
+5	mean	_	VBP	VBP	_	2	ccomp	_	_
+6	,	_	,	,	_	8	punct	_	_
+7	I	_	PRP	PRP	_	8	nsubj	_	_
+8	'm	_	VBP	VBP	_	0	null	_	_
+9	just	_	RB	RB	_	8	dep	_	_
+10	...	_	:	:	_	9	punct	_	_
+11	I	_	PRP	PRP	_	13	nsubj	_	_
+12	'm	_	VBP	VBP	_	13	cop	_	_
+13	just	_	RB	RB	_	9	dep	_	_
+14	...	_	:	:	_	8	punct	_	_
+
+1	Oh	_	UH	UH	_	5	dep	_	_
+2	,	_	,	,	_	5	punct	_	_
+3	here	_	RB	RB	_	5	advmod	_	_
+4	you	_	PRP	PRP	_	5	nsubj	_	_
+5	are.	_	VBP	VBP	_	0	null	_	_
+6	Did	_	NNP	NNP	_	8	advmod	_	_
+7	you	_	PRP	PRP	_	8	nsubj	_	_
+8	lose	_	VB	VB	_	5	dep	_	_
+9	your	_	PRP$	PRP$	_	10	poss	_	_
+10	phone	_	NN	NN	_	8	dobj	_	_
+11	?	_	.	.	_	5	punct	_	_
+
+1	No	_	UH	UH	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	no	_	UH	UH	_	1	dep	_	_
+4	.	_	.	.	_	1	punct	_	_
+
+1	Just	_	RB	RB	_	2	advmod	_	_
+2	had	_	VBD	VBD	_	0	null	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	long	_	JJ	JJ	_	5	amod	_	_
+5	night	_	NN	NN	_	2	dobj	_	_
+6	.	_	.	.	_	2	punct	_	_
+
+1	The	_	DT	DT	_	2	dep	_	_
+2	two	_	CD	CD	_	6	nsubjpass	_	_
+3	of	_	IN	IN	_	2	prep	_	_
+4	you	_	PRP	PRP	_	3	pobj	_	_
+5	have	_	VBP	VBP	_	6	aux	_	_
+6	been	_	VBN	VBN	_	0	null	_	_
+7	here	_	RB	RB	_	6	advmod	_	_
+8	all	_	DT	DT	_	9	det	_	_
+9	night	_	NN	NN	_	6	tmod	_	_
+10	?	_	.	.	_	6	punct	_	_
+
+1	Just	_	RB	RB	_	4	advmod	_	_
+2	a	_	DT	DT	_	4	det	_	_
+3	long	_	JJ	JJ	_	4	amod	_	_
+4	night	_	NN	NN	_	0	null	_	_
+5	of	_	IN	IN	_	4	prep	_	_
+6	asset	_	NN	NN	_	7	nn	_	_
+7	tracking	_	NN	NN	_	5	pobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	You	_	PRP	PRP	_	2	nsubj	_	_
+2	know	_	VBP	VBP	_	0	null	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	apparently	_	RB	RB	_	7	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	hospital	_	NN	NN	_	7	nsubj	_	_
+7	has	_	VBZ	VBZ	_	2	ccomp	_	_
+8	a	_	DT	DT	_	9	det	_	_
+9	lot	_	NN	NN	_	7	dobj	_	_
+10	of	_	IN	IN	_	9	prep	_	_
+11	assets	_	NNS	NNS	_	10	pobj	_	_
+12	that	_	WDT	WDT	_	13	nsubj	_	_
+13	need	_	VBP	VBP	_	11	rcmod	_	_
+14	tracking	_	NN	NN	_	13	dobj	_	_
+15	.	_	.	.	_	2	punct	_	_
+
+1	Good	_	JJ	JJ	_	2	amod	_	_
+2	morning	_	NN	NN	_	4	tmod	_	_
+3	,	_	,	,	_	4	punct	_	_
+4	Hank	_	NNP	NNP	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	Good	_	JJ	JJ	_	2	amod	_	_
+2	morning	_	NN	NN	_	4	tmod	_	_
+3	,	_	,	,	_	4	punct	_	_
+4	Boris	_	NNP	NNP	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	And	_	CC	CC	_	4	cc	_	_
+2	goodbye	_	NN	NN	_	4	nn	_	_
+3	,	_	,	,	_	4	punct	_	_
+4	gentlemen	_	NNS	NNS	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	Goodbye	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	What	_	WP	WP	_	2	attr	_	_
+2	was	_	VBD	VBD	_	0	null	_	_
+3	that	_	IN	IN	_	2	dep	_	_
+4	?	_	.	.	_	2	punct	_	_
+
+1	What	_	WP	WP	_	0	null	_	_
+2	?	_	.	.	_	1	punct	_	_
+
+1	You	_	PRP	PRP	_	4	nsubj	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	Boris	_	NNP	NNP	_	1	conj	_	_
+4	have	_	VBP	VBP	_	0	null	_	_
+5	lots	_	NNS	NNS	_	4	dobj	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	slumber	_	NN	NN	_	8	nn	_	_
+8	parties	_	NNS	NNS	_	6	pobj	_	_
+9	?	_	.	.	_	4	punct	_	_
+
+1	Why	_	WRB	WRB	_	0	null	_	_
+2	are	_	VBP	VBP	_	1	dep	_	_
+3	you	_	PRP	PRP	_	2	nsubj	_	_
+4	here	_	RB	RB	_	2	advmod	_	_
+5	?	_	.	.	_	1	punct	_	_
+
+1	Because	_	IN	IN	_	5	mark	_	_
+2	you	_	PRP	PRP	_	5	nsubj	_	_
+3	would	_	MD	MD	_	5	aux	_	_
+4	n't	_	RB	RB	_	5	neg	_	_
+5	answer	_	VB	VB	_	0	null	_	_
+6	your	_	PRP$	PRP$	_	7	poss	_	_
+7	phone	_	NN	NN	_	5	dobj	_	_
+8	.	_	.	.	_	5	punct	_	_
+
+1	Jeremiah	_	NNP	NNP	_	2	nsubj	_	_
+2	disappeared	_	VBD	VBD	_	0	null	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	and	_	CC	CC	_	2	cc	_	_
+5	...	_	:	:	_	2	punct	_	_
+
+1	What	_	WP	WP	_	4	dobj	_	_
+2	do	_	VBP	VBP	_	4	aux	_	_
+3	you	_	PRP	PRP	_	4	nsubj	_	_
+4	mean	_	VB	VB	_	6	ccomp	_	_
+5	,	_	,	,	_	6	punct	_	_
+6	disappeared	_	VBD	VBD	_	0	null	_	_
+7	?	_	.	.	_	6	punct	_	_
+
+1	When	_	WRB	WRB	_	0	null	_	_
+2	?	_	.	.	_	1	punct	_	_
+
+1	He	_	PRP	PRP	_	3	nsubj	_	_
+2	's	_	VBZ	VBZ	_	3	cop	_	_
+3	okay	_	NN	NN	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	Divya	_	NNP	NNP	_	2	nsubj	_	_
+2	found	_	VBD	VBD	_	0	null	_	_
+3	him	_	PRP	PRP	_	2	dobj	_	_
+4	.	_	.	.	_	2	punct	_	_
+
+1	He	_	PRP	PRP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	very	_	RB	RB	_	4	advmod	_	_
+4	upset	_	JJ	JJ	_	0	null	_	_
+5	about	_	IN	IN	_	4	prep	_	_
+6	a	_	DT	DT	_	8	det	_	_
+7	financial	_	JJ	JJ	_	8	amod	_	_
+8	mistake	_	NN	NN	_	5	pobj	_	_
+9	he	_	PRP	PRP	_	10	nsubj	_	_
+10	made	_	VBD	VBD	_	8	rcmod	_	_
+11	at	_	IN	IN	_	10	prep	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	lab	_	NN	NN	_	11	pobj	_	_
+14	.	_	.	.	_	4	punct	_	_
+
+1	Now	_	RB	RB	_	4	advmod	_	_
+2	,	_	,	,	_	4	punct	_	_
+3	Divya	_	NNP	NNP	_	4	nsubj	_	_
+4	thinks	_	VBZ	VBZ	_	0	null	_	_
+5	he	_	PRP	PRP	_	6	nsubj	_	_
+6	needs	_	VBZ	VBZ	_	4	ccomp	_	_
+7	a	_	DT	DT	_	10	det	_	_
+8	little	_	RB	RB	_	9	advmod	_	_
+9	more	_	JJR	JJR	_	10	amod	_	_
+10	time	_	NN	NN	_	6	dobj	_	_
+11	before	_	IN	IN	_	13	mark	_	_
+12	we	_	PRP	PRP	_	13	nsubj	_	_
+13	reach	_	VBP	VBP	_	6	advcl	_	_
+14	out	_	RP	RP	_	13	prt	_	_
+15	to	_	TO	TO	_	13	prep	_	_
+16	him	_	PRP	PRP	_	15	pobj	_	_
+17	.	_	.	.	_	4	punct	_	_
+
+1	She	_	PRP	PRP	_	3	nsubj	_	_
+2	'll	_	MD	MD	_	3	aux	_	_
+3	let	_	VB	VB	_	0	null	_	_
+4	us	_	PRP	PRP	_	5	nsubj	_	_
+5	know	_	VB	VB	_	3	ccomp	_	_
+6	when	_	WRB	WRB	_	9	advmod	_	_
+7	he	_	PRP	PRP	_	9	nsubj	_	_
+8	's	_	VBZ	VBZ	_	9	cop	_	_
+9	ready.	_	NN	NN	_	5	advcl	_	_
+10	All	_	DT	DT	_	11	det	_	_
+11	right	_	NN	NN	_	9	dobj	_	_
+12	.	_	.	.	_	3	punct	_	_
+
+1	You	_	PRP	PRP	_	4	nsubj	_	_
+2	sure	_	RB	RB	_	4	advmod	_	_
+3	you	_	PRP	PRP	_	4	nsubj	_	_
+4	're	_	VBP	VBP	_	0	null	_	_
+5	okay	_	RB	RB	_	4	advmod	_	_
+6	?	_	.	.	_	4	punct	_	_
+
+1	Yeah	_	UH	UH	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Yeah	_	UH	UH	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	long	_	JJ	JJ	_	4	amod	_	_
+4	night	_	NN	NN	_	1	dep	_	_
+5	.	_	.	.	_	1	punct	_	_
+
+1	All	_	DT	DT	_	2	det	_	_
+2	good.	_	NN	NN	_	6	nsubj	_	_
+3	Just	_	RB	RB	_	6	advmod	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	whole	_	JJ	JJ	_	6	amod	_	_
+6	lot	_	NN	NN	_	0	null	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	...	_	:	:	_	7	punct	_	_
+9	Asset	_	NNP	NNP	_	10	nn	_	_
+10	tracking	_	NN	NN	_	7	pobj	_	_
+11	?	_	.	.	_	6	punct	_	_
+
+1	Divya	_	NNP	NNP	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	hi	_	NN	NN	_	1	appos	_	_
+4	.	_	.	.	_	1	punct	_	_
+
+1	Come	_	NN	NN	_	0	null	_	_
+2	on	_	IN	IN	_	1	prep	_	_
+3	in.	_	NN	NN	_	2	pobj	_	_
+4	I	_	PRP	PRP	_	7	nsubj	_	_
+5	'm	_	VBP	VBP	_	7	cop	_	_
+6	Mimi	_	NNP	NNP	_	7	nn	_	_
+7	Harper	_	NNP	NNP	_	1	rcmod	_	_
+8	.	_	.	.	_	1	punct	_	_
+
+1	Nice	_	NNP	NNP	_	3	nsubj	_	_
+2	to	_	TO	TO	_	3	aux	_	_
+3	meet	_	VB	VB	_	0	null	_	_
+4	you	_	PRP	PRP	_	3	dobj	_	_
+5	.	_	.	.	_	3	punct	_	_
+
+1	Let	_	VB	VB	_	0	null	_	_
+2	me	_	PRP	PRP	_	4	nsubj	_	_
+3	just	_	RB	RB	_	4	advmod	_	_
+4	grab	_	VB	VB	_	1	ccomp	_	_
+5	these	_	DT	DT	_	4	dobj	_	_
+6	.	_	.	.	_	1	punct	_	_
+
+1	So	_	RB	RB	_	2	advmod	_	_
+2	is	_	VBZ	VBZ	_	0	null	_	_
+3	she	_	PRP	PRP	_	4	nsubj	_	_
+4	part	_	NN	NN	_	2	nsubj	_	_
+5	of	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	hostilities	_	NNS	NNS	_	5	pobj	_	_
+8	?	_	.	.	_	2	punct	_	_
+
+1	No	_	UH	UH	_	3	dep	_	_
+2	,	_	,	,	_	3	punct	_	_
+3	Dad	_	NNP	NNP	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	This	_	DT	DT	_	3	nsubj	_	_
+2	is	_	VBZ	VBZ	_	3	cop	_	_
+3	Divya	_	NNP	NNP	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	She	_	PRP	PRP	_	2	nsubj	_	_
+2	works	_	VBZ	VBZ	_	0	null	_	_
+3	for	_	IN	IN	_	2	prep	_	_
+4	a	_	DT	DT	_	7	det	_	_
+5	concierge	_	NN	NN	_	7	nn	_	_
+6	medical	_	JJ	JJ	_	7	amod	_	_
+7	practice	_	NN	NN	_	3	pobj	_	_
+8	.	_	.	.	_	2	punct	_	_
+
+1	Uncle	_	NNP	NNP	_	2	nn	_	_
+2	Jim	_	NNP	NNP	_	5	nsubj	_	_
+3	is	_	VBZ	VBZ	_	5	aux	_	_
+4	n't	_	RB	RB	_	5	neg	_	_
+5	feeling	_	VBG	VBG	_	0	null	_	_
+6	well	_	RB	RB	_	5	advmod	_	_
+7	.	_	.	.	_	5	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	thought	_	VBD	VBD	_	0	null	_	_
+3	maybe	_	RB	RB	_	2	advmod	_	_
+4	his	_	PRP$	PRP$	_	5	poss	_	_
+5	hepatitis	_	NN	NN	_	6	nsubj	_	_
+6	was	_	VBD	VBD	_	2	ccomp	_	_
+7	back	_	RB	RB	_	6	advmod	_	_
+8	.	_	.	.	_	2	punct	_	_
+
+1	Or	_	CC	CC	_	5	cc	_	_
+2	maybe	_	RB	RB	_	5	advmod	_	_
+3	he	_	PRP	PRP	_	5	nsubj	_	_
+4	just	_	RB	RB	_	5	advmod	_	_
+5	has	_	VBZ	VBZ	_	0	null	_	_
+6	a	_	DT	DT	_	7	det	_	_
+7	cold	_	NN	NN	_	5	dobj	_	_
+8	,	_	,	,	_	7	punct	_	_
+9	which	_	WDT	WDT	_	11	rel	_	_
+10	he	_	PRP	PRP	_	11	nsubj	_	_
+11	deserves	_	VBZ	VBZ	_	7	rcmod	_	_
+12	for	_	IN	IN	_	11	prep	_	_
+13	insisting	_	VBG	VBG	_	12	pcomp	_	_
+14	on	_	IN	IN	_	13	prep	_	_
+15	sleeping	_	VBG	VBG	_	14	pcomp	_	_
+16	out	_	RP	RP	_	15	prt	_	_
+17	in	_	IN	IN	_	15	prep	_	_
+18	my	_	PRP$	PRP$	_	19	poss	_	_
+19	yard	_	NN	NN	_	17	pobj	_	_
+20	.	_	.	.	_	5	punct	_	_
+
+1	Well	_	RB	RB	_	5	advmod	_	_
+2	,	_	,	,	_	5	punct	_	_
+3	it	_	PRP	PRP	_	5	nsubj	_	_
+4	's	_	VBZ	VBZ	_	5	cop	_	_
+5	better	_	JJR	JJR	_	0	null	_	_
+6	to	_	TO	TO	_	8	aux	_	_
+7	be	_	VB	VB	_	8	cop	_	_
+8	safe	_	JJ	JJ	_	5	xcomp	_	_
+9	.	_	.	.	_	5	punct	_	_
+
+1	Sorry	_	NNP	NNP	_	0	null	_	_
+2	about	_	IN	IN	_	1	prep	_	_
+3	that	_	WDT	WDT	_	2	pobj	_	_
+4	.	_	.	.	_	1	punct	_	_
+
+1	Not	_	RB	RB	_	3	neg	_	_
+2	a	_	DT	DT	_	3	det	_	_
+3	problem	_	NN	NN	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	Sounds	_	NNS	NNS	_	0	null	_	_
+2	like	_	IN	IN	_	5	mark	_	_
+3	I	_	PRP	PRP	_	5	nsubj	_	_
+4	should	_	MD	MD	_	5	aux	_	_
+5	take	_	VB	VB	_	1	ccomp	_	_
+6	a	_	DT	DT	_	7	det	_	_
+7	look	_	NN	NN	_	5	dobj	_	_
+8	at	_	IN	IN	_	7	prep	_	_
+9	your	_	PRP$	PRP$	_	10	poss	_	_
+10	uncle	_	NN	NN	_	8	pobj	_	_
+11	.	_	.	.	_	1	punct	_	_
+
+1	Please	_	NN	NN	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	But	_	CC	CC	_	5	cc	_	_
+2	first	_	RB	RB	_	5	advmod	_	_
+3	,	_	,	,	_	5	punct	_	_
+4	you	_	PRP	PRP	_	5	nsubj	_	_
+5	need	_	VBP	VBP	_	0	null	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	put	_	VB	VB	_	5	xcomp	_	_
+8	on	_	RP	RP	_	7	prt	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	apron	_	NN	NN	_	7	dobj	_	_
+11	or	_	CC	CC	_	10	cc	_	_
+12	this	_	DT	DT	_	10	conj	_	_
+13	.	_	.	.	_	5	punct	_	_
+
+1	What	_	WP	WP	_	2	attr	_	_
+2	's	_	VBZ	VBZ	_	0	null	_	_
+3	that	_	IN	IN	_	2	dep	_	_
+4	?	_	.	.	_	2	punct	_	_
+
+1	A	_	DT	DT	_	3	det	_	_
+2	...	_	:	:	_	3	punct	_	_
+3	capelet	_	NN	NN	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	Dad	_	NNP	NNP	_	0	null	_	_
+2	's	_	VBZ	VBZ	_	1	dep	_	_
+3	not	_	RB	RB	_	4	neg	_	_
+4	usually	_	RB	RB	_	5	dep	_	_
+5	like	_	IN	IN	_	2	prep	_	_
+6	that	_	WDT	WDT	_	5	pobj	_	_
+7	.	_	.	.	_	1	punct	_	_
+
+1	It	_	PRP	PRP	_	10	nsubj	_	_
+2	's	_	VBZ	VBZ	_	10	aux	_	_
+3	just	_	RB	RB	_	10	advmod	_	_
+4	he	_	PRP	PRP	_	10	nsubj	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	Uncle	_	NNP	NNP	_	7	nn	_	_
+7	Jim	_	NNP	NNP	_	4	conj	_	_
+8	do	_	VBP	VBP	_	10	aux	_	_
+9	n't	_	RB	RB	_	10	neg	_	_
+10	like	_	VB	VB	_	0	null	_	_
+11	each	_	DT	DT	_	12	det	_	_
+12	other	_	JJ	JJ	_	10	dobj	_	_
+13	very	_	RB	RB	_	14	advmod	_	_
+14	much	_	RB	RB	_	10	advmod	_	_
+15	.	_	.	.	_	10	punct	_	_
+
+1	Are	_	VBP	VBP	_	3	cop	_	_
+2	they	_	PRP	PRP	_	3	nsubj	_	_
+3	brothers	_	NNS	NNS	_	0	null	_	_
+4	?	_	.	.	_	3	punct	_	_
+
+1	Yeah	_	UH	UH	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	like	_	IN	IN	_	1	dep	_	_
+4	Cain	_	NNP	NNP	_	3	pobj	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	Abel	_	NNP	NNP	_	4	conj	_	_
+7	.	_	.	.	_	1	punct	_	_
+
+1	My	_	PRP$	PRP$	_	2	poss	_	_
+2	father	_	NN	NN	_	3	nsubj	_	_
+3	used	_	VBD	VBD	_	0	null	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	worship	_	VB	VB	_	3	xcomp	_	_
+6	Uncle	_	NNP	NNP	_	7	nn	_	_
+7	Jim	_	NNP	NNP	_	5	dobj	_	_
+8	,	_	,	,	_	3	punct	_	_
+9	and	_	CC	CC	_	3	cc	_	_
+10	now	_	RB	RB	_	13	advmod	_	_
+11	they	_	PRP	PRP	_	13	nsubj	_	_
+12	barely	_	RB	RB	_	13	advmod	_	_
+13	talk	_	VBP	VBP	_	3	conj	_	_
+14	to	_	TO	TO	_	13	prep	_	_
+15	one	_	CD	CD	_	14	pobj	_	_
+16	another	_	DT	DT	_	15	dep	_	_
+17	.	_	.	.	_	3	punct	_	_
+
+1	Are	_	VBP	VBP	_	4	cop	_	_
+2	you	_	PRP	PRP	_	4	nsubj	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	intermediary	_	JJ	JJ	_	0	null	_	_
+5	?	_	.	.	_	4	punct	_	_
+
+1	Not	_	RB	RB	_	0	null	_	_
+2	for	_	IN	IN	_	1	dep	_	_
+3	much	_	RB	RB	_	4	advmod	_	_
+4	longer	_	JJR	JJR	_	2	pobj	_	_
+5	.	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	'm	_	VBP	VBP	_	3	aux	_	_
+3	leaving	_	VBG	VBG	_	0	null	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	country	_	NN	NN	_	3	dobj	_	_
+6	in	_	IN	IN	_	3	prep	_	_
+7	a	_	DT	DT	_	9	det	_	_
+8	few	_	JJ	JJ	_	9	amod	_	_
+9	weeks	_	NNS	NNS	_	6	pobj	_	_
+10	for	_	IN	IN	_	3	prep	_	_
+11	a	_	DT	DT	_	13	det	_	_
+12	new	_	JJ	JJ	_	13	amod	_	_
+13	job	_	NN	NN	_	10	pobj	_	_
+14	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	aux	_	_
+3	hoping	_	VBG	VBG	_	0	null	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	broker	_	NN	NN	_	3	xcomp	_	_
+6	a	_	DT	DT	_	7	det	_	_
+7	truce	_	NN	NN	_	5	dobj	_	_
+8	before	_	IN	IN	_	5	prep	_	_
+9	then	_	RB	RB	_	8	pobj	_	_
+10	,	_	,	,	_	3	punct	_	_
+11	but	_	CC	CC	_	3	cc	_	_
+12	peace	_	NN	NN	_	19	nsubj	_	_
+13	in	_	IN	IN	_	12	prep	_	_
+14	the	_	DT	DT	_	16	det	_	_
+15	Middle	_	NNP	NNP	_	16	nn	_	_
+16	East	_	NNP	NNP	_	13	pobj	_	_
+17	seems	_	VBZ	VBZ	_	19	cop	_	_
+18	more	_	RBR	RBR	_	19	advmod	_	_
+19	likely	_	JJ	JJ	_	3	conj	_	_
+20	.	_	.	.	_	3	punct	_	_
+
+1	-LRB-	_	-LRB-	-LRB-	_	7	advmod	_	_
+2	Jim	_	NNP	NNP	_	3	nn	_	_
+3	-RRB-	_	-RRB-	-RRB-	_	7	nsubj	_	_
+4	Now	_	RB	RB	_	7	advmod	_	_
+5	is	_	VBZ	VBZ	_	7	cop	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	time	_	NN	NN	_	0	null	_	_
+8	.	_	.	.	_	7	punct	_	_
+
+1	We	_	PRP	PRP	_	3	nsubj	_	_
+2	have	_	VBP	VBP	_	3	aux	_	_
+3	suffered	_	VBN	VBN	_	0	null	_	_
+4	enough	_	JJ	JJ	_	5	amod	_	_
+5	embarrassments	_	NNS	NNS	_	3	dobj	_	_
+6	at	_	IN	IN	_	3	prep	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	hands	_	NNS	NNS	_	6	pobj	_	_
+9	of	_	IN	IN	_	8	prep	_	_
+10	our	_	PRP$	PRP$	_	12	poss	_	_
+11	Confederate	_	JJ	JJ	_	12	amod	_	_
+12	enemy	_	NN	NN	_	9	pobj	_	_
+13	.	_	.	.	_	3	punct	_	_
+
+1	These	_	DT	DT	_	5	nsubj	_	_
+2	are	_	VBP	VBP	_	5	cop	_	_
+3	our	_	PRP$	PRP$	_	5	poss	_	_
+4	three	_	CD	CD	_	5	num	_	_
+5	days	_	NNS	NNS	_	0	null	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	rest	_	NN	NN	_	6	pobj	_	_
+8	before	_	IN	IN	_	10	mark	_	_
+9	we	_	PRP	PRP	_	10	nsubj	_	_
+10	venture	_	VB	VB	_	5	dep	_	_
+11	off	_	RP	RP	_	10	prt	_	_
+12	to	_	TO	TO	_	13	aux	_	_
+13	engage	_	VB	VB	_	10	xcomp	_	_
+14	in	_	IN	IN	_	13	prep	_	_
+15	hostilities	_	NNS	NNS	_	14	pobj	_	_
+16	.	_	.	.	_	5	punct	_	_
+
+1	It	_	PRP	PRP	_	6	nsubj	_	_
+2	will	_	MD	MD	_	6	aux	_	_
+3	be	_	VB	VB	_	6	cop	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	cavalry	_	NN	NN	_	6	nn	_	_
+6	operation	_	NN	NN	_	0	null	_	_
+7	on	_	IN	IN	_	6	prep	_	_
+8	a	_	DT	DT	_	9	det	_	_
+9	scale	_	NN	NN	_	7	pobj	_	_
+10	so	_	IN	IN	_	6	prep	_	_
+11	grand	_	JJ	JJ	_	13	amod	_	_
+12	,	_	,	,	_	13	punct	_	_
+13	nothing	_	NN	NN	_	10	pobj	_	_
+14	like	_	IN	IN	_	18	mark	_	_
+15	it	_	PRP	PRP	_	18	nsubj	_	_
+16	has	_	VBZ	VBZ	_	18	aux	_	_
+17	been	_	VBN	VBN	_	18	auxpass	_	_
+18	attempted	_	VBN	VBN	_	13	dep	_	_
+19	in	_	IN	IN	_	18	prep	_	_
+20	the	_	DT	DT	_	22	det	_	_
+21	Eastern	_	NNP	NNP	_	22	nn	_	_
+22	Theater	_	NNP	NNP	_	19	pobj	_	_
+23	.	_	.	.	_	6	punct	_	_
+
+1	Are	_	VBP	VBP	_	0	null	_	_
+2	you	_	PRP	PRP	_	1	dobj	_	_
+3	with	_	IN	IN	_	1	prep	_	_
+4	me	_	PRP	PRP	_	3	pobj	_	_
+5	?	_	.	.	_	1	punct	_	_
+
+1	-LRB-	_	-LRB-	-LRB-	_	0	null	_	_
+2	all	_	DT	DT	_	4	det	_	_
+3	-RRB-	_	-RRB-	-RRB-	_	4	amod	_	_
+4	Yeah	_	NNP	NNP	_	1	nsubj	_	_
+5	.	_	.	.	_	1	punct	_	_
+
+1	Jim	_	NNP	NNP	_	0	null	_	_
+2	?	_	.	.	_	1	punct	_	_
+
+1	Is	_	VBZ	VBZ	_	3	dep	_	_
+2	that	_	IN	IN	_	3	nsubj	_	_
+3	you	_	PRP	PRP	_	0	null	_	_
+4	?	_	.	.	_	3	punct	_	_
+
+1	Out	_	IN	IN	_	8	prep	_	_
+2	here	_	RB	RB	_	1	pobj	_	_
+3	,	_	,	,	_	8	punct	_	_
+4	it	_	PRP	PRP	_	8	nsubj	_	_
+5	's	_	VBZ	VBZ	_	8	cop	_	_
+6	Captain	_	NNP	NNP	_	8	nn	_	_
+7	James	_	NNP	NNP	_	8	nn	_	_
+8	Harper	_	NNP	NNP	_	0	null	_	_
+9	.	_	.	.	_	8	punct	_	_
+
+1	You	_	PRP	PRP	_	2	nsubj	_	_
+2	know	_	VBP	VBP	_	0	null	_	_
+3	my	_	PRP$	PRP$	_	4	poss	_	_
+4	uncle	_	NN	NN	_	2	dobj	_	_
+5	?	_	.	.	_	2	punct	_	_
+
+1	Yes	_	UH	UH	_	5	dep	_	_
+2	,	_	,	,	_	5	punct	_	_
+3	Jim	_	NNP	NNP	_	5	nsubj	_	_
+4	was	_	VBD	VBD	_	5	cop	_	_
+5	one	_	CD	CD	_	0	null	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	HankMed	_	NNP	NNP	_	10	poss	_	_
+8	's	_	POS	POS	_	7	possessive	_	_
+9	first	_	JJ	JJ	_	10	amod	_	_
+10	patients	_	NNS	NNS	_	6	pobj	_	_
+11	,	_	,	,	_	5	punct	_	_
+12	but	_	CC	CC	_	5	cc	_	_
+13	I	_	PRP	PRP	_	16	nsubj	_	_
+14	've	_	VBP	VBP	_	16	aux	_	_
+15	never	_	RB	RB	_	16	neg	_	_
+16	seen	_	VBN	VBN	_	5	conj	_	_
+17	him	_	PRP	PRP	_	16	dobj	_	_
+18	off	_	RP	RP	_	16	prt	_	_
+19	his	_	PRP$	PRP$	_	20	poss	_	_
+20	boat	_	NN	NN	_	16	dobj	_	_
+21	.	_	.	.	_	5	punct	_	_
+
+1	Captain	_	NNP	NNP	_	10	nsubj	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	when	_	WRB	WRB	_	6	advmod	_	_
+4	you	_	PRP	PRP	_	6	nsubj	_	_
+5	're	_	VBP	VBP	_	6	aux	_	_
+6	done	_	VBN	VBN	_	1	dep	_	_
+7	,	_	,	,	_	1	punct	_	_
+8	may	_	MD	MD	_	10	aux	_	_
+9	I	_	PRP	PRP	_	10	nsubj	_	_
+10	speak	_	VB	VB	_	0	null	_	_
+11	with	_	IN	IN	_	10	prep	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	fisherman	_	NN	NN	_	11	pobj	_	_
+14	?	_	.	.	_	10	punct	_	_
+
+1	Ten	_	CD	CD	_	2	num	_	_
+2	minutes	_	NNS	NNS	_	5	dep	_	_
+3	R	_	,	,	_	5	punct	_	_
+4	and	_	CC	CC	_	5	cc	_	_
+5	R	_	NNP	NNP	_	0	null	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	-LSB-	_	DT	DT	_	3	det	_	_
+2	indistinct	_	JJ	JJ	_	3	amod	_	_
+3	chatter	_	NN	NN	_	5	nsubj	_	_
+4	-RSB-	_	,	,	_	5	punct	_	_
+5	Let	_	VB	VB	_	0	null	_	_
+6	me	_	PRP	PRP	_	7	nsubj	_	_
+7	know	_	VB	VB	_	5	ccomp	_	_
+8	if	_	IN	IN	_	10	mark	_	_
+9	you	_	PRP	PRP	_	10	nsubj	_	_
+10	need	_	VBP	VBP	_	7	advcl	_	_
+11	anything	_	NN	NN	_	10	dobj	_	_
+12	,	_	,	,	_	5	punct	_	_
+13	but	_	CC	CC	_	5	cc	_	_
+14	I	_	PRP	PRP	_	15	nsubj	_	_
+15	got	_	VBD	VBD	_	5	conj	_	_
+16	to	_	TO	TO	_	17	aux	_	_
+17	get	_	VB	VB	_	15	xcomp	_	_
+18	back	_	RB	RB	_	17	advmod	_	_
+19	to	_	TO	TO	_	18	dep	_	_
+20	the	_	DT	DT	_	22	det	_	_
+21	21st	_	JJ	JJ	_	22	amod	_	_
+22	century	_	NN	NN	_	19	pobj	_	_
+23	.	_	.	.	_	5	punct	_	_
+
+1	Divya	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Good	_	JJ	JJ	_	0	null	_	_
+2	to	_	TO	TO	_	3	aux	_	_
+3	see	_	VB	VB	_	1	xcomp	_	_
+4	you	_	PRP	PRP	_	3	dobj	_	_
+5	.	_	.	.	_	1	punct	_	_
+
+1	You	_	PRP	PRP	_	0	null	_	_
+2	too	_	RB	RB	_	1	advmod	_	_
+3	.	_	.	.	_	1	punct	_	_
+
+1	That	_	DT	DT	_	5	nsubj	_	_
+2	is	_	VBZ	VBZ	_	5	cop	_	_
+3	quite	_	RB	RB	_	5	advmod	_	_
+4	a	_	DT	DT	_	5	det	_	_
+5	horse	_	NN	NN	_	0	null	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	Yeah	_	UH	UH	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	null	_	_
+3	no	_	DT	DT	_	4	det	_	_
+4	idea	_	NN	NN	_	2	dobj	_	_
+5	that	_	IN	IN	_	11	complm	_	_
+6	you	_	PRP	PRP	_	11	nsubj	_	_
+7	were	_	VBD	VBD	_	11	cop	_	_
+8	a	_	DT	DT	_	11	det	_	_
+9	Civil	_	JJ	JJ	_	11	amod	_	_
+10	War	_	NNP	NNP	_	11	nn	_	_
+11	reenactor	_	NNP	NNP	_	4	ccomp	_	_
+12	.	_	.	.	_	2	punct	_	_
+
+1	Well	_	RB	RB	_	6	advmod	_	_
+2	,	_	,	,	_	6	punct	_	_
+3	it	_	PRP	PRP	_	6	nsubj	_	_
+4	's	_	VBZ	VBZ	_	6	cop	_	_
+5	a	_	DT	DT	_	6	det	_	_
+6	passion	_	NN	NN	_	0	null	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	mine	_	NN	NN	_	7	pobj	_	_
+9	.	_	.	.	_	6	punct	_	_
+
+1	My	_	PRP$	PRP$	_	2	poss	_	_
+2	family	_	NN	NN	_	3	nsubj	_	_
+3	took	_	VBD	VBD	_	0	null	_	_
+4	part	_	NN	NN	_	3	dobj	_	_
+5	in	_	IN	IN	_	3	prep	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	real	_	JJ	JJ	_	8	amod	_	_
+8	thing	_	NN	NN	_	5	pobj	_	_
+9	,	_	,	,	_	3	punct	_	_
+10	and	_	CC	CC	_	3	cc	_	_
+11	some	_	DT	DT	_	14	nsubj	_	_
+12	of	_	IN	IN	_	11	prep	_	_
+13	us	_	PRP	PRP	_	12	pobj	_	_
+14	give	_	VBP	VBP	_	3	conj	_	_
+15	a	_	DT	DT	_	16	det	_	_
+16	damn	_	NN	NN	_	14	dobj	_	_
+17	about	_	IN	IN	_	16	prep	_	_
+18	history	_	NN	NN	_	17	pobj	_	_
+19	,	_	,	,	_	14	punct	_	_
+20	unlike	_	IN	IN	_	14	prep	_	_
+21	my	_	PRP$	PRP$	_	22	poss	_	_
+22	brother	_	NN	NN	_	20	pobj	_	_
+23	.	_	.	.	_	3	punct	_	_
+
+1	May	_	MD	MD	_	3	aux	_	_
+2	I	_	PRP	PRP	_	3	nsubj	_	_
+3	?	_	.	.	_	0	null	_	_
+4	Oh	_	UH	UH	_	3	dep	_	_
+5	.	_	.	.	_	3	punct	_	_
+
+1	See	_	VB	VB	_	0	null	_	_
+2	that	_	DT	DT	_	3	det	_	_
+3	house	_	NN	NN	_	1	dobj	_	_
+4	?	_	.	.	_	1	punct	_	_
+
+1	It	_	PRP	PRP	_	3	nsubj	_	_
+2	's	_	VBZ	VBZ	_	3	cop	_	_
+3	beautiful	_	JJ	JJ	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	was	_	VBD	VBD	_	0	null	_	_
+3	just	_	RB	RB	_	2	advmod	_	_
+4	in	_	IN	IN	_	3	dep	_	_
+5	it	_	PRP	PRP	_	4	pobj	_	_
+6	.	_	.	.	_	2	punct	_	_
+
+1	Good	_	JJ	JJ	_	2	amod	_	_
+2	thing	_	NN	NN	_	0	null	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	'cause	_	CC	CC	_	2	cc	_	_
+5	it	_	PRP	PRP	_	8	nsubj	_	_
+6	wo	_	MD	MD	_	8	aux	_	_
+7	n't	_	RB	RB	_	8	neg	_	_
+8	be	_	VB	VB	_	2	conj	_	_
+9	there	_	RB	RB	_	8	advmod	_	_
+10	for	_	IN	IN	_	8	prep	_	_
+11	long	_	RB	RB	_	10	pobj	_	_
+12	.	_	.	.	_	2	punct	_	_
+
+1	Ed	_	NNP	NNP	_	8	nn	_	_
+2	,	_	,	,	_	8	punct	_	_
+3	my	_	PRP$	PRP$	_	6	poss	_	_
+4	idiot	_	NN	NN	_	6	nn	_	_
+5	little	_	JJ	JJ	_	6	amod	_	_
+6	brother	_	NN	NN	_	8	nsubj	_	_
+7	,	_	,	,	_	6	punct	_	_
+8	plans	_	NNS	NNS	_	0	null	_	_
+9	on	_	IN	IN	_	8	prep	_	_
+10	knocking	_	VBG	VBG	_	9	pcomp	_	_
+11	it	_	PRP	PRP	_	10	dobj	_	_
+12	down	_	RP	RP	_	10	prt	_	_
+13	to	_	TO	TO	_	14	aux	_	_
+14	build	_	VB	VB	_	10	xcomp	_	_
+15	one	_	CD	CD	_	14	dobj	_	_
+16	of	_	IN	IN	_	15	prep	_	_
+17	those	_	DT	DT	_	18	det	_	_
+18	McMansions	_	NNS	NNS	_	16	pobj	_	_
+19	.	_	.	.	_	8	punct	_	_
+
+1	How	_	WRB	WRB	_	5	advmod	_	_
+2	can	_	MD	MD	_	5	aux	_	_
+3	your	_	PRP$	PRP$	_	4	poss	_	_
+4	brother	_	NN	NN	_	5	nsubj	_	_
+5	do	_	VB	VB	_	0	null	_	_
+6	that	_	IN	IN	_	5	prep	_	_
+7	if	_	IN	IN	_	10	mark	_	_
+8	you	_	PRP	PRP	_	10	nsubj	_	_
+9	both	_	DT	DT	_	8	dep	_	_
+10	own	_	VBP	VBP	_	6	pcomp	_	_
+11	the	_	DT	DT	_	12	det	_	_
+12	land	_	NN	NN	_	10	dobj	_	_
+13	?	_	.	.	_	5	punct	_	_
+
+1	Owned	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	could	_	MD	MD	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	afford	_	VB	VB	_	0	null	_	_
+5	splitting	_	NN	NN	_	4	dobj	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	property	_	NN	NN	_	8	nn	_	_
+8	tax	_	NN	NN	_	5	dobj	_	_
+9	.	_	.	.	_	4	punct	_	_
+
+1	Recession	_	NNP	NNP	_	2	nsubj	_	_
+2	wiped	_	VBD	VBD	_	0	null	_	_
+3	out	_	RP	RP	_	2	prt	_	_
+4	my	_	PRP$	PRP$	_	5	poss	_	_
+5	savings	_	NNS	NNS	_	2	dobj	_	_
+6	.	_	.	.	_	2	punct	_	_
+
+1	So	_	IN	IN	_	3	dep	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	think	_	VBP	VBP	_	0	null	_	_
+4	he	_	PRP	PRP	_	5	nsubj	_	_
+5	helped	_	VBD	VBD	_	3	ccomp	_	_
+6	me	_	PRP	PRP	_	5	dobj	_	_
+7	?	_	.	.	_	5	punct	_	_
+8	No	_	RB	RB	_	5	advmod	_	_
+9	?	_	.	.	_	3	punct	_	_
+
+1	Damn	_	NNP	NNP	_	0	null	_	_
+2	right	_	RB	RB	_	1	advmod	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	no	_	UH	UH	_	2	dep	_	_
+5	.	_	.	.	_	1	punct	_	_
+
+1	Bought	_	NNP	NNP	_	2	nsubj	_	_
+2	me	_	PRP	PRP	_	0	null	_	_
+3	out	_	RP	RP	_	2	prt	_	_
+4	.	_	.	.	_	2	punct	_	_
+
+1	You	_	PRP	PRP	_	2	nsubj	_	_
+2	know	_	VBP	VBP	_	0	null	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	we	_	PRP	PRP	_	5	nsubj	_	_
+5	used	_	VBD	VBD	_	2	ccomp	_	_
+6	to	_	TO	TO	_	9	aux	_	_
+7	be	_	VB	VB	_	9	cop	_	_
+8	best	_	JJS	JJS	_	9	amod	_	_
+9	buddies	_	NNS	NNS	_	5	xcomp	_	_
+10	.	_	.	.	_	2	punct	_	_
+
+1	Ha.	_	NNP	NNP	_	6	nsubj	_	_
+2	Then	_	RB	RB	_	6	advmod	_	_
+3	his	_	PRP$	PRP$	_	5	poss	_	_
+4	hedge	_	NN	NN	_	5	nn	_	_
+5	fund	_	NN	NN	_	6	nsubj	_	_
+6	takes	_	VBZ	VBZ	_	0	null	_	_
+7	off	_	RP	RP	_	6	prt	_	_
+8	and	_	CC	CC	_	6	cc	_	_
+9	suddenly	_	RB	RB	_	16	advmod	_	_
+10	I	_	PRP	PRP	_	16	nsubj	_	_
+11	'm	_	VBP	VBP	_	16	cop	_	_
+12	just	_	RB	RB	_	16	advmod	_	_
+13	a	_	DT	DT	_	16	det	_	_
+14	cranky	_	JJ	JJ	_	16	amod	_	_
+15	old	_	JJ	JJ	_	16	amod	_	_
+16	fisherman	_	NN	NN	_	6	conj	_	_
+17	.	_	.	.	_	6	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	'm	_	VBP	VBP	_	3	cop	_	_
+3	sorry	_	JJ	JJ	_	0	null	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	hear	_	VB	VB	_	3	xcomp	_	_
+6	that	_	DT	DT	_	5	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	Open	_	NNP	NNP	_	0	null	_	_
+2	up	_	RB	RB	_	1	prt	_	_
+3	.	_	.	.	_	1	punct	_	_
+
+1	Well	_	RB	RB	_	4	advmod	_	_
+2	...	_	:	:	_	4	punct	_	_
+3	who	_	WP	WP	_	4	nsubj	_	_
+4	cares	_	VBZ	VBZ	_	0	null	_	_
+5	?	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	'm	_	VBP	VBP	_	0	null	_	_
+3	past	_	IN	IN	_	2	prep	_	_
+4	it	_	PRP	PRP	_	3	pobj	_	_
+5	.	_	.	.	_	2	punct	_	_
+
+1	Son	_	NN	NN	_	0	null	_	_
+2	of	_	IN	IN	_	1	prep	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	bitch	_	NN	NN	_	5	nsubj	_	_
+5	forbids	_	VBZ	VBZ	_	2	pcomp	_	_
+6	me	_	PRP	PRP	_	8	nsubj	_	_
+7	to	_	TO	TO	_	8	aux	_	_
+8	be	_	VB	VB	_	5	ccomp	_	_
+9	on	_	IN	IN	_	8	prep	_	_
+10	his	_	PRP$	PRP$	_	11	poss	_	_
+11	property	_	NN	NN	_	9	pobj	_	_
+12	except	_	IN	IN	_	8	prep	_	_
+13	for	_	IN	IN	_	12	dep	_	_
+14	these	_	DT	DT	_	16	det	_	_
+15	three	_	CD	CD	_	16	num	_	_
+16	days	_	NNS	NNS	_	13	pobj	_	_
+17	,	_	,	,	_	1	punct	_	_
+18	when	_	WRB	WRB	_	20	advmod	_	_
+19	we	_	PRP	PRP	_	20	nsubj	_	_
+20	commemorate	_	VBP	VBP	_	1	advcl	_	_
+21	our	_	PRP$	PRP$	_	22	poss	_	_
+22	ancestors	_	NNS	NNS	_	20	dobj	_	_
+23	who	_	WP	WP	_	24	nsubj	_	_
+24	mustered	_	VBD	VBD	_	22	rcmod	_	_
+25	to	_	TO	TO	_	26	aux	_	_
+26	march	_	VB	VB	_	24	xcomp	_	_
+27	on	_	IN	IN	_	26	prep	_	_
+28	Fredericksburg	_	NNP	NNP	_	27	pobj	_	_
+29	on	_	IN	IN	_	26	prep	_	_
+30	this	_	DT	DT	_	32	det	_	_
+31	very	_	JJ	JJ	_	32	amod	_	_
+32	spot	_	NN	NN	_	29	pobj	_	_
+33	.	_	.	.	_	1	punct	_	_
+
+1	Maybe	_	RB	RB	_	4	advmod	_	_
+2	you	_	PRP	PRP	_	4	nsubj	_	_
+3	both	_	DT	DT	_	4	dep	_	_
+4	need	_	VBP	VBP	_	0	null	_	_
+5	a	_	DT	DT	_	7	det	_	_
+6	little	_	JJ	JJ	_	7	amod	_	_
+7	time	_	NN	NN	_	4	dobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	It	_	PRP	PRP	_	5	nsubjpass	_	_
+2	's	_	VBZ	VBZ	_	5	auxpass	_	_
+3	been	_	VBN	VBN	_	5	cop	_	_
+4	seven	_	CD	CD	_	5	num	_	_
+5	years	_	NNS	NNS	_	0	null	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	That	_	DT	DT	_	2	det	_	_
+2	ship	_	NN	NN	_	4	nsubjpass	_	_
+3	has	_	VBZ	VBZ	_	4	aux	_	_
+4	sailed	_	VBN	VBN	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	Jim	_	NNP	NNP	_	5	nsubj	_	_
+2	,	_	,	,	_	5	punct	_	_
+3	you	_	PRP	PRP	_	5	nsubj	_	_
+4	do	_	VBP	VBP	_	5	aux	_	_
+5	have	_	VB	VB	_	0	null	_	_
+6	a	_	DT	DT	_	7	det	_	_
+7	fever	_	NN	NN	_	5	dobj	_	_
+8	.	_	.	.	_	5	punct	_	_
+
+1	You	_	PRP	PRP	_	2	nsubj	_	_
+2	think	_	VBP	VBP	_	0	null	_	_
+3	it	_	PRP	PRP	_	6	nsubj	_	_
+4	's	_	VBZ	VBZ	_	6	cop	_	_
+5	my	_	PRP$	PRP$	_	6	poss	_	_
+6	hepatitis	_	NN	NN	_	2	ccomp	_	_
+7	?	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	'd	_	MD	MD	_	3	aux	_	_
+3	like	_	VB	VB	_	0	null	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	take	_	VB	VB	_	3	xcomp	_	_
+6	some	_	DT	DT	_	7	det	_	_
+7	blood	_	NN	NN	_	5	dobj	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	find	_	VB	VB	_	5	xcomp	_	_
+10	out	_	RP	RP	_	9	prt	_	_
+11	.	_	.	.	_	3	punct	_	_
+
+1	In	_	IN	IN	_	7	prep	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	meantime	_	NN	NN	_	1	pobj	_	_
+4	,	_	,	,	_	7	punct	_	_
+5	I	_	PRP	PRP	_	7	nsubj	_	_
+6	'd	_	MD	MD	_	7	aux	_	_
+7	like	_	VB	VB	_	0	null	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	prescribe	_	VB	VB	_	7	xcomp	_	_
+10	some	_	DT	DT	_	11	det	_	_
+11	ibuprofen	_	NN	NN	_	9	dobj	_	_
+12	.	_	.	.	_	7	punct	_	_
+
+1	Ibuprofen	_	NNP	NNP	_	0	null	_	_
+2	?	_	.	.	_	1	punct	_	_
+
+1	Never	_	RB	RB	_	2	neg	_	_
+2	heard	_	VBN	VBN	_	0	null	_	_
+3	of	_	IN	IN	_	2	prep	_	_
+4	it	_	PRP	PRP	_	3	pobj	_	_
+5	.	_	.	.	_	2	punct	_	_
+
+1	You	_	PRP	PRP	_	3	nsubj	_	_
+2	must	_	MD	MD	_	3	aux	_	_
+3	mean	_	VB	VB	_	0	null	_	_
+4	willow	_	JJ	JJ	_	5	amod	_	_
+5	bark	_	NN	NN	_	3	dobj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	Carry	_	NNP	NNP	_	0	null	_	_
+2	on	_	RB	RB	_	1	prt	_	_
+3	.	_	.	.	_	1	punct	_	_
+
+1	Hey	_	NNP	NNP	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	Ken	_	NNP	NNP	_	1	appos	_	_
+4	,	_	,	,	_	1	punct	_	_
+5	everything	_	NN	NN	_	6	nn	_	_
+6	okay	_	NN	NN	_	1	appos	_	_
+7	?	_	.	.	_	1	punct	_	_
+
+1	You	_	PRP	PRP	_	2	nsubj	_	_
+2	sounded	_	VBD	VBD	_	0	null	_	_
+3	pretty	_	RB	RB	_	4	advmod	_	_
+4	rough	_	JJ	JJ	_	2	acomp	_	_
+5	.	_	.	.	_	2	punct	_	_
+
+1	Come	_	NN	NN	_	0	null	_	_
+2	here	_	RB	RB	_	1	advmod	_	_
+3	.	_	.	.	_	1	punct	_	_
+
+1	What	_	WP	WP	_	0	null	_	_
+2	?	_	.	.	_	1	punct	_	_
+
+1	Get	_	VB	VB	_	0	null	_	_
+2	over	_	IN	IN	_	1	prep	_	_
+3	here	_	RB	RB	_	2	pobj	_	_
+4	.	_	.	.	_	1	punct	_	_
+
+1	Okay	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	My	_	PRP$	PRP$	_	2	poss	_	_
+2	stomach	_	NN	NN	_	7	nsubjpass	_	_
+3	's	_	VBZ	VBZ	_	7	auxpass	_	_
+4	been	_	VBN	VBN	_	7	cop	_	_
+5	a	_	DT	DT	_	7	det	_	_
+6	little	_	JJ	JJ	_	7	amod	_	_
+7	topsyturvy	_	NN	NN	_	0	null	_	_
+8	,	_	,	,	_	7	punct	_	_
+9	but	_	CC	CC	_	7	cc	_	_
+10	that	_	DT	DT	_	11	nsubj	_	_
+11	's	_	VBZ	VBZ	_	7	conj	_	_
+12	not	_	RB	RB	_	11	neg	_	_
+13	why	_	WRB	WRB	_	15	advmod	_	_
+14	I	_	PRP	PRP	_	15	nsubj	_	_
+15	called	_	VBD	VBD	_	11	advcl	_	_
+16	.	_	.	.	_	7	punct	_	_
+
+1	Okay	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Why	_	WRB	WRB	_	5	advmod	_	_
+2	do	_	VBP	VBP	_	5	aux	_	_
+3	n't	_	RB	RB	_	5	neg	_	_
+4	you	_	PRP	PRP	_	5	nsubj	_	_
+5	get	_	VB	VB	_	0	null	_	_
+6	out	_	RP	RP	_	5	prt	_	_
+7	,	_	,	,	_	5	punct	_	_
+8	and	_	CC	CC	_	5	cc	_	_
+9	you	_	PRP	PRP	_	11	nsubj	_	_
+10	can	_	MD	MD	_	11	aux	_	_
+11	tell	_	VB	VB	_	5	conj	_	_
+12	me	_	PRP	PRP	_	11	dobj	_	_
+13	why	_	WRB	WRB	_	16	advmod	_	_
+14	you	_	PRP	PRP	_	16	nsubj	_	_
+15	did	_	VBD	VBD	_	16	aux	_	_
+16	call	_	VB	VB	_	11	dep	_	_
+17	?	_	.	.	_	5	punct	_	_
+
+1	-LSB-	_	JJ	JJ	_	2	amod	_	_
+2	whispers	_	NNS	NNS	_	0	null	_	_
+3	-RSB-	_	,	,	_	5	punct	_	_
+4	Not	_	RB	RB	_	5	neg	_	_
+5	gon	_	VBG	VBG	_	2	parataxis	_	_
+6	na	_	TO	TO	_	5	xcomp	_	_
+7	happen	_	VB	VB	_	6	dep	_	_
+8	.	_	.	.	_	2	punct	_	_
+
+1	Why	_	WRB	WRB	_	0	null	_	_
+2	not	_	RB	RB	_	1	neg	_	_
+3	?	_	.	.	_	1	punct	_	_
+
+1	And	_	CC	CC	_	5	cc	_	_
+2	why	_	WRB	WRB	_	5	advmod	_	_
+3	are	_	VBP	VBP	_	5	aux	_	_
+4	we	_	PRP	PRP	_	5	nsubj	_	_
+5	whispering	_	VBG	VBG	_	0	null	_	_
+6	?	_	.	.	_	5	punct	_	_
+
+1	Oh	_	UH	UH	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	boy	_	UH	UH	_	1	dep	_	_
+4	.	_	.	.	_	1	punct	_	_
+
+1	It	_	PRP	PRP	_	3	nsubj	_	_
+2	's	_	VBZ	VBZ	_	3	cop	_	_
+3	worse	_	JJR	JJR	_	0	null	_	_
+4	than	_	IN	IN	_	6	mark	_	_
+5	you	_	PRP	PRP	_	6	nsubj	_	_
+6	think	_	VBP	VBP	_	3	ccomp	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	'm	_	VBP	VBP	_	4	cop	_	_
+3	not	_	RB	RB	_	4	neg	_	_
+4	sure	_	JJ	JJ	_	0	null	_	_
+5	that	_	DT	DT	_	7	nsubj	_	_
+6	's	_	VBZ	VBZ	_	7	cop	_	_
+7	possible	_	JJ	JJ	_	4	ccomp	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	Stop	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Look	_	VB	VB	_	0	null	_	_
+2	,	_	,	,	_	4	punct	_	_
+3	I	_	PRP	PRP	_	4	nsubj	_	_
+4	have	_	VBP	VBP	_	9	parataxis	_	_
+5	this	_	DT	DT	_	7	det	_	_
+6	new	_	JJ	JJ	_	7	amod	_	_
+7	girlfriend	_	NN	NN	_	4	dobj	_	_
+8	,	_	,	,	_	4	punct	_	_
+9	Helen	_	NNP	NNP	_	1	dobj	_	_
+10	.	_	.	.	_	1	punct	_	_
+
+1	She	_	PRP	PRP	_	3	nsubj	_	_
+2	's	_	VBZ	VBZ	_	3	cop	_	_
+3	amazing	_	JJ	JJ	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	can	_	MD	MD	_	3	aux	_	_
+3	tell	_	VB	VB	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	Does	_	NNP	NNP	_	2	nn	_	_
+2	Helen	_	NNP	NNP	_	4	nsubj	_	_
+3	not	_	RB	RB	_	4	neg	_	_
+4	believe	_	VBP	VBP	_	0	null	_	_
+5	in	_	IN	IN	_	4	prep	_	_
+6	bathing	_	VBG	VBG	_	5	pcomp	_	_
+7	suits	_	NNS	NNS	_	6	dobj	_	_
+8	?	_	.	.	_	4	punct	_	_
+
+1	She	_	PRP	PRP	_	2	nsubj	_	_
+2	lives	_	VBZ	VBZ	_	0	null	_	_
+3	a	_	DT	DT	_	8	det	_	_
+4	completely	_	RB	RB	_	5	advmod	_	_
+5	natural	_	JJ	JJ	_	8	amod	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	honest	_	JJ	JJ	_	5	conj	_	_
+8	existence	_	NN	NN	_	2	dobj	_	_
+9	,	_	,	,	_	2	punct	_	_
+10	and	_	CC	CC	_	2	cc	_	_
+11	now	_	RB	RB	_	13	advmod	_	_
+12	I	_	PRP	PRP	_	13	nsubj	_	_
+13	do	_	VBP	VBP	_	2	conj	_	_
+14	too	_	RB	RB	_	13	advmod	_	_
+15	,	_	,	,	_	13	punct	_	_
+16	but	_	CC	CC	_	13	cc	_	_
+17	if	_	IN	IN	_	19	mark	_	_
+18	she	_	PRP	PRP	_	19	nsubj	_	_
+19	comes	_	VBZ	VBZ	_	24	dep	_	_
+20	out	_	RP	RP	_	19	prt	_	_
+21	here	_	RB	RB	_	19	advmod	_	_
+22	,	_	,	,	_	24	punct	_	_
+23	you	_	PRP	PRP	_	24	nsubj	_	_
+24	have	_	VBP	VBP	_	13	conj	_	_
+25	to	_	TO	TO	_	26	aux	_	_
+26	pretend	_	VB	VB	_	24	xcomp	_	_
+27	that	_	IN	IN	_	29	complm	_	_
+28	you	_	PRP	PRP	_	29	nsubj	_	_
+29	're	_	VBP	VBP	_	26	ccomp	_	_
+30	here	_	RB	RB	_	29	advmod	_	_
+31	as	_	IN	IN	_	29	prep	_	_
+32	my	_	PRP$	PRP$	_	33	poss	_	_
+33	friend	_	NN	NN	_	31	pobj	_	_
+34	.	_	.	.	_	2	punct	_	_
+
+1	Huh.	_	NNP	NNP	_	2	nsubj	_	_
+2	Sounds	_	VBZ	VBZ	_	0	null	_	_
+3	like	_	IN	IN	_	6	mark	_	_
+4	you	_	PRP	PRP	_	6	nsubj	_	_
+5	've	_	VBP	VBP	_	6	aux	_	_
+6	changed	_	VBN	VBN	_	2	advcl	_	_
+7	a	_	DT	DT	_	8	det	_	_
+8	lot	_	NN	NN	_	6	dobj	_	_
+9	.	_	.	.	_	2	punct	_	_
+
+1	-LSB-	_	DT	DT	_	2	det	_	_
+2	sniffing	_	NN	NN	_	7	nsubj	_	_
+3	-RSB-	_	``	``	_	7	punct	_	_
+4	Why	_	WRB	WRB	_	7	advmod	_	_
+5	do	_	VBP	VBP	_	7	aux	_	_
+6	you	_	PRP	PRP	_	7	nsubj	_	_
+7	smell	_	VB	VB	_	0	null	_	_
+8	like	_	IN	IN	_	7	prep	_	_
+9	watermelon	_	NN	NN	_	8	pobj	_	_
+10	?	_	.	.	_	7	punct	_	_
+
+1	Oh	_	UH	UH	_	7	dep	_	_
+2	,	_	,	,	_	7	punct	_	_
+3	that	_	WDT	WDT	_	7	nsubj	_	_
+4	's	_	VBZ	VBZ	_	7	cop	_	_
+5	Helen	_	NNP	NNP	_	7	poss	_	_
+6	's	_	POS	POS	_	5	possessive	_	_
+7	incense	_	NN	NN	_	0	null	_	_
+8	.	_	.	.	_	7	punct	_	_
+
+1	Oh.	_	``	``	_	0	null	_	_
+2	It	_	PRP	PRP	_	4	nsubj	_	_
+3	really	_	RB	RB	_	4	advmod	_	_
+4	helps	_	VBZ	VBZ	_	1	rcmod	_	_
+5	us	_	PRP	PRP	_	6	nsubj	_	_
+6	stay	_	VB	VB	_	4	ccomp	_	_
+7	mindful	_	JJ	JJ	_	6	advmod	_	_
+8	.	_	.	.	_	1	punct	_	_
+
+1	So	_	RB	RB	_	0	null	_	_
+2	why	_	WRB	WRB	_	1	dep	_	_
+3	am	_	VBP	VBP	_	2	dep	_	_
+4	I	_	PRP	PRP	_	3	dobj	_	_
+5	here	_	RB	RB	_	4	advmod	_	_
+6	?	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	took	_	VBD	VBD	_	0	null	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	Viagra	_	NN	NN	_	2	dobj	_	_
+5	a	_	DT	DT	_	7	det	_	_
+6	few	_	JJ	JJ	_	7	amod	_	_
+7	hours	_	NNS	NNS	_	8	dep	_	_
+8	ago	_	RB	RB	_	2	advmod	_	_
+9	...	_	:	:	_	2	punct	_	_
+10	not	_	RB	RB	_	2	neg	_	_
+11	that	_	IN	IN	_	13	complm	_	_
+12	I	_	PRP	PRP	_	13	nsubj	_	_
+13	need	_	VBP	VBP	_	2	ccomp	_	_
+14	it	_	PRP	PRP	_	13	dobj	_	_
+15	,	_	,	,	_	13	punct	_	_
+16	obviously	_	RB	RB	_	13	advmod	_	_
+17	.	_	.	.	_	2	punct	_	_
+
+1	Right	_	RB	RB	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	But	_	CC	CC	_	5	cc	_	_
+2	I	_	PRP	PRP	_	5	nsubj	_	_
+3	've	_	VBP	VBP	_	5	aux	_	_
+4	been	_	VBN	VBN	_	5	aux	_	_
+5	having	_	VBG	VBG	_	0	null	_	_
+6	these	_	DT	DT	_	7	det	_	_
+7	butterflies	_	NNS	NNS	_	5	dobj	_	_
+8	in	_	IN	IN	_	5	prep	_	_
+9	my	_	PRP$	PRP$	_	10	poss	_	_
+10	stomach	_	NN	NN	_	8	pobj	_	_
+11	.	_	.	.	_	5	punct	_	_
+
+1	It	_	PRP	PRP	_	2	nsubj	_	_
+2	's	_	VBZ	VBZ	_	0	null	_	_
+3	because	_	IN	IN	_	6	mark	_	_
+4	I	_	PRP	PRP	_	6	nsubj	_	_
+5	really	_	RB	RB	_	6	advmod	_	_
+6	care	_	VBP	VBP	_	11	dep	_	_
+7	about	_	IN	IN	_	6	prep	_	_
+8	her	_	PRP$	PRP$	_	7	pobj	_	_
+9	,	_	,	,	_	11	punct	_	_
+10	I	_	PRP	PRP	_	11	nsubj	_	_
+11	guess	_	VBP	VBP	_	2	ccomp	_	_
+12	,	_	,	,	_	2	punct	_	_
+13	and	_	CC	CC	_	2	cc	_	_
+14	they	_	PRP	PRP	_	15	nsubj	_	_
+15	take	_	VBP	VBP	_	2	conj	_	_
+16	me	_	PRP	PRP	_	15	dobj	_	_
+17	right	_	RB	RB	_	18	advmod	_	_
+18	out	_	RB	RB	_	15	advmod	_	_
+19	of	_	IN	IN	_	18	dep	_	_
+20	the	_	DT	DT	_	21	det	_	_
+21	mood	_	NN	NN	_	19	pobj	_	_
+22	.	_	.	.	_	2	punct	_	_
+
+1	So	_	IN	IN	_	4	dep	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	pill	_	NN	NN	_	4	nsubj	_	_
+4	worked	_	VBD	VBD	_	0	null	_	_
+5	like	_	IN	IN	_	4	prep	_	_
+6	magic	_	NN	NN	_	5	pobj	_	_
+7	.	_	.	.	_	4	punct	_	_
+
+1	And	_	CC	CC	_	3	cc	_	_
+2	I	_	PRP	PRP	_	3	nsubj	_	_
+3	did	_	VBD	VBD	_	0	null	_	_
+4	too	_	RB	RB	_	3	advmod	_	_
+5	.	_	.	.	_	3	punct	_	_
+
+1	Yeah	_	UH	UH	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	of	_	IN	IN	_	1	dep	_	_
+4	course	_	NN	NN	_	3	pobj	_	_
+5	.	_	.	.	_	1	punct	_	_
+
+1	But	_	CC	CC	_	6	cc	_	_
+2	now	_	RB	RB	_	6	advmod	_	_
+3	,	_	,	,	_	6	punct	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	magic	_	NN	NN	_	6	nsubj	_	_
+6	's	_	VBZ	VBZ	_	0	null	_	_
+7	over	_	RB	RB	_	6	advmod	_	_
+8	,	_	,	,	_	6	punct	_	_
+9	and	_	CC	CC	_	6	cc	_	_
+10	I	_	PRP	PRP	_	12	nsubj	_	_
+11	'm	_	VBP	VBP	_	12	cop	_	_
+12	still	_	RB	RB	_	6	conj	_	_
+13	...	_	:	:	_	6	punct	_	_
+
+1	Magical	_	NNP	NNP	_	0	null	_	_
+2	...	_	:	:	_	1	punct	_	_
+3	and	_	CC	CC	_	1	cc	_	_
+4	you	_	PRP	PRP	_	7	nsubj	_	_
+5	do	_	VBP	VBP	_	7	aux	_	_
+6	n't	_	RB	RB	_	7	neg	_	_
+7	want	_	VB	VB	_	1	conj	_	_
+8	Helen	_	NNP	NNP	_	10	nsubj	_	_
+9	to	_	TO	TO	_	10	aux	_	_
+10	know	_	VB	VB	_	7	xcomp	_	_
+11	you	_	PRP	PRP	_	12	nsubj	_	_
+12	took	_	VBD	VBD	_	10	ccomp	_	_
+13	a	_	DT	DT	_	14	det	_	_
+14	pill	_	NN	NN	_	12	dobj	_	_
+15	.	_	.	.	_	1	punct	_	_
+
+1	All	_	DT	DT	_	2	det	_	_
+2	right	_	NN	NN	_	0	null	_	_
+3	,	_	,	,	_	6	punct	_	_
+4	I	_	PRP	PRP	_	6	nsubj	_	_
+5	'll	_	MD	MD	_	6	aux	_	_
+6	give	_	VB	VB	_	2	dep	_	_
+7	you	_	PRP	PRP	_	6	iobj	_	_
+8	some	_	DT	DT	_	9	det	_	_
+9	pseudoephedrine	_	NN	NN	_	6	dobj	_	_
+10	.	_	.	.	_	2	punct	_	_
+
+1	Helen	_	NNP	NNP	_	4	nsubj	_	_
+2	does	_	VBZ	VBZ	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	believe	_	VB	VB	_	0	null	_	_
+5	in	_	IN	IN	_	4	prep	_	_
+6	meds	_	NNS	NNS	_	5	pobj	_	_
+7	.	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	can	_	MD	MD	_	3	aux	_	_
+3	aspirate	_	VB	VB	_	0	null	_	_
+4	with	_	IN	IN	_	3	prep	_	_
+5	a	_	DT	DT	_	6	det	_	_
+6	needle	_	NN	NN	_	4	pobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	'll	_	MD	MD	_	3	aux	_	_
+3	take	_	VB	VB	_	0	null	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	pill	_	NN	NN	_	3	dobj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	Good	_	JJ	JJ	_	2	amod	_	_
+2	call	_	NN	NN	_	0	null	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	Oh	_	UH	UH	_	3	dep	_	_
+2	,	_	,	,	_	3	punct	_	_
+3	get	_	VBP	VBP	_	0	null	_	_
+4	the	_	DT	DT	_	6	dep	_	_
+5	...	_	:	:	_	6	punct	_	_
+6	get	_	VB	VB	_	3	dep	_	_
+7	the	_	DT	DT	_	6	dobj	_	_
+8	...	_	:	:	_	3	punct	_	_
+
+1	Oh	_	UH	UH	_	5	dep	_	_
+2	,	_	,	,	_	5	punct	_	_
+3	oh	_	UH	UH	_	5	dep	_	_
+4	,	_	,	,	_	5	punct	_	_
+5	okay	_	NN	NN	_	0	null	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	Hurry	_	VB	VB	_	0	null	_	_
+2	up	_	RB	RB	_	1	prt	_	_
+3	!	_	.	.	_	1	punct	_	_
+
+1	Turn	_	VB	VB	_	0	null	_	_
+2	it	_	PRP	PRP	_	1	dobj	_	_
+3	on	_	IN	IN	_	1	prep	_	_
+4	!	_	.	.	_	3	punct	_	_
+5	-LSB-	_	JJ	JJ	_	6	amod	_	_
+6	beep	_	NN	NN	_	3	pobj	_	_
+7	-RSB-	_	.	.	_	1	punct	_	_
+
+1	Come	_	NN	NN	_	2	dep	_	_
+2	on	_	RB	RB	_	4	advmod	_	_
+3	,	_	,	,	_	4	punct	_	_
+4	Lawson	_	NNP	NNP	_	6	nsubj	_	_
+5	,	_	,	,	_	4	punct	_	_
+6	go	_	VBP	VBP	_	0	null	_	_
+7	!	_	.	.	_	6	punct	_	_
+8	-LSB-	_	JJ	JJ	_	9	amod	_	_
+9	water	_	NN	NN	_	10	nsubj	_	_
+10	resumes	_	VBZ	VBZ	_	6	ccomp	_	_
+11	bubbling	_	VBG	VBG	_	10	xcomp	_	_
+12	-RSB-	_	.	.	_	6	punct	_	_
+
+1	Honey	_	NNP	NNP	_	4	nsubj	_	_
+2	,	_	,	,	_	4	punct	_	_
+3	I	_	PRP	PRP	_	4	nsubj	_	_
+4	want	_	VBP	VBP	_	0	null	_	_
+5	you	_	PRP	PRP	_	7	nsubj	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	meet	_	VB	VB	_	4	xcomp	_	_
+8	my	_	PRP$	PRP$	_	11	poss	_	_
+9	very	_	RB	RB	_	10	advmod	_	_
+10	dear	_	JJ	JJ	_	11	amod	_	_
+11	friend	_	NN	NN	_	7	dobj	_	_
+12	,	_	,	,	_	11	punct	_	_
+13	Hank	_	NNP	NNP	_	14	nn	_	_
+14	Lawson	_	NNP	NNP	_	11	appos	_	_
+15	.	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	would	_	MD	MD	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	say	_	VB	VB	_	0	null	_	_
+5	dear	_	JJ	JJ	_	6	amod	_	_
+6	friend.	_	NN	NN	_	4	dobj	_	_
+7	We	_	PRP	PRP	_	6	dep	_	_
+8	...	_	:	:	_	4	punct	_	_
+9	we	_	PRP	PRP	_	11	nsubj	_	_
+10	're	_	VBP	VBP	_	11	cop	_	_
+11	friends	_	NNS	NNS	_	14	ccomp	_	_
+12	,	_	,	,	_	14	punct	_	_
+13	you	_	PRP	PRP	_	14	nsubj	_	_
+14	know	_	VBP	VBP	_	4	parataxis	_	_
+15	?	_	.	.	_	4	punct	_	_
+
+1	Oh	_	UH	UH	_	5	dep	_	_
+2	,	_	,	,	_	5	punct	_	_
+3	Ben	_	NNP	NNP	_	5	nsubj	_	_
+4	has	_	VBZ	VBZ	_	5	aux	_	_
+5	told	_	VBN	VBN	_	0	null	_	_
+6	me	_	PRP	PRP	_	5	dobj	_	_
+7	so	_	RB	RB	_	8	advmod	_	_
+8	much	_	RB	RB	_	5	advmod	_	_
+9	about	_	IN	IN	_	5	prep	_	_
+10	you	_	PRP	PRP	_	9	pobj	_	_
+11	.	_	.	.	_	5	punct	_	_
+
+1	Ah	_	NNP	NNP	_	0	null	_	_
+2	...	_	:	:	_	1	punct	_	_
+3	Single	_	NNP	NNP	_	1	dep	_	_
+4	,	_	,	,	_	1	punct	_	_
+5	doctor	_	NN	NN	_	1	appos	_	_
+6	,	_	,	,	_	1	punct	_	_
+7	really	_	RB	RB	_	8	advmod	_	_
+8	good	_	JJ	JJ	_	9	amod	_	_
+9	guy	_	NN	NN	_	1	appos	_	_
+10	.	_	.	.	_	1	punct	_	_
+
+1	Well	_	UH	UH	_	3	dep	_	_
+2	,	_	,	,	_	3	punct	_	_
+3	thank	_	VB	VB	_	0	null	_	_
+4	you	_	PRP	PRP	_	3	dobj	_	_
+5	.	_	.	.	_	3	punct	_	_
+
+1	Oh	_	UH	UH	_	7	dep	_	_
+2	,	_	,	,	_	7	punct	_	_
+3	I	_	PRP	PRP	_	7	nsubj	_	_
+4	do	_	VBP	VBP	_	7	aux	_	_
+5	n't	_	RB	RB	_	7	neg	_	_
+6	usually	_	RB	RB	_	7	advmod	_	_
+7	do	_	VB	VB	_	0	null	_	_
+8	this	_	DT	DT	_	7	dobj	_	_
+9	,	_	,	,	_	7	punct	_	_
+10	but	_	CC	CC	_	7	cc	_	_
+11	do	_	VBP	VBP	_	13	aux	_	_
+12	you	_	PRP	PRP	_	13	nsubj	_	_
+13	mind	_	VB	VB	_	7	conj	_	_
+14	?	_	.	.	_	7	punct	_	_
+
+1	Uh	_	UH	UH	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	No	_	UH	UH	_	1	dep	_	_
+4	.	_	.	.	_	1	punct	_	_
+
+1	Go	_	NN	NN	_	3	dep	_	_
+2	...	_	:	:	_	3	punct	_	_
+3	go	_	VB	VB	_	0	null	_	_
+4	ahead	_	RB	RB	_	3	advmod	_	_
+5	.	_	.	.	_	3	punct	_	_
+
+1	Oh	_	UH	UH	_	3	dep	_	_
+2	...	_	:	:	_	3	punct	_	_
+3	Oh	_	UH	UH	_	0	null	_	_
+4	,	_	,	,	_	3	punct	_	_
+5	Hank	_	UH	UH	_	3	dep	_	_
+6	!	_	.	.	_	3	punct	_	_
+7	Ah	_	UH	UH	_	3	dep	_	_
+8	!	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	'm	_	VBP	VBP	_	3	aux	_	_
+3	getting	_	VBG	VBG	_	0	null	_	_
+4	a	_	DT	DT	_	7	det	_	_
+5	really	_	RB	RB	_	6	advmod	_	_
+6	positive	_	JJ	JJ	_	7	amod	_	_
+7	energy	_	NN	NN	_	3	dobj	_	_
+8	from	_	IN	IN	_	3	prep	_	_
+9	you	_	PRP	PRP	_	8	pobj	_	_
+10	right	_	RB	RB	_	11	advmod	_	_
+11	now	_	RB	RB	_	3	advmod	_	_
+12	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	am	_	VBP	VBP	_	4	cop	_	_
+3	really	_	RB	RB	_	4	advmod	_	_
+4	surprised	_	JJ	JJ	_	0	null	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	hear	_	VB	VB	_	4	xcomp	_	_
+7	that	_	DT	DT	_	6	dobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	My	_	PRP$	PRP$	_	3	poss	_	_
+2	sister	_	NN	NN	_	3	nn	_	_
+3	Grace	_	NN	NN	_	4	nsubj	_	_
+4	is	_	VBZ	VBZ	_	0	null	_	_
+5	in	_	IN	IN	_	4	prep	_	_
+6	town	_	NN	NN	_	5	pobj	_	_
+7	for	_	IN	IN	_	6	prep	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	weekend	_	NN	NN	_	7	pobj	_	_
+10	.	_	.	.	_	4	punct	_	_
+
+1	She	_	PRP	PRP	_	3	nsubj	_	_
+2	just	_	RB	RB	_	3	advmod	_	_
+3	got	_	VBD	VBD	_	0	null	_	_
+4	out	_	RB	RB	_	3	advmod	_	_
+5	of	_	IN	IN	_	4	dep	_	_
+6	this	_	DT	DT	_	8	det	_	_
+7	train	_	NN	NN	_	8	nn	_	_
+8	wreck	_	NN	NN	_	5	pobj	_	_
+9	of	_	IN	IN	_	8	prep	_	_
+10	a	_	DT	DT	_	11	det	_	_
+11	relationship	_	NN	NN	_	9	pobj	_	_
+12	and	_	CC	CC	_	3	cc	_	_
+13	is	_	VBZ	VBZ	_	14	cop	_	_
+14	kind	_	NN	NN	_	3	conj	_	_
+15	of	_	IN	IN	_	14	prep	_	_
+16	a	_	DT	DT	_	18	det	_	_
+17	hot	_	JJ	JJ	_	18	amod	_	_
+18	mess.	_	NN	NN	_	15	pobj	_	_
+19	Huh	_	UH	UH	_	14	dep	_	_
+20	.	_	.	.	_	3	punct	_	_
+
+1	She	_	PRP	PRP	_	4	nsubj	_	_
+2	could	_	MD	MD	_	4	aux	_	_
+3	really	_	RB	RB	_	4	advmod	_	_
+4	use	_	VB	VB	_	0	null	_	_
+5	some	_	DT	DT	_	7	det	_	_
+6	positive	_	JJ	JJ	_	7	amod	_	_
+7	energy	_	NN	NN	_	4	dobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	Why	_	WRB	WRB	_	5	advmod	_	_
+2	do	_	VBP	VBP	_	5	aux	_	_
+3	n't	_	RB	RB	_	5	neg	_	_
+4	you	_	PRP	PRP	_	5	nsubj	_	_
+5	join	_	VB	VB	_	0	null	_	_
+6	us	_	PRP	PRP	_	5	dobj	_	_
+7	for	_	IN	IN	_	5	prep	_	_
+8	dinner	_	NN	NN	_	7	pobj	_	_
+9	?	_	.	.	_	5	punct	_	_
+
+1	Double	_	JJ	JJ	_	2	amod	_	_
+2	date	_	NN	NN	_	0	null	_	_
+3	!	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	love	_	VBP	VBP	_	0	null	_	_
+3	it	_	PRP	PRP	_	2	dobj	_	_
+4	!	_	.	.	_	2	punct	_	_
+
+1	Yeah	_	UH	UH	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	As	_	IN	IN	_	8	prep	_	_
+2	fun	_	NN	NN	_	1	pobj	_	_
+3	as	_	IN	IN	_	2	prep	_	_
+4	that	_	DT	DT	_	5	det	_	_
+5	sounds	_	NNS	NNS	_	3	pobj	_	_
+6	,	_	,	,	_	8	punct	_	_
+7	I	_	PRP	PRP	_	8	nsubj	_	_
+8	'm	_	VBP	VBP	_	0	null	_	_
+9	...	_	:	:	_	8	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	got	_	VBD	VBD	_	0	null	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	busy	_	JJ	JJ	_	5	amod	_	_
+5	schedule	_	NN	NN	_	2	dobj	_	_
+6	,	_	,	,	_	2	punct	_	_
+7	so	_	RB	RB	_	2	advmod	_	_
+8	...	_	:	:	_	2	punct	_	_
+
+1	Oh	_	UH	UH	_	4	dep	_	_
+2	,	_	,	,	_	4	punct	_	_
+3	too	_	RB	RB	_	4	advmod	_	_
+4	bad.	_	JJ	JJ	_	0	null	_	_
+5	Maybe	_	RB	RB	_	4	advmod	_	_
+6	another	_	DT	DT	_	7	det	_	_
+7	time	_	NN	NN	_	4	tmod	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	Uh	_	UH	UH	_	0	null	_	_
+2	...	_	:	:	_	1	punct	_	_
+3	yeah	_	NN	NN	_	5	nn	_	_
+4	,	_	,	,	_	5	punct	_	_
+5	yeah	_	NN	NN	_	1	dep	_	_
+6	.	_	.	.	_	1	punct	_	_
+
+1	Come	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	We	_	PRP	PRP	_	4	nsubj	_	_
+2	do	_	VBP	VBP	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	want	_	VB	VB	_	0	null	_	_
+5	to	_	TO	TO	_	7	aux	_	_
+6	be	_	VB	VB	_	7	cop	_	_
+7	late	_	JJ	JJ	_	4	xcomp	_	_
+8	for	_	IN	IN	_	7	prep	_	_
+9	hot	_	JJ	JJ	_	10	amod	_	_
+10	yoga	_	NN	NN	_	8	pobj	_	_
+11	.	_	.	.	_	4	punct	_	_
+
+1	It	_	PRP	PRP	_	3	nsubj	_	_
+2	might	_	MD	MD	_	3	aux	_	_
+3	get	_	VB	VB	_	0	null	_	_
+4	cold	_	JJ	JJ	_	3	acomp	_	_
+5	.	_	.	.	_	3	punct	_	_
+
+1	Yoga	_	NNP	NNP	_	2	nn	_	_
+2	humor	_	NN	NN	_	0	null	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	Right	_	RB	RB	_	3	advmod	_	_
+2	,	_	,	,	_	3	punct	_	_
+3	yeah	_	NN	NN	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	Good	_	JJ	JJ	_	2	amod	_	_
+2	stuff	_	NN	NN	_	0	null	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	think	_	VBP	VBP	_	0	null	_	_
+3	we	_	PRP	PRP	_	5	nsubj	_	_
+4	should	_	MD	MD	_	5	aux	_	_
+5	replace	_	VB	VB	_	2	ccomp	_	_
+6	them	_	PRP	PRP	_	5	dobj	_	_
+7	.	_	.	.	_	2	punct	_	_
+
+1	Replace	_	VB	VB	_	0	null	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	rings	_	NNS	NNS	_	1	dobj	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	clips.	_	NN	NN	_	7	nn	_	_
+7	Okay	_	NN	NN	_	3	conj	_	_
+8	?	_	.	.	_	1	punct	_	_
+
+1	Thanks	_	NNS	NNS	_	0	null	_	_
+2	a	_	DT	DT	_	3	det	_	_
+3	lot	_	NN	NN	_	1	dep	_	_
+4	,	_	,	,	_	3	punct	_	_
+5	Jake	_	NN	NN	_	3	appos	_	_
+6	.	_	.	.	_	1	punct	_	_
+
+1	Well	_	RB	RB	_	8	advmod	_	_
+2	,	_	,	,	_	8	punct	_	_
+3	Lawson	_	NNP	NNP	_	8	nsubj	_	_
+4	,	_	,	,	_	8	punct	_	_
+5	you	_	PRP	PRP	_	8	nsubj	_	_
+6	're	_	VBP	VBP	_	8	aux	_	_
+7	really	_	RB	RB	_	8	advmod	_	_
+8	doing	_	VBG	VBG	_	0	null	_	_
+9	it	_	PRP	PRP	_	8	dobj	_	_
+10	.	_	.	.	_	8	punct	_	_
+
+1	Yeah	_	UH	UH	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Doing	_	VBG	VBG	_	0	null	_	_
+2	what	_	WP	WP	_	1	dobj	_	_
+3	?	_	.	.	_	1	punct	_	_
+
+1	Closing	_	VBG	VBG	_	0	null	_	_
+2	down	_	IN	IN	_	1	advmod	_	_
+3	area	_	NN	NN	_	2	pobj	_	_
+4	one	_	CD	CD	_	3	num	_	_
+5	.	_	.	.	_	1	punct	_	_
+
+1	Yes	_	UH	UH	_	4	dep	_	_
+2	,	_	,	,	_	4	punct	_	_
+3	I	_	PRP	PRP	_	4	nsubj	_	_
+4	am	_	VBP	VBP	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	am	_	VBP	VBP	_	3	aux	_	_
+3	doing	_	VBG	VBG	_	0	null	_	_
+4	that	_	IN	IN	_	3	dobj	_	_
+5	for	_	IN	IN	_	4	prep	_	_
+6	one	_	CD	CD	_	7	num	_	_
+7	day	_	NN	NN	_	5	pobj	_	_
+8	.	_	.	.	_	3	punct	_	_
+
+1	Do	_	VB	VB	_	3	aux	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	know	_	VB	VB	_	0	null	_	_
+4	who	_	WP	WP	_	5	nsubj	_	_
+5	parks	_	VBZ	VBZ	_	3	ccomp	_	_
+6	in	_	IN	IN	_	5	prep	_	_
+7	area	_	NN	NN	_	6	pobj	_	_
+8	one	_	CD	CD	_	7	num	_	_
+9	?	_	.	.	_	3	punct	_	_
+
+1	Hospital	_	NNP	NNP	_	2	nn	_	_
+2	employees	_	NNS	NNS	_	0	null	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	Surgeons	_	NNPS	NNPS	_	0	null	_	_
+2	who	_	WP	WP	_	5	nsubj	_	_
+3	will	_	MD	MD	_	5	aux	_	_
+4	not	_	RB	RB	_	5	neg	_	_
+5	appreciate	_	VB	VB	_	1	rcmod	_	_
+6	remote	_	JJ	JJ	_	7	amod	_	_
+7	parking	_	NN	NN	_	5	dobj	_	_
+8	,	_	,	,	_	5	punct	_	_
+9	even	_	RB	RB	_	10	dep	_	_
+10	for	_	IN	IN	_	5	prep	_	_
+11	a	_	DT	DT	_	13	det	_	_
+12	day.	_	NN	NN	_	13	nn	_	_
+13	Wait	_	NN	NN	_	10	pobj	_	_
+14	.	_	.	.	_	1	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	surgeons	_	NNS	NNS	_	3	nn	_	_
+3	park	_	NN	NN	_	0	null	_	_
+4	here	_	RB	RB	_	3	advmod	_	_
+5	?	_	.	.	_	3	punct	_	_
+
+1	Yep	_	NNP	NNP	_	12	nsubj	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	and	_	CC	CC	_	1	cc	_	_
+4	when	_	WRB	WRB	_	6	advmod	_	_
+5	you	_	PRP	PRP	_	6	nsubj	_	_
+6	piss	_	VBP	VBP	_	1	conj	_	_
+7	off	_	RP	RP	_	6	prt	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	surgeons	_	NNS	NNS	_	6	dobj	_	_
+10	,	_	,	,	_	12	punct	_	_
+11	you	_	PRP	PRP	_	12	nsubj	_	_
+12	piss	_	VBP	VBP	_	0	null	_	_
+13	off	_	IN	IN	_	12	prep	_	_
+14	the	_	DT	DT	_	15	det	_	_
+15	patients	_	NNS	NNS	_	13	pobj	_	_
+16	about	_	RB	RB	_	18	advmod	_	_
+17	to	_	TO	TO	_	18	aux	_	_
+18	have	_	VB	VB	_	12	dep	_	_
+19	surgery	_	NN	NN	_	18	dobj	_	_
+20	.	_	.	.	_	12	punct	_	_
+
+1	Five	_	CD	CD	_	2	num	_	_
+2	years	_	NNS	NNS	_	3	dep	_	_
+3	ago	_	RB	RB	_	7	advmod	_	_
+4	,	_	,	,	_	7	punct	_	_
+5	Dr.	_	NNP	NNP	_	6	nn	_	_
+6	MacDonald	_	NNP	NNP	_	7	nsubj	_	_
+7	had	_	VBD	VBD	_	0	null	_	_
+8	food	_	NN	NN	_	7	dobj	_	_
+9	poisoning	_	VBG	VBG	_	8	partmod	_	_
+10	after	_	IN	IN	_	9	prep	_	_
+11	eating	_	VBG	VBG	_	10	pcomp	_	_
+12	some	_	DT	DT	_	15	det	_	_
+13	bad	_	JJ	JJ	_	15	amod	_	_
+14	Mexican	_	JJ	JJ	_	15	amod	_	_
+15	food	_	NN	NN	_	11	dobj	_	_
+16	in	_	IN	IN	_	11	prep	_	_
+17	the	_	DT	DT	_	18	det	_	_
+18	cafeteria	_	NN	NN	_	16	pobj	_	_
+19	,	_	,	,	_	7	punct	_	_
+20	so	_	IN	IN	_	22	mark	_	_
+21	he	_	PRP	PRP	_	22	nsubj	_	_
+22	canceled	_	VBD	VBD	_	7	advcl	_	_
+23	Ms.	_	NNP	NNP	_	24	nn	_	_
+24	Newberg	_	NNP	NNP	_	27	poss	_	_
+25	's	_	POS	POS	_	24	possessive	_	_
+26	tummy	_	JJ	JJ	_	27	amod	_	_
+27	tuck	_	NN	NN	_	22	dobj	_	_
+28	.	_	.	.	_	7	punct	_	_
+
+1	Suddenly	_	RB	RB	_	7	advmod	_	_
+2	,	_	,	,	_	7	punct	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	whole	_	JJ	JJ	_	5	amod	_	_
+5	community	_	NN	NN	_	7	nsubj	_	_
+6	was	_	VBD	VBD	_	7	aux	_	_
+7	calling	_	VBG	VBG	_	0	null	_	_
+8	us	_	PRP	PRP	_	7	iobj	_	_
+9	a	_	DT	DT	_	11	det	_	_
+10	taco	_	NN	NN	_	11	nn	_	_
+11	stand	_	NN	NN	_	7	dobj	_	_
+12	.	_	.	.	_	7	punct	_	_
+
+1	Hold	_	NNP	NNP	_	0	null	_	_
+2	on	_	IN	IN	_	1	prep	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	sec	_	NN	NN	_	2	pobj	_	_
+5	.	_	.	.	_	1	punct	_	_
+
+1	That	_	DT	DT	_	3	nsubj	_	_
+2	actually	_	RB	RB	_	3	advmod	_	_
+3	happened	_	VBN	VBN	_	0	null	_	_
+4	?	_	.	.	_	3	punct	_	_
+
+1	Hey	_	NNP	NNP	_	6	nsubj	_	_
+2	,	_	,	,	_	6	punct	_	_
+3	I	_	PRP	PRP	_	6	nsubj	_	_
+4	'm	_	VBP	VBP	_	6	aux	_	_
+5	just	_	RB	RB	_	6	advmod	_	_
+6	trying	_	VBG	VBG	_	0	null	_	_
+7	to	_	TO	TO	_	8	aux	_	_
+8	help.	_	VB	VB	_	6	xcomp	_	_
+9	Me	_	NNP	NNP	_	8	dobj	_	_
+10	?	_	.	.	_	6	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	'd	_	MD	MD	_	3	aux	_	_
+3	close	_	VB	VB	_	0	null	_	_
+4	it	_	PRP	PRP	_	3	dobj	_	_
+5	on	_	IN	IN	_	3	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	weekend	_	NN	NN	_	5	pobj	_	_
+8	.	_	.	.	_	3	punct	_	_
+
+1	Well	_	UH	UH	_	4	dep	_	_
+2	,	_	,	,	_	4	punct	_	_
+3	I	_	PRP	PRP	_	4	nsubj	_	_
+4	can't.	_	VBP	VBP	_	12	advcl	_	_
+5	I	_	PRP	PRP	_	6	nsubj	_	_
+6	mean	_	VBP	VBP	_	4	ccomp	_	_
+7	,	_	,	,	_	12	punct	_	_
+8	this	_	DT	DT	_	12	nsubj	_	_
+9	is	_	VBZ	VBZ	_	12	cop	_	_
+10	...	_	:	:	_	12	punct	_	_
+11	Taco	_	NNP	NNP	_	12	nn	_	_
+12	stand	_	NN	NN	_	0	null	_	_
+13	.	_	.	.	_	12	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	'm	_	VBP	VBP	_	3	cop	_	_
+3	sorry	_	JJ	JJ	_	0	null	_	_
+4	for	_	IN	IN	_	3	prep	_	_
+5	calling	_	VBG	VBG	_	4	pcomp	_	_
+6	you	_	PRP	PRP	_	5	dobj	_	_
+7	back	_	RB	RB	_	8	advmod	_	_
+8	here	_	RB	RB	_	5	advmod	_	_
+9	so	_	RB	RB	_	10	advmod	_	_
+10	soon	_	RB	RB	_	5	advmod	_	_
+11	.	_	.	.	_	3	punct	_	_
+
+1	When	_	WRB	WRB	_	5	advmod	_	_
+2	an	_	DT	DT	_	4	det	_	_
+3	entire	_	JJ	JJ	_	4	amod	_	_
+4	regiment	_	NN	NN	_	5	nsubj	_	_
+5	comes	_	VBZ	VBZ	_	13	dep	_	_
+6	down	_	RP	RP	_	5	prt	_	_
+7	with	_	IN	IN	_	5	prep	_	_
+8	a	_	DT	DT	_	9	det	_	_
+9	fever	_	NN	NN	_	7	pobj	_	_
+10	,	_	,	,	_	13	punct	_	_
+11	I	_	PRP	PRP	_	13	nsubj	_	_
+12	'd	_	MD	MD	_	13	aux	_	_
+13	say	_	VB	VB	_	0	null	_	_
+14	that	_	DT	DT	_	15	det	_	_
+15	calls	_	NNS	NNS	_	13	dobj	_	_
+16	for	_	IN	IN	_	15	prep	_	_
+17	medical	_	JJ	JJ	_	18	amod	_	_
+18	attention	_	NN	NN	_	16	pobj	_	_
+19	.	_	.	.	_	13	punct	_	_
+
+1	Mimi	_	NNP	NNP	_	2	nsubj	_	_
+2	's	_	VBZ	VBZ	_	0	null	_	_
+3	not	_	RB	RB	_	2	neg	_	_
+4	in	_	IN	IN	_	2	prep	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	regiment	_	NN	NN	_	4	pobj	_	_
+7	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	'm	_	VBP	VBP	_	4	cop	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	gobetween	_	NN	NN	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	Hmm	_	NNP	NNP	_	8	nsubj	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	and	_	CC	CC	_	1	cc	_	_
+4	101	_	CD	CD	_	5	num	_	_
+5	temperature	_	NN	NN	_	1	conj	_	_
+6	is	_	VBZ	VBZ	_	8	cop	_	_
+7	your	_	PRP$	PRP$	_	8	poss	_	_
+8	reward	_	NN	NN	_	0	null	_	_
+9	.	_	.	.	_	8	punct	_	_
+
+1	Has	_	NNP	NNP	_	4	advmod	_	_
+2	anyone	_	NN	NN	_	4	nsubj	_	_
+3	else	_	RB	RB	_	4	advmod	_	_
+4	experienced	_	VBD	VBD	_	0	null	_	_
+5	any	_	DT	DT	_	6	det	_	_
+6	symptoms	_	NNS	NNS	_	4	dobj	_	_
+7	other	_	JJ	JJ	_	6	amod	_	_
+8	than	_	IN	IN	_	7	prep	_	_
+9	a	_	DT	DT	_	10	det	_	_
+10	fever	_	NN	NN	_	8	pobj	_	_
+11	?	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	5	nsubj	_	_
+2	am	_	VBP	VBP	_	5	cop	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	little	_	JJ	JJ	_	5	amod	_	_
+5	itchy	_	NN	NN	_	0	null	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	Me	_	NNP	NNP	_	0	null	_	_
+2	too	_	RB	RB	_	1	advmod	_	_
+3	.	_	.	.	_	1	punct	_	_
+
+1	Yeah	_	UH	UH	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	up	_	RB	RB	_	1	advmod	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	down	_	RB	RB	_	3	conj	_	_
+6	my	_	PRP$	PRP$	_	7	poss	_	_
+7	arms	_	NNS	NNS	_	3	dep	_	_
+8	.	_	.	.	_	1	punct	_	_
+
+1	It	_	PRP	PRP	_	2	nsubj	_	_
+2	's	_	VBZ	VBZ	_	0	null	_	_
+3	from	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	blankets	_	NNS	NNS	_	3	pobj	_	_
+6	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	found	_	VBD	VBD	_	0	null	_	_
+3	some	_	DT	DT	_	6	det	_	_
+4	vintage	_	JJ	JJ	_	6	amod	_	_
+5	wool	_	NN	NN	_	6	nn	_	_
+6	blankets	_	NNS	NNS	_	2	dobj	_	_
+7	in	_	IN	IN	_	6	prep	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	cellar	_	NN	NN	_	7	pobj	_	_
+10	.	_	.	.	_	2	punct	_	_
+
+1	They	_	PRP	PRP	_	3	nsubj	_	_
+2	've	_	VBP	VBP	_	3	aux	_	_
+3	been	_	VBN	VBN	_	0	null	_	_
+4	in	_	IN	IN	_	3	prep	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	family	_	NN	NN	_	4	pobj	_	_
+7	for	_	IN	IN	_	3	prep	_	_
+8	generations	_	NNS	NNS	_	7	pobj	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	Our	_	PRP$	PRP$	_	2	poss	_	_
+2	predecessors	_	NNS	NNS	_	3	nsubj	_	_
+3	had	_	VBD	VBD	_	0	null	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	contend	_	VB	VB	_	3	xcomp	_	_
+6	with	_	IN	IN	_	5	prep	_	_
+7	real	_	JJ	JJ	_	8	amod	_	_
+8	problems	_	NNS	NNS	_	6	pobj	_	_
+9	like	_	IN	IN	_	8	prep	_	_
+10	dysentery	_	NN	NN	_	9	pobj	_	_
+11	and	_	CC	CC	_	10	cc	_	_
+12	typhoid	_	NN	NN	_	13	nn	_	_
+13	fever	_	NN	NN	_	10	conj	_	_
+14	,	_	,	,	_	10	punct	_	_
+15	scurvy	_	NN	NN	_	10	conj	_	_
+16	,	_	,	,	_	8	punct	_	_
+17	smallpox	_	NN	NN	_	8	appos	_	_
+18	.	_	.	.	_	3	punct	_	_
+
+1	A	_	DT	DT	_	3	det	_	_
+2	little	_	JJ	JJ	_	3	amod	_	_
+3	itching	_	NN	NN	_	6	nsubj	_	_
+4	is	_	VBZ	VBZ	_	6	aux	_	_
+5	not	_	RB	RB	_	6	neg	_	_
+6	gon	_	VBG	VBG	_	0	null	_	_
+7	na	_	TO	TO	_	6	xcomp	_	_
+8	kill	_	VB	VB	_	7	dep	_	_
+9	us	_	PRP	PRP	_	8	dobj	_	_
+10	.	_	.	.	_	6	punct	_	_
+
+1	Right	_	RB	RB	_	0	null	_	_
+2	?	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	think	_	VBP	VBP	_	0	null	_	_
+3	that	_	IN	IN	_	8	complm	_	_
+4	Jim	_	NNP	NNP	_	8	nsubj	_	_
+5	...	_	:	:	_	8	punct	_	_
+6	Captain	_	NNP	NNP	_	7	nn	_	_
+7	Harper	_	NNP	NNP	_	8	nsubj	_	_
+8	is	_	VBZ	VBZ	_	2	ccomp	_	_
+9	right	_	RB	RB	_	8	advmod	_	_
+10	.	_	.	.	_	2	punct	_	_
+
+1	It	_	PRP	PRP	_	5	nsubj	_	_
+2	would	_	MD	MD	_	5	aux	_	_
+3	be	_	VB	VB	_	5	cop	_	_
+4	another	_	DT	DT	_	5	det	_	_
+5	thing	_	NN	NN	_	0	null	_	_
+6	if	_	IN	IN	_	9	mark	_	_
+7	anyone	_	NN	NN	_	9	nsubj	_	_
+8	is	_	VBZ	VBZ	_	9	cop	_	_
+9	delirious	_	JJ	JJ	_	5	advcl	_	_
+10	or	_	CC	CC	_	9	cc	_	_
+11	passing	_	VBG	VBG	_	12	amod	_	_
+12	blood	_	NN	NN	_	9	conj	_	_
+13	or	_	CC	CC	_	9	cc	_	_
+14	has	_	VBZ	VBZ	_	15	aux	_	_
+15	fluidfilled	_	VBN	VBN	_	9	conj	_	_
+16	vesicles	_	NNS	NNS	_	15	dobj	_	_
+17	.	_	.	.	_	5	punct	_	_
+
+1	Fluidfilled	_	VBN	VBN	_	2	amod	_	_
+2	vesicles	_	NNS	NNS	_	0	null	_	_
+3	?	_	.	.	_	2	punct	_	_
+
+1	Sorry	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	An	_	DT	DT	_	0	null	_	_
+2	odd	_	JJ	JJ	_	1	amod	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	blistering	_	VBG	VBG	_	5	amod	_	_
+5	rash	_	NN	NN	_	2	dep	_	_
+6	.	_	.	.	_	1	punct	_	_
+
+1	Uh	_	UH	UH	_	0	null	_	_
+2	...	_	:	:	_	1	punct	_	_
+3	what	_	WP	WP	_	2	dobj	_	_
+4	would	_	MD	MD	_	3	dep	_	_
+5	that	_	WDT	WDT	_	6	nsubj	_	_
+6	be	_	VB	VB	_	4	rcmod	_	_
+7	a	_	DT	DT	_	8	det	_	_
+8	symptom	_	NN	NN	_	6	nsubj	_	_
+9	of	_	IN	IN	_	8	prep	_	_
+10	?	_	.	.	_	1	punct	_	_
+
+1	Smallpox	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Does	_	NNP	NNP	_	2	nn	_	_
+2	anyone	_	NN	NN	_	4	nsubj	_	_
+3	else	_	RB	RB	_	2	advmod	_	_
+4	have	_	VBP	VBP	_	0	null	_	_
+5	a	_	DT	DT	_	6	det	_	_
+6	rash	_	NN	NN	_	4	dobj	_	_
+7	that	_	WDT	WDT	_	8	nsubj	_	_
+8	looks	_	VBZ	VBZ	_	6	rcmod	_	_
+9	like	_	IN	IN	_	8	prep	_	_
+10	that	_	IN	IN	_	9	pobj	_	_
+11	?	_	.	.	_	8	punct	_	_
+12	I	_	PRP	PRP	_	13	nsubj	_	_
+13	do	_	VBP	VBP	_	8	ccomp	_	_
+14	.	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	thought	_	VBD	VBD	_	0	null	_	_
+3	smallpox	_	NN	NN	_	5	nsubjpass	_	_
+4	was	_	VBD	VBD	_	5	auxpass	_	_
+5	eradicated	_	VBN	VBN	_	2	ccomp	_	_
+6	.	_	.	.	_	2	punct	_	_
+
+1	Contained	_	VBN	VBN	_	8	dep	_	_
+2	,	_	,	,	_	8	punct	_	_
+3	technically	_	RB	RB	_	8	advmod	_	_
+4	,	_	,	,	_	8	punct	_	_
+5	but	_	CC	CC	_	8	cc	_	_
+6	it	_	PRP	PRP	_	8	nsubj	_	_
+7	could	_	MD	MD	_	8	aux	_	_
+8	survive	_	VB	VB	_	0	null	_	_
+9	on	_	IN	IN	_	8	prep	_	_
+10	a	_	DT	DT	_	11	det	_	_
+11	blanket	_	NN	NN	_	9	pobj	_	_
+12	under	_	IN	IN	_	8	prep	_	_
+13	the	_	DT	DT	_	15	det	_	_
+14	right	_	JJ	JJ	_	15	amod	_	_
+15	humidity	_	NN	NN	_	12	pobj	_	_
+16	and	_	CC	CC	_	15	cc	_	_
+17	temperature	_	NN	NN	_	15	conj	_	_
+18	.	_	.	.	_	8	punct	_	_
+
+1	You	_	PRP	PRP	_	2	nsubj	_	_
+2	think	_	VBP	VBP	_	0	null	_	_
+3	we	_	PRP	PRP	_	5	nsubj	_	_
+4	have	_	VBP	VBP	_	5	aux	_	_
+5	smallpox	_	VBN	VBN	_	2	ccomp	_	_
+6	?	_	.	.	_	2	punct	_	_
+
+1	It	_	PRP	PRP	_	4	nsubj	_	_
+2	's	_	VBZ	VBZ	_	4	cop	_	_
+3	highly	_	RB	RB	_	4	advmod	_	_
+4	unlikely	_	JJ	JJ	_	0	null	_	_
+5	,	_	,	,	_	4	punct	_	_
+6	but	_	CC	CC	_	4	cc	_	_
+7	just	_	RB	RB	_	11	advmod	_	_
+8	in	_	IN	IN	_	7	dep	_	_
+9	case	_	NN	NN	_	8	pobj	_	_
+10	,	_	,	,	_	11	punct	_	_
+11	let	_	VB	VB	_	4	conj	_	_
+12	me	_	PRP	PRP	_	13	nsubj	_	_
+13	take	_	VB	VB	_	11	ccomp	_	_
+14	some	_	DT	DT	_	15	det	_	_
+15	swabs	_	NNS	NNS	_	13	dobj	_	_
+16	.	_	.	.	_	4	punct	_	_
+
+1	And	_	CC	CC	_	8	cc	_	_
+2	in	_	IN	IN	_	8	prep	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	meantime	_	NN	NN	_	2	pobj	_	_
+5	,	_	,	,	_	8	punct	_	_
+6	you	_	PRP	PRP	_	8	nsubj	_	_
+7	should	_	MD	MD	_	8	aux	_	_
+8	delay	_	VB	VB	_	0	null	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	march	_	NN	NN	_	8	dobj	_	_
+11	to	_	TO	TO	_	8	prep	_	_
+12	Fredericksburg	_	NNP	NNP	_	11	pobj	_	_
+13	until	_	IN	IN	_	16	mark	_	_
+14	I	_	PRP	PRP	_	16	nsubj	_	_
+15	can	_	MD	MD	_	16	aux	_	_
+16	get	_	VB	VB	_	8	advcl	_	_
+17	some	_	DT	DT	_	18	det	_	_
+18	answers	_	NNS	NNS	_	16	dobj	_	_
+19	.	_	.	.	_	8	punct	_	_
+
+1	Ah	_	UH	UH	_	0	null	_	_
+2	...	_	:	:	_	1	punct	_	_
+3	not	_	RB	RB	_	4	dep	_	_
+4	in	_	IN	IN	_	1	dep	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	face	_	NN	NN	_	4	pobj	_	_
+7	!	_	.	.	_	1	punct	_	_
+
+1	Never	_	RB	RB	_	2	neg	_	_
+2	better	_	JJR	JJR	_	0	null	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	Why	_	WRB	WRB	_	0	null	_	_
+2	?	_	.	.	_	1	punct	_	_
+
+1	Maybe	_	RB	RB	_	0	null	_	_
+2	because	_	IN	IN	_	6	mark	_	_
+3	I	_	PRP	PRP	_	6	nsubj	_	_
+4	did	_	VBD	VBD	_	6	aux	_	_
+5	n't	_	RB	RB	_	6	neg	_	_
+6	ask	_	VB	VB	_	1	dep	_	_
+7	how	_	WRB	WRB	_	9	advmod	_	_
+8	you	_	PRP	PRP	_	9	nsubj	_	_
+9	are	_	VBP	VBP	_	6	ccomp	_	_
+10	.	_	.	.	_	1	punct	_	_
+
+1	You	_	PRP	PRP	_	2	nsubj	_	_
+2	thought	_	VBD	VBD	_	0	null	_	_
+3	you	_	PRP	PRP	_	4	nsubj	_	_
+4	were	_	VBD	VBD	_	2	ccomp	_	_
+5	about	_	RB	RB	_	8	advmod	_	_
+6	to	_	TO	TO	_	8	aux	_	_
+7	get	_	VB	VB	_	8	auxpass	_	_
+8	smacked	_	VBN	VBN	_	4	dep	_	_
+9	in	_	IN	IN	_	8	prep	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	face	_	NN	NN	_	9	pobj	_	_
+12	.	_	.	.	_	2	punct	_	_
+
+1	And	_	CC	CC	_	16	cc	_	_
+2	whatever	_	WDT	WDT	_	4	dep	_	_
+3	it	_	PRP	PRP	_	4	nsubj	_	_
+4	is	_	VBZ	VBZ	_	16	dep	_	_
+5	you	_	PRP	PRP	_	7	nsubj	_	_
+6	've	_	VBP	VBP	_	7	aux	_	_
+7	got	_	VBN	VBN	_	4	ccomp	_	_
+8	going	_	VBG	VBG	_	7	dep	_	_
+9	on	_	IN	IN	_	8	prep	_	_
+10	with	_	IN	IN	_	9	dep	_	_
+11	Boris	_	NNP	NNP	_	10	pobj	_	_
+12	...	_	:	:	_	16	punct	_	_
+13	I	_	PRP	PRP	_	16	nsubj	_	_
+14	do	_	VBP	VBP	_	16	aux	_	_
+15	n't	_	RB	RB	_	16	neg	_	_
+16	have	_	VB	VB	_	0	null	_	_
+17	anything	_	NN	NN	_	16	dobj	_	_
+18	going	_	VBG	VBG	_	17	partmod	_	_
+19	on	_	IN	IN	_	18	prep	_	_
+20	with	_	IN	IN	_	19	dep	_	_
+21	Boris	_	NNP	NNP	_	20	pobj	_	_
+22	,	_	,	,	_	21	punct	_	_
+23	all	_	DT	DT	_	21	dep	_	_
+24	right	_	RB	RB	_	20	dep	_	_
+25	?	_	.	.	_	16	punct	_	_
+
+1	Of	_	IN	IN	_	9	prep	_	_
+2	course	_	NN	NN	_	1	pobj	_	_
+3	,	_	,	,	_	9	punct	_	_
+4	if	_	IN	IN	_	6	mark	_	_
+5	I	_	PRP	PRP	_	6	nsubj	_	_
+6	did	_	VBD	VBD	_	9	dep	_	_
+7	,	_	,	,	_	9	punct	_	_
+8	that	_	WDT	WDT	_	9	nsubj	_	_
+9	's	_	VBZ	VBZ	_	0	null	_	_
+10	what	_	WP	WP	_	13	dobj	_	_
+11	I	_	PRP	PRP	_	13	nsubj	_	_
+12	'd	_	MD	MD	_	13	aux	_	_
+13	have	_	VB	VB	_	9	ccomp	_	_
+14	to	_	TO	TO	_	15	aux	_	_
+15	tell	_	VB	VB	_	13	xcomp	_	_
+16	you	_	PRP	PRP	_	15	dobj	_	_
+17	.	_	.	.	_	9	punct	_	_
+
+1	Yeah	_	UH	UH	_	5	dep	_	_
+2	,	_	,	,	_	5	punct	_	_
+3	I	_	PRP	PRP	_	5	nsubj	_	_
+4	do	_	VBP	VBP	_	5	aux	_	_
+5	know	_	VB	VB	_	0	null	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	drill	_	NN	NN	_	5	dobj	_	_
+8	,	_	,	,	_	5	punct	_	_
+9	and	_	CC	CC	_	5	cc	_	_
+10	that	_	DT	DT	_	11	nsubj	_	_
+11	's	_	VBZ	VBZ	_	5	conj	_	_
+12	why	_	WRB	WRB	_	15	advmod	_	_
+13	I	_	PRP	PRP	_	15	nsubj	_	_
+14	'm	_	VBP	VBP	_	15	cop	_	_
+15	worried	_	JJ	JJ	_	11	advcl	_	_
+16	.	_	.	.	_	5	punct	_	_
+
+1	Ahh.	_	NNP	NNP	_	3	nn	_	_
+2	Boris	_	NNP	NNP	_	3	nn	_	_
+3	functions	_	NNS	NNS	_	0	null	_	_
+4	on	_	IN	IN	_	3	prep	_	_
+5	a	_	DT	DT	_	7	det	_	_
+6	different	_	JJ	JJ	_	7	amod	_	_
+7	level	_	NN	NN	_	4	pobj	_	_
+8	,	_	,	,	_	3	punct	_	_
+9	so	_	IN	IN	_	14	mark	_	_
+10	it	_	PRP	PRP	_	14	nsubj	_	_
+11	can	_	MD	MD	_	14	aux	_	_
+12	sometimes	_	RB	RB	_	14	advmod	_	_
+13	be	_	VB	VB	_	14	cop	_	_
+14	hard	_	JJ	JJ	_	3	advcl	_	_
+15	to	_	TO	TO	_	16	aux	_	_
+16	see	_	VB	VB	_	14	xcomp	_	_
+17	all	_	PDT	PDT	_	19	predet	_	_
+18	the	_	DT	DT	_	19	det	_	_
+19	angles	_	NNS	NNS	_	16	dobj	_	_
+20	.	_	.	.	_	3	punct	_	_
+
+1	Functions	_	NNS	NNS	_	3	nn	_	_
+2	,	_	,	,	_	3	punct	_	_
+3	angles	_	NNS	NNS	_	0	null	_	_
+4	...	_	:	:	_	3	punct	_	_
+5	what	_	WP	WP	_	7	nsubj	_	_
+6	is	_	VBZ	VBZ	_	7	cop	_	_
+7	this	_	DT	DT	_	3	dep	_	_
+8	,	_	,	,	_	3	punct	_	_
+9	algebra	_	RB	RB	_	3	advmod	_	_
+10	?	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	think	_	VBP	VBP	_	0	null	_	_
+3	you	_	PRP	PRP	_	4	nsubj	_	_
+4	mean	_	VBP	VBP	_	2	ccomp	_	_
+5	trigonometry	_	NN	NN	_	4	dobj	_	_
+6	.	_	.	.	_	2	punct	_	_
+
+1	That	_	DT	DT	_	5	nsubj	_	_
+2	's	_	VBZ	VBZ	_	5	cop	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	same	_	JJ	JJ	_	5	amod	_	_
+5	thing	_	NN	NN	_	0	null	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	No.	_	NN	NN	_	0	null	_	_
+2	They	_	PRP	PRP	_	7	nsubj	_	_
+3	're	_	VBP	VBP	_	7	cop	_	_
+4	not	_	RB	RB	_	7	neg	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	same	_	JJ	JJ	_	7	amod	_	_
+7	thing	_	NN	NN	_	1	rcmod	_	_
+8	.	_	.	.	_	1	punct	_	_
+
+1	Algebra	_	NNP	NNP	_	2	nsubj	_	_
+2	is	_	VBZ	VBZ	_	0	null	_	_
+3	...	_	:	:	_	2	punct	_	_
+4	okay	_	NN	NN	_	2	parataxis	_	_
+5	,	_	,	,	_	4	punct	_	_
+6	okay	_	NN	NN	_	4	appos	_	_
+7	.	_	.	.	_	2	punct	_	_
+
+1	Look	_	VB	VB	_	0	null	_	_
+2	...	_	:	:	_	1	punct	_	_
+3	Boris	_	NNP	NNP	_	4	nn	_	_
+4	deals	_	NNS	NNS	_	1	dobj	_	_
+5	with	_	IN	IN	_	4	prep	_	_
+6	dangerous	_	JJ	JJ	_	7	amod	_	_
+7	people	_	NNS	NNS	_	5	pobj	_	_
+8	.	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	do	_	VBP	VBP	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	want	_	VB	VB	_	0	null	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	see	_	VB	VB	_	4	xcomp	_	_
+7	you	_	PRP	PRP	_	6	dobj	_	_
+8	in	_	IN	IN	_	6	prep	_	_
+9	danger	_	NN	NN	_	8	pobj	_	_
+10	.	_	.	.	_	4	punct	_	_
+
+1	So	_	IN	IN	_	4	dep	_	_
+2	it	_	PRP	PRP	_	4	nsubj	_	_
+3	's	_	VBZ	VBZ	_	4	cop	_	_
+4	okay	_	NN	NN	_	0	null	_	_
+5	for	_	IN	IN	_	4	prep	_	_
+6	you	_	PRP	PRP	_	5	pobj	_	_
+7	but	_	CC	CC	_	4	cc	_	_
+8	not	_	RB	RB	_	4	conj	_	_
+9	for	_	IN	IN	_	8	dep	_	_
+10	me	_	PRP	PRP	_	9	pobj	_	_
+11	?	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	never	_	RB	RB	_	3	neg	_	_
+3	tried	_	VBD	VBD	_	0	null	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	put	_	VB	VB	_	3	xcomp	_	_
+6	myself	_	PRP	PRP	_	5	dobj	_	_
+7	in	_	IN	IN	_	5	prep	_	_
+8	danger	_	NN	NN	_	7	pobj	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	tried	_	VBD	VBD	_	0	null	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	stay	_	VB	VB	_	2	xcomp	_	_
+5	out	_	IN	IN	_	4	prep	_	_
+6	of	_	IN	IN	_	5	dep	_	_
+7	it	_	PRP	PRP	_	6	pobj	_	_
+8	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	think	_	VBP	VBP	_	0	null	_	_
+3	you	_	PRP	PRP	_	7	nsubj	_	_
+4	just	_	RB	RB	_	7	advmod	_	_
+5	do	_	VBP	VBP	_	7	aux	_	_
+6	n't	_	RB	RB	_	7	neg	_	_
+7	like	_	VB	VB	_	2	ccomp	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	fact	_	NN	NN	_	7	dobj	_	_
+10	that	_	IN	IN	_	14	complm	_	_
+11	the	_	DT	DT	_	13	det	_	_
+12	Boris	_	NNP	NNP	_	13	nn	_	_
+13	shoe	_	NN	NN	_	14	nsubj	_	_
+14	's	_	VBZ	VBZ	_	9	ccomp	_	_
+15	on	_	IN	IN	_	14	prep	_	_
+16	the	_	DT	DT	_	18	det	_	_
+17	other	_	JJ	JJ	_	18	amod	_	_
+18	foot	_	NN	NN	_	15	pobj	_	_
+19	now	_	RB	RB	_	14	advmod	_	_
+20	,	_	,	,	_	14	punct	_	_
+21	if	_	IN	IN	_	23	mark	_	_
+22	there	_	EX	EX	_	23	expl	_	_
+23	is	_	VBZ	VBZ	_	14	advcl	_	_
+24	a	_	DT	DT	_	26	det	_	_
+25	Boris	_	NNP	NNP	_	26	nn	_	_
+26	shoe	_	NN	NN	_	23	nsubj	_	_
+27	,	_	,	,	_	26	punct	_	_
+28	which	_	WDT	WDT	_	32	dobj	_	_
+29	I	_	PRP	PRP	_	32	nsubj	_	_
+30	can	_	MD	MD	_	32	aux	_	_
+31	neither	_	RB	RB	_	32	advmod	_	_
+32	confirm	_	VB	VB	_	26	rcmod	_	_
+33	nor	_	CC	CC	_	32	cc	_	_
+34	deny	_	VB	VB	_	32	conj	_	_
+35	.	_	.	.	_	2	punct	_	_
+
+1	Evan	_	NNP	NNP	_	0	null	_	_
+2	...	_	:	:	_	1	punct	_	_
+
+1	Hank	_	VB	VB	_	0	null	_	_
+2	I	_	PRP	PRP	_	3	nsubj	_	_
+3	appreciate	_	VBP	VBP	_	1	ccomp	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	concern	_	NN	NN	_	3	dobj	_	_
+6	,	_	,	,	_	1	punct	_	_
+7	but	_	CC	CC	_	1	cc	_	_
+8	you	_	PRP	PRP	_	9	nsubj	_	_
+9	have	_	VBP	VBP	_	1	conj	_	_
+10	to	_	TO	TO	_	11	aux	_	_
+11	stop	_	VB	VB	_	9	xcomp	_	_
+12	worrying	_	VBG	VBG	_	11	xcomp	_	_
+13	.	_	.	.	_	1	punct	_	_
+
+1	There	_	EX	EX	_	2	expl	_	_
+2	's	_	VBZ	VBZ	_	0	null	_	_
+3	nothing	_	NN	NN	_	4	nsubj	_	_
+4	going	_	VBG	VBG	_	2	ccomp	_	_
+5	on	_	IN	IN	_	4	prep	_	_
+6	except	_	IN	IN	_	5	dep	_	_
+7	for	_	IN	IN	_	6	dep	_	_
+8	a	_	DT	DT	_	10	det	_	_
+9	whole	_	JJ	JJ	_	10	amod	_	_
+10	bunch	_	NN	NN	_	7	pobj	_	_
+11	of	_	IN	IN	_	10	prep	_	_
+12	interim	_	JJ	JJ	_	13	amod	_	_
+13	administrating	_	NN	NN	_	11	pobj	_	_
+14	,	_	,	,	_	13	punct	_	_
+15	which	_	WDT	WDT	_	16	nsubj	_	_
+16	has	_	VBZ	VBZ	_	13	rcmod	_	_
+17	me	_	PRP	PRP	_	19	nsubjpass	_	_
+18	interim	_	JJ	JJ	_	19	dep	_	_
+19	exhausted	_	VBN	VBN	_	16	xcomp	_	_
+20	.	_	.	.	_	2	punct	_	_
+
+1	Okay	_	NNP	NNP	_	3	nn	_	_
+2	,	_	,	,	_	3	punct	_	_
+3	okay	_	NN	NN	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	Just	_	RB	RB	_	2	advmod	_	_
+2	please	_	VB	VB	_	0	null	_	_
+3	...	_	:	:	_	2	punct	_	_
+4	be	_	VB	VB	_	5	cop	_	_
+5	careful	_	JJ	JJ	_	2	parataxis	_	_
+6	.	_	.	.	_	2	punct	_	_
+
+1	If	_	IN	IN	_	3	mark	_	_
+2	there	_	EX	EX	_	3	expl	_	_
+3	were	_	VBD	VBD	_	11	advcl	_	_
+4	something	_	NN	NN	_	3	nsubj	_	_
+5	going	_	VBG	VBG	_	4	partmod	_	_
+6	on	_	IN	IN	_	5	prt	_	_
+7	,	_	,	,	_	11	punct	_	_
+8	do	_	VBP	VBP	_	11	aux	_	_
+9	n't	_	RB	RB	_	11	neg	_	_
+10	you	_	PRP	PRP	_	11	nsubj	_	_
+11	think	_	VBP	VBP	_	0	null	_	_
+12	I	_	PRP	PRP	_	14	nsubj	_	_
+13	'd	_	MD	MD	_	14	aux	_	_
+14	be	_	VB	VB	_	11	ccomp	_	_
+15	on	_	IN	IN	_	14	prep	_	_
+16	a	_	DT	DT	_	18	det	_	_
+17	private	_	JJ	JJ	_	18	amod	_	_
+18	jet	_	NN	NN	_	15	pobj	_	_
+19	to	_	TO	TO	_	18	prep	_	_
+20	Brazil	_	NNP	NNP	_	19	pobj	_	_
+21	right	_	RB	RB	_	22	advmod	_	_
+22	now	_	RB	RB	_	14	advmod	_	_
+23	?	_	.	.	_	11	punct	_	_
+
+1	Why	_	WRB	WRB	_	4	advmod	_	_
+2	would	_	MD	MD	_	4	aux	_	_
+3	I	_	PRP	PRP	_	4	nsubj	_	_
+4	think	_	VB	VB	_	0	null	_	_
+5	that	_	IN	IN	_	4	advmod	_	_
+6	?	_	.	.	_	4	punct	_	_
+
+1	Because	_	IN	IN	_	0	null	_	_
+2	that	_	DT	DT	_	1	pcomp	_	_
+3	's	_	POS	POS	_	2	possessive	_	_
+4	where	_	WRB	WRB	_	6	advmod	_	_
+5	Boris	_	NNP	NNP	_	6	nsubj	_	_
+6	is	_	VBZ	VBZ	_	3	advcl	_	_
+7	.	_	.	.	_	1	punct	_	_
+
+1	Hypothetically	_	RB	RB	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Ken	_	NNP	NNP	_	0	null	_	_
+2	?	_	.	.	_	1	punct	_	_
+
+1	Why	_	WRB	WRB	_	0	null	_	_
+2	are	_	VBP	VBP	_	1	dep	_	_
+3	you	_	PRP	PRP	_	2	nsubj	_	_
+4	in	_	IN	IN	_	2	dep	_	_
+5	my	_	PRP$	PRP$	_	7	poss	_	_
+6	hot	_	JJ	JJ	_	7	amod	_	_
+7	tub	_	NN	NN	_	4	pobj	_	_
+8	?	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	wanted	_	VBD	VBD	_	0	null	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	talk	_	VB	VB	_	2	xcomp	_	_
+5	.	_	.	.	_	2	punct	_	_
+
+1	Wait	_	VB	VB	_	0	null	_	_
+2	a	_	DT	DT	_	3	det	_	_
+3	second	_	JJ	JJ	_	1	dobj	_	_
+4	.	_	.	.	_	1	punct	_	_
+
+1	Are	_	VBP	VBP	_	0	null	_	_
+2	you	_	PRP	PRP	_	1	dobj	_	_
+3	...	_	:	:	_	1	punct	_	_
+4	I	_	PRP	PRP	_	5	nsubj	_	_
+5	thought	_	VBD	VBD	_	1	parataxis	_	_
+6	it	_	PRP	PRP	_	9	nsubj	_	_
+7	'd	_	MD	MD	_	9	aux	_	_
+8	be	_	VB	VB	_	9	cop	_	_
+9	impolite	_	JJ	JJ	_	5	ccomp	_	_
+10	to	_	TO	TO	_	11	aux	_	_
+11	borrow	_	VB	VB	_	9	xcomp	_	_
+12	one	_	CD	CD	_	11	dobj	_	_
+13	of	_	IN	IN	_	12	prep	_	_
+14	your	_	PRP$	PRP$	_	16	poss	_	_
+15	bathing	_	NN	NN	_	16	nn	_	_
+16	suits	_	NNS	NNS	_	13	pobj	_	_
+17	.	_	.	.	_	1	punct	_	_
+
+1	No	_	UH	UH	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	This	_	DT	DT	_	4	nsubj	_	_
+2	is	_	VBZ	VBZ	_	4	cop	_	_
+3	much	_	RB	RB	_	4	advmod	_	_
+4	better	_	JJR	JJR	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	How	_	WRB	WRB	_	4	advmod	_	_
+2	are	_	VBP	VBP	_	4	aux	_	_
+3	you	_	PRP	PRP	_	4	nsubj	_	_
+4	feeling	_	NN	NN	_	0	null	_	_
+5	?	_	.	.	_	4	punct	_	_
+
+1	Primo	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Goes	_	NNS	NNS	_	4	dep	_	_
+2	up	_	RB	RB	_	1	prt	_	_
+3	,	_	,	,	_	4	punct	_	_
+4	goes	_	VBZ	VBZ	_	0	null	_	_
+5	down	_	RB	RB	_	4	advmod	_	_
+6	...	_	:	:	_	4	punct	_	_
+7	I	_	PRP	PRP	_	8	nsubj	_	_
+8	'm	_	VBP	VBP	_	4	parataxis	_	_
+9	like	_	IN	IN	_	8	prep	_	_
+10	a	_	DT	DT	_	12	det	_	_
+11	human	_	JJ	JJ	_	12	amod	_	_
+12	elevator	_	NN	NN	_	9	pobj	_	_
+13	.	_	.	.	_	4	punct	_	_
+
+1	Wish	_	UH	UH	_	5	dep	_	_
+2	I	_	PRP	PRP	_	5	nsubj	_	_
+3	had	_	VBD	VBD	_	5	aux	_	_
+4	n't	_	RB	RB	_	5	neg	_	_
+5	asked	_	VBN	VBN	_	0	null	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	But	_	CC	CC	_	7	cc	_	_
+2	then	_	RB	RB	_	7	advmod	_	_
+3	after	_	IN	IN	_	7	dep	_	_
+4	Helen	_	NNP	NNP	_	7	nsubj	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	I	_	PRP	PRP	_	4	conj	_	_
+7	went	_	VBD	VBD	_	13	dep	_	_
+8	to	_	TO	TO	_	7	prep	_	_
+9	bed	_	NN	NN	_	8	pobj	_	_
+10	,	_	,	,	_	13	punct	_	_
+11	my	_	PRP$	PRP$	_	12	poss	_	_
+12	stomach	_	NN	NN	_	13	nsubj	_	_
+13	started	_	VBD	VBD	_	0	null	_	_
+14	acting	_	VBG	VBG	_	13	xcomp	_	_
+15	up	_	RP	RP	_	14	prt	_	_
+16	again	_	RB	RB	_	14	advmod	_	_
+17	.	_	.	.	_	13	punct	_	_
+
+1	I	_	PRP	PRP	_	5	nsubj	_	_
+2	have	_	VBP	VBP	_	5	aux	_	_
+3	n't	_	RB	RB	_	5	neg	_	_
+4	been	_	VBN	VBN	_	5	cop	_	_
+5	able	_	JJ	JJ	_	0	null	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	keep	_	VB	VB	_	5	xcomp	_	_
+8	anything	_	NN	NN	_	7	dobj	_	_
+9	down	_	RB	RB	_	7	advmod	_	_
+10	all	_	DT	DT	_	11	det	_	_
+11	day	_	NN	NN	_	7	tmod	_	_
+12	.	_	.	.	_	5	punct	_	_
+
+1	Okay	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	And	_	CC	CC	_	2	dep	_	_
+2	now	_	RB	RB	_	0	null	_	_
+3	?	_	.	.	_	2	punct	_	_
+
+1	Much	_	RB	RB	_	2	advmod	_	_
+2	better	_	JJR	JJR	_	0	null	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	This	_	DT	DT	_	3	det	_	_
+2	hot	_	JJ	JJ	_	3	amod	_	_
+3	tub	_	NN	NN	_	4	nsubj	_	_
+4	makes	_	VBZ	VBZ	_	0	null	_	_
+5	a	_	DT	DT	_	7	det	_	_
+6	big	_	JJ	JJ	_	7	amod	_	_
+7	difference	_	NN	NN	_	4	dobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	All	_	DT	DT	_	2	det	_	_
+2	right	_	NN	NN	_	0	null	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	Let	_	VB	VB	_	0	null	_	_
+2	me	_	PRP	PRP	_	3	nsubj	_	_
+3	take	_	VB	VB	_	1	ccomp	_	_
+4	a	_	DT	DT	_	5	det	_	_
+5	look	_	NN	NN	_	3	dobj	_	_
+6	at	_	IN	IN	_	5	prep	_	_
+7	you	_	PRP	PRP	_	6	pobj	_	_
+8	.	_	.	.	_	1	punct	_	_
+
+1	But	_	CC	CC	_	6	cc	_	_
+2	first	_	RB	RB	_	6	advmod	_	_
+3	,	_	,	,	_	6	punct	_	_
+4	I	_	PRP	PRP	_	6	nsubj	_	_
+5	'm	_	VBP	VBP	_	6	aux	_	_
+6	gon	_	VBG	VBG	_	0	null	_	_
+7	na	_	TO	TO	_	12	aux	_	_
+8	do	_	VB	VB	_	12	dep	_	_
+9	us	_	PRP	PRP	_	12	nsubj	_	_
+10	both	_	CC	CC	_	12	preconj	_	_
+11	a	_	DT	DT	_	12	det	_	_
+12	favor	_	NN	NN	_	6	xcomp	_	_
+13	and	_	CC	CC	_	6	cc	_	_
+14	turn	_	VB	VB	_	6	conj	_	_
+15	around	_	RP	RP	_	14	prt	_	_
+16	.	_	.	.	_	6	punct	_	_
+
+1	There	_	EX	EX	_	3	expl	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	go	_	VBP	VBP	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	Yep	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	You	_	PRP	PRP	_	3	nsubj	_	_
+2	're	_	VBP	VBP	_	3	dep	_	_
+3	dehydrated	_	VBN	VBN	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	You	_	PRP	PRP	_	2	nsubj	_	_
+2	need	_	VBP	VBP	_	0	null	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	get	_	VB	VB	_	2	xcomp	_	_
+5	more	_	JJR	JJR	_	6	amod	_	_
+6	fluids	_	NNS	NNS	_	4	dobj	_	_
+7	and	_	CC	CC	_	4	cc	_	_
+8	maybe	_	RB	RB	_	9	advmod	_	_
+9	dial	_	VB	VB	_	4	conj	_	_
+10	back	_	RB	RB	_	9	advmod	_	_
+11	on	_	IN	IN	_	9	prep	_	_
+12	the	_	DT	DT	_	14	det	_	_
+13	dietary	_	JJ	JJ	_	14	amod	_	_
+14	restrictions	_	NNS	NNS	_	11	pobj	_	_
+15	for	_	IN	IN	_	14	prep	_	_
+16	a	_	DT	DT	_	17	det	_	_
+17	while	_	NN	NN	_	15	pobj	_	_
+18	.	_	.	.	_	2	punct	_	_
+
+1	In	_	IN	IN	_	8	prep	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	meantime	_	NN	NN	_	1	pobj	_	_
+4	,	_	,	,	_	8	punct	_	_
+5	I	_	PRP	PRP	_	8	nsubj	_	_
+6	'm	_	VBP	VBP	_	8	aux	_	_
+7	also	_	RB	RB	_	8	advmod	_	_
+8	gon	_	VBG	VBG	_	0	null	_	_
+9	na	_	TO	TO	_	8	xcomp	_	_
+10	give	_	VB	VB	_	9	dep	_	_
+11	you	_	PRP	PRP	_	10	iobj	_	_
+12	some	_	DT	DT	_	13	det	_	_
+13	antiemetics	_	NNS	NNS	_	10	dobj	_	_
+14	.	_	.	.	_	8	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	ca	_	MD	MD	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	miss	_	VB	VB	_	0	null	_	_
+5	any	_	DT	DT	_	7	det	_	_
+6	more	_	JJR	JJR	_	7	amod	_	_
+7	time	_	NN	NN	_	4	tmod	_	_
+8	with	_	IN	IN	_	4	prep	_	_
+9	Helen	_	NNP	NNP	_	8	pobj	_	_
+10	because	_	IN	IN	_	14	mark	_	_
+11	I	_	PRP	PRP	_	14	nsubj	_	_
+12	'm	_	VBP	VBP	_	14	cop	_	_
+13	sick.	_	JJ	JJ	_	14	amod	_	_
+14	Anything	_	NN	NN	_	4	advcl	_	_
+15	.	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	know	_	VBP	VBP	_	0	null	_	_
+3	I	_	PRP	PRP	_	5	nsubj	_	_
+4	've	_	VBP	VBP	_	5	aux	_	_
+5	said	_	VBN	VBN	_	2	ccomp	_	_
+6	this	_	DT	DT	_	5	dobj	_	_
+7	before	_	RB	RB	_	6	advmod	_	_
+8	,	_	,	,	_	6	punct	_	_
+9	but	_	CC	CC	_	6	cc	_	_
+10	this	_	DT	DT	_	11	det	_	_
+11	time	_	NN	NN	_	6	conj	_	_
+12	,	_	,	,	_	2	punct	_	_
+13	it	_	PRP	PRP	_	16	nsubj	_	_
+14	's	_	VBZ	VBZ	_	16	cop	_	_
+15	really	_	RB	RB	_	16	advmod	_	_
+16	true	_	JJ	JJ	_	2	ccomp	_	_
+17	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	think	_	VBP	VBP	_	0	null	_	_
+3	she	_	PRP	PRP	_	6	nsubj	_	_
+4	's	_	VBZ	VBZ	_	6	cop	_	_
+5	the	_	DT	DT	_	6	dep	_	_
+6	one	_	CD	CD	_	2	ccomp	_	_
+7	.	_	.	.	_	2	punct	_	_
+
+1	Which	_	WDT	WDT	_	2	attr	_	_
+2	is	_	VBZ	VBZ	_	0	null	_	_
+3	great	_	JJ	JJ	_	2	dep	_	_
+4	for	_	IN	IN	_	3	prep	_	_
+5	you	_	PRP	PRP	_	4	pobj	_	_
+6	.	_	.	.	_	2	punct	_	_
+
+1	One	_	CD	CD	_	4	num	_	_
+2	less	_	JJR	JJR	_	4	amod	_	_
+3	stud	_	NN	NN	_	4	nn	_	_
+4	bachelor	_	NN	NN	_	0	null	_	_
+5	in	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	Hamptons	_	NNS	NNS	_	5	pobj	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	compete	_	VB	VB	_	4	infmod	_	_
+10	with	_	IN	IN	_	9	prep	_	_
+11	.	_	.	.	_	4	punct	_	_
+
+1	Being	_	VBG	VBG	_	9	csubj	_	_
+2	a	_	DT	DT	_	4	det	_	_
+3	stud	_	NN	NN	_	4	nn	_	_
+4	bachelor	_	NN	NN	_	1	dobj	_	_
+5	is	_	VBZ	VBZ	_	9	cop	_	_
+6	n't	_	RB	RB	_	9	neg	_	_
+7	really	_	RB	RB	_	9	advmod	_	_
+8	my	_	PRP$	PRP$	_	9	poss	_	_
+9	thing	_	NN	NN	_	0	null	_	_
+10	,	_	,	,	_	9	punct	_	_
+11	but	_	CC	CC	_	9	cc	_	_
+12	thank	_	VB	VB	_	9	conj	_	_
+13	you	_	PRP	PRP	_	12	dobj	_	_
+14	.	_	.	.	_	9	punct	_	_
+
+1	That	_	DT	DT	_	3	nsubj	_	_
+2	's	_	VBZ	VBZ	_	3	cop	_	_
+3	true	_	JJ	JJ	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	So	_	IN	IN	_	5	dep	_	_
+2	what	_	WP	WP	_	5	nsubj	_	_
+3	is	_	VBZ	VBZ	_	5	cop	_	_
+4	your	_	PRP$	PRP$	_	5	poss	_	_
+5	thing	_	NN	NN	_	0	null	_	_
+6	?	_	.	.	_	5	punct	_	_
+
+1	My	_	PRP$	PRP$	_	2	poss	_	_
+2	thing	_	NN	NN	_	6	nsubj	_	_
+3	is	_	VBZ	VBZ	_	6	cop	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	simple	_	JJ	JJ	_	6	amod	_	_
+6	things	_	NNS	NNS	_	0	null	_	_
+7	.	_	.	.	_	6	punct	_	_
+
+1	Meet	_	NNP	NNP	_	2	nn	_	_
+2	someone	_	NN	NN	_	9	nsubjpass	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	fall	_	NN	NN	_	2	appos	_	_
+5	in	_	IN	IN	_	4	prep	_	_
+6	love	_	NN	NN	_	5	pobj	_	_
+7	,	_	,	,	_	2	punct	_	_
+8	get	_	VB	VB	_	9	auxpass	_	_
+9	married	_	VBN	VBN	_	0	null	_	_
+10	,	_	,	,	_	9	punct	_	_
+11	buy	_	VB	VB	_	9	conj	_	_
+12	a	_	DT	DT	_	13	det	_	_
+13	house	_	NN	NN	_	11	dobj	_	_
+14	,	_	,	,	_	9	punct	_	_
+15	and	_	CC	CC	_	9	cc	_	_
+16	have	_	VBP	VBP	_	9	conj	_	_
+17	kids	_	NNS	NNS	_	16	dobj	_	_
+18	.	_	.	.	_	9	punct	_	_
+
+1	So	_	RB	RB	_	2	advmod	_	_
+2	get	_	VB	VB	_	0	null	_	_
+3	in	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	game	_	NN	NN	_	3	pobj	_	_
+6	,	_	,	,	_	5	punct	_	_
+7	Lawson	_	NNP	NNP	_	5	appos	_	_
+8	.	_	.	.	_	2	punct	_	_
+
+1	Believe	_	NNP	NNP	_	2	nsubj	_	_
+2	me	_	PRP	PRP	_	0	null	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	'm	_	VBP	VBP	_	3	aux	_	_
+3	trying	_	VBG	VBG	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	Not	_	RB	RB	_	2	neg	_	_
+2	hard	_	RB	RB	_	0	null	_	_
+3	enough	_	RB	RB	_	2	advmod	_	_
+4	.	_	.	.	_	2	punct	_	_
+
+1	How	_	WRB	WRB	_	4	advmod	_	_
+2	would	_	MD	MD	_	4	aux	_	_
+3	you	_	PRP	PRP	_	4	nsubj	_	_
+4	know	_	VB	VB	_	0	null	_	_
+5	?	_	.	.	_	4	punct	_	_
+
+1	For	_	IN	IN	_	7	prep	_	_
+2	starters	_	NNS	NNS	_	1	pobj	_	_
+3	,	_	,	,	_	7	punct	_	_
+4	you	_	PRP	PRP	_	7	nsubj	_	_
+5	're	_	VBP	VBP	_	7	cop	_	_
+6	still	_	RB	RB	_	7	advmod	_	_
+7	single	_	JJ	JJ	_	0	null	_	_
+8	.	_	.	.	_	7	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	mean	_	VBP	VBP	_	10	ccomp	_	_
+3	,	_	,	,	_	10	punct	_	_
+4	you	_	PRP	PRP	_	10	nsubj	_	_
+5	are	_	VBP	VBP	_	10	cop	_	_
+6	a	_	DT	DT	_	10	det	_	_
+7	semiattractive	_	JJ	JJ	_	10	amod	_	_
+8	,	_	,	,	_	10	punct	_	_
+9	successful	_	JJ	JJ	_	10	amod	_	_
+10	doctor	_	NN	NN	_	0	null	_	_
+11	.	_	.	.	_	10	punct	_	_
+
+1	How	_	WRB	WRB	_	2	advmod	_	_
+2	hard	_	JJ	JJ	_	3	dep	_	_
+3	can	_	NN	NN	_	5	dobj	_	_
+4	it	_	PRP	PRP	_	5	nsubj	_	_
+5	be	_	VB	VB	_	0	null	_	_
+6	?	_	.	.	_	5	punct	_	_
+
+1	Gee	_	NNP	NNP	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	thanks	_	NNS	NNS	_	1	dep	_	_
+4	,	_	,	,	_	3	punct	_	_
+5	Ken	_	NNP	NNP	_	3	appos	_	_
+6	.	_	.	.	_	1	punct	_	_
+
+1	Helen	_	NNP	NNP	_	2	nsubj	_	_
+2	offers	_	VBZ	VBZ	_	0	null	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	set	_	VB	VB	_	2	xcomp	_	_
+5	you	_	PRP	PRP	_	4	dobj	_	_
+6	up	_	RP	RP	_	4	prt	_	_
+7	with	_	IN	IN	_	4	prep	_	_
+8	her	_	PRP$	PRP$	_	9	poss	_	_
+9	sister	_	NN	NN	_	7	pobj	_	_
+10	,	_	,	,	_	2	punct	_	_
+11	and	_	CC	CC	_	2	cc	_	_
+12	you	_	PRP	PRP	_	13	nsubj	_	_
+13	shut	_	VBD	VBD	_	2	conj	_	_
+14	it	_	PRP	PRP	_	13	dobj	_	_
+15	down	_	RP	RP	_	13	prt	_	_
+16	before	_	IN	IN	_	20	mark	_	_
+17	she	_	PRP	PRP	_	20	nsubj	_	_
+18	can	_	MD	MD	_	20	aux	_	_
+19	even	_	RB	RB	_	20	advmod	_	_
+20	finish	_	VB	VB	_	13	advcl	_	_
+21	the	_	DT	DT	_	22	det	_	_
+22	invitation	_	NN	NN	_	20	dobj	_	_
+23	.	_	.	.	_	2	punct	_	_
+
+1	Look	_	VB	VB	_	6	ccomp	_	_
+2	,	_	,	,	_	6	punct	_	_
+3	I	_	PRP	PRP	_	6	nsubj	_	_
+4	do	_	VBP	VBP	_	6	aux	_	_
+5	n't	_	RB	RB	_	6	neg	_	_
+6	think	_	VB	VB	_	14	nsubj	_	_
+7	meeting	_	VBG	VBG	_	6	partmod	_	_
+8	a	_	DT	DT	_	10	det	_	_
+9	hot	_	JJ	JJ	_	10	amod	_	_
+10	mess	_	NN	NN	_	7	dobj	_	_
+11	is	_	VBZ	VBZ	_	14	cop	_	_
+12	a	_	DT	DT	_	14	det	_	_
+13	good	_	JJ	JJ	_	14	amod	_	_
+14	idea	_	NN	NN	_	0	null	_	_
+15	for	_	IN	IN	_	14	prep	_	_
+16	either	_	CC	CC	_	17	preconj	_	_
+17	me	_	PRP	PRP	_	15	pobj	_	_
+18	or	_	CC	CC	_	17	cc	_	_
+19	her	_	PRP$	PRP$	_	17	conj	_	_
+20	.	_	.	.	_	14	punct	_	_
+
+1	Yeah	_	NNP	NNP	_	7	nsubj	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	Miss	_	NNP	NNP	_	4	nn	_	_
+4	Right	_	NNP	NNP	_	1	appos	_	_
+5	is	_	VBZ	VBZ	_	7	aux	_	_
+6	just	_	RB	RB	_	7	advmod	_	_
+7	gon	_	VBG	VBG	_	0	null	_	_
+8	na	_	TO	TO	_	7	xcomp	_	_
+9	cruise	_	NN	NN	_	8	pobj	_	_
+10	on	_	IN	IN	_	9	prep	_	_
+11	up	_	RP	RP	_	10	pobj	_	_
+12	when	_	WRB	WRB	_	15	advmod	_	_
+13	she	_	PRP	PRP	_	15	nsubj	_	_
+14	's	_	VBZ	VBZ	_	15	cop	_	_
+15	good	_	JJ	JJ	_	10	advcl	_	_
+16	and	_	CC	CC	_	15	cc	_	_
+17	ready	_	JJ	JJ	_	15	conj	_	_
+18	.	_	.	.	_	7	punct	_	_
+
+1	Hank	_	NNP	NNP	_	4	nsubj	_	_
+2	,	_	,	,	_	4	punct	_	_
+3	you	_	PRP	PRP	_	4	nsubj	_	_
+4	want	_	VBP	VBP	_	0	null	_	_
+5	to	_	TO	TO	_	7	aux	_	_
+6	be	_	VB	VB	_	7	cop	_	_
+7	single	_	JJ	JJ	_	4	xcomp	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	know	_	VBP	VBP	_	0	null	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	type	_	NN	NN	_	2	dobj	_	_
+5	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	type	_	NN	NN	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	We	_	PRP	PRP	_	4	nsubj	_	_
+2	're	_	VBP	VBP	_	4	cop	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	lot	_	NN	NN	_	0	null	_	_
+5	alike	_	RB	RB	_	4	advmod	_	_
+6	.	_	.	.	_	4	punct	_	_
+
+1	At	_	IN	IN	_	5	prep	_	_
+2	least	_	JJS	JJS	_	1	dep	_	_
+3	,	_	,	,	_	5	punct	_	_
+4	we	_	PRP	PRP	_	5	nsubj	_	_
+5	were	_	VBD	VBD	_	0	null	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	Now	_	RB	RB	_	3	advmod	_	_
+2	I	_	PRP	PRP	_	3	nsubj	_	_
+3	'm	_	VBP	VBP	_	0	null	_	_
+4	in	_	IN	IN	_	3	prep	_	_
+5	love	_	NN	NN	_	4	pobj	_	_
+6	,	_	,	,	_	3	punct	_	_
+7	and	_	CC	CC	_	3	cc	_	_
+8	you	_	PRP	PRP	_	9	nsubj	_	_
+9	're	_	VBP	VBP	_	3	conj	_	_
+10	...	_	:	:	_	3	punct	_	_
+
+1	Okay	_	NNP	NNP	_	3	nn	_	_
+2	,	_	,	,	_	3	punct	_	_
+3	okay	_	NN	NN	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	Fine.	_	NNP	NNP	_	3	advmod	_	_
+2	You	_	PRP	PRP	_	3	nsubj	_	_
+3	know	_	VBP	VBP	_	0	null	_	_
+4	what	_	WP	WP	_	3	dobj	_	_
+5	?	_	.	.	_	3	punct	_	_
+
+1	Please	_	NN	NN	_	3	tmod	_	_
+2	,	_	,	,	_	3	punct	_	_
+3	tell	_	VBP	VBP	_	0	null	_	_
+4	Helen	_	NNP	NNP	_	3	dobj	_	_
+5	I	_	PRP	PRP	_	7	nsubj	_	_
+6	would	_	MD	MD	_	7	aux	_	_
+7	love	_	VB	VB	_	3	dep	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	have	_	VB	VB	_	7	xcomp	_	_
+10	dinner	_	NN	NN	_	9	dobj	_	_
+11	with	_	IN	IN	_	10	prep	_	_
+12	her	_	PRP$	PRP$	_	15	poss	_	_
+13	emotionally	_	RB	RB	_	14	advmod	_	_
+14	unstable	_	JJ	JJ	_	15	amod	_	_
+15	sister	_	NN	NN	_	11	pobj	_	_
+16	.	_	.	.	_	3	punct	_	_
+
+1	Well	_	UH	UH	_	6	dep	_	_
+2	,	_	,	,	_	6	punct	_	_
+3	now	_	RB	RB	_	6	advmod	_	_
+4	we	_	PRP	PRP	_	6	nsubj	_	_
+5	're	_	VBP	VBP	_	6	aux	_	_
+6	making	_	VBG	VBG	_	0	null	_	_
+7	progress	_	NN	NN	_	6	dobj	_	_
+8	.	_	.	.	_	6	punct	_	_
+
+1	Okay.	_	NNP	NNP	_	2	nsubj	_	_
+2	Put	_	VBD	VBD	_	0	null	_	_
+3	that	_	IN	IN	_	4	dep	_	_
+4	down	_	RB	RB	_	2	advmod	_	_
+5	.	_	.	.	_	2	punct	_	_
+
+1	Hello	_	NNP	NNP	_	0	null	_	_
+2	?	_	.	.	_	1	punct	_	_
+
+1	There	_	EX	EX	_	2	expl	_	_
+2	's	_	VBZ	VBZ	_	0	null	_	_
+3	been	_	VBN	VBN	_	5	cop	_	_
+4	a	_	DT	DT	_	5	det	_	_
+5	change	_	NN	NN	_	2	nsubj	_	_
+6	.	_	.	.	_	2	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	delivery	_	NN	NN	_	5	nsubj	_	_
+3	will	_	MD	MD	_	5	aux	_	_
+4	now	_	RB	RB	_	5	advmod	_	_
+5	occur	_	VB	VB	_	0	null	_	_
+6	night	_	NN	NN	_	5	dobj	_	_
+7	after	_	IN	IN	_	6	prep	_	_
+8	tomorrow	_	NN	NN	_	7	pobj	_	_
+9	.	_	.	.	_	5	punct	_	_
+
+1	Oh	_	UH	UH	_	5	dep	_	_
+2	,	_	,	,	_	5	punct	_	_
+3	I	_	PRP	PRP	_	5	nsubj	_	_
+4	already	_	RB	RB	_	5	advmod	_	_
+5	shut	_	VBD	VBD	_	0	null	_	_
+6	down	_	RP	RP	_	5	prt	_	_
+7	parking	_	NN	NN	_	8	nn	_	_
+8	area	_	NN	NN	_	5	dobj	_	_
+9	one	_	CD	CD	_	8	num	_	_
+10	for	_	IN	IN	_	8	prep	_	_
+11	tonight	_	NN	NN	_	10	pobj	_	_
+12	,	_	,	,	_	5	punct	_	_
+13	though	_	RB	RB	_	5	advmod	_	_
+14	,	_	,	,	_	5	punct	_	_
+15	and	_	CC	CC	_	5	cc	_	_
+16	if	_	IN	IN	_	18	mark	_	_
+17	I	_	PRP	PRP	_	18	nsubj	_	_
+18	do	_	VBP	VBP	_	30	advcl	_	_
+19	that	_	DT	DT	_	22	det	_	_
+20	too	_	RB	RB	_	21	advmod	_	_
+21	many	_	JJ	JJ	_	22	amod	_	_
+22	nights	_	NNS	NNS	_	18	dobj	_	_
+23	in	_	IN	IN	_	18	prep	_	_
+24	a	_	DT	DT	_	25	det	_	_
+25	row	_	NN	NN	_	23	pobj	_	_
+26	,	_	,	,	_	30	punct	_	_
+27	the	_	DT	DT	_	30	det	_	_
+28	...	_	:	:	_	30	punct	_	_
+29	Plans	_	NNS	NNS	_	30	nn	_	_
+30	change	_	NN	NN	_	5	conj	_	_
+31	,	_	,	,	_	30	punct	_	_
+32	Mr.	_	NNP	NNP	_	33	nn	_	_
+33	Lawson	_	NNP	NNP	_	30	appos	_	_
+34	.	_	.	.	_	5	punct	_	_
+
+1	Please	_	NN	NN	_	2	nn	_	_
+2	adapt	_	NN	NN	_	0	null	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	package	_	NN	NN	_	4	nsubj	_	_
+3	will	_	MD	MD	_	4	aux	_	_
+4	be	_	VB	VB	_	0	null	_	_
+5	there	_	RB	RB	_	4	advmod	_	_
+6	night	_	RB	RB	_	7	dep	_	_
+7	after	_	IN	IN	_	4	prep	_	_
+8	tomorrow	_	NN	NN	_	7	pobj	_	_
+9	at	_	IN	IN	_	8	prep	_	_
+10	midnight	_	NN	NN	_	9	pobj	_	_
+11	.	_	.	.	_	4	punct	_	_
+
+1	You	_	PRP	PRP	_	3	nsubj	_	_
+2	will	_	MD	MD	_	3	aux	_	_
+3	arrive	_	VB	VB	_	0	null	_	_
+4	30	_	CD	CD	_	5	num	_	_
+5	minutes	_	NNS	NNS	_	3	dobj	_	_
+6	in	_	IN	IN	_	3	prep	_	_
+7	advance	_	NN	NN	_	6	pobj	_	_
+8	.	_	.	.	_	3	punct	_	_
+
+1	You	_	PRP	PRP	_	4	nsubj	_	_
+2	will	_	MD	MD	_	4	aux	_	_
+3	be	_	VB	VB	_	4	cop	_	_
+4	alone	_	RB	RB	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	Do	_	VBP	VBP	_	3	aux	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	understand	_	VB	VB	_	0	null	_	_
+4	?	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	do	_	VBP	VBP	_	0	null	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	Very	_	NNP	NNP	_	0	null	_	_
+2	good	_	JJ	JJ	_	1	amod	_	_
+3	.	_	.	.	_	1	punct	_	_
+
+1	In	_	IN	IN	_	12	prep	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	interest	_	NN	NN	_	1	pobj	_	_
+4	of	_	IN	IN	_	3	prep	_	_
+5	security	_	NN	NN	_	4	pobj	_	_
+6	,	_	,	,	_	12	punct	_	_
+7	this	_	DT	DT	_	12	nsubj	_	_
+8	will	_	MD	MD	_	12	aux	_	_
+9	be	_	VB	VB	_	12	cop	_	_
+10	our	_	PRP$	PRP$	_	12	poss	_	_
+11	last	_	JJ	JJ	_	12	amod	_	_
+12	communication	_	NN	NN	_	0	null	_	_
+13	until	_	IN	IN	_	17	mark	_	_
+14	you	_	PRP	PRP	_	17	nsubj	_	_
+15	've	_	VBP	VBP	_	17	aux	_	_
+16	successfully	_	RB	RB	_	17	advmod	_	_
+17	taken	_	VBN	VBN	_	12	advcl	_	_
+18	possession	_	NN	NN	_	17	dobj	_	_
+19	of	_	IN	IN	_	18	prep	_	_
+20	the	_	DT	DT	_	21	det	_	_
+21	delivery	_	NN	NN	_	19	pobj	_	_
+22	.	_	.	.	_	12	punct	_	_
+
+1	Okay	_	NNP	NNP	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	and	_	CC	CC	_	1	cc	_	_
+4	do	_	VBP	VBP	_	6	aux	_	_
+5	n't	_	RB	RB	_	6	neg	_	_
+6	worry	_	VB	VB	_	1	conj	_	_
+7	,	_	,	,	_	6	punct	_	_
+8	Boris	_	NNP	NNP	_	6	appos	_	_
+9	.	_	.	.	_	1	punct	_	_
+
+1	No	_	DT	DT	_	2	det	_	_
+2	one	_	NN	NN	_	5	nsubj	_	_
+3	will	_	MD	MD	_	5	aux	_	_
+4	be	_	VB	VB	_	5	cop	_	_
+5	able	_	JJ	JJ	_	0	null	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	link	_	VB	VB	_	5	xcomp	_	_
+8	anything	_	NN	NN	_	7	dobj	_	_
+9	back	_	RB	RB	_	7	advmod	_	_
+10	to	_	TO	TO	_	7	prep	_	_
+11	you	_	PRP	PRP	_	10	pobj	_	_
+12	.	_	.	.	_	5	punct	_	_
+
+1	Of	_	IN	IN	_	4	mark	_	_
+2	that	_	IN	IN	_	4	complm	_	_
+3	I	_	PRP	PRP	_	4	nsubj	_	_
+4	have	_	VBP	VBP	_	0	null	_	_
+5	no	_	DT	DT	_	6	det	_	_
+6	doubt	_	NN	NN	_	4	dobj	_	_
+7	.	_	.	.	_	4	punct	_	_
+
+1	Goodbye	_	NNP	NNP	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	Mr.	_	NNP	NNP	_	4	nn	_	_
+4	Lawson	_	NNP	NNP	_	1	appos	_	_
+5	.	_	.	.	_	1	punct	_	_
+
+1	Bye	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Are	_	VBP	VBP	_	6	ccomp	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	satisfied	_	VBN	VBN	_	1	ccomp	_	_
+4	,	_	,	,	_	6	punct	_	_
+5	Mr.	_	NNP	NNP	_	6	nn	_	_
+6	Chen	_	NNP	NNP	_	0	null	_	_
+7	?	_	.	.	_	6	punct	_	_
+
+1	You	_	PRP	PRP	_	2	nsubj	_	_
+2	're	_	VBP	VBP	_	0	null	_	_
+3	right	_	RB	RB	_	2	advmod	_	_
+4	.	_	.	.	_	2	punct	_	_
+
+1	He	_	PRP	PRP	_	3	nsubj	_	_
+2	clearly	_	RB	RB	_	3	advmod	_	_
+3	suspects	_	VBZ	VBZ	_	0	null	_	_
+4	nothing	_	NN	NN	_	3	dobj	_	_
+5	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	know	_	VBP	VBP	_	0	null	_	_
+3	that	_	IN	IN	_	6	complm	_	_
+4	it	_	PRP	PRP	_	6	nsubj	_	_
+5	's	_	VBZ	VBZ	_	6	cop	_	_
+6	unlikely	_	JJ	JJ	_	2	ccomp	_	_
+7	,	_	,	,	_	2	punct	_	_
+8	but	_	CC	CC	_	2	cc	_	_
+9	you	_	PRP	PRP	_	12	nsubj	_	_
+10	do	_	VBP	VBP	_	12	aux	_	_
+11	n't	_	RB	RB	_	12	neg	_	_
+12	think	_	VB	VB	_	2	conj	_	_
+13	it	_	PRP	PRP	_	14	nsubj	_	_
+14	looks	_	VBZ	VBZ	_	12	ccomp	_	_
+15	a	_	DT	DT	_	18	det	_	_
+16	little	_	JJ	JJ	_	18	amod	_	_
+17	like	_	JJ	JJ	_	18	amod	_	_
+18	smallpox	_	NN	NN	_	14	dobj	_	_
+19	?	_	.	.	_	2	punct	_	_
+
+1	The	_	DT	DT	_	4	det	_	_
+2	last	_	JJ	JJ	_	4	amod	_	_
+3	known	_	JJ	JJ	_	4	amod	_	_
+4	case	_	NN	NN	_	8	nsubj	_	_
+5	of	_	IN	IN	_	4	prep	_	_
+6	smallpox	_	NN	NN	_	5	pobj	_	_
+7	was	_	VBD	VBD	_	8	cop	_	_
+8	1977	_	CD	CD	_	0	null	_	_
+9	.	_	.	.	_	8	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	realize	_	VBP	VBP	_	0	null	_	_
+3	that	_	IN	IN	_	2	prep	_	_
+4	,	_	,	,	_	3	punct	_	_
+5	and	_	CC	CC	_	2	cc	_	_
+6	I	_	PRP	PRP	_	7	nsubj	_	_
+7	know	_	VBP	VBP	_	2	conj	_	_
+8	that	_	IN	IN	_	12	complm	_	_
+9	it	_	PRP	PRP	_	12	nsubj	_	_
+10	is	_	VBZ	VBZ	_	12	cop	_	_
+11	a	_	DT	DT	_	12	det	_	_
+12	stretch	_	NN	NN	_	7	ccomp	_	_
+13	,	_	,	,	_	12	punct	_	_
+14	but	_	CC	CC	_	12	cc	_	_
+15	they	_	PRP	PRP	_	16	nsubj	_	_
+16	have	_	VBP	VBP	_	12	conj	_	_
+17	these	_	DT	DT	_	18	det	_	_
+18	blankets	_	NNS	NNS	_	16	dobj	_	_
+19	that	_	WDT	WDT	_	22	nsubjpass	_	_
+20	have	_	VBP	VBP	_	22	aux	_	_
+21	been	_	VBN	VBN	_	22	auxpass	_	_
+22	packed	_	VBN	VBN	_	18	rcmod	_	_
+23	away	_	RB	RB	_	22	advmod	_	_
+24	for	_	IN	IN	_	22	prep	_	_
+25	decades	_	NNS	NNS	_	24	pobj	_	_
+26	in	_	IN	IN	_	25	prep	_	_
+27	a	_	DT	DT	_	29	det	_	_
+28	cold	_	JJ	JJ	_	29	amod	_	_
+29	basement	_	NN	NN	_	26	pobj	_	_
+30	.	_	.	.	_	2	punct	_	_
+
+1	Come	_	NN	NN	_	0	null	_	_
+2	on	_	IN	IN	_	1	dep	_	_
+3	.	_	.	.	_	1	punct	_	_
+
+1	Just	_	RB	RB	_	2	advmod	_	_
+2	see	_	VB	VB	_	0	null	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	family	_	NN	NN	_	2	dobj	_	_
+5	.	_	.	.	_	2	punct	_	_
+
+1	Take	_	VB	VB	_	0	null	_	_
+2	a	_	DT	DT	_	3	det	_	_
+3	look	_	NN	NN	_	1	dobj	_	_
+4	.	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	know	_	VBP	VBP	_	0	null	_	_
+3	what	_	WP	WP	_	6	dobj	_	_
+4	you	_	PRP	PRP	_	6	nsubj	_	_
+5	're	_	VBP	VBP	_	6	aux	_	_
+6	doing	_	VBG	VBG	_	2	ccomp	_	_
+7	,	_	,	,	_	2	punct	_	_
+8	Divya	_	NNP	NNP	_	2	dobj	_	_
+9	.	_	.	.	_	2	punct	_	_
+
+1	You	_	PRP	PRP	_	3	nsubj	_	_
+2	're	_	VBP	VBP	_	3	aux	_	_
+3	trying	_	VBG	VBG	_	0	null	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	lure	_	VB	VB	_	3	xcomp	_	_
+6	me	_	PRP	PRP	_	5	dobj	_	_
+7	back	_	RB	RB	_	5	advmod	_	_
+8	to	_	TO	TO	_	7	dep	_	_
+9	HankMed	_	NNP	NNP	_	8	pobj	_	_
+10	with	_	IN	IN	_	5	prep	_	_
+11	a	_	DT	DT	_	13	det	_	_
+12	rare	_	JJ	JJ	_	13	amod	_	_
+13	disease	_	NN	NN	_	10	pobj	_	_
+14	,	_	,	,	_	3	punct	_	_
+15	but	_	CC	CC	_	3	cc	_	_
+16	I	_	PRP	PRP	_	19	nsubjpass	_	_
+17	am	_	VBP	VBP	_	19	auxpass	_	_
+18	not	_	RB	RB	_	19	neg	_	_
+19	built	_	VBN	VBN	_	3	conj	_	_
+20	for	_	IN	IN	_	19	prep	_	_
+21	clinical	_	JJ	JJ	_	22	amod	_	_
+22	medicine	_	NN	NN	_	20	pobj	_	_
+23	.	_	.	.	_	3	punct	_	_
+
+1	Of	_	IN	IN	_	5	prep	_	_
+2	course	_	NN	NN	_	1	pobj	_	_
+3	,	_	,	,	_	5	punct	_	_
+4	you	_	PRP	PRP	_	5	nsubj	_	_
+5	are	_	VBP	VBP	_	0	null	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	You	_	PRP	PRP	_	5	nsubj	_	_
+2	are	_	VBP	VBP	_	5	cop	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	great	_	JJ	JJ	_	5	amod	_	_
+5	doctor	_	NN	NN	_	0	null	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	All	_	DT	DT	_	3	det	_	_
+2	your	_	PRP$	PRP$	_	3	poss	_	_
+3	patients	_	NNS	NNS	_	5	nsubj	_	_
+4	would	_	MD	MD	_	5	aux	_	_
+5	say	_	VB	VB	_	0	null	_	_
+6	so	_	RB	RB	_	5	advmod	_	_
+7	.	_	.	.	_	5	punct	_	_
+
+1	Then	_	RB	RB	_	5	advmod	_	_
+2	they	_	PRP	PRP	_	5	nsubj	_	_
+3	do	_	VBP	VBP	_	5	aux	_	_
+4	n't	_	RB	RB	_	5	neg	_	_
+5	know	_	VB	VB	_	0	null	_	_
+6	me	_	PRP	PRP	_	5	dobj	_	_
+7	,	_	,	,	_	5	punct	_	_
+8	and	_	CC	CC	_	5	cc	_	_
+9	you	_	PRP	PRP	_	12	nsubj	_	_
+10	do	_	VBP	VBP	_	12	aux	_	_
+11	n't	_	RB	RB	_	12	neg	_	_
+12	know	_	VB	VB	_	5	conj	_	_
+13	me	_	PRP	PRP	_	12	dobj	_	_
+14	.	_	.	.	_	5	punct	_	_
+
+1	Jeremiah	_	NNP	NNP	_	4	nsubj	_	_
+2	,	_	,	,	_	4	punct	_	_
+3	I	_	PRP	PRP	_	4	nsubj	_	_
+4	do	_	VBP	VBP	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	do	_	VBP	VBP	_	3	aux	_	_
+3	know	_	VB	VB	_	0	null	_	_
+4	...	_	:	:	_	3	punct	_	_
+5	This	_	DT	DT	_	6	nsubj	_	_
+6	is	_	VBZ	VBZ	_	3	parataxis	_	_
+7	where	_	WRB	WRB	_	9	advmod	_	_
+8	I	_	PRP	PRP	_	9	nsubj	_	_
+9	belong	_	VBP	VBP	_	6	advcl	_	_
+10	,	_	,	,	_	9	punct	_	_
+11	in	_	IN	IN	_	9	prep	_	_
+12	a	_	DT	DT	_	13	det	_	_
+13	lab	_	NN	NN	_	11	pobj	_	_
+14	,	_	,	,	_	9	punct	_	_
+15	not	_	RB	RB	_	9	neg	_	_
+16	out	_	IN	IN	_	9	prep	_	_
+17	there	_	RB	RB	_	16	dep	_	_
+18	with	_	IN	IN	_	9	prep	_	_
+19	people	_	NNS	NNS	_	18	pobj	_	_
+20	.	_	.	.	_	3	punct	_	_
+
+1	And	_	CC	CC	_	33	cc	_	_
+2	your	_	PRP$	PRP$	_	3	poss	_	_
+3	refusal	_	NN	NN	_	33	dep	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	see	_	VB	VB	_	3	infmod	_	_
+6	that	_	DT	DT	_	5	dobj	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	HankMed	_	NNP	NNP	_	10	poss	_	_
+9	's	_	POS	POS	_	8	possessive	_	_
+10	attempt	_	NN	NN	_	20	nsubj	_	_
+11	to	_	TO	TO	_	15	aux	_	_
+12	...	_	:	:	_	15	punct	_	_
+13	-LSB-	_	JJ	JJ	_	14	amod	_	_
+14	voice	_	NN	NN	_	15	nsubj	_	_
+15	quakes	_	VBZ	VBZ	_	20	dep	_	_
+16	-RSB-	_	JJ	JJ	_	17	amod	_	_
+17	-LSB-	_	NN	NN	_	20	nsubj	_	_
+18	clears	_	VBZ	VBZ	_	20	cop	_	_
+19	throat	_	RB	RB	_	20	advmod	_	_
+20	-RSB-	_	JJ	JJ	_	6	conj	_	_
+21	to	_	TO	TO	_	22	aux	_	_
+22	turn	_	VB	VB	_	20	xcomp	_	_
+23	me	_	PRP	PRP	_	22	dobj	_	_
+24	into	_	IN	IN	_	22	prep	_	_
+25	something	_	NN	NN	_	24	pobj	_	_
+26	that	_	WDT	WDT	_	28	dobj	_	_
+27	I	_	PRP	PRP	_	28	nsubj	_	_
+28	am	_	VBP	VBP	_	25	rcmod	_	_
+29	not	_	RB	RB	_	28	neg	_	_
+30	,	_	,	,	_	33	punct	_	_
+31	they	_	PRP	PRP	_	33	nsubj	_	_
+32	are	_	VBP	VBP	_	33	cop	_	_
+33	distractions	_	NNS	NNS	_	0	null	_	_
+34	...	_	:	:	_	38	punct	_	_
+35	foolish	_	JJ	JJ	_	38	amod	_	_
+36	,	_	,	,	_	38	punct	_	_
+37	dangerous	_	JJ	JJ	_	38	amod	_	_
+38	distractions	_	NNS	NNS	_	33	dep	_	_
+39	.	_	.	.	_	33	punct	_	_
+
+1	-LSB-	_	NNP	NNP	_	2	nsubj	_	_
+2	giggles	_	VBZ	VBZ	_	0	null	_	_
+3	-RSB-	_	JJ	JJ	_	4	amod	_	_
+4	Blackberry	_	NNP	NNP	_	5	nsubj	_	_
+5	promotes	_	VBZ	VBZ	_	2	ccomp	_	_
+6	a	_	DT	DT	_	8	det	_	_
+7	pleasant	_	JJ	JJ	_	8	amod	_	_
+8	sleepiness	_	NN	NN	_	5	dobj	_	_
+9	.	_	.	.	_	2	punct	_	_
+
+1	And	_	CC	CC	_	4	cc	_	_
+2	here	_	RB	RB	_	4	advmod	_	_
+3	I	_	PRP	PRP	_	4	nsubj	_	_
+4	thought	_	VBD	VBD	_	0	null	_	_
+5	that	_	WDT	WDT	_	6	nsubj	_	_
+6	was	_	VBD	VBD	_	4	ccomp	_	_
+7	Ken	_	NNP	NNP	_	9	poss	_	_
+8	's	_	POS	POS	_	7	possessive	_	_
+9	conversation	_	NN	NN	_	6	nsubj	_	_
+10	.	_	.	.	_	4	punct	_	_
+
+1	Hilarious	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	But	_	CC	CC	_	4	cc	_	_
+2	do	_	VBP	VBP	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	knock	_	VB	VB	_	0	null	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	incense	_	NN	NN	_	4	dobj	_	_
+7	.	_	.	.	_	4	punct	_	_
+
+1	Helen	_	NNP	NNP	_	2	nsubj	_	_
+2	uses	_	VBZ	VBZ	_	0	null	_	_
+3	it	_	PRP	PRP	_	2	dobj	_	_
+4	for	_	IN	IN	_	2	prep	_	_
+5	her	_	PRP$	PRP$	_	6	poss	_	_
+6	patients	_	NNS	NNS	_	4	pobj	_	_
+7	,	_	,	,	_	2	punct	_	_
+8	depending	_	VBG	VBG	_	2	prep	_	_
+9	on	_	IN	IN	_	8	dep	_	_
+10	their	_	PRP$	PRP$	_	11	poss	_	_
+11	aura	_	NN	NN	_	9	pobj	_	_
+12	that	_	IN	IN	_	13	dep	_	_
+13	day	_	NN	NN	_	11	dep	_	_
+14	.	_	.	.	_	2	punct	_	_
+
+1	Oh.	_	``	``	_	6	punct	_	_
+2	I	_	PRP	PRP	_	6	nsubj	_	_
+3	'm	_	VBP	VBP	_	6	cop	_	_
+4	usually	_	RB	RB	_	6	advmod	_	_
+5	a	_	DT	DT	_	6	det	_	_
+6	watermelon	_	NN	NN	_	0	null	_	_
+7	.	_	.	.	_	6	punct	_	_
+
+1	You	_	PRP	PRP	_	4	nsubj	_	_
+2	are	_	VBP	VBP	_	4	cop	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	watermelon	_	NN	NN	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	Oof.	_	NNP	NNP	_	2	nsubj	_	_
+2	Whatever	_	WDT	WDT	_	0	null	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	'm	_	VBP	VBP	_	3	aux	_	_
+3	gon	_	VBG	VBG	_	0	null	_	_
+4	na	_	TO	TO	_	3	xcomp	_	_
+5	have	_	VB	VB	_	4	dep	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	excuse	_	VB	VB	_	5	xcomp	_	_
+8	myself	_	PRP	PRP	_	7	dobj	_	_
+9	for	_	IN	IN	_	7	prep	_	_
+10	a	_	DT	DT	_	11	det	_	_
+11	minute	_	NN	NN	_	9	pobj	_	_
+12	.	_	.	.	_	3	punct	_	_
+
+1	You	_	PRP	PRP	_	2	dep	_	_
+2	kids	_	NNS	NNS	_	4	nsubj	_	_
+3	keep	_	VBP	VBP	_	4	aux	_	_
+4	talking	_	VBG	VBG	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	Mmm	_	UH	UH	_	11	nsubj	_	_
+2	!	_	.	.	_	1	dep	_	_
+3	Helen	_	NNP	NNP	_	2	dep	_	_
+4	,	_	,	,	_	3	punct	_	_
+5	these	_	DT	DT	_	3	dep	_	_
+6	are	_	VBP	VBP	_	11	dep	_	_
+7	the	_	DT	DT	_	10	det	_	_
+8	best	_	JJS	JJS	_	10	amod	_	_
+9	walnut	_	NN	NN	_	10	nn	_	_
+10	chorizo	_	NN	NN	_	11	nsubj	_	_
+11	enchiladas	_	VBZ	VBZ	_	0	null	_	_
+12	ever	_	RB	RB	_	11	advmod	_	_
+13	.	_	.	.	_	11	punct	_	_
+
+1	Thank	_	VB	VB	_	0	null	_	_
+2	you	_	PRP	PRP	_	1	dobj	_	_
+3	.	_	.	.	_	1	punct	_	_
+
+1	You	_	PRP	PRP	_	2	nsubj	_	_
+2	two	_	CD	CD	_	0	null	_	_
+3	...	_	:	:	_	2	punct	_	_
+4	enjoy	_	VB	VB	_	2	parataxis	_	_
+5	.	_	.	.	_	2	punct	_	_
+
+1	Your	_	PRP$	PRP$	_	2	poss	_	_
+2	sister	_	NN	NN	_	6	nsubj	_	_
+3	's	_	VBZ	VBZ	_	6	cop	_	_
+4	an	_	DT	DT	_	6	det	_	_
+5	amazing	_	JJ	JJ	_	6	amod	_	_
+6	cook	_	NN	NN	_	0	null	_	_
+7	...	_	:	:	_	6	punct	_	_
+8	amazing	_	JJ	JJ	_	6	amod	_	_
+9	.	_	.	.	_	6	punct	_	_
+
+1	You	_	PRP	PRP	_	3	nsubj	_	_
+2	just	_	RB	RB	_	3	advmod	_	_
+3	wish	_	VBP	VBP	_	0	null	_	_
+4	she	_	PRP	PRP	_	8	nsubj	_	_
+5	was	_	VBD	VBD	_	8	cop	_	_
+6	a	_	DT	DT	_	8	det	_	_
+7	better	_	JJR	JJR	_	8	amod	_	_
+8	matchmaker	_	NN	NN	_	3	ccomp	_	_
+9	,	_	,	,	_	8	punct	_	_
+10	right	_	RB	RB	_	8	advmod	_	_
+11	?	_	.	.	_	3	punct	_	_
+
+1	No	_	UH	UH	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	no	_	UH	UH	_	1	dep	_	_
+4	,	_	,	,	_	1	punct	_	_
+5	no	_	UH	UH	_	1	dep	_	_
+6	,	_	,	,	_	1	punct	_	_
+7	no	_	UH	UH	_	1	dep	_	_
+8	.	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	just	_	RB	RB	_	3	advmod	_	_
+3	wish	_	VBP	VBP	_	0	null	_	_
+4	the	_	DT	DT	_	7	det	_	_
+5	whole	_	JJ	JJ	_	7	amod	_	_
+6	age	_	NN	NN	_	7	nn	_	_
+7	difference	_	NN	NN	_	10	nsubj	_	_
+8	did	_	VBD	VBD	_	10	aux	_	_
+9	n't	_	RB	RB	_	10	neg	_	_
+10	make	_	VB	VB	_	3	ccomp	_	_
+11	this	_	DT	DT	_	10	dobj	_	_
+12	so	_	RB	RB	_	13	advmod	_	_
+13	awkward	_	RB	RB	_	10	advmod	_	_
+14	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	think	_	VBP	VBP	_	0	null	_	_
+3	maturity	_	NN	NN	_	5	nsubj	_	_
+4	is	_	VBZ	VBZ	_	5	cop	_	_
+5	attractive	_	JJ	JJ	_	2	ccomp	_	_
+6	.	_	.	.	_	2	punct	_	_
+
+1	Speaking	_	NN	NN	_	8	nsubj	_	_
+2	of	_	IN	IN	_	1	prep	_	_
+3	which	_	WDT	WDT	_	2	pobj	_	_
+4	,	_	,	,	_	8	punct	_	_
+5	I	_	PRP	PRP	_	8	nsubj	_	_
+6	did	_	VBD	VBD	_	8	aux	_	_
+7	n't	_	RB	RB	_	8	neg	_	_
+8	expect	_	VB	VB	_	0	null	_	_
+9	you	_	PRP	PRP	_	13	nsubj	_	_
+10	to	_	TO	TO	_	13	aux	_	_
+11	be	_	VB	VB	_	13	cop	_	_
+12	so	_	RB	RB	_	13	advmod	_	_
+13	strong	_	JJ	JJ	_	8	xcomp	_	_
+14	and	_	CC	CC	_	13	cc	_	_
+15	confident	_	JJ	JJ	_	13	conj	_	_
+16	after	_	IN	IN	_	13	prep	_	_
+17	the	_	DT	DT	_	18	det	_	_
+18	way	_	NN	NN	_	16	pobj	_	_
+19	Helen	_	NNP	NNP	_	20	nsubj	_	_
+20	described	_	VBD	VBD	_	18	rcmod	_	_
+21	your	_	PRP$	PRP$	_	23	poss	_	_
+22	bad	_	JJ	JJ	_	23	amod	_	_
+23	breakup	_	NN	NN	_	20	dobj	_	_
+24	.	_	.	.	_	8	punct	_	_
+
+1	Oh	_	UH	UH	_	8	dep	_	_
+2	,	_	,	,	_	8	punct	_	_
+3	that	_	WDT	WDT	_	8	nsubj	_	_
+4	's	_	VBZ	VBZ	_	8	cop	_	_
+5	just	_	RB	RB	_	8	advmod	_	_
+6	my	_	PRP$	PRP$	_	8	poss	_	_
+7	big	_	JJ	JJ	_	8	amod	_	_
+8	sister	_	NN	NN	_	0	null	_	_
+9	,	_	,	,	_	8	punct	_	_
+10	always	_	RB	RB	_	11	advmod	_	_
+11	worrying	_	VBG	VBG	_	8	partmod	_	_
+12	about	_	IN	IN	_	11	prep	_	_
+13	me	_	PRP	PRP	_	12	pobj	_	_
+14	.	_	.	.	_	8	punct	_	_
+
+1	Well	_	UH	UH	_	5	dep	_	_
+2	,	_	,	,	_	5	punct	_	_
+3	maybe	_	RB	RB	_	5	advmod	_	_
+4	she	_	PRP	PRP	_	5	nsubj	_	_
+5	worries	_	VBZ	VBZ	_	0	null	_	_
+6	because	_	IN	IN	_	9	mark	_	_
+7	she	_	PRP	PRP	_	9	nsubjpass	_	_
+8	's	_	VBZ	VBZ	_	9	auxpass	_	_
+9	been	_	VBN	VBN	_	5	advcl	_	_
+10	there	_	RB	RB	_	9	advmod	_	_
+11	before	_	IN	IN	_	9	prep	_	_
+12	with	_	IN	IN	_	11	dep	_	_
+13	you	_	PRP	PRP	_	12	pobj	_	_
+14	and	_	CC	CC	_	9	cc	_	_
+15	does	_	VBZ	VBZ	_	17	aux	_	_
+16	n't	_	RB	RB	_	17	neg	_	_
+17	want	_	VB	VB	_	9	conj	_	_
+18	to	_	TO	TO	_	19	aux	_	_
+19	see	_	VB	VB	_	17	xcomp	_	_
+20	you	_	PRP	PRP	_	22	nsubjpass	_	_
+21	get	_	VB	VB	_	22	auxpass	_	_
+22	hurt	_	VBN	VBN	_	19	ccomp	_	_
+23	.	_	.	.	_	5	punct	_	_
+
+1	Or	_	CC	CC	_	6	cc	_	_
+2	maybe	_	RB	RB	_	6	advmod	_	_
+3	she	_	PRP	PRP	_	6	nsubj	_	_
+4	ca	_	MD	MD	_	6	aux	_	_
+5	n't	_	RB	RB	_	6	neg	_	_
+6	get	_	VB	VB	_	0	null	_	_
+7	over	_	IN	IN	_	6	prep	_	_
+8	her	_	PRP$	PRP$	_	10	poss	_	_
+9	own	_	JJ	JJ	_	10	amod	_	_
+10	breakups	_	NNS	NNS	_	7	pobj	_	_
+11	and	_	CC	CC	_	6	cc	_	_
+12	is	_	VBZ	VBZ	_	13	aux	_	_
+13	projecting	_	VBG	VBG	_	6	conj	_	_
+14	.	_	.	.	_	6	punct	_	_
+
+1	That	_	DT	DT	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	pretty	_	RB	RB	_	4	advmod	_	_
+4	deep	_	JJ	JJ	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	God	_	NNP	NNP	_	4	nsubj	_	_
+2	,	_	,	,	_	4	punct	_	_
+3	I	_	PRP	PRP	_	4	nsubj	_	_
+4	wish	_	VBP	VBP	_	0	null	_	_
+5	I	_	PRP	PRP	_	6	nsubj	_	_
+6	had	_	VBD	VBD	_	4	ccomp	_	_
+7	that	_	DT	DT	_	8	det	_	_
+8	kind	_	NN	NN	_	6	dobj	_	_
+9	of	_	IN	IN	_	8	prep	_	_
+10	insight	_	NN	NN	_	9	pobj	_	_
+11	when	_	WRB	WRB	_	15	advmod	_	_
+12	I	_	PRP	PRP	_	15	nsubj	_	_
+13	was	_	VBD	VBD	_	15	cop	_	_
+14	your	_	PRP$	PRP$	_	15	poss	_	_
+15	age	_	NN	NN	_	6	advcl	_	_
+16	.	_	.	.	_	4	punct	_	_
+
+1	So	_	IN	IN	_	3	dep	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	got	_	VBD	VBD	_	0	null	_	_
+4	an	_	DT	DT	_	6	det	_	_
+5	older	_	JJR	JJR	_	6	amod	_	_
+6	brother	_	NN	NN	_	3	dobj	_	_
+7	who	_	WP	WP	_	8	nsubj	_	_
+8	does	_	VBZ	VBZ	_	6	rcmod	_	_
+9	the	_	DT	DT	_	11	det	_	_
+10	same	_	JJ	JJ	_	11	amod	_	_
+11	thing	_	NN	NN	_	8	dobj	_	_
+12	to	_	TO	TO	_	8	prep	_	_
+13	you	_	PRP	PRP	_	12	pobj	_	_
+14	?	_	.	.	_	3	punct	_	_
+
+1	No	_	UH	UH	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	no	_	UH	UH	_	1	dep	_	_
+4	.	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	5	nsubj	_	_
+2	am	_	VBP	VBP	_	5	cop	_	_
+3	that	_	DT	DT	_	5	det	_	_
+4	older	_	JJR	JJR	_	5	amod	_	_
+5	brother	_	NN	NN	_	0	null	_	_
+6	,	_	,	,	_	5	punct	_	_
+7	though	_	IN	IN	_	11	mark	_	_
+8	my	_	PRP$	PRP$	_	9	poss	_	_
+9	case	_	NN	NN	_	11	nsubj	_	_
+10	is	_	VBZ	VBZ	_	11	cop	_	_
+11	different	_	JJ	JJ	_	5	advcl	_	_
+12	.	_	.	.	_	5	punct	_	_
+
+1	My	_	PRP$	PRP$	_	2	poss	_	_
+2	brother	_	NN	NN	_	3	nsubj	_	_
+3	's	_	VBZ	VBZ	_	0	null	_	_
+4	always	_	RB	RB	_	3	advmod	_	_
+5	in	_	IN	IN	_	3	prep	_	_
+6	trouble.	_	NN	NN	_	7	nn	_	_
+7	Always	_	NNS	NNS	_	5	pobj	_	_
+8	?	_	.	.	_	3	punct	_	_
+
+1	Mmhmm	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Sounds	_	NNS	NNS	_	0	null	_	_
+2	like	_	IN	IN	_	5	mark	_	_
+3	he	_	PRP	PRP	_	5	nsubj	_	_
+4	never	_	RB	RB	_	5	neg	_	_
+5	gets	_	VBZ	VBZ	_	1	advcl	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	chance	_	NN	NN	_	5	dobj	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	prove	_	VB	VB	_	5	xcomp	_	_
+10	you	_	PRP	PRP	_	11	nsubj	_	_
+11	wrong	_	JJ	JJ	_	9	xcomp	_	_
+12	.	_	.	.	_	1	punct	_	_
+
+1	But	_	CC	CC	_	5	cc	_	_
+2	what	_	WP	WP	_	3	nsubj	_	_
+3	do	_	VBP	VBP	_	5	dobj	_	_
+4	I	_	PRP	PRP	_	5	nsubj	_	_
+5	know	_	VBP	VBP	_	0	null	_	_
+6	...	_	:	:	_	5	punct	_	_
+7	at	_	IN	IN	_	5	prep	_	_
+8	my	_	PRP$	PRP$	_	9	poss	_	_
+9	age	_	NN	NN	_	7	pobj	_	_
+10	?	_	.	.	_	5	punct	_	_
+
+1	You	_	PRP	PRP	_	3	nsubj	_	_
+2	just	_	RB	RB	_	3	advmod	_	_
+3	took	_	VBD	VBD	_	0	null	_	_
+4	what	_	WP	WP	_	6	dobj	_	_
+5	I	_	PRP	PRP	_	6	nsubj	_	_
+6	said	_	VBD	VBD	_	3	ccomp	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	turned	_	VBD	VBD	_	6	conj	_	_
+9	it	_	PRP	PRP	_	8	dobj	_	_
+10	around	_	RP	RP	_	8	prt	_	_
+11	to	_	TO	TO	_	12	aux	_	_
+12	make	_	VB	VB	_	8	xcomp	_	_
+13	it	_	PRP	PRP	_	14	nsubj	_	_
+14	ironic	_	JJ	JJ	_	12	xcomp	_	_
+15	.	_	.	.	_	3	punct	_	_
+
+1	That	_	DT	DT	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	cop	_	_
+3	awesome	_	JJ	JJ	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	try	_	VBP	VBP	_	0	null	_	_
+3	to	_	TO	TO	_	5	aux	_	_
+4	be	_	VB	VB	_	5	cop	_	_
+5	awesome	_	JJ	JJ	_	2	xcomp	_	_
+6	every	_	DT	DT	_	7	dep	_	_
+7	once	_	RB	RB	_	8	dep	_	_
+8	in	_	IN	IN	_	5	prep	_	_
+9	a	_	DT	DT	_	10	det	_	_
+10	while	_	NN	NN	_	8	pobj	_	_
+11	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	like	_	VBP	VBP	_	0	null	_	_
+3	that	_	IN	IN	_	7	complm	_	_
+4	you	_	PRP	PRP	_	7	nsubj	_	_
+5	're	_	VBP	VBP	_	7	aux	_	_
+6	not	_	RB	RB	_	7	neg	_	_
+7	abusing	_	VBG	VBG	_	2	ccomp	_	_
+8	your	_	PRP$	PRP$	_	9	poss	_	_
+9	powers	_	NNS	NNS	_	7	dobj	_	_
+10	.	_	.	.	_	2	punct	_	_
+
+1	Oh	_	UH	UH	_	7	dep	_	_
+2	,	_	,	,	_	7	punct	_	_
+3	hey	_	RB	RB	_	7	advmod	_	_
+4	,	_	,	,	_	7	punct	_	_
+5	do	_	VBP	VBP	_	7	aux	_	_
+6	n't	_	RB	RB	_	7	neg	_	_
+7	let	_	VB	VB	_	0	null	_	_
+8	me	_	PRP	PRP	_	9	nsubj	_	_
+9	spoil	_	VB	VB	_	7	ccomp	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	moment	_	NN	NN	_	9	dobj	_	_
+12	.	_	.	.	_	7	punct	_	_
+
+1	You	_	PRP	PRP	_	2	nsubj	_	_
+2	did	_	VBD	VBD	_	0	null	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	but	_	CC	CC	_	2	cc	_	_
+5	...	_	:	:	_	2	punct	_	_
+6	Ken	_	NNP	NNP	_	9	nsubj	_	_
+7	,	_	,	,	_	6	punct	_	_
+8	are	_	VBP	VBP	_	9	cop	_	_
+9	you	_	PRP	PRP	_	2	parataxis	_	_
+10	okay	_	RB	RB	_	9	advmod	_	_
+11	?	_	.	.	_	2	punct	_	_
+
+1	Actually	_	RB	RB	_	5	advmod	_	_
+2	,	_	,	,	_	5	punct	_	_
+3	I	_	PRP	PRP	_	5	nsubj	_	_
+4	'm	_	VBP	VBP	_	5	aux	_	_
+5	feeling	_	VBG	VBG	_	0	null	_	_
+6	pretty	_	RB	RB	_	7	advmod	_	_
+7	pukey	_	RB	RB	_	5	advmod	_	_
+8	.	_	.	.	_	5	punct	_	_
+
+1	Think	_	VB	VB	_	4	dep	_	_
+2	I	_	PRP	PRP	_	4	nsubj	_	_
+3	'm	_	VBP	VBP	_	4	aux	_	_
+4	gon	_	VBG	VBG	_	0	null	_	_
+5	na	_	TO	TO	_	4	xcomp	_	_
+6	hit	_	VB	VB	_	5	dep	_	_
+7	the	_	DT	DT	_	9	det	_	_
+8	hot	_	JJ	JJ	_	9	amod	_	_
+9	tub	_	NN	NN	_	6	dobj	_	_
+10	.	_	.	.	_	4	punct	_	_
+
+1	You	_	PRP	PRP	_	2	nsubj	_	_
+2	know	_	VBP	VBP	_	0	null	_	_
+3	what	_	WP	WP	_	6	dobj	_	_
+4	that	_	DT	DT	_	5	det	_	_
+5	smell	_	NN	NN	_	6	nsubj	_	_
+6	is	_	VBZ	VBZ	_	2	ccomp	_	_
+7	?	_	.	.	_	2	punct	_	_
+
+1	That	_	DT	DT	_	3	nsubj	_	_
+2	's	_	VBZ	VBZ	_	3	cop	_	_
+3	love	_	NN	NN	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	might	_	MD	MD	_	4	aux	_	_
+3	have	_	VB	VB	_	4	aux	_	_
+4	spoken	_	VBN	VBN	_	0	null	_	_
+5	too	_	RB	RB	_	6	advmod	_	_
+6	soon	_	RB	RB	_	4	advmod	_	_
+7	about	_	IN	IN	_	4	prep	_	_
+8	that	_	DT	DT	_	10	det	_	_
+9	maturity	_	NN	NN	_	10	nn	_	_
+10	thing	_	NN	NN	_	7	pobj	_	_
+11	.	_	.	.	_	4	punct	_	_
+
+1	No	_	UH	UH	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	no	_	UH	UH	_	1	dep	_	_
+4	,	_	,	,	_	1	punct	_	_
+5	no	_	UH	UH	_	1	dep	_	_
+6	,	_	,	,	_	1	punct	_	_
+7	no	_	UH	UH	_	1	dep	_	_
+8	.	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	'm	_	VBP	VBP	_	3	cop	_	_
+3	sorry	_	JJ	JJ	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	It	_	PRP	PRP	_	4	nsubj	_	_
+2	's	_	VBZ	VBZ	_	4	cop	_	_
+3	not	_	RB	RB	_	4	neg	_	_
+4	you	_	PRP	PRP	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	It	_	PRP	PRP	_	2	nsubj	_	_
+2	's	_	VBZ	VBZ	_	0	null	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	uh	_	UH	UH	_	8	dep	_	_
+5	,	_	,	,	_	8	punct	_	_
+6	it	_	PRP	PRP	_	8	nsubj	_	_
+7	's	_	VBZ	VBZ	_	8	cop	_	_
+8	Ken	_	NNP	NNP	_	2	nsubj	_	_
+9	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	think	_	VBP	VBP	_	0	null	_	_
+3	I	_	PRP	PRP	_	4	nsubj	_	_
+4	know	_	VBP	VBP	_	2	ccomp	_	_
+5	what	_	WP	WP	_	7	dobj	_	_
+6	he	_	PRP	PRP	_	7	nsubj	_	_
+7	's	_	VBZ	VBZ	_	4	ccomp	_	_
+8	smelling	_	VBG	VBG	_	7	xcomp	_	_
+9	,	_	,	,	_	2	punct	_	_
+10	and	_	CC	CC	_	2	cc	_	_
+11	it	_	PRP	PRP	_	14	nsubj	_	_
+12	's	_	VBZ	VBZ	_	14	cop	_	_
+13	not	_	RB	RB	_	14	neg	_	_
+14	love	_	NN	NN	_	2	conj	_	_
+15	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	'm	_	VBP	VBP	_	3	cop	_	_
+3	glad	_	JJ	JJ	_	0	null	_	_
+4	you	_	PRP	PRP	_	5	nsubj	_	_
+5	find	_	VBP	VBP	_	3	ccomp	_	_
+6	my	_	PRP$	PRP$	_	5	prep	_	_
+7	ralphing	_	VBG	VBG	_	6	partmod	_	_
+8	so	_	RB	RB	_	9	advmod	_	_
+9	humorous	_	JJ	JJ	_	7	acomp	_	_
+10	.	_	.	.	_	3	punct	_	_
+
+1	No	_	UH	UH	_	4	dep	_	_
+2	,	_	,	,	_	4	punct	_	_
+3	I	_	PRP	PRP	_	4	nsubj	_	_
+4	do	_	VBP	VBP	_	0	null	_	_
+5	n't	_	RB	RB	_	4	neg	_	_
+6	.	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	do	_	VBP	VBP	_	0	null	_	_
+3	n't	_	RB	RB	_	2	neg	_	_
+4	.	_	.	.	_	2	punct	_	_
+
+1	But	_	CC	CC	_	4	cc	_	_
+2	I	_	PRP	PRP	_	4	nsubj	_	_
+3	do	_	VBP	VBP	_	4	aux	_	_
+4	know	_	VB	VB	_	0	null	_	_
+5	why	_	WRB	WRB	_	8	advmod	_	_
+6	it	_	PRP	PRP	_	8	nsubj	_	_
+7	's	_	VBZ	VBZ	_	8	aux	_	_
+8	happening	_	VBG	VBG	_	4	advcl	_	_
+9	.	_	.	.	_	4	punct	_	_
+
+1	Keller	_	NNP	NNP	_	8	nsubj	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	those	_	DT	DT	_	4	det	_	_
+4	butterflies	_	NNS	NNS	_	1	appos	_	_
+5	you	_	PRP	PRP	_	6	nsubj	_	_
+6	get	_	VBP	VBP	_	4	rcmod	_	_
+7	,	_	,	,	_	1	punct	_	_
+8	do	_	VBP	VBP	_	0	null	_	_
+9	they	_	PRP	PRP	_	11	nsubj	_	_
+10	only	_	RB	RB	_	11	advmod	_	_
+11	happen	_	VBP	VBP	_	8	ccomp	_	_
+12	when	_	WRB	WRB	_	14	advmod	_	_
+13	you	_	PRP	PRP	_	14	nsubj	_	_
+14	're	_	VBP	VBP	_	11	advcl	_	_
+15	around	_	IN	IN	_	14	prep	_	_
+16	Helen	_	NNP	NNP	_	18	poss	_	_
+17	's	_	POS	POS	_	16	possessive	_	_
+18	incense	_	NN	NN	_	15	pobj	_	_
+19	?	_	.	.	_	8	punct	_	_
+
+1	Yeah	_	UH	UH	_	6	dep	_	_
+2	,	_	,	,	_	6	punct	_	_
+3	She	_	PRP	PRP	_	6	nsubj	_	_
+4	's	_	VBZ	VBZ	_	6	aux	_	_
+5	always	_	RB	RB	_	6	advmod	_	_
+6	burning	_	VBG	VBG	_	0	null	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	stuff	_	NN	NN	_	6	dobj	_	_
+9	.	_	.	.	_	6	punct	_	_
+
+1	Usually	_	RB	RB	_	5	advmod	_	_
+2	,	_	,	,	_	5	punct	_	_
+3	I	_	PRP	PRP	_	5	nsubj	_	_
+4	'm	_	VBP	VBP	_	5	cop	_	_
+5	a	_	DT	DT	_	0	null	_	_
+6	...	_	:	:	_	5	punct	_	_
+
+1	A	_	DT	DT	_	2	det	_	_
+2	watermelon	_	NN	NN	_	0	null	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	know	_	VBP	VBP	_	0	null	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	But	_	CC	CC	_	3	cc	_	_
+2	she	_	PRP	PRP	_	3	nsubj	_	_
+3	showed	_	VBD	VBD	_	0	null	_	_
+4	me	_	PRP	PRP	_	3	iobj	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	package	_	NN	NN	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	It	_	PRP	PRP	_	2	nsubj	_	_
+2	contains	_	VBZ	VBZ	_	0	null	_	_
+3	K2	_	NNP	NNP	_	2	dobj	_	_
+4	,	_	,	,	_	3	punct	_	_
+5	a	_	DT	DT	_	7	det	_	_
+6	synthetic	_	JJ	JJ	_	7	amod	_	_
+7	form	_	NN	NN	_	3	appos	_	_
+8	of	_	IN	IN	_	7	prep	_	_
+9	marijuana	_	NNS	NNS	_	8	pobj	_	_
+10	often	_	RB	RB	_	11	advmod	_	_
+11	used	_	VBN	VBN	_	9	partmod	_	_
+12	in	_	IN	IN	_	11	prep	_	_
+13	alternative	_	JJ	JJ	_	14	amod	_	_
+14	healing	_	NN	NN	_	12	pobj	_	_
+15	.	_	.	.	_	2	punct	_	_
+
+1	Wait	_	NNP	NNP	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	wait	_	NN	NN	_	1	appos	_	_
+4	,	_	,	,	_	1	punct	_	_
+5	wait	_	NN	NN	_	1	appos	_	_
+6	.	_	.	.	_	1	punct	_	_
+
+1	So	_	RB	RB	_	5	advmod	_	_
+2	I	_	PRP	PRP	_	5	nsubj	_	_
+3	've	_	VBP	VBP	_	5	aux	_	_
+4	been	_	VBN	VBN	_	5	aux	_	_
+5	inhaling	_	VBG	VBG	_	0	null	_	_
+6	weed	_	NN	NN	_	5	dobj	_	_
+7	for	_	IN	IN	_	5	prep	_	_
+8	the	_	DT	DT	_	11	det	_	_
+9	last	_	JJ	JJ	_	11	amod	_	_
+10	three	_	CD	CD	_	11	num	_	_
+11	weeks	_	NNS	NNS	_	7	pobj	_	_
+12	?	_	.	.	_	5	punct	_	_
+
+1	Yes	_	UH	UH	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	and	_	CC	CC	_	1	cc	_	_
+4	I	_	PRP	PRP	_	5	nsubj	_	_
+5	think	_	VBP	VBP	_	1	conj	_	_
+6	you	_	PRP	PRP	_	8	nsubj	_	_
+7	're	_	VBP	VBP	_	8	aux	_	_
+8	having	_	VBG	VBG	_	5	ccomp	_	_
+9	an	_	DT	DT	_	11	det	_	_
+10	unusual	_	JJ	JJ	_	11	amod	_	_
+11	reaction	_	NN	NN	_	8	dobj	_	_
+12	to	_	TO	TO	_	14	punct	_	_
+13	it	_	PRP	PRP	_	14	nsubj	_	_
+14	called	_	VBD	VBD	_	11	dep	_	_
+15	cannabinoid	_	JJ	JJ	_	16	amod	_	_
+16	hyperemesis	_	NN	NN	_	14	dobj	_	_
+17	.	_	.	.	_	1	punct	_	_
+
+1	It	_	PRP	PRP	_	2	nsubj	_	_
+2	causes	_	VBZ	VBZ	_	0	null	_	_
+3	nausea	_	NN	NN	_	2	dobj	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	vomiting	_	NN	NN	_	3	conj	_	_
+6	and	_	CC	CC	_	2	cc	_	_
+7	is	_	VBZ	VBZ	_	8	auxpass	_	_
+8	relieved	_	VBN	VBN	_	2	conj	_	_
+9	by	_	IN	IN	_	8	prep	_	_
+10	bathing	_	VBG	VBG	_	9	pcomp	_	_
+11	in	_	IN	IN	_	10	prep	_	_
+12	hot	_	JJ	JJ	_	13	amod	_	_
+13	water	_	NN	NN	_	11	pobj	_	_
+14	.	_	.	.	_	2	punct	_	_
+
+1	So	_	RB	RB	_	2	advmod	_	_
+2	wait	_	VB	VB	_	0	null	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	All	_	PDT	PDT	_	3	predet	_	_
+2	these	_	DT	DT	_	3	det	_	_
+3	things	_	NNS	NNS	_	14	dobj	_	_
+4	I	_	PRP	PRP	_	7	nsubj	_	_
+5	've	_	VBP	VBP	_	7	aux	_	_
+6	been	_	VBN	VBN	_	7	aux	_	_
+7	feeling	_	VBG	VBG	_	3	rcmod	_	_
+8	about	_	IN	IN	_	7	prep	_	_
+9	Helen	_	NNP	NNP	_	8	pobj	_	_
+10	,	_	,	,	_	14	punct	_	_
+11	they	_	PRP	PRP	_	14	nsubj	_	_
+12	're	_	VBP	VBP	_	14	cop	_	_
+13	not	_	RB	RB	_	14	neg	_	_
+14	love	_	VB	VB	_	0	null	_	_
+15	?	_	.	.	_	14	punct	_	_
+
+1	They	_	PRP	PRP	_	5	nsubj	_	_
+2	could	_	MD	MD	_	5	aux	_	_
+3	still	_	RB	RB	_	5	advmod	_	_
+4	be	_	VB	VB	_	5	cop	_	_
+5	love	_	NN	NN	_	0	null	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	No	_	UH	UH	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	no	_	UH	UH	_	1	dep	_	_
+4	,	_	,	,	_	1	punct	_	_
+5	no	_	UH	UH	_	1	dep	_	_
+6	.	_	.	.	_	1	punct	_	_
+
+1	No	_	UH	UH	_	6	dep	_	_
+2	,	_	,	,	_	6	punct	_	_
+3	just	_	RB	RB	_	6	advmod	_	_
+4	like	_	IN	IN	_	6	dep	_	_
+5	you	_	PRP	PRP	_	6	nsubj	_	_
+6	said	_	VBD	VBD	_	0	null	_	_
+7	.	_	.	.	_	6	punct	_	_
+
+1	It	_	PRP	PRP	_	5	nsubj	_	_
+2	's	_	VBZ	VBZ	_	5	cop	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	chemical	_	NN	NN	_	5	nn	_	_
+5	reaction	_	NN	NN	_	0	null	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	No	_	UH	UH	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	but	_	CC	CC	_	1	cc	_	_
+4	it	_	PRP	PRP	_	7	nsubj	_	_
+5	could	_	MD	MD	_	7	aux	_	_
+6	be	_	VB	VB	_	7	cop	_	_
+7	love	_	NN	NN	_	1	conj	_	_
+8	.	_	.	.	_	1	punct	_	_
+
+1	It	_	PRP	PRP	_	4	nsubj	_	_
+2	's	_	VBZ	VBZ	_	4	cop	_	_
+3	not	_	RB	RB	_	4	neg	_	_
+4	love	_	NN	NN	_	0	null	_	_
+5	!	_	.	.	_	4	punct	_	_
+
+1	Thank	_	NNP	NNP	_	2	nn	_	_
+2	God	_	NNP	NNP	_	4	advmod	_	_
+3	you	_	PRP	PRP	_	4	nsubj	_	_
+4	told	_	VBD	VBD	_	0	null	_	_
+5	me	_	PRP	PRP	_	4	dobj	_	_
+6	now	_	RB	RB	_	4	advmod	_	_
+7	.	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	could	_	MD	MD	_	4	aux	_	_
+3	have	_	VB	VB	_	4	aux	_	_
+4	spent	_	VBN	VBN	_	0	null	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	rest	_	NN	NN	_	4	dobj	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	my	_	PRP$	PRP$	_	9	poss	_	_
+9	life	_	NN	NN	_	7	pobj	_	_
+10	stuck	_	VBD	VBD	_	4	dep	_	_
+11	with	_	IN	IN	_	10	prep	_	_
+12	one	_	CD	CD	_	13	num	_	_
+13	woman	_	NN	NN	_	11	pobj	_	_
+14	.	_	.	.	_	4	punct	_	_
+
+1	That	_	DT	DT	_	2	nsubj	_	_
+2	's	_	VBZ	VBZ	_	0	null	_	_
+3	not	_	RB	RB	_	2	neg	_	_
+4	what	_	WP	WP	_	6	dobj	_	_
+5	I	_	PRP	PRP	_	6	nsubj	_	_
+6	want	_	VBP	VBP	_	2	ccomp	_	_
+7	.	_	.	.	_	2	punct	_	_
+
+1	That	_	DT	DT	_	2	nsubj	_	_
+2	's	_	VBZ	VBZ	_	0	null	_	_
+3	what	_	WP	WP	_	5	dobj	_	_
+4	you	_	PRP	PRP	_	5	nsubj	_	_
+5	want	_	VBP	VBP	_	2	ccomp	_	_
+6	.	_	.	.	_	2	punct	_	_
+
+1	You	_	PRP	PRP	_	2	nsubj	_	_
+2	're	_	VBP	VBP	_	0	null	_	_
+3	right	_	RB	RB	_	2	advmod	_	_
+4	.	_	.	.	_	2	punct	_	_
+
+1	But	_	CC	CC	_	3	cc	_	_
+2	it	_	PRP	PRP	_	3	nsubj	_	_
+3	's	_	VBZ	VBZ	_	0	null	_	_
+4	not	_	RB	RB	_	3	neg	_	_
+5	just	_	RB	RB	_	6	dep	_	_
+6	about	_	IN	IN	_	3	prep	_	_
+7	finding	_	VBG	VBG	_	6	pcomp	_	_
+8	someone	_	NN	NN	_	7	dobj	_	_
+9	who	_	WP	WP	_	10	nsubj	_	_
+10	wants	_	VBZ	VBZ	_	8	rcmod	_	_
+11	it	_	PRP	PRP	_	10	dobj	_	_
+12	too	_	RB	RB	_	10	advmod	_	_
+13	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	need	_	VBP	VBP	_	0	null	_	_
+3	it	_	PRP	PRP	_	2	dobj	_	_
+4	to	_	TO	TO	_	6	aux	_	_
+5	be	_	VB	VB	_	6	cop	_	_
+6	someone	_	NN	NN	_	3	infmod	_	_
+7	who	_	WP	WP	_	8	nsubj	_	_
+8	's	_	VBZ	VBZ	_	6	rcmod	_	_
+9	...	_	:	:	_	6	punct	_	_
+10	just	_	RB	RB	_	11	advmod	_	_
+11	right	_	RB	RB	_	6	amod	_	_
+12	for	_	IN	IN	_	11	dep	_	_
+13	me	_	PRP	PRP	_	12	pobj	_	_
+14	.	_	.	.	_	2	punct	_	_
+
+1	Maybe	_	RB	RB	_	8	advmod	_	_
+2	those	_	DT	DT	_	4	det	_	_
+3	simple	_	JJ	JJ	_	4	amod	_	_
+4	things	_	NNS	NNS	_	8	nsubj	_	_
+5	are	_	VBP	VBP	_	8	cop	_	_
+6	n't	_	RB	RB	_	8	neg	_	_
+7	as	_	RB	RB	_	8	advmod	_	_
+8	simple	_	JJ	JJ	_	0	null	_	_
+9	as	_	IN	IN	_	11	mark	_	_
+10	I	_	PRP	PRP	_	11	nsubj	_	_
+11	thought	_	VBD	VBD	_	8	advcl	_	_
+12	.	_	.	.	_	8	punct	_	_
+
+1	-LRB-	_	-LRB-	-LRB-	_	6	nsubj	_	_
+2	Jim	_	NNP	NNP	_	6	dep	_	_
+3	-RRB-	_	-RRB-	-RRB-	_	6	nsubj	_	_
+4	Now	_	RB	RB	_	6	advmod	_	_
+5	you	_	PRP	PRP	_	6	nsubj	_	_
+6	want	_	VBP	VBP	_	0	null	_	_
+7	to	_	TO	TO	_	8	aux	_	_
+8	blame	_	VB	VB	_	6	xcomp	_	_
+9	me	_	PRP	PRP	_	8	dobj	_	_
+10	for	_	IN	IN	_	8	prep	_	_
+11	this	_	DT	DT	_	12	dep	_	_
+12	too	_	RB	RB	_	10	pobj	_	_
+13	?	_	.	.	_	6	punct	_	_
+
+1	-LRB-	_	-LRB-	-LRB-	_	6	dep	_	_
+2	Ed	_	NNP	NNP	_	3	nn	_	_
+3	-RRB-	_	-RRB-	-RRB-	_	6	nsubj	_	_
+4	Are	_	VBP	VBP	_	6	aux	_	_
+5	you	_	PRP	PRP	_	6	nsubj	_	_
+6	gon	_	VB	VB	_	0	null	_	_
+7	na	_	TO	TO	_	6	xcomp	_	_
+8	be	_	VB	VB	_	9	cop	_	_
+9	stupid	_	JJ	JJ	_	7	dep	_	_
+10	and	_	CC	CC	_	9	cc	_	_
+11	irresponsible	_	JJ	JJ	_	9	conj	_	_
+12	your	_	PRP$	PRP$	_	14	poss	_	_
+13	whole	_	JJ	JJ	_	14	amod	_	_
+14	life	_	NN	NN	_	9	dep	_	_
+15	?	_	.	.	_	6	punct	_	_
+
+1	Fine	_	NNP	NNP	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	until	_	IN	IN	_	5	mark	_	_
+4	you	_	PRP	PRP	_	5	nsubj	_	_
+5	get	_	VBP	VBP	_	1	dep	_	_
+6	my	_	PRP$	PRP$	_	7	poss	_	_
+7	daughter	_	NN	NN	_	8	nsubj	_	_
+8	sick	_	JJ	JJ	_	5	ccomp	_	_
+9	,	_	,	,	_	5	punct	_	_
+10	and	_	CC	CC	_	1	cc	_	_
+11	then	_	RB	RB	_	1	advmod	_	_
+12	I	_	PRP	PRP	_	14	nsubjpass	_	_
+13	get	_	VBP	VBP	_	14	auxpass	_	_
+14	involved	_	VBN	VBN	_	1	dep	_	_
+15	!	_	.	.	_	1	punct	_	_
+
+1	Dad	_	NNP	NNP	_	0	null	_	_
+2	...	_	:	:	_	1	punct	_	_
+
+1	You	_	PRP	PRP	_	2	nsubj	_	_
+2	want	_	VBP	VBP	_	0	null	_	_
+3	to	_	TO	TO	_	5	aux	_	_
+4	get	_	VB	VB	_	5	auxpass	_	_
+5	involved	_	VBN	VBN	_	2	xcomp	_	_
+6	?	_	.	.	_	2	punct	_	_
+
+1	Stop	_	VB	VB	_	0	null	_	_
+2	it	_	PRP	PRP	_	1	dobj	_	_
+3	,	_	,	,	_	1	punct	_	_
+4	both	_	DT	DT	_	3	dep	_	_
+5	of	_	IN	IN	_	4	prep	_	_
+6	you	_	PRP	PRP	_	5	pobj	_	_
+7	.	_	.	.	_	4	punct	_	_
+
+1	Have	_	VBP	VBP	_	4	dep	_	_
+2	n't	_	RB	RB	_	4	neg	_	_
+3	you	_	PRP	PRP	_	4	dep	_	_
+4	two	_	CD	CD	_	5	nsubj	_	_
+5	had	_	VBD	VBD	_	0	null	_	_
+6	enough	_	RB	RB	_	5	advmod	_	_
+7	?	_	.	.	_	5	punct	_	_
+
+1	Okay	_	NNP	NNP	_	3	nsubj	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	come	_	VBN	VBN	_	0	null	_	_
+4	on	_	IN	IN	_	3	prt	_	_
+5	.	_	.	.	_	3	punct	_	_
+
+1	Come	_	NN	NN	_	0	null	_	_
+2	on	_	IN	IN	_	1	dep	_	_
+3	.	_	.	.	_	1	punct	_	_
+
+1	Sit	_	NNP	NNP	_	0	null	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	relax	_	VB	VB	_	1	conj	_	_
+4	.	_	.	.	_	1	punct	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	need	_	VBP	VBP	_	0	null	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	figure	_	VB	VB	_	2	xcomp	_	_
+5	out	_	RP	RP	_	4	prt	_	_
+6	what	_	WP	WP	_	8	nsubj	_	_
+7	's	_	VBZ	VBZ	_	8	aux	_	_
+8	causing	_	VBG	VBG	_	4	ccomp	_	_
+9	this	_	DT	DT	_	10	det	_	_
+10	fever	_	NN	NN	_	8	dobj	_	_
+11	.	_	.	.	_	2	punct	_	_
+
+1	Let	_	VB	VB	_	0	null	_	_
+2	's	_	PRP	PRP	_	3	nsubj	_	_
+3	take	_	VB	VB	_	1	ccomp	_	_
+4	a	_	DT	DT	_	5	det	_	_
+5	look	_	NN	NN	_	3	dobj	_	_
+6	at	_	IN	IN	_	5	prep	_	_
+7	your	_	PRP$	PRP$	_	8	poss	_	_
+8	rash	_	NN	NN	_	6	pobj	_	_
+9	.	_	.	.	_	1	punct	_	_
+
+1	-LRB-	_	-LRB-	-LRB-	_	0	null	_	_
+2	Ed	_	NNP	NNP	_	5	nsubj	_	_
+3	-RRB-	_	-RRB-	-RRB-	_	5	punct	_	_
+4	You	_	PRP	PRP	_	5	nsubj	_	_
+5	happy	_	JJ	JJ	_	1	rcmod	_	_
+6	,	_	,	,	_	5	punct	_	_
+7	Captain	_	NNP	NNP	_	5	appos	_	_
+8	?	_	.	.	_	1	punct	_	_
+
+1	You	_	PRP	PRP	_	2	nsubj	_	_
+2	screwed	_	VBD	VBD	_	0	null	_	_
+3	yourself	_	PRP	PRP	_	2	dobj	_	_
+4	out	_	IN	IN	_	2	prep	_	_
+5	of	_	IN	IN	_	4	dep	_	_
+6	this	_	DT	DT	_	7	det	_	_
+7	house	_	NN	NN	_	5	pobj	_	_
+8	,	_	,	,	_	2	punct	_	_
+9	now	_	RB	RB	_	2	advmod	_	_
+10	you	_	PRP	PRP	_	12	nsubj	_	_
+11	're	_	VBP	VBP	_	12	aux	_	_
+12	gon	_	VBG	VBG	_	2	ccomp	_	_
+13	na	_	TO	TO	_	12	xcomp	_	_
+14	keep	_	VB	VB	_	13	dep	_	_
+15	your	_	PRP$	PRP$	_	16	poss	_	_
+16	niece	_	NN	NN	_	14	dobj	_	_
+17	from	_	IN	IN	_	14	prep	_	_
+18	going	_	VBG	VBG	_	17	pcomp	_	_
+19	to	_	TO	TO	_	18	prep	_	_
+20	the	_	DT	DT	_	22	det	_	_
+21	Peace	_	NNP	NNP	_	22	nn	_	_
+22	Corps	_	NNP	NNP	_	19	pobj	_	_
+23	?	_	.	.	_	2	punct	_	_
+
+1	No	_	UH	UH	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	'm	_	VBP	VBP	_	3	aux	_	_
+3	going	_	VBG	VBG	_	0	null	_	_
+4	to	_	TO	TO	_	6	aux	_	_
+5	be	_	VB	VB	_	6	cop	_	_
+6	fine	_	JJ	JJ	_	3	xcomp	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	Right	_	RB	RB	_	3	advmod	_	_
+2	,	_	,	,	_	3	punct	_	_
+3	Divya	_	NNP	NNP	_	0	null	_	_
+4	?	_	.	.	_	3	punct	_	_
+
+1	That	_	DT	DT	_	2	nsubj	_	_
+2	's	_	VBZ	VBZ	_	0	null	_	_
+3	where	_	WRB	WRB	_	6	advmod	_	_
+4	you	_	PRP	PRP	_	6	nsubj	_	_
+5	're	_	VBP	VBP	_	6	aux	_	_
+6	going	_	VBG	VBG	_	2	advcl	_	_
+7	?	_	.	.	_	2	punct	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	Peace	_	NNP	NNP	_	3	nn	_	_
+3	Corps	_	NNP	NNP	_	0	null	_	_
+4	?	_	.	.	_	3	punct	_	_
+
+1	Tunisia	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	So	_	IN	IN	_	4	advmod	_	_
+2	you	_	PRP	PRP	_	4	nsubj	_	_
+3	recently	_	RB	RB	_	4	advmod	_	_
+4	had	_	VBD	VBD	_	0	null	_	_
+5	your	_	PRP$	PRP$	_	6	poss	_	_
+6	physical	_	NN	NN	_	4	dobj	_	_
+7	,	_	,	,	_	6	punct	_	_
+8	where	_	WRB	WRB	_	11	advmod	_	_
+9	you	_	PRP	PRP	_	11	nsubjpass	_	_
+10	were	_	VBD	VBD	_	11	auxpass	_	_
+11	vaccinated	_	VBN	VBN	_	6	rcmod	_	_
+12	.	_	.	.	_	4	punct	_	_
+
+1	Ah	_	UH	UH	_	4	dep	_	_
+2	,	_	,	,	_	4	punct	_	_
+3	I	_	PRP	PRP	_	4	nsubj	_	_
+4	think	_	VBP	VBP	_	0	null	_	_
+5	I	_	PRP	PRP	_	6	nsubj	_	_
+6	know	_	VBP	VBP	_	4	ccomp	_	_
+7	what	_	WP	WP	_	9	nsubj	_	_
+8	's	_	VBZ	VBZ	_	9	aux	_	_
+9	causing	_	VBG	VBG	_	6	ccomp	_	_
+10	all	_	DT	DT	_	12	det	_	_
+11	your	_	PRP$	PRP$	_	12	poss	_	_
+12	symptoms	_	NNS	NNS	_	9	dobj	_	_
+13	.	_	.	.	_	4	punct	_	_
+
+1	It	_	PRP	PRP	_	3	nsubjpass	_	_
+2	's	_	VBZ	VBZ	_	3	auxpass	_	_
+3	called	_	VBN	VBN	_	0	null	_	_
+4	vaccinia	_	NN	NN	_	3	xcomp	_	_
+5	.	_	.	.	_	3	punct	_	_
+
+1	It	_	PRP	PRP	_	2	nsubj	_	_
+2	's	_	VBZ	VBZ	_	0	null	_	_
+3	from	_	IN	IN	_	2	prep	_	_
+4	a	_	DT	DT	_	5	det	_	_
+5	virus	_	NN	NN	_	3	pobj	_	_
+6	used	_	VBN	VBN	_	5	partmod	_	_
+7	in	_	IN	IN	_	6	prep	_	_
+8	certain	_	JJ	JJ	_	9	amod	_	_
+9	vaccines	_	NNS	NNS	_	7	pobj	_	_
+10	.	_	.	.	_	2	punct	_	_
+
+1	In	_	IN	IN	_	8	prep	_	_
+2	very	_	RB	RB	_	3	advmod	_	_
+3	few	_	JJ	JJ	_	4	amod	_	_
+4	cases	_	NNS	NNS	_	1	pobj	_	_
+5	,	_	,	,	_	8	punct	_	_
+6	it	_	PRP	PRP	_	8	nsubj	_	_
+7	can	_	MD	MD	_	8	aux	_	_
+8	cause	_	VB	VB	_	0	null	_	_
+9	a	_	DT	DT	_	10	det	_	_
+10	fever	_	NN	NN	_	8	dobj	_	_
+11	and	_	CC	CC	_	10	cc	_	_
+12	a	_	DT	DT	_	13	det	_	_
+13	rash	_	NN	NN	_	10	conj	_	_
+14	that	_	WDT	WDT	_	15	nsubj	_	_
+15	looks	_	VBZ	VBZ	_	13	rcmod	_	_
+16	extremely	_	RB	RB	_	17	advmod	_	_
+17	similar	_	JJ	JJ	_	15	acomp	_	_
+18	to	_	TO	TO	_	17	prep	_	_
+19	smallpox	_	NN	NN	_	18	pobj	_	_
+20	,	_	,	,	_	8	punct	_	_
+21	and	_	CC	CC	_	8	cc	_	_
+22	in	_	IN	IN	_	29	prep	_	_
+23	close	_	JJ	JJ	_	24	amod	_	_
+24	quarters	_	NNS	NNS	_	22	pobj	_	_
+25	,	_	,	,	_	29	punct	_	_
+26	it	_	PRP	PRP	_	29	nsubj	_	_
+27	can	_	MD	MD	_	29	aux	_	_
+28	be	_	VB	VB	_	29	cop	_	_
+29	contagious	_	JJ	JJ	_	8	conj	_	_
+30	.	_	.	.	_	8	punct	_	_
+
+1	Fortunately	_	RB	RB	_	5	advmod	_	_
+2	,	_	,	,	_	5	punct	_	_
+3	it	_	PRP	PRP	_	5	nsubj	_	_
+4	is	_	VBZ	VBZ	_	5	cop	_	_
+5	temporary	_	JJ	JJ	_	0	null	_	_
+6	,	_	,	,	_	5	punct	_	_
+7	and	_	CC	CC	_	5	cc	_	_
+8	it	_	PRP	PRP	_	10	nsubj	_	_
+9	is	_	VBZ	VBZ	_	10	cop	_	_
+10	harmless	_	JJ	JJ	_	5	conj	_	_
+11	.	_	.	.	_	5	punct	_	_
+
+1	So	_	RB	RB	_	4	advmod	_	_
+2	Mimi	_	NNP	NNP	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	aux	_	_
+4	going	_	VBG	VBG	_	0	null	_	_
+5	to	_	TO	TO	_	7	aux	_	_
+6	be	_	VB	VB	_	7	cop	_	_
+7	okay	_	JJ	JJ	_	4	xcomp	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	Yes	_	UH	UH	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	With	_	IN	IN	_	9	prep	_	_
+2	proper	_	JJ	JJ	_	3	amod	_	_
+3	rest	_	NN	NN	_	1	pobj	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	fluids	_	NNS	NNS	_	3	conj	_	_
+6	,	_	,	,	_	9	punct	_	_
+7	you	_	PRP	PRP	_	9	nsubj	_	_
+8	all	_	DT	DT	_	9	det	_	_
+9	will	_	NN	NN	_	0	null	_	_
+10	.	_	.	.	_	9	punct	_	_
+
+1	And	_	CC	CC	_	6	cc	_	_
+2	my	_	PRP$	PRP$	_	3	poss	_	_
+3	stupidity	_	NN	NN	_	6	nsubj	_	_
+4	did	_	VBD	VBD	_	6	aux	_	_
+5	n't	_	RB	RB	_	6	neg	_	_
+6	get	_	VB	VB	_	0	null	_	_
+7	anyone	_	NN	NN	_	8	nsubj	_	_
+8	sick	_	JJ	JJ	_	6	xcomp	_	_
+9	.	_	.	.	_	6	punct	_	_
+
+1	No	_	UH	UH	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	It	_	PRP	PRP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	my	_	PRP$	PRP$	_	4	poss	_	_
+4	stupidity	_	NN	NN	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	should	_	MD	MD	_	4	aux	_	_
+3	have	_	VB	VB	_	4	aux	_	_
+4	known	_	VBN	VBN	_	0	null	_	_
+5	better	_	RBR	RBR	_	4	advmod	_	_
+6	,	_	,	,	_	4	punct	_	_
+7	'cause	_	CC	CC	_	4	cc	_	_
+8	after	_	IN	IN	_	17	prep	_	_
+9	all	_	PDT	PDT	_	11	predet	_	_
+10	this	_	DT	DT	_	11	det	_	_
+11	time	_	NN	NN	_	8	pobj	_	_
+12	,	_	,	,	_	17	punct	_	_
+13	I	_	PRP	PRP	_	17	nsubj	_	_
+14	ca	_	MD	MD	_	17	aux	_	_
+15	n't	_	RB	RB	_	17	neg	_	_
+16	even	_	RB	RB	_	17	advmod	_	_
+17	make	_	VB	VB	_	4	conj	_	_
+18	peace	_	NN	NN	_	17	dobj	_	_
+19	within	_	IN	IN	_	17	prep	_	_
+20	my	_	PRP$	PRP$	_	22	poss	_	_
+21	own	_	JJ	JJ	_	22	amod	_	_
+22	family	_	NN	NN	_	19	pobj	_	_
+23	.	_	.	.	_	4	punct	_	_
+
+1	Mr.	_	NNP	NNP	_	2	nn	_	_
+2	Lawson	_	NNP	NNP	_	0	null	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	Yeah.	_	``	``	_	0	null	_	_
+2	I	_	PRP	PRP	_	3	nsubj	_	_
+3	'm	_	VBP	VBP	_	1	null	_	_
+4	from	_	IN	IN	_	3	prep	_	_
+5	shipping	_	NN	NN	_	4	pobj	_	_
+6	,	_	,	,	_	3	punct	_	_
+7	here	_	RB	RB	_	3	advmod	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	precheck	_	VB	VB	_	3	xcomp	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	site	_	NN	NN	_	9	dobj	_	_
+12	for	_	IN	IN	_	9	prep	_	_
+13	tonight	_	NN	NN	_	15	poss	_	_
+14	's	_	POS	POS	_	13	possessive	_	_
+15	delivery	_	NN	NN	_	12	pobj	_	_
+16	.	_	.	.	_	3	punct	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	area	_	NN	NN	_	5	nsubjpass	_	_
+3	will	_	MD	MD	_	5	aux	_	_
+4	be	_	VB	VB	_	5	auxpass	_	_
+5	closed	_	VBN	VBN	_	0	null	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	foot	_	VB	VB	_	5	xcomp	_	_
+8	traffic	_	NN	NN	_	7	dobj	_	_
+9	?	_	.	.	_	5	punct	_	_
+
+1	Yes	_	UH	UH	_	4	dep	_	_
+2	,	_	,	,	_	4	punct	_	_
+3	it	_	PRP	PRP	_	4	nsubj	_	_
+4	will	_	MD	MD	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	And	_	CC	CC	_	4	cc	_	_
+2	we	_	PRP	PRP	_	4	nsubj	_	_
+3	'll	_	MD	MD	_	4	aux	_	_
+4	have	_	VB	VB	_	0	null	_	_
+5	access	_	NN	NN	_	4	dobj	_	_
+6	through	_	IN	IN	_	4	prep	_	_
+7	the	_	DT	DT	_	9	det	_	_
+8	main	_	JJ	JJ	_	9	amod	_	_
+9	gate	_	NN	NN	_	6	pobj	_	_
+10	?	_	.	.	_	4	punct	_	_
+
+1	Of	_	IN	IN	_	4	prep	_	_
+2	course	_	NN	NN	_	1	pobj	_	_
+3	,	_	,	,	_	4	punct	_	_
+4	yes	_	UH	UH	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	We	_	PRP	PRP	_	3	nsubj	_	_
+2	also	_	RB	RB	_	3	advmod	_	_
+3	tested	_	VBD	VBD	_	0	null	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	trailer	_	NN	NN	_	6	nn	_	_
+6	restraints	_	NNS	NNS	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	replaced	_	VBD	VBD	_	0	null	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	snap	_	NN	NN	_	5	nn	_	_
+5	rings	_	NNS	NNS	_	2	dobj	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	clips	_	NNS	NNS	_	5	conj	_	_
+8	on	_	IN	IN	_	5	prep	_	_
+9	the	_	DT	DT	_	11	det	_	_
+10	dock	_	NN	NN	_	11	nn	_	_
+11	levelers	_	NNS	NNS	_	8	pobj	_	_
+12	,	_	,	,	_	2	punct	_	_
+13	and	_	CC	CC	_	2	cc	_	_
+14	cleaned	_	VBD	VBD	_	2	conj	_	_
+15	,	_	,	,	_	14	punct	_	_
+16	filtered	_	VBN	VBN	_	14	conj	_	_
+17	,	_	,	,	_	2	punct	_	_
+18	and	_	CC	CC	_	2	cc	_	_
+19	recalibrated	_	VBD	VBD	_	2	conj	_	_
+20	all	_	PDT	PDT	_	22	predet	_	_
+21	the	_	DT	DT	_	22	det	_	_
+22	hydraulics	_	NNS	NNS	_	19	dobj	_	_
+23	.	_	.	.	_	2	punct	_	_
+
+1	So	_	RB	RB	_	11	advmod	_	_
+2	,	_	,	,	_	11	punct	_	_
+3	uh	_	UH	UH	_	11	dep	_	_
+4	,	_	,	,	_	11	punct	_	_
+5	we	_	PRP	PRP	_	11	nsubj	_	_
+6	are	_	VBP	VBP	_	11	dep	_	_
+7	...	_	:	:	_	11	punct	_	_
+8	we	_	PRP	PRP	_	11	nsubj	_	_
+9	are	_	VBP	VBP	_	11	cop	_	_
+10	100	_	CD	CD	_	11	num	_	_
+11	%	_	NN	NN	_	0	null	_	_
+12	ready	_	JJ	JJ	_	11	amod	_	_
+13	to	_	TO	TO	_	14	aux	_	_
+14	go	_	VB	VB	_	12	xcomp	_	_
+15	.	_	.	.	_	11	punct	_	_
+
+1	Excellent	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Oh	_	UH	UH	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	and	_	CC	CC	_	1	cc	_	_
+4	you	_	PRP	PRP	_	6	nsubj	_	_
+5	're	_	VBP	VBP	_	6	cop	_	_
+6	aware	_	JJ	JJ	_	1	conj	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	the	_	DT	DT	_	10	det	_	_
+9	new	_	JJ	JJ	_	10	amod	_	_
+10	time	_	NN	NN	_	7	pobj	_	_
+11	?	_	.	.	_	1	punct	_	_
+
+1	Of	_	IN	IN	_	4	prep	_	_
+2	course	_	NN	NN	_	1	pobj	_	_
+3	,	_	,	,	_	4	punct	_	_
+4	midnight	_	NN	NN	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	Precisely	_	RB	RB	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Hey	_	NNP	NNP	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	Jim	_	NNP	NNP	_	1	appos	_	_
+4	.	_	.	.	_	1	punct	_	_
+
+1	Hey	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	got	_	VBD	VBD	_	0	null	_	_
+3	your	_	PRP$	PRP$	_	4	poss	_	_
+4	message	_	NN	NN	_	2	dobj	_	_
+5	.	_	.	.	_	2	punct	_	_
+
+1	What	_	WP	WP	_	2	attr	_	_
+2	's	_	VBZ	VBZ	_	0	null	_	_
+3	wrong	_	JJ	JJ	_	2	dep	_	_
+4	?	_	.	.	_	2	punct	_	_
+
+1	My	_	PRP$	PRP$	_	2	poss	_	_
+2	chest	_	NN	NN	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	aux	_	_
+4	hurting	_	VBG	VBG	_	9	advcl	_	_
+5	now	_	RB	RB	_	4	advmod	_	_
+6	,	_	,	,	_	9	punct	_	_
+7	all	_	DT	DT	_	9	det	_	_
+8	the	_	DT	DT	_	9	dep	_	_
+9	way	_	NN	NN	_	0	null	_	_
+10	down	_	IN	IN	_	9	advmod	_	_
+11	my	_	PRP$	PRP$	_	12	poss	_	_
+12	arm	_	NN	NN	_	10	dep	_	_
+13	.	_	.	.	_	9	punct	_	_
+
+1	Okay	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Let	_	VB	VB	_	0	null	_	_
+2	's	_	PRP	PRP	_	3	nsubj	_	_
+3	sit	_	VB	VB	_	1	ccomp	_	_
+4	down	_	RB	RB	_	3	advmod	_	_
+5	.	_	.	.	_	1	punct	_	_
+
+1	All	_	DT	DT	_	2	det	_	_
+2	right	_	NN	NN	_	0	null	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	...	_	:	:	_	0	null	_	_
+3	I	_	PRP	PRP	_	5	nsubj	_	_
+4	just	_	RB	RB	_	5	advmod	_	_
+5	want	_	VBP	VBP	_	2	ccomp	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	get	_	VB	VB	_	5	xcomp	_	_
+8	out	_	RB	RB	_	9	dep	_	_
+9	of	_	IN	IN	_	7	prep	_	_
+10	here	_	RB	RB	_	9	pobj	_	_
+11	after	_	IN	IN	_	15	mark	_	_
+12	all	_	PDT	PDT	_	15	predet	_	_
+13	that	_	DT	DT	_	15	nsubjpass	_	_
+14	's	_	VBZ	VBZ	_	15	auxpass	_	_
+15	gone	_	VBN	VBN	_	7	advcl	_	_
+16	on	_	IN	IN	_	15	prep	_	_
+17	between	_	IN	IN	_	16	dep	_	_
+18	Ed	_	NNP	NNP	_	17	pobj	_	_
+19	and	_	CC	CC	_	18	cc	_	_
+20	me	_	PRP	PRP	_	18	conj	_	_
+21	.	_	.	.	_	2	punct	_	_
+
+1	But	_	CC	CC	_	3	cc	_	_
+2	I	_	PRP	PRP	_	3	nsubj	_	_
+3	feel	_	VBP	VBP	_	0	null	_	_
+4	awful	_	JJ	JJ	_	3	acomp	_	_
+5	for	_	IN	IN	_	3	prep	_	_
+6	getting	_	VBG	VBG	_	5	pcomp	_	_
+7	Mimi	_	NNP	NNP	_	6	dobj	_	_
+8	caught	_	VBD	VBD	_	6	dep	_	_
+9	between	_	IN	IN	_	8	prep	_	_
+10	us	_	PRP	PRP	_	9	pobj	_	_
+11	.	_	.	.	_	3	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	suppose	_	VBP	VBP	_	0	null	_	_
+3	pitting	_	VBG	VBG	_	9	csubj	_	_
+4	brother	_	NN	NN	_	3	dobj	_	_
+5	against	_	IN	IN	_	4	prep	_	_
+6	brother	_	NN	NN	_	5	pobj	_	_
+7	is	_	VBZ	VBZ	_	9	cop	_	_
+8	as	_	RB	RB	_	9	advmod	_	_
+9	bad	_	JJ	JJ	_	2	ccomp	_	_
+10	an	_	DT	DT	_	11	det	_	_
+11	idea	_	NN	NN	_	9	dep	_	_
+12	now	_	RB	RB	_	11	advmod	_	_
+13	as	_	IN	IN	_	11	prep	_	_
+14	it	_	PRP	PRP	_	17	nsubj	_	_
+15	was	_	VBD	VBD	_	17	cop	_	_
+16	150	_	CD	CD	_	17	num	_	_
+17	years	_	NNS	NNS	_	18	dep	_	_
+18	ago	_	RB	RB	_	13	dep	_	_
+19	.	_	.	.	_	2	punct	_	_
+
+1	Ah	_	UH	UH	_	3	dep	_	_
+2	,	_	,	,	_	3	punct	_	_
+3	hell	_	NN	NN	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	It	_	PRP	PRP	_	6	nsubj	_	_
+2	's	_	VBZ	VBZ	_	6	cop	_	_
+3	not	_	RB	RB	_	6	neg	_	_
+4	Ed	_	NNP	NNP	_	6	poss	_	_
+5	's	_	POS	POS	_	4	possessive	_	_
+6	fault	_	NN	NN	_	0	null	_	_
+7	he	_	PRP	PRP	_	8	nsubj	_	_
+8	made	_	VBD	VBD	_	6	ccomp	_	_
+9	a	_	DT	DT	_	10	det	_	_
+10	ton	_	NN	NN	_	8	dobj	_	_
+11	of	_	IN	IN	_	10	prep	_	_
+12	money	_	NN	NN	_	11	pobj	_	_
+13	and	_	CC	CC	_	6	cc	_	_
+14	I	_	PRP	PRP	_	15	nsubj	_	_
+15	did	_	VBD	VBD	_	6	conj	_	_
+16	n't	_	RB	RB	_	15	neg	_	_
+17	.	_	.	.	_	6	punct	_	_
+
+1	Besides	_	IN	IN	_	9	prep	_	_
+2	...	_	:	:	_	5	punct	_	_
+3	-LSB-	_	DT	DT	_	5	det	_	_
+4	labored	_	JJ	JJ	_	5	amod	_	_
+5	breathing	_	NN	NN	_	1	pobj	_	_
+6	-RSB-	_	,	,	_	9	punct	_	_
+7	I	_	PRP	PRP	_	9	nsubj	_	_
+8	'm	_	VBP	VBP	_	9	cop	_	_
+9	happier	_	JJR	JJR	_	16	advcl	_	_
+10	on	_	IN	IN	_	9	prep	_	_
+11	the	_	DT	DT	_	12	det	_	_
+12	water.	_	NN	NN	_	10	pobj	_	_
+13	This	_	DT	DT	_	16	nsubj	_	_
+14	is	_	VBZ	VBZ	_	16	cop	_	_
+15	his	_	PRP$	PRP$	_	16	poss	_	_
+16	land	_	NN	NN	_	0	null	_	_
+17	now	_	RB	RB	_	16	advmod	_	_
+18	.	_	.	.	_	16	punct	_	_
+
+1	Better	_	RBR	RBR	_	4	advmod	_	_
+2	I	_	PRP	PRP	_	4	nsubj	_	_
+3	just	_	RB	RB	_	4	advmod	_	_
+4	get	_	VBP	VBP	_	0	null	_	_
+5	out	_	RB	RB	_	6	dep	_	_
+6	of	_	IN	IN	_	4	prep	_	_
+7	his	_	PRP$	PRP$	_	8	poss	_	_
+8	hair	_	NN	NN	_	6	pobj	_	_
+9	.	_	.	.	_	4	punct	_	_
+
+1	Okay	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Jim	_	NNP	NNP	_	3	nsubj	_	_
+2	,	_	,	,	_	3	punct	_	_
+3	chew	_	VBP	VBP	_	0	null	_	_
+4	this	_	DT	DT	_	5	det	_	_
+5	aspirin	_	NN	NN	_	3	dobj	_	_
+6	,	_	,	,	_	3	punct	_	_
+7	please	_	VB	VB	_	3	conj	_	_
+8	,	_	,	,	_	3	punct	_	_
+9	and	_	CC	CC	_	3	cc	_	_
+10	open	_	VB	VB	_	3	conj	_	_
+11	your	_	PRP$	PRP$	_	12	poss	_	_
+12	shirt	_	NN	NN	_	10	dobj	_	_
+13	for	_	IN	IN	_	10	prep	_	_
+14	me	_	PRP	PRP	_	13	pobj	_	_
+15	.	_	.	.	_	3	punct	_	_
+
+1	Your	_	PRP$	PRP$	_	2	poss	_	_
+2	pulse	_	NN	NN	_	0	null	_	_
+3	...	_	:	:	_	2	punct	_	_
+4	it	_	PRP	PRP	_	6	nsubj	_	_
+5	's	_	VBZ	VBZ	_	6	cop	_	_
+6	erratic	_	JJ	JJ	_	2	dep	_	_
+7	,	_	,	,	_	2	punct	_	_
+8	and	_	CC	CC	_	2	cc	_	_
+9	your	_	PRP$	PRP$	_	11	poss	_	_
+10	blood	_	NN	NN	_	11	nn	_	_
+11	pressure	_	NN	NN	_	13	nsubj	_	_
+12	is	_	VBZ	VBZ	_	13	cop	_	_
+13	high	_	JJ	JJ	_	2	conj	_	_
+14	.	_	.	.	_	2	punct	_	_
+
+1	It	_	PRP	PRP	_	3	nsubj	_	_
+2	's	_	VBZ	VBZ	_	3	cop	_	_
+3	possible	_	JJ	JJ	_	0	null	_	_
+4	that	_	IN	IN	_	3	prep	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	vaccinia	_	NN	NN	_	7	nn	_	_
+7	spread	_	NN	NN	_	4	dobj	_	_
+8	to	_	TO	TO	_	7	prep	_	_
+9	your	_	PRP$	PRP$	_	10	poss	_	_
+10	heart	_	NN	NN	_	8	pobj	_	_
+11	.	_	.	.	_	3	punct	_	_
+
+1	This	_	DT	DT	_	2	det	_	_
+2	nitropaste	_	NN	NN	_	4	nsubj	_	_
+3	will	_	MD	MD	_	4	aux	_	_
+4	open	_	VB	VB	_	0	null	_	_
+5	up	_	RP	RP	_	4	prt	_	_
+6	your	_	PRP$	PRP$	_	8	poss	_	_
+7	blood	_	NN	NN	_	8	nn	_	_
+8	vessels	_	NNS	NNS	_	4	dobj	_	_
+9	until	_	IN	IN	_	12	mark	_	_
+10	we	_	PRP	PRP	_	12	nsubj	_	_
+11	can	_	MD	MD	_	12	aux	_	_
+12	get	_	VB	VB	_	4	advcl	_	_
+13	you	_	PRP	PRP	_	12	dobj	_	_
+14	to	_	TO	TO	_	12	prep	_	_
+15	the	_	DT	DT	_	14	pobj	_	_
+16	...	_	:	:	_	4	punct	_	_
+
+1	Jim	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Jim	_	NNP	NNP	_	3	nn	_	_
+2	...	_	:	:	_	3	punct	_	_
+3	okay	_	NN	NN	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	Okay	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	No	_	DT	DT	_	2	det	_	_
+2	pulse	_	NN	NN	_	0	null	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	911	_	CD	CD	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Yes	_	UH	UH	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	have	_	VBP	VBP	_	0	null	_	_
+3	an	_	DT	DT	_	6	det	_	_
+4	acute	_	JJ	JJ	_	6	amod	_	_
+5	myocardial	_	JJ	JJ	_	6	amod	_	_
+6	infarction	_	NN	NN	_	2	dobj	_	_
+7	in	_	IN	IN	_	6	prep	_	_
+8	progress	_	NN	NN	_	7	pobj	_	_
+9	at	_	IN	IN	_	6	prep	_	_
+10	the	_	DT	DT	_	12	det	_	_
+11	Harper	_	NNP	NNP	_	12	nn	_	_
+12	estate	_	NN	NN	_	9	pobj	_	_
+13	.	_	.	.	_	2	punct	_	_
+
+1	Hang	_	NNP	NNP	_	5	nn	_	_
+2	in	_	IN	IN	_	5	prep	_	_
+3	there	_	RB	RB	_	2	pobj	_	_
+4	,	_	,	,	_	5	punct	_	_
+5	Jim	_	NNP	NNP	_	0	null	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	Help	_	NNP	NNP	_	2	nsubj	_	_
+2	is	_	VBZ	VBZ	_	0	null	_	_
+3	on	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	way	_	NN	NN	_	3	pobj	_	_
+6	.	_	.	.	_	2	punct	_	_
+
+1	Help	_	NNP	NNP	_	2	nsubj	_	_
+2	is	_	VBZ	VBZ	_	0	null	_	_
+3	on	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	way	_	NN	NN	_	3	pobj	_	_
+6	.	_	.	.	_	2	punct	_	_
+
+1	911	_	CD	CD	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	'm	_	VBP	VBP	_	3	aux	_	_
+3	calling	_	VBG	VBG	_	0	null	_	_
+4	again	_	RB	RB	_	3	advmod	_	_
+5	from	_	IN	IN	_	3	prep	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	Harper	_	NNP	NNP	_	8	nn	_	_
+8	estate	_	NN	NN	_	5	pobj	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	61yearold	_	JJ	JJ	_	2	amod	_	_
+2	male	_	NN	NN	_	0	null	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	AMI	_	NNP	NNP	_	2	appos	_	_
+5	.	_	.	.	_	2	punct	_	_
+
+1	Been	_	NNP	NNP	_	2	nsubj	_	_
+2	doing	_	VBG	VBG	_	0	null	_	_
+3	compressions	_	NNS	NNS	_	2	dobj	_	_
+4	for	_	IN	IN	_	2	prep	_	_
+5	almost	_	RB	RB	_	6	quantmod	_	_
+6	eight	_	CD	CD	_	7	num	_	_
+7	minutes	_	NNS	NNS	_	4	pobj	_	_
+8	.	_	.	.	_	2	punct	_	_
+
+1	-LRB-	_	-LRB-	-LRB-	_	7	advmod	_	_
+2	man	_	NN	NN	_	7	nsubjpass	_	_
+3	-RRB-	_	-RRB-	-RRB-	_	7	punct	_	_
+4	Our	_	PRP$	PRP$	_	5	poss	_	_
+5	ambulance	_	NN	NN	_	7	nsubjpass	_	_
+6	is	_	VBZ	VBZ	_	7	auxpass	_	_
+7	stuck	_	VBN	VBN	_	0	null	_	_
+8	in	_	IN	IN	_	7	prep	_	_
+9	traffic	_	NN	NN	_	8	pobj	_	_
+10	.	_	.	.	_	7	punct	_	_
+
+1	Please	_	NN	NN	_	2	nn	_	_
+2	try	_	NN	NN	_	4	nsubj	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	continue	_	VB	VB	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	Divya	_	NNP	NNP	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	oh	_	UH	UH	_	1	dep	_	_
+4	,	_	,	,	_	1	punct	_	_
+5	my	_	PRP$	PRP$	_	6	poss	_	_
+6	God	_	NNP	NNP	_	1	appos	_	_
+7	.	_	.	.	_	1	punct	_	_
+
+1	Mimi	_	NNP	NNP	_	3	nsubj	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	get	_	VBP	VBP	_	0	null	_	_
+4	my	_	PRP$	PRP$	_	5	poss	_	_
+5	defibrillator	_	NN	NN	_	3	dobj	_	_
+6	from	_	IN	IN	_	3	prep	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	car	_	NN	NN	_	6	pobj	_	_
+9	.	_	.	.	_	3	punct	_	_
+
+1	It	_	PRP	PRP	_	2	nsubj	_	_
+2	's	_	VBZ	VBZ	_	0	null	_	_
+3	in	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	trunk	_	NN	NN	_	3	pobj	_	_
+6	.	_	.	.	_	2	punct	_	_
+
+1	What	_	WP	WP	_	2	nsubj	_	_
+2	happened	_	VBD	VBD	_	0	null	_	_
+3	?	_	.	.	_	2	punct	_	_
+
+1	He	_	PRP	PRP	_	3	nsubj	_	_
+2	's	_	VBZ	VBZ	_	3	aux	_	_
+3	having	_	VBG	VBG	_	0	null	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	heart	_	NN	NN	_	6	nn	_	_
+6	attack	_	NN	NN	_	3	dobj	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	Well	_	RB	RB	_	6	dep	_	_
+2	,	_	,	,	_	6	punct	_	_
+3	what	_	WP	WP	_	6	nsubj	_	_
+4	can	_	MD	MD	_	6	aux	_	_
+5	I	_	PRP	PRP	_	6	nsubj	_	_
+6	do	_	VB	VB	_	0	null	_	_
+7	?	_	.	.	_	6	punct	_	_
+
+1	You	_	PRP	PRP	_	2	nsubj	_	_
+2	got	_	VBD	VBD	_	0	null	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	keep	_	VB	VB	_	2	xcomp	_	_
+5	him	_	PRP	PRP	_	6	nsubj	_	_
+6	alive	_	JJ	JJ	_	4	xcomp	_	_
+7	.	_	.	.	_	2	punct	_	_
+
+1	Quick	_	NNP	NNP	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	firm	_	NN	NN	_	4	nn	_	_
+4	bursts	_	NNS	NNS	_	1	appos	_	_
+5	,	_	,	,	_	1	punct	_	_
+6	just	_	RB	RB	_	7	dep	_	_
+7	like	_	IN	IN	_	1	prep	_	_
+8	this	_	DT	DT	_	7	pobj	_	_
+9	.	_	.	.	_	1	punct	_	_
+
+1	Great	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	All	_	DT	DT	_	2	det	_	_
+2	right	_	NN	NN	_	0	null	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	Stand	_	NNP	NNP	_	0	null	_	_
+2	back	_	RB	RB	_	1	advmod	_	_
+3	.	_	.	.	_	1	punct	_	_
+
+1	Defib	_	NNP	NNP	_	3	nn	_	_
+2	...	_	:	:	_	3	punct	_	_
+3	okay	_	NN	NN	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	Clear	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Nothing	_	NN	NN	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Increasing	_	VBG	VBG	_	0	null	_	_
+2	to	_	TO	TO	_	1	prep	_	_
+3	200	_	CD	CD	_	2	pobj	_	_
+4	.	_	.	.	_	1	punct	_	_
+
+1	He	_	PRP	PRP	_	4	nsubj	_	_
+2	's	_	VBZ	VBZ	_	4	aux	_	_
+3	not	_	RB	RB	_	4	neg	_	_
+4	gon	_	VBG	VBG	_	0	null	_	_
+5	na	_	TO	TO	_	4	xcomp	_	_
+6	die	_	VB	VB	_	5	dep	_	_
+7	.	_	.	.	_	4	punct	_	_
+
+1	You	_	PRP	PRP	_	4	nsubj	_	_
+2	're	_	VBP	VBP	_	4	aux	_	_
+3	not	_	RB	RB	_	4	neg	_	_
+4	gon	_	VBG	VBG	_	0	null	_	_
+5	na	_	TO	TO	_	4	xcomp	_	_
+6	let	_	VB	VB	_	5	dep	_	_
+7	him	_	PRP	PRP	_	8	nsubj	_	_
+8	die	_	VB	VB	_	6	ccomp	_	_
+9	.	_	.	.	_	4	punct	_	_
+
+1	Clear	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	-LSB-	_	NNP	NNP	_	5	nn	_	_
+2	beeping	_	VBG	VBG	_	5	amod	_	_
+3	-RSB-	_	JJ	JJ	_	5	amod	_	_
+4	Sinus	_	NNP	NNP	_	5	nn	_	_
+5	rhythm	_	NN	NN	_	0	null	_	_
+6	...	_	:	:	_	5	punct	_	_
+7	sinus	_	NN	NN	_	8	nn	_	_
+8	rhythm	_	NN	NN	_	5	dep	_	_
+9	.	_	.	.	_	5	punct	_	_
+
+1	There	_	EX	EX	_	2	expl	_	_
+2	's	_	VBZ	VBZ	_	0	null	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	pulse	_	NN	NN	_	2	nsubj	_	_
+5	.	_	.	.	_	2	punct	_	_
+
+1	It	_	PRP	PRP	_	2	nsubj	_	_
+2	worked	_	VBD	VBD	_	0	null	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	Hey	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Hey	_	NNP	NNP	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	Jim	_	NNP	NNP	_	1	appos	_	_
+4	.	_	.	.	_	1	punct	_	_
+
+1	You	_	PRP	PRP	_	3	nsubj	_	_
+2	're	_	VBP	VBP	_	3	aux	_	_
+3	gon	_	VBG	VBG	_	0	null	_	_
+4	na	_	TO	TO	_	6	aux	_	_
+5	be	_	VB	VB	_	6	cop	_	_
+6	okay	_	RB	RB	_	3	xcomp	_	_
+7	.	_	.	.	_	3	punct	_	_
+
+1	Ed	_	NNP	NNP	_	0	null	_	_
+2	?	_	.	.	_	1	punct	_	_
+
+1	Jim	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Oh	_	UH	UH	_	5	dep	_	_
+2	,	_	,	,	_	5	punct	_	_
+3	I	_	PRP	PRP	_	5	nsubj	_	_
+4	'll	_	MD	MD	_	5	aux	_	_
+5	get	_	VB	VB	_	0	null	_	_
+6	out	_	IN	IN	_	5	prep	_	_
+7	of	_	IN	IN	_	6	dep	_	_
+8	your	_	PRP$	PRP$	_	9	poss	_	_
+9	way	_	NN	NN	_	7	pobj	_	_
+10	.	_	.	.	_	5	punct	_	_
+
+1	Dad	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	Jim	_	NNP	NNP	_	3	nsubj	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	listen	_	VBP	VBP	_	0	null	_	_
+4	,	_	,	,	_	3	punct	_	_
+5	listen	_	VBP	VBP	_	3	conj	_	_
+6	.	_	.	.	_	3	punct	_	_
+
+1	Next	_	JJ	JJ	_	2	amod	_	_
+2	time	_	NN	NN	_	0	null	_	_
+3	you	_	PRP	PRP	_	4	nsubj	_	_
+4	want	_	VBP	VBP	_	2	rcmod	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	come	_	VB	VB	_	4	xcomp	_	_
+7	home	_	NN	NN	_	6	advmod	_	_
+8	,	_	,	,	_	2	punct	_	_
+9	just	_	RB	RB	_	10	advmod	_	_
+10	knock	_	NN	NN	_	2	appos	_	_
+11	.	_	.	.	_	2	punct	_	_
+
+1	Yeah	_	NNP	NNP	_	0	null	_	_
+2	?	_	.	.	_	1	punct	_	_
+
+1	You	_	PRP	PRP	_	2	nsubj	_	_
+2	want	_	VBP	VBP	_	0	null	_	_
+3	me	_	PRP	PRP	_	5	nsubj	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	come	_	VB	VB	_	2	xcomp	_	_
+6	back	_	RB	RB	_	5	advmod	_	_
+7	to	_	TO	TO	_	6	dep	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	house	_	NN	NN	_	7	pobj	_	_
+10	?	_	.	.	_	2	punct	_	_
+
+1	It	_	PRP	PRP	_	5	nsubj	_	_
+2	'd	_	MD	MD	_	5	aux	_	_
+3	be	_	VB	VB	_	5	cop	_	_
+4	a	_	DT	DT	_	5	det	_	_
+5	lot	_	NN	NN	_	0	null	_	_
+6	safer	_	JJR	JJR	_	5	dep	_	_
+7	than	_	IN	IN	_	5	prep	_	_
+8	having	_	VBG	VBG	_	7	pcomp	_	_
+9	you	_	PRP	PRP	_	8	dobj	_	_
+10	out	_	RP	RP	_	8	prt	_	_
+11	in	_	IN	IN	_	8	prep	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	yard	_	NN	NN	_	11	pobj	_	_
+14	.	_	.	.	_	5	punct	_	_
+
+1	-LSB-	_	JJ	JJ	_	4	amod	_	_
+2	voice	_	NN	NN	_	4	nn	_	_
+3	mail	_	NN	NN	_	4	nn	_	_
+4	beeps	_	NNS	NNS	_	12	nsubj	_	_
+5	on	_	IN	IN	_	4	prep	_	_
+6	phone	_	NN	NN	_	8	nn	_	_
+7	-RSB-	_	NN	NN	_	8	nn	_	_
+8	Boris	_	NNP	NNP	_	5	pobj	_	_
+9	,	_	,	,	_	4	punct	_	_
+10	so	_	RB	RB	_	12	advmod	_	_
+11	you	_	PRP	PRP	_	12	nsubj	_	_
+12	know	_	VBP	VBP	_	0	null	_	_
+13	that	_	IN	IN	_	18	complm	_	_
+14	contingency	_	NN	NN	_	18	nsubj	_	_
+15	you	_	PRP	PRP	_	16	nsubj	_	_
+16	said	_	VBD	VBD	_	14	rcmod	_	_
+17	might	_	MD	MD	_	18	aux	_	_
+18	happen	_	VB	VB	_	12	ccomp	_	_
+19	?	_	.	.	_	12	punct	_	_
+
+1	Well	_	UH	UH	_	4	dep	_	_
+2	,	_	,	,	_	4	punct	_	_
+3	I	_	PRP	PRP	_	4	nsubj	_	_
+4	think	_	VBP	VBP	_	0	null	_	_
+5	it	_	PRP	PRP	_	8	nsubj	_	_
+6	might	_	MD	MD	_	8	aux	_	_
+7	have	_	VB	VB	_	8	aux	_	_
+8	happened	_	VBN	VBN	_	4	ccomp	_	_
+9	,	_	,	,	_	4	punct	_	_
+10	uh	_	UH	UH	_	4	dep	_	_
+11	,	_	,	,	_	4	punct	_	_
+12	but	_	CC	CC	_	4	cc	_	_
+13	I	_	PRP	PRP	_	16	nsubj	_	_
+14	'm	_	VBP	VBP	_	16	cop	_	_
+15	not	_	RB	RB	_	16	neg	_	_
+16	sure	_	JJ	JJ	_	4	conj	_	_
+17	.	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	mean	_	VBP	VBP	_	0	null	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	something	_	NN	NN	_	5	nsubj	_	_
+5	happened	_	VBD	VBD	_	2	ccomp	_	_
+6	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	do	_	VBP	VBP	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	know	_	VB	VB	_	0	null	_	_
+5	if	_	IN	IN	_	9	mark	_	_
+6	it	_	PRP	PRP	_	9	nsubj	_	_
+7	was	_	VBD	VBD	_	9	cop	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	thing	_	NN	NN	_	4	advcl	_	_
+10	or	_	CC	CC	_	9	cc	_	_
+11	just	_	RB	RB	_	13	advmod	_	_
+12	a	_	DT	DT	_	13	det	_	_
+13	thing	_	NN	NN	_	9	conj	_	_
+14	,	_	,	,	_	4	punct	_	_
+15	so	_	IN	IN	_	4	dep	_	_
+16	I	_	PRP	PRP	_	17	nsubj	_	_
+17	thought	_	VBD	VBD	_	4	ccomp	_	_
+18	I	_	PRP	PRP	_	20	nsubj	_	_
+19	should	_	MD	MD	_	20	aux	_	_
+20	call	_	VB	VB	_	17	ccomp	_	_
+21	you	_	PRP	PRP	_	20	dobj	_	_
+22	just	_	RB	RB	_	20	advmod	_	_
+23	in	_	IN	IN	_	22	dep	_	_
+24	case	_	NN	NN	_	23	pobj	_	_
+25	.	_	.	.	_	4	punct	_	_
+
+1	But	_	CC	CC	_	5	cc	_	_
+2	now	_	RB	RB	_	5	advmod	_	_
+3	that	_	IN	IN	_	5	dep	_	_
+4	I	_	PRP	PRP	_	5	nsubj	_	_
+5	think	_	VBP	VBP	_	0	null	_	_
+6	about	_	IN	IN	_	5	prep	_	_
+7	it	_	PRP	PRP	_	6	pobj	_	_
+8	,	_	,	,	_	14	punct	_	_
+9	I	_	PRP	PRP	_	14	nsubj	_	_
+10	probably	_	RB	RB	_	14	advmod	_	_
+11	should	_	MD	MD	_	14	aux	_	_
+12	n't	_	RB	RB	_	14	neg	_	_
+13	be	_	VB	VB	_	14	aux	_	_
+14	leaving	_	VBG	VBG	_	5	parataxis	_	_
+15	this	_	DT	DT	_	14	dobj	_	_
+16	in	_	IN	IN	_	14	prep	_	_
+17	a	_	DT	DT	_	19	det	_	_
+18	recorded	_	JJ	JJ	_	19	amod	_	_
+19	message	_	NN	NN	_	16	pobj	_	_
+20	,	_	,	,	_	14	punct	_	_
+21	so	_	RB	RB	_	14	advmod	_	_
+22	...	_	:	:	_	14	punct	_	_
+23	-LRB-	_	-LRB-	-LRB-	_	5	dep	_	_
+24	recorded	_	JJ	JJ	_	25	amod	_	_
+25	voice	_	NN	NN	_	23	dobj	_	_
+26	-RRB-	_	-RRB-	-RRB-	_	25	prep	_	_
+27	Press	_	NNP	NNP	_	26	dep	_	_
+28	one	_	CD	CD	_	27	num	_	_
+29	if	_	IN	IN	_	32	mark	_	_
+30	you	_	PRP	PRP	_	32	nsubj	_	_
+31	are	_	VBP	VBP	_	32	cop	_	_
+32	satisfied	_	JJ	JJ	_	23	advcl	_	_
+33	with	_	IN	IN	_	32	prep	_	_
+34	your	_	PRP$	PRP$	_	35	poss	_	_
+35	message	_	NN	NN	_	33	pobj	_	_
+36	.	_	.	.	_	5	punct	_	_
+
+1	Press	_	NNP	NNP	_	0	null	_	_
+2	two	_	CD	CD	_	1	num	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	delete	_	VB	VB	_	1	infmod	_	_
+5	.	_	.	.	_	1	punct	_	_
+
+1	-LSB-	_	JJ	JJ	_	2	amod	_	_
+2	beep	_	NN	NN	_	5	nsubj	_	_
+3	-RSB-	_	,	,	_	5	punct	_	_
+4	Message	_	NNP	NNP	_	5	nsubj	_	_
+5	deleted	_	VBD	VBD	_	0	null	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	Paige	_	NNP	NNP	_	0	null	_	_
+2	?	_	.	.	_	1	punct	_	_
+
+1	Hey	_	NNP	NNP	_	5	nsubj	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	Paige	_	NNP	NNP	_	1	appos	_	_
+4	,	_	,	,	_	1	punct	_	_
+5	slow	_	VB	VB	_	0	null	_	_
+6	down	_	RP	RP	_	5	prt	_	_
+7	!	_	.	.	_	5	punct	_	_
+
+1	Wait	_	VB	VB	_	0	null	_	_
+2	up	_	RB	RB	_	1	prt	_	_
+3	!	_	.	.	_	1	punct	_	_
+
+1	Hey	_	NNP	NNP	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	Paige	_	NNP	NNP	_	1	appos	_	_
+4	.	_	.	.	_	1	punct	_	_
+
+1	Where	_	WRB	WRB	_	2	advmod	_	_
+2	's	_	VBZ	VBZ	_	0	null	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	f	_	NN	NN	_	2	nsubj	_	_
+5	...	_	:	:	_	2	punct	_	_
+6	Is	_	VBZ	VBZ	_	2	parataxis	_	_
+7	this	_	DT	DT	_	6	dobj	_	_
+8	where	_	WRB	WRB	_	10	advmod	_	_
+9	you	_	PRP	PRP	_	10	nsubj	_	_
+10	ask	_	VB	VB	_	7	rcmod	_	_
+11	me	_	PRP	PRP	_	10	dobj	_	_
+12	why	_	WRB	WRB	_	15	advmod	_	_
+13	I	_	PRP	PRP	_	15	nsubj	_	_
+14	'm	_	VBP	VBP	_	15	aux	_	_
+15	driving	_	VBG	VBG	_	10	advcl	_	_
+16	Paige	_	NNP	NNP	_	18	poss	_	_
+17	's	_	POS	POS	_	16	possessive	_	_
+18	car	_	NN	NN	_	15	dobj	_	_
+19	?	_	.	.	_	2	punct	_	_
+
+1	Especially	_	RB	RB	_	0	null	_	_
+2	since	_	IN	IN	_	5	mark	_	_
+3	you	_	PRP	PRP	_	5	nsubjpass	_	_
+4	're	_	VBP	VBP	_	5	aux	_	_
+5	supposed	_	VBN	VBN	_	1	dep	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	be	_	VB	VB	_	5	xcomp	_	_
+8	in	_	IN	IN	_	7	prep	_	_
+9	Brazil	_	NNP	NNP	_	8	pobj	_	_
+10	.	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	am	_	VBP	VBP	_	0	null	_	_
+3	in	_	IN	IN	_	2	prep	_	_
+4	Brazil	_	NNP	NNP	_	3	pobj	_	_
+5	...	_	:	:	_	2	punct	_	_
+6	and	_	CC	CC	_	2	cc	_	_
+7	soon	_	RB	RB	_	2	advmod	_	_
+8	,	_	,	,	_	11	punct	_	_
+9	you	_	PRP	PRP	_	11	nsubj	_	_
+10	will	_	MD	MD	_	11	aux	_	_
+11	be	_	VB	VB	_	2	parataxis	_	_
+12	too	_	RB	RB	_	11	advmod	_	_
+13	.	_	.	.	_	2	punct	_	_
+
+1	Get	_	VB	VB	_	0	null	_	_
+2	some	_	DT	DT	_	3	det	_	_
+3	clothes	_	NNS	NNS	_	1	dobj	_	_
+4	first	_	RB	RB	_	1	advmod	_	_
+5	.	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	'm	_	VBP	VBP	_	4	cop	_	_
+3	not	_	RB	RB	_	4	neg	_	_
+4	sure	_	JJ	JJ	_	0	null	_	_
+5	why	_	WRB	WRB	_	7	advmod	_	_
+6	you	_	PRP	PRP	_	7	nsubj	_	_
+7	keep	_	VBP	VBP	_	4	advcl	_	_
+8	coming	_	VBG	VBG	_	7	dep	_	_
+9	here	_	RB	RB	_	8	advmod	_	_
+10	.	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	'm	_	VBP	VBP	_	0	null	_	_
+3	not	_	RB	RB	_	2	neg	_	_
+4	in	_	IN	IN	_	2	prep	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	hospital	_	NN	NN	_	4	pobj	_	_
+7	because	_	IN	IN	_	8	dep	_	_
+8	of	_	IN	IN	_	2	prep	_	_
+9	you	_	PRP	PRP	_	8	pobj	_	_
+10	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	've	_	VBP	VBP	_	4	aux	_	_
+3	been	_	VBN	VBN	_	4	cop	_	_
+4	down	_	RB	RB	_	0	null	_	_
+5	in	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	cath	_	NN	NN	_	8	nn	_	_
+8	lab	_	NN	NN	_	5	pobj	_	_
+9	with	_	IN	IN	_	8	prep	_	_
+10	a	_	DT	DT	_	11	det	_	_
+11	patient	_	NN	NN	_	9	pobj	_	_
+12	who	_	WP	WP	_	14	nsubj	_	_
+13	almost	_	RB	RB	_	14	advmod	_	_
+14	died	_	VBD	VBD	_	11	rcmod	_	_
+15	today	_	NN	NN	_	14	tmod	_	_
+16	,	_	,	,	_	4	punct	_	_
+17	because	_	IN	IN	_	20	dep	_	_
+18	when	_	WRB	WRB	_	20	advmod	_	_
+19	he	_	PRP	PRP	_	20	nsubj	_	_
+20	arrested	_	VBN	VBN	_	4	dep	_	_
+21	,	_	,	,	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	was	_	VBD	VBD	_	0	null	_	_
+3	alone	_	RB	RB	_	2	advmod	_	_
+4	with	_	IN	IN	_	2	prep	_	_
+5	him	_	PRP	PRP	_	4	pobj	_	_
+6	and	_	CC	CC	_	2	cc	_	_
+7	forced	_	VBD	VBD	_	2	conj	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	do	_	VB	VB	_	7	xcomp	_	_
+10	CPR	_	NN	NN	_	9	dobj	_	_
+11	on	_	IN	IN	_	9	prep	_	_
+12	my	_	PRP$	PRP$	_	13	poss	_	_
+13	own	_	JJ	JJ	_	11	pobj	_	_
+14	because	_	IN	IN	_	18	mark	_	_
+15	a	_	DT	DT	_	17	det	_	_
+16	gifted	_	VBN	VBN	_	17	amod	_	_
+17	physician	_	NN	NN	_	18	nsubj	_	_
+18	refuses	_	VBZ	VBZ	_	7	advcl	_	_
+19	to	_	TO	TO	_	20	aux	_	_
+20	understand	_	VB	VB	_	18	xcomp	_	_
+21	that	_	IN	IN	_	23	complm	_	_
+22	there	_	EX	EX	_	23	expl	_	_
+23	are	_	VBP	VBP	_	20	ccomp	_	_
+24	people	_	NNS	NNS	_	23	nsubj	_	_
+25	out	_	IN	IN	_	24	prep	_	_
+26	there	_	RB	RB	_	25	dep	_	_
+27	who	_	WP	WP	_	28	nsubj	_	_
+28	need	_	VBP	VBP	_	24	rcmod	_	_
+29	him	_	PRP	PRP	_	28	dobj	_	_
+30	,	_	,	,	_	24	punct	_	_
+31	who	_	WP	WP	_	32	nsubj	_	_
+32	love	_	VBP	VBP	_	24	rcmod	_	_
+33	him	_	PRP	PRP	_	32	dobj	_	_
+34	,	_	,	,	_	23	punct	_	_
+35	and	_	CC	CC	_	23	cc	_	_
+36	that	_	IN	IN	_	41	complm	_	_
+37	he	_	PRP	PRP	_	41	nsubj	_	_
+38	ca	_	MD	MD	_	41	aux	_	_
+39	n't	_	RB	RB	_	41	neg	_	_
+40	just	_	RB	RB	_	41	advmod	_	_
+41	retreat	_	VB	VB	_	23	conj	_	_
+42	back	_	RB	RB	_	41	advmod	_	_
+43	into	_	IN	IN	_	41	prep	_	_
+44	his	_	PRP$	PRP$	_	45	poss	_	_
+45	shell	_	NN	NN	_	43	pobj	_	_
+46	...	_	:	:	_	41	punct	_	_
+47	-LSB-	_	DT	DT	_	48	det	_	_
+48	breathing	_	NN	NN	_	50	nsubj	_	_
+49	hard	_	RB	RB	_	50	advmod	_	_
+50	-RSB-	_	JJ	JJ	_	41	parataxis	_	_
+51	whenever	_	WRB	WRB	_	53	advmod	_	_
+52	he	_	PRP	PRP	_	53	nsubj	_	_
+53	feels	_	VBZ	VBZ	_	50	advcl	_	_
+54	like	_	IN	IN	_	53	prep	_	_
+55	it	_	PRP	PRP	_	54	pobj	_	_
+56	,	_	,	,	_	2	punct	_	_
+
+1	because	_	IN	IN	_	6	mark	_	_
+2	that	_	DT	DT	_	6	nsubj	_	_
+3	is	_	VBZ	VBZ	_	6	cop	_	_
+4	not	_	RB	RB	_	6	neg	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	way	_	NN	NN	_	0	null	_	_
+7	that	_	IN	IN	_	9	nsubj	_	_
+8	life	_	NN	NN	_	9	nn	_	_
+9	works	_	NNS	NNS	_	6	rcmod	_	_
+10	.	_	.	.	_	6	punct	_	_
+
+1	Are	_	VBP	VBP	_	0	null	_	_
+2	you	_	PRP	PRP	_	1	dobj	_	_
+3	all	_	DT	DT	_	2	dep	_	_
+4	right	_	RB	RB	_	1	advmod	_	_
+5	?	_	.	.	_	1	punct	_	_
+
+1	Of	_	IN	IN	_	0	null	_	_
+2	course	_	NN	NN	_	1	pobj	_	_
+3	not	_	RB	RB	_	1	dep	_	_
+4	!	_	.	.	_	1	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	'm	_	VBP	VBP	_	3	cop	_	_
+3	furious	_	JJ	JJ	_	0	null	_	_
+4	.	_	.	.	_	3	punct	_	_
+
+1	No	_	UH	UH	_	5	dep	_	_
+2	,	_	,	,	_	5	punct	_	_
+3	you	_	PRP	PRP	_	5	nsubj	_	_
+4	're	_	VBP	VBP	_	5	cop	_	_
+5	pale	_	JJ	JJ	_	0	null	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	tachypneic	_	JJ	JJ	_	5	conj	_	_
+8	.	_	.	.	_	5	punct	_	_
+
+1	Before	_	IN	IN	_	7	prep	_	_
+2	initiating	_	VBG	VBG	_	1	pcomp	_	_
+3	CPR	_	NNP	NNP	_	2	dobj	_	_
+4	,	_	,	,	_	7	punct	_	_
+5	did	_	VBD	VBD	_	7	aux	_	_
+6	you	_	PRP	PRP	_	7	nsubj	_	_
+7	use	_	VB	VB	_	0	null	_	_
+8	nitropaste	_	NN	NN	_	7	dobj	_	_
+9	?	_	.	.	_	7	punct	_	_
+
+1	It	_	PRP	PRP	_	2	nsubj	_	_
+2	happened	_	VBD	VBD	_	0	null	_	_
+3	so	_	RB	RB	_	2	advmod	_	_
+4	quickly	_	RB	RB	_	2	advmod	_	_
+5	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	6	nsubj	_	_
+2	...	_	:	:	_	6	punct	_	_
+3	What	_	WP	WP	_	6	dobj	_	_
+4	do	_	VBP	VBP	_	6	aux	_	_
+5	you	_	PRP	PRP	_	6	nsubj	_	_
+6	mean	_	VB	VB	_	0	null	_	_
+7	?	_	.	.	_	6	punct	_	_
+
+1	He	_	PRP	PRP	_	2	nsubj	_	_
+2	passed	_	VBD	VBD	_	0	null	_	_
+3	out	_	RP	RP	_	2	prt	_	_
+4	onto	_	IN	IN	_	2	prep	_	_
+5	me	_	PRP	PRP	_	4	pobj	_	_
+6	while	_	IN	IN	_	7	mark	_	_
+7	...	_	:	:	_	2	advcl	_	_
+8	while	_	IN	IN	_	11	mark	_	_
+9	I	_	PRP	PRP	_	11	nsubj	_	_
+10	was	_	VBD	VBD	_	11	aux	_	_
+11	trying	_	VBG	VBG	_	7	advcl	_	_
+12	to	_	TO	TO	_	13	aux	_	_
+13	apply	_	VB	VB	_	11	xcomp	_	_
+14	it	_	PRP	PRP	_	13	dobj	_	_
+15	,	_	,	,	_	7	punct	_	_
+16	and	_	CC	CC	_	7	cc	_	_
+17	...	_	:	:	_	19	punct	_	_
+18	I	_	PRP	PRP	_	19	nsubj	_	_
+19	think	_	VBP	VBP	_	7	conj	_	_
+20	you	_	PRP	PRP	_	22	nsubj	_	_
+21	should	_	MD	MD	_	22	aux	_	_
+22	go	_	VB	VB	_	19	ccomp	_	_
+23	to	_	TO	TO	_	22	prep	_	_
+24	the	_	DT	DT	_	25	det	_	_
+25	ER	_	NN	NN	_	23	pobj	_	_
+26	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	'm	_	VBP	VBP	_	3	aux	_	_
+3	worried	_	VBN	VBN	_	0	null	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	nitropaste	_	NN	NN	_	3	dobj	_	_
+6	absorbed	_	VBN	VBN	_	5	partmod	_	_
+7	into	_	IN	IN	_	6	prep	_	_
+8	your	_	PRP$	PRP$	_	9	poss	_	_
+9	skin	_	NN	NN	_	7	pobj	_	_
+10	and	_	CC	CC	_	3	cc	_	_
+11	dilated	_	VBD	VBD	_	3	conj	_	_
+12	your	_	PRP$	PRP$	_	14	poss	_	_
+13	blood	_	NN	NN	_	14	nn	_	_
+14	vessels	_	NNS	NNS	_	11	dobj	_	_
+15	.	_	.	.	_	3	punct	_	_
+
+1	Divya	_	NNP	NNP	_	0	null	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	Divya	_	NNP	NNP	_	1	appos	_	_
+4	!	_	.	.	_	1	punct	_	_
+
+1	Divya	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	-LRB-	_	-LRB-	-LRB-	_	0	null	_	_
+2	man	_	NN	NN	_	3	nn	_	_
+3	-RRB-	_	-RRB-	-RRB-	_	1	dep	_	_
+4	We	_	PRP	PRP	_	6	nsubj	_	_
+5	only	_	RB	RB	_	6	advmod	_	_
+6	have	_	VBP	VBP	_	3	rcmod	_	_
+7	one	_	CD	CD	_	8	nsubj	_	_
+8	suspect	_	VB	VB	_	6	ccomp	_	_
+9	here	_	RB	RB	_	8	advmod	_	_
+10	!	_	.	.	_	1	punct	_	_
+
+1	Get	_	VB	VB	_	0	null	_	_
+2	eyes	_	NNS	NNS	_	1	dobj	_	_
+3	on	_	IN	IN	_	1	prep	_	_
+4	that	_	DT	DT	_	5	det	_	_
+5	exit	_	NN	NN	_	3	pobj	_	_
+6	!	_	.	.	_	1	punct	_	_
+
+1	-LRB-	_	-LRB-	-LRB-	_	6	dep	_	_
+2	man	_	NN	NN	_	4	nn	_	_
+3	-RRB-	_	-RRB-	-RRB-	_	4	amod	_	_
+4	Stairway	_	NNP	NNP	_	1	dobj	_	_
+5	,	_	,	,	_	6	punct	_	_
+6	take	_	VBP	VBP	_	0	null	_	_
+7	it	_	PRP	PRP	_	6	dobj	_	_
+8	.	_	.	.	_	6	punct	_	_
+
+1	Agent	_	NNP	NNP	_	2	nn	_	_
+2	Gessner	_	NNP	NNP	_	0	null	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	Diplomatic	_	NNP	NNP	_	5	nn	_	_
+5	Security	_	NNP	NNP	_	2	appos	_	_
+6	.	_	.	.	_	2	punct	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	have	_	VBP	VBP	_	0	null	_	_
+3	information	_	NN	NN	_	2	dobj	_	_
+4	that	_	IN	IN	_	12	complm	_	_
+5	a	_	DT	DT	_	6	det	_	_
+6	figure	_	NN	NN	_	12	nsubjpass	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	international	_	JJ	JJ	_	9	amod	_	_
+9	import	_	NN	NN	_	7	pobj	_	_
+10	has	_	VBZ	VBZ	_	12	aux	_	_
+11	been	_	VBN	VBN	_	12	auxpass	_	_
+12	kidnapped	_	VBN	VBN	_	3	ccomp	_	_
+13	and	_	CC	CC	_	12	cc	_	_
+14	smuggled	_	VBN	VBN	_	12	conj	_	_
+15	into	_	IN	IN	_	14	prep	_	_
+16	the	_	DT	DT	_	17	det	_	_
+17	country	_	NN	NN	_	15	pobj	_	_
+18	.	_	.	.	_	2	punct	_	_
+
+1	Oh	_	UH	UH	_	4	dep	_	_
+2	,	_	,	,	_	4	punct	_	_
+3	that	_	WDT	WDT	_	4	nsubj	_	_
+4	's	_	VBZ	VBZ	_	0	null	_	_
+5	...	_	:	:	_	4	punct	_	_
+6	that	_	WDT	WDT	_	8	nsubj	_	_
+7	's	_	VBZ	VBZ	_	8	cop	_	_
+8	terrible	_	JJ	JJ	_	4	parataxis	_	_
+9	.	_	.	.	_	4	punct	_	_
+
+1	This	_	DT	DT	_	4	nsubj	_	_
+2	is	_	VBZ	VBZ	_	4	cop	_	_
+3	just	_	RB	RB	_	4	advmod	_	_
+4	part	_	NN	NN	_	0	null	_	_
+5	of	_	IN	IN	_	4	prep	_	_
+6	an	_	DT	DT	_	7	det	_	_
+7	MRI	_	NNP	NNP	_	5	pobj	_	_
+8	.	_	.	.	_	4	punct	_	_
+
+1	This	_	DT	DT	_	4	nsubj	_	_
+2	is	_	VBZ	VBZ	_	4	cop	_	_
+3	Mr.	_	NNP	NNP	_	4	nn	_	_
+4	Xu	_	NNP	NNP	_	0	null	_	_
+5	,	_	,	,	_	4	punct	_	_
+6	of	_	IN	IN	_	4	prep	_	_
+7	the	_	DT	DT	_	9	det	_	_
+8	Chinese	_	NNP	NNP	_	9	nn	_	_
+9	Ministry	_	NNP	NNP	_	6	pobj	_	_
+10	of	_	IN	IN	_	9	prep	_	_
+11	Culture	_	NNP	NNP	_	10	pobj	_	_
+12	.	_	.	.	_	4	punct	_	_
+
+1	He	_	PRP	PRP	_	2	nsubj	_	_
+2	has	_	VBZ	VBZ	_	0	null	_	_
+3	reason	_	NN	NN	_	2	dobj	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	believe	_	VB	VB	_	3	infmod	_	_
+6	you	_	PRP	PRP	_	9	nsubj	_	_
+7	've	_	VBP	VBP	_	9	aux	_	_
+8	been	_	VBN	VBN	_	9	auxpass	_	_
+9	given	_	VBN	VBN	_	5	ccomp	_	_
+10	bad	_	JJ	JJ	_	11	amod	_	_
+11	information	_	NN	NN	_	9	dobj	_	_
+12	.	_	.	.	_	2	punct	_	_
+
+1	Pleasure	_	NN	NN	_	0	null	_	_
+2	to	_	TO	TO	_	3	aux	_	_
+3	meet	_	VB	VB	_	1	infmod	_	_
+4	you	_	PRP	PRP	_	3	dobj	_	_
+5	.	_	.	.	_	1	punct	_	_
+
+1	You	_	PRP	PRP	_	3	nsubj	_	_
+2	do	_	VBP	VBP	_	3	aux	_	_
+3	understand	_	VB	VB	_	0	null	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	consequences	_	NNS	NNS	_	3	dobj	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	withholding	_	VBG	VBG	_	6	pcomp	_	_
+8	evidence	_	NN	NN	_	7	dobj	_	_
+9	from	_	IN	IN	_	7	prep	_	_
+10	a	_	DT	DT	_	12	det	_	_
+11	federal	_	JJ	JJ	_	12	amod	_	_
+12	officer	_	NN	NN	_	9	pobj	_	_
+13	?	_	.	.	_	3	punct	_	_
+
+1	Then	_	RB	RB	_	2	advmod	_	_
+2	open	_	VB	VB	_	0	null	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	crate	_	NN	NN	_	2	dobj	_	_
+5	.	_	.	.	_	2	punct	_	_
+
+1	Sure	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	It	_	PRP	PRP	_	5	nsubj	_	_
+2	's	_	VBZ	VBZ	_	5	cop	_	_
+3	just	_	RB	RB	_	5	advmod	_	_
+4	an	_	DT	DT	_	5	det	_	_
+5	MRI	_	NNP	NNP	_	0	null	_	_
+6	.	_	.	.	_	5	punct	_	_
+
+1	Well	_	RB	RB	_	6	advmod	_	_
+2	,	_	,	,	_	6	punct	_	_
+3	at	_	IN	IN	_	6	advmod	_	_
+4	least	_	JJS	JJS	_	3	dep	_	_
+5	it	_	PRP	PRP	_	6	nsubj	_	_
+6	arrived	_	VBD	VBD	_	0	null	_	_
+7	at	_	IN	IN	_	6	prep	_	_
+8	midnight	_	NN	NN	_	7	pobj	_	_
+9	...	_	:	:	_	6	punct	_	_
+10	precisely	_	RB	RB	_	6	advmod	_	_
+11	.	_	.	.	_	6	punct	_	_
+
+1	How	_	WRB	WRB	_	4	advmod	_	_
+2	are	_	VBP	VBP	_	4	aux	_	_
+3	you	_	PRP	PRP	_	4	nsubj	_	_
+4	feeling	_	NN	NN	_	0	null	_	_
+5	?	_	.	.	_	4	punct	_	_
+
+1	Much	_	RB	RB	_	4	advmod	_	_
+2	better	_	RBR	RBR	_	1	advmod	_	_
+3	,	_	,	,	_	4	punct	_	_
+4	thank	_	VB	VB	_	0	null	_	_
+5	you	_	PRP	PRP	_	4	dobj	_	_
+6	.	_	.	.	_	4	punct	_	_
+
+1	You	_	PRP	PRP	_	4	nsubj	_	_
+2	should	_	MD	MD	_	4	aux	_	_
+3	still	_	RB	RB	_	4	advmod	_	_
+4	go	_	VB	VB	_	0	null	_	_
+5	to	_	TO	TO	_	4	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	ER	_	NN	NN	_	5	pobj	_	_
+8	to	_	TO	TO	_	10	aux	_	_
+9	be	_	VB	VB	_	10	auxpass	_	_
+10	assessed	_	VBN	VBN	_	7	infmod	_	_
+11	.	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	do	_	VBP	VBP	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	have	_	VB	VB	_	0	null	_	_
+5	to	_	TO	TO	_	4	xcomp	_	_
+6	.	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	null	_	_
+3	an	_	DT	DT	_	5	det	_	_
+4	excellent	_	JJ	JJ	_	5	amod	_	_
+5	doctor	_	NN	NN	_	2	dobj	_	_
+6	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	'm	_	VBP	VBP	_	4	aux	_	_
+3	...	_	:	:	_	4	punct	_	_
+4	experiencing	_	VBG	VBG	_	0	null	_	_
+5	a	_	DT	DT	_	6	det	_	_
+6	regression	_	NN	NN	_	4	dobj	_	_
+7	.	_	.	.	_	4	punct	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	know	_	VBP	VBP	_	0	null	_	_
+3	.	_	.	.	_	2	punct	_	_
+
+1	Did	_	VB	VB	_	5	dep	_	_
+2	all	_	DT	DT	_	5	nsubjpass	_	_
+3	go	_	VBP	VBP	_	5	aux	_	_
+4	as	_	RB	RB	_	5	advmod	_	_
+5	planned	_	VBN	VBN	_	0	null	_	_
+6	?	_	.	.	_	5	punct	_	_
+
+1	Just	_	RB	RB	_	2	dep	_	_
+2	like	_	IN	IN	_	0	null	_	_
+3	you	_	PRP	PRP	_	4	nsubj	_	_
+4	said	_	VBD	VBD	_	2	pcomp	_	_
+5	,	_	,	,	_	11	punct	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	MRI	_	NNP	NNP	_	11	nsubj	_	_
+8	was	_	VBD	VBD	_	11	cop	_	_
+9	a	_	DT	DT	_	11	det	_	_
+10	perfect	_	JJ	JJ	_	11	amod	_	_
+11	decoy	_	NN	NN	_	19	parataxis	_	_
+12	,	_	,	,	_	11	punct	_	_
+13	and	_	CC	CC	_	11	cc	_	_
+14	sure	_	JJ	JJ	_	11	conj	_	_
+15	enough	_	RB	RB	_	14	advmod	_	_
+16	,	_	,	,	_	11	punct	_	_
+17	somebody	_	NN	NN	_	19	nsubj	_	_
+18	was	_	VBD	VBD	_	19	aux	_	_
+19	trailing	_	VBG	VBG	_	4	ccomp	_	_
+20	it	_	PRP	PRP	_	19	dobj	_	_
+21	.	_	.	.	_	2	punct	_	_
+
+1	Then	_	RB	RB	_	4	advmod	_	_
+2	we	_	PRP	PRP	_	4	nsubj	_	_
+3	have	_	VBP	VBP	_	4	aux	_	_
+4	forced	_	VBN	VBN	_	0	null	_	_
+5	our	_	PRP$	PRP$	_	6	poss	_	_
+6	enemy	_	NN	NN	_	4	dobj	_	_
+7	to	_	TO	TO	_	8	aux	_	_
+8	show	_	VB	VB	_	6	infmod	_	_
+9	his	_	PRP$	PRP$	_	10	poss	_	_
+10	hand	_	NN	NN	_	8	dobj	_	_
+11	.	_	.	.	_	4	punct	_	_
+
+1	He	_	PRP	PRP	_	2	nsubj	_	_
+2	ratted	_	VBD	VBD	_	0	null	_	_
+3	us	_	PRP	PRP	_	2	dobj	_	_
+4	out	_	RP	RP	_	2	prt	_	_
+5	to	_	TO	TO	_	2	prep	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	State	_	NNP	NNP	_	8	nn	_	_
+8	Department	_	NNP	NNP	_	5	pobj	_	_
+9	,	_	,	,	_	2	punct	_	_
+10	so	_	RB	RB	_	2	advmod	_	_
+11	if	_	IN	IN	_	13	mark	_	_
+12	he	_	PRP	PRP	_	13	nsubj	_	_
+13	had	_	VBD	VBD	_	18	advcl	_	_
+14	any	_	DT	DT	_	15	det	_	_
+15	credibility	_	NN	NN	_	13	dobj	_	_
+16	before	_	IN	IN	_	13	advmod	_	_
+17	,	_	,	,	_	18	punct	_	_
+18	let	_	VB	VB	_	2	ccomp	_	_
+19	's	_	PRP	PRP	_	18	dobj	_	_
+20	just	_	RB	RB	_	21	advmod	_	_
+21	say	_	VBP	VBP	_	18	dep	_	_
+22	it	_	PRP	PRP	_	26	nsubjpass	_	_
+23	's	_	VBZ	VBZ	_	26	auxpass	_	_
+24	been	_	VBN	VBN	_	26	auxpass	_	_
+25	severely	_	RB	RB	_	26	advmod	_	_
+26	tarnished	_	VBN	VBN	_	21	ccomp	_	_
+27	.	_	.	.	_	2	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	must	_	MD	MD	_	3	aux	_	_
+3	tell	_	VB	VB	_	7	ccomp	_	_
+4	you	_	PRP	PRP	_	3	dobj	_	_
+5	,	_	,	,	_	7	punct	_	_
+6	I	_	PRP	PRP	_	7	nsubj	_	_
+7	hired	_	VBD	VBD	_	0	null	_	_
+8	you	_	PRP	PRP	_	7	dobj	_	_
+9	because	_	IN	IN	_	11	mark	_	_
+10	I	_	PRP	PRP	_	11	nsubj	_	_
+11	thought	_	VBD	VBD	_	7	advcl	_	_
+12	it	_	PRP	PRP	_	15	nsubj	_	_
+13	'd	_	MD	MD	_	15	aux	_	_
+14	be	_	VB	VB	_	15	cop	_	_
+15	easy	_	JJ	JJ	_	11	ccomp	_	_
+16	to	_	TO	TO	_	17	aux	_	_
+17	keep	_	VB	VB	_	15	xcomp	_	_
+18	you	_	PRP	PRP	_	17	dobj	_	_
+19	out	_	IN	IN	_	17	prep	_	_
+20	of	_	IN	IN	_	19	dep	_	_
+21	my	_	PRP$	PRP$	_	22	poss	_	_
+22	way	_	NN	NN	_	20	pobj	_	_
+23	.	_	.	.	_	7	punct	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	am	_	VBP	VBP	_	3	cop	_	_
+3	glad	_	JJ	JJ	_	0	null	_	_
+4	that	_	IN	IN	_	9	nsubj	_	_
+5	has	_	VBZ	VBZ	_	9	aux	_	_
+6	not	_	RB	RB	_	9	neg	_	_
+7	been	_	VBN	VBN	_	9	cop	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	case	_	NN	NN	_	3	ccomp	_	_
+10	.	_	.	.	_	3	punct	_	_
+
+1	Thank	_	VB	VB	_	0	null	_	_
+2	you	_	PRP	PRP	_	1	dobj	_	_
+3	?	_	.	.	_	1	punct	_	_
+
+1	No	_	UH	UH	_	3	dep	_	_
+2	,	_	,	,	_	3	punct	_	_
+3	thank	_	VB	VB	_	0	null	_	_
+4	you	_	PRP	PRP	_	3	dobj	_	_
+5	.	_	.	.	_	3	punct	_	_
+
+1	So	_	RB	RB	_	2	advmod	_	_
+2	is	_	VBZ	VBZ	_	0	null	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	patient	_	NN	NN	_	2	nsubj	_	_
+5	...	_	:	:	_	2	punct	_	_
+
+1	In	_	IN	IN	_	4	prep	_	_
+2	there	_	RB	RB	_	1	pobj	_	_
+3	,	_	,	,	_	4	punct	_	_
+4	indeed	_	RB	RB	_	0	null	_	_
+5	.	_	.	.	_	4	punct	_	_
+
+1	Really	_	RB	RB	_	0	null	_	_
+2	?	_	.	.	_	1	punct	_	_
+
+1	Come	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	As	_	IN	IN	_	3	mark	_	_
+2	it	_	PRP	PRP	_	3	nsubj	_	_
+3	turns	_	VBZ	VBZ	_	7	advcl	_	_
+4	out	_	RP	RP	_	3	prt	_	_
+5	,	_	,	,	_	7	punct	_	_
+6	you	_	PRP	PRP	_	7	nsubj	_	_
+7	maintained	_	VBD	VBD	_	0	null	_	_
+8	our	_	PRP$	PRP$	_	9	poss	_	_
+9	secrecy	_	NN	NN	_	11	nsubj	_	_
+10	far	_	RB	RB	_	11	advmod	_	_
+11	better	_	JJR	JJR	_	7	ccomp	_	_
+12	than	_	IN	IN	_	14	mark	_	_
+13	I	_	PRP	PRP	_	14	nsubj	_	_
+14	did	_	VBD	VBD	_	11	ccomp	_	_
+15	.	_	.	.	_	7	punct	_	_
+
+1	Hank	_	NNP	NNP	_	0	null	_	_
+2	?	_	.	.	_	1	punct	_	_
+
+1	Hey	_	NNP	NNP	_	0	null	_	_
+2	.	_	.	.	_	1	punct	_	_
+
+1	XXX	_	NNP	NNP	_	0	null	_	_
+
