@@ -7,6 +7,7 @@ from viz import create as create_data
 
 from imblearn.over_sampling import RandomOverSampler
 from imblearn.pipeline import Pipeline
+from sklearn.externals import joblib
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.linear_model import PassiveAggressiveClassifier
 from sklearn.model_selection import train_test_split
@@ -82,3 +83,4 @@ print('Training Completed')
 
 print("Accuracy:", clf.score(X_test, y_test))
 print(classification_report(y_test, clf.predict(X_test)))
+joblib.dump(clf, 'classifier.pkl')
