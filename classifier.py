@@ -66,21 +66,22 @@ def transform_to_dataset(annotations):
     return X, y
 
 
-X_train, X_test, y_train, y_test = train_test_split(*transform_to_dataset(Annotation.query.all()), random_state=0)
+if __name__ == '__main__':
+    X_train, X_test, y_train, y_test = train_test_split(*transform_to_dataset(Annotation.query.all()), random_state=0)
 
-print(len(X_train))
-print(len(X_test))
+    print(len(X_train))
+    print(len(X_test))
 
-clf = Pipeline([
-    ('vectorizer', DictVectorizer(sparse=True)),
-    ('over-sampler', RandomOverSampler(random_state=0)),
-    ('classifier', PassiveAggressiveClassifier(max_iter=50))
-])
+    clf = Pipeline([
+        ('vectorizer', DictVectorizer(sparse=True)),
+        ('over-sampler', RandomOverSampler(random_state=0)),
+        ('classifier', PassiveAggressiveClassifier(max_iter=50))
+    ])
 
-clf.fit(X_train, y_train)
+    clf.fit(X_train, y_train)
 
-print('Training Completed')
+    print('Training Completed')
 
-print("Accuracy:", clf.score(X_test, y_test))
-print(classification_report(y_test, clf.predict(X_test)))
-joblib.dump(clf, 'classifier.pkl')
+    print("Accuracy:", clf.score(X_test, y_test))
+    print(classification_report(y_test, clf.predict(X_test)))
+    joblib.dump(clf, 'classifier.pkl')
