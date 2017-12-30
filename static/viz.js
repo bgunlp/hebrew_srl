@@ -74,10 +74,11 @@ renderWords(data.hebrew.words, 'hebrew', enOffsetY + alignmentSpace);
  **************/
 
 data.english.frames.sort((a, b) => b.annotationSets[0].score - a.annotationSets[0].score);
+data.hebrew.frames.sort((a, b) => b.annotationSets[0].score - a.annotationSets[0].score);
 
 if (data.english.frames.length > 0) {
-    const { target, annotationSets } = data.english.frames[0];
-    const { frameElements } = annotationSets[0];
+    const {target, annotationSets} = data.english.frames[0];
+    const {frameElements} = annotationSets[0];
 
     svg
         .append('text')
@@ -89,8 +90,8 @@ if (data.english.frames.length > 0) {
         .attr('dy', '1em')
         .text(target.name);
 
-    frameElements.forEach(({ name, spans }) => {
-        const { start, end } = spans[0];
+    frameElements.forEach(({name, spans}) => {
+        const {start, end} = spans[0];
         for (let i = start; i < end; i++) {
             svg
                 .append('text')
@@ -100,7 +101,37 @@ if (data.english.frames.length > 0) {
                 .append('tspan')
                 .attr('x', offsetX + i * distance)
                 .attr('dy', '2em')
-                .text(name);
+                .text((i === start ? 'B' : 'I') + '-' + name);
+        }
+    });
+}
+
+if (data.hebrew.frames.length > 0) {
+    const {target, annotationSets} = data.hebrew.frames[0];
+    const {frameElements} = annotationSets[0];
+
+    svg
+        .append('text')
+        .classed('hebrew-srl-frame', true)
+        .attr('text-anchor', 'middle')
+        .attr('y', enOffsetY + alignmentSpace)
+        .append('tspan')
+        .attr('x', offsetX + target.spans[0].start * distance)
+        .attr('dy', '1em')
+        .text(target.name);
+
+    frameElements.forEach(({name, spans}) => {
+        const {start, end} = spans[0];
+        for (let i = start; i < end; i++) {
+            svg
+                .append('text')
+                .classed('hebrew-srl-fe', true)
+                .attr('text-anchor', 'middle')
+                .attr('y', enOffsetY + alignmentSpace)
+                .append('tspan')
+                .attr('x', offsetX + i * distance)
+                .attr('dy', '2em')
+                .text((i === start ? 'B' : 'I') + '-' + name);
         }
     });
 }

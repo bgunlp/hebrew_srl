@@ -1,6 +1,9 @@
 import json
 import os
 
+from itertools import groupby
+from operator import itemgetter
+
 from conllu.parser import parse as conllu_parse
 from flask import Flask, render_template, request, redirect, url_for
 from flask_bootstrap import Bootstrap
@@ -15,7 +18,7 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 Bootstrap(app)
 db = SQLAlchemy(app)
 
-DATA_ROOT = os.path.join(app.root_path, 'static', 'datasubset')
+DATA_ROOT = os.path.join(app.root_path, 'static', 'dataset')
 
 
 class AnnotationForm(FlaskForm):
@@ -46,6 +49,23 @@ def english_sents(filename):
     return [' '.join([row['form'] for row in sent]) for sent in english]
 
 
+def project_srl(english_srl, alignment):
+    en2he_alignment = {}
+    for key, group in groupby(sorted(alignment), key=itemgetter(0)):
+        en2he_alignment[key] = list(map(itemgetter(1), group))
+    hebrew_srl = english_srl
+    try:
+        for obj in hebrew_srl:
+            obj['target']['spans'][0]['start'] = min(en2he_alignment[obj['target']['spans'][0]['start']])
+            obj['target']['spans'][0]['end'] = max(en2he_alignment[obj['target']['spans'][0]['end']])
+            for fe in obj['annotationSets'][0]['frameElements']:
+                fe['spans'][0]['start'] = min(en2he_alignment[fe['spans'][0]['start']])
+                fe['spans'][0]['end'] = max(en2he_alignment[fe['spans'][0]['end']])
+    except KeyError:
+        return []
+    return hebrew_srl
+
+
 def create(filename):
     with open(os.path.join(DATA_ROOT, 'english_parsed', filename), encoding='utf-8') as f:
         english = conllu_parse(f.read())
@@ -68,6 +88,7 @@ def create(filename):
                 'words': en
             },
             'hebrew': {
+                'frames': project_srl(srl['frames'], alignment_),
                 'words': he
             },
             'alignment': alignment_,
