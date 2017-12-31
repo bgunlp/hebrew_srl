@@ -54,15 +54,14 @@ def project_srl(english_srl, alignment):
     for key, group in groupby(sorted(alignment), key=itemgetter(0)):
         en2he_alignment[key] = list(map(itemgetter(1), group))
     hebrew_srl = english_srl
-    try:
-        for obj in hebrew_srl:
-            obj['target']['spans'][0]['start'] = min(en2he_alignment[obj['target']['spans'][0]['start']])
-            obj['target']['spans'][0]['end'] = max(en2he_alignment[obj['target']['spans'][0]['end']])
-            for fe in obj['annotationSets'][0]['frameElements']:
-                fe['spans'][0]['start'] = min(en2he_alignment[fe['spans'][0]['start']])
-                fe['spans'][0]['end'] = max(en2he_alignment[fe['spans'][0]['end']])
-    except KeyError:
-        return []
+    for obj in hebrew_srl:
+        span = obj['target']['spans'][0]
+        span['start'] = min(en2he_alignment.get(span['start'], [span['start']]))
+        span['end'] = max(en2he_alignment.get(span['end'], [span['end']]))
+        for fe in obj['annotationSets'][0]['frameElements']:
+            span = fe['spans'][0]
+            span['start'] = min(en2he_alignment.get(span['start'], [span['start']]))
+            span['end'] = max(en2he_alignment.get(span['end'], [span['end']]))
     return hebrew_srl
 
 
