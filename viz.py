@@ -1,6 +1,7 @@
 import json
 import os
 
+from collections import OrderedDict
 from itertools import groupby
 from operator import itemgetter
 
@@ -49,10 +50,54 @@ def english_sents(filename):
     return [' '.join([row['form'] for row in sent]) for sent in english]
 
 
-def project_srl(english_srl, alignment):
+def get_head_of_span(tokens, start, end):
+    return [token for token in tokens[start - 1:end - 1] if token['head'] not in range(start, end)]
+
+
+def en_token1():
+    return [OrderedDict(
+        [('id', 1), ('form', "'Tonight"), ('lemma', '_'), ('upostag', 'NNP'), ('xpostag', 'NNP'), ('feats', None),
+         ('head', 4), ('deprel', 'nsubj'), ('deps', None), ('misc', None)]), OrderedDict(
+        [('id', 2), ('form', ','), ('lemma', '_'), ('upostag', ','), ('xpostag', ','), ('feats', None), ('head', 4),
+         ('deprel', 'punct'), ('deps', None), ('misc', None)]), OrderedDict(
+        [('id', 3), ('form', 'James'), ('lemma', '_'), ('upostag', 'NNP'), ('xpostag', 'NNP'), ('feats', None),
+         ('head', 4), ('deprel', 'nsubj'), ('deps', None), ('misc', None)]), OrderedDict(
+        [('id', 4), ('form', 'falls'), ('lemma', '_'), ('upostag', 'VBZ'), ('xpostag', 'VBZ'), ('feats', None),
+         ('head', 0), ('deprel', 'null'), ('deps', None), ('misc', None)]), OrderedDict(
+        [('id', 5), ('form', 'out'), ('lemma', '_'), ('upostag', 'IN'), ('xpostag', 'IN'), ('feats', None), ('head', 4),
+         ('deprel', 'prep'), ('deps', None), ('misc', None)]), OrderedDict(
+        [('id', 6), ('form', 'of'), ('lemma', '_'), ('upostag', 'IN'), ('xpostag', 'IN'), ('feats', None), ('head', 5),
+         ('deprel', 'dep'), ('deps', None), ('misc', None)]), OrderedDict(
+        [('id', 7), ('form', 'a'), ('lemma', '_'), ('upostag', 'DT'), ('xpostag', 'DT'), ('feats', None), ('head', 8),
+         ('deprel', 'det'), ('deps', None), ('misc', None)]), OrderedDict(
+        [('id', 8), ('form', 'boat'), ('lemma', '_'), ('upostag', 'NN'), ('xpostag', 'NN'), ('feats', None),
+         ('head', 6), ('deprel', 'pobj'), ('deps', None), ('misc', None)]), OrderedDict(
+        [('id', 9), ('form', '.'), ('lemma', '_'), ('upostag', '.'), ('xpostag', '.'), ('feats', None), ('head', 4),
+         ('deprel', 'punct'), ('deps', None), ('misc', None)])]
+
+
+def english_srl1():
+    return [{'target': {'name': 'Partitive', 'spans': [{'start': 4, 'end': 6, 'text': 'out of'}]}, 'annotationSets': [
+        {'rank': 0, 'score': 9.101323875751197,
+         'frameElements': [{'name': 'Subset', 'spans': [{'start': 2, 'end': 3, 'text': 'James'}]},
+                           {'name': 'Group', 'spans': [{'start': 6, 'end': 8, 'text': 'a boat'}]}]}]},
+            {'target': {'name': 'Change_position_on_a_scale', 'spans': [{'start': 3, 'end': 4, 'text': 'falls'}]},
+             'annotationSets': [{'rank': 0, 'score': 84.85292008150958,
+                                 'frameElements': [{'name': 'Item', 'spans': [{'start': 2, 'end': 3, 'text': 'James'}]},
+                                                   {'name': 'Attribute',
+                                                    'spans': [{'start': 4, 'end': 8, 'text': 'out of a boat'}]}]}]},
+            {'target': {'name': 'Vehicle', 'spans': [{'start': 7, 'end': 8, 'text': 'boat'}]}, 'annotationSets': [
+                {'rank': 0, 'score': 26.65792845712213,
+                 'frameElements': [{'name': 'Vehicle', 'spans': [{'start': 7, 'end': 8, 'text': 'boat'}]}]}]}]
+
+
+def project_srl(english_srl, alignment, en_tokens, he_tokens):
+    en_head = [x for x in en_tokens if x['head'] == 0][-1]
+    he_head = [x for x in he_tokens if x['head'] == 0][-1]
     en2he_alignment = {}
     for key, group in groupby(sorted(alignment), key=itemgetter(0)):
         en2he_alignment[key] = list(map(itemgetter(1), group))
+    en2he_alignment[en_head['id']] = [he_head['id']]
     hebrew_srl = english_srl
     for obj in hebrew_srl:
         span = obj['target']['spans'][0]
@@ -87,7 +132,7 @@ def create(filename):
                 'words': en
             },
             'hebrew': {
-                'frames': project_srl(srl['frames'], alignment_),
+                'frames': project_srl(srl['frames'], alignment_, en, he),
                 'words': he
             },
             'alignment': alignment_,
@@ -101,6 +146,7 @@ def index():
     files = os.listdir(os.path.join(DATA_ROOT, 'english_parsed'))
     total_annotations = len(Annotation.query.all())
     annotations_by_file = {file: len([*Annotation.query.filter_by(file=file)]) for file in files}
+    files.sort(key=lambda f: annotations_by_file[f], reverse=True)
     return render_template('index.html',
                            files=files,
                            total_annotations=total_annotations,
