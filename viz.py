@@ -1,3 +1,4 @@
+import copy
 import json
 import os
 
@@ -51,7 +52,17 @@ def english_sents(filename):
 
 
 def get_head_of_span(tokens, start, end):
-    return [token for token in tokens[start - 1:end - 1] if token['head'] not in range(start, end)]
+    return [token for token in tokens[start:end] if token['head'] not in range(start, end)]
+
+
+def get_subtree_from_head(tokens, head):
+    visited, stack = [], [head]
+    while stack:
+        token = stack.pop()
+        if token not in visited:
+            visited.append(token)
+            stack.extend([t for t in tokens if t['head'] == token['id']])
+    return sorted(visited, key=lambda t: t['id'])
 
 
 def en_token1():
@@ -76,6 +87,27 @@ def en_token1():
          ('deprel', 'punct'), ('deps', None), ('misc', None)])]
 
 
+def he_tokens1():
+    return [OrderedDict(
+        [('id', 1), ('form', 'הלילה'), ('lemma', '_'), ('upostag', 'RB'), ('xpostag', 'RB'), ('feats', None),
+         ('head', 5), ('deprel', 'parataxis'), ('deps', None), ('misc', None)]), OrderedDict(
+        [('id', 2), ('form', "'"), ('lemma', '_'), ('upostag', 'NNP'), ('xpostag', 'NNP'),
+         ('feats', OrderedDict([('gen', 'F,M'), ('num', 'S')])), ('head', 5), ('deprel', 'parataxis'), ('deps', None),
+         ('misc', None)]), OrderedDict(
+        [('id', 3), ('form', ','), ('lemma', '_'), ('upostag', 'yyCM'), ('xpostag', 'yyCM'), ('feats', None),
+         ('head', 5), ('deprel', 'punct'), ('deps', None), ('misc', None)]), OrderedDict(
+        [('id', 4), ('form', "ג'יימס"), ('lemma', '_'), ('upostag', 'NNP'), ('xpostag', 'NNP'), ('feats', None),
+         ('head', 5), ('deprel', 'subj'), ('deps', None), ('misc', None)]), OrderedDict(
+        [('id', 5), ('form', 'נופל'), ('lemma', '_'), ('upostag', 'VB'), ('xpostag', 'VB'),
+         ('feats', OrderedDict([('gen', 'F,M'), ('num', 'P'), ('per', '1'), ('tense', 'FUTURE')])), ('head', 0),
+         ('deprel', 'ROOT'), ('deps', None), ('misc', None)]), OrderedDict(
+        [('id', 6), ('form', 'מסירה'), ('lemma', '_'), ('upostag', 'NN'), ('xpostag', 'NN'),
+         ('feats', OrderedDict([('gen', 'F'), ('num', 'S')])), ('head', 5), ('deprel', 'obj'), ('deps', None),
+         ('misc', None)]), OrderedDict(
+        [('id', 7), ('form', '.'), ('lemma', '_'), ('upostag', 'yyDOT'), ('xpostag', 'yyDOT'), ('feats', None),
+         ('head', 5), ('deprel', 'punct'), ('deps', None), ('misc', None)])]
+
+
 def english_srl1():
     return [{'target': {'name': 'Partitive', 'spans': [{'start': 4, 'end': 6, 'text': 'out of'}]}, 'annotationSets': [
         {'rank': 0, 'score': 9.101323875751197,
@@ -92,21 +124,43 @@ def english_srl1():
 
 
 def project_srl(english_srl, alignment, en_tokens, he_tokens):
-    en_head = [x for x in en_tokens if x['head'] == 0][-1]
-    he_head = [x for x in he_tokens if x['head'] == 0][-1]
+    print(' '.join([t['form'] for t in en_tokens]))
+    hebrew_srl = copy.deepcopy(english_srl)
+    print(english_srl)
+
     en2he_alignment = {}
     for key, group in groupby(sorted(alignment), key=itemgetter(0)):
         en2he_alignment[key] = list(map(itemgetter(1), group))
-    en2he_alignment[en_head['id']] = [he_head['id']]
-    hebrew_srl = english_srl
-    for obj in hebrew_srl:
-        span = obj['target']['spans'][0]
-        span['start'] = min(en2he_alignment.get(span['start'], [span['start']]))
-        span['end'] = max(en2he_alignment.get(span['end'], [span['end']]))
-        for fe in obj['annotationSets'][0]['frameElements']:
-            span = fe['spans'][0]
-            span['start'] = min(en2he_alignment.get(span['start'], [span['start']]))
-            span['end'] = max(en2he_alignment.get(span['end'], [span['end']]))
+    try:
+        print(en2he_alignment)
+        for obj in hebrew_srl:
+            span = obj['target']['spans'][0]
+            head_of_span = get_head_of_span(en_tokens, span['start'], span['end'])
+            if len(head_of_span) != 1:
+                continue
+            head_of_span, = head_of_span
+            aligned_head = en2he_alignment[head_of_span['id'] - 1]
+            if len(aligned_head) != 1:
+                continue
+            aligned_head, = aligned_head
+            subtree = get_subtree_from_head(he_tokens, he_tokens[aligned_head])
+            obj['target']['spans'][0]['start'] = subtree[0]['id'] - 1
+            obj['target']['spans'][0]['end'] = subtree[-1]['id'] - 1
+            for fe in obj['annotationSets'][0]['frameElements']:
+                span = fe['spans'][0]
+                head_of_span = get_head_of_span(en_tokens, span['start'], span['end'])
+                if len(head_of_span) != 1:
+                    continue
+                head_of_span, = head_of_span
+                aligned_head = en2he_alignment[head_of_span['id'] - 1]
+                if len(aligned_head) != 1:
+                    continue
+                aligned_head, = aligned_head
+                subtree = get_subtree_from_head(he_tokens, he_tokens[aligned_head])
+                span['start'] = subtree[0]['id'] - 1
+                span['end'] = subtree[-1]['id'] - 1
+    except KeyError:
+        return []
     return hebrew_srl
 
 
