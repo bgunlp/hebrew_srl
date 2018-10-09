@@ -38,7 +38,7 @@ The following diagram shows the data pipeline in our work:
 ![Flowchart](msc_flow.png)
 
 ### Specifications
-The computer used to process the data is an Intel Xeon E5645 @ 2.40 GHz and 24 cores and 128GB RAM.
+The computer used to process the data is an Intel Xeon E5645 @ 2.40 GHz with 24 cores and 128GB RAM.
 
 ### Runtime
 * English POS-tagging and dependency parsing: less than one day
