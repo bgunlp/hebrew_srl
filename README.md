@@ -12,7 +12,7 @@ This repository contains the following:
 * Two sqlite databases: `manual_annotations.sqlite3` (original seed) and `data.sqlite3` (result of classifier annotation on a subset of the dataset)
 * The code for the classifier, and a pickled trained classifier
 
-## SRL Visualization
+## Aligned SRL Visualization
 
 ![Example](tree2.png)
 
