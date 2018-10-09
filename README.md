@@ -1,5 +1,7 @@
 # Building a Hebrew FrameNet Lexical Resource from Parallel Movie Subtitles
 
+This work sets out to acquire Hebrew exemplar sentences with FrameNet annotations by projecting annotations from English. To this end, we use the [OpenSubtitles 2016](http://opus.nlpl.eu/OpenSubtitles2016.php) dataset of aligned English-Hebrew subtitles of movies and television shows.
+
 This repository contains the following:
 
 * Thesis in PDF format
