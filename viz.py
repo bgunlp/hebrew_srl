@@ -2,11 +2,12 @@ import copy
 import json
 import os
 
+import conllu
+
 from collections import OrderedDict
 from itertools import groupby
 from operator import itemgetter
 
-from conllu.parser import parse as conllu_parse
 from flask import Flask, render_template, request, redirect, url_for
 from flask_bootstrap import Bootstrap
 from flask_sqlalchemy import SQLAlchemy
@@ -47,7 +48,7 @@ class Annotation(db.Model):
 
 def english_sents(filename):
     with open(os.path.join(DATA_ROOT, 'english_parsed', filename), encoding='utf-8') as f:
-        english = conllu_parse(f.read())
+        english = conllu.parse(f.read())
     return [' '.join([row['form'] for row in sent]) for sent in english]
 
 
@@ -65,74 +66,13 @@ def get_subtree_from_head(tokens, head):
     return sorted(visited, key=lambda t: t['id'])
 
 
-def en_token1():
-    return [OrderedDict(
-        [('id', 1), ('form', "'Tonight"), ('lemma', '_'), ('upostag', 'NNP'), ('xpostag', 'NNP'), ('feats', None),
-         ('head', 4), ('deprel', 'nsubj'), ('deps', None), ('misc', None)]), OrderedDict(
-        [('id', 2), ('form', ','), ('lemma', '_'), ('upostag', ','), ('xpostag', ','), ('feats', None), ('head', 4),
-         ('deprel', 'punct'), ('deps', None), ('misc', None)]), OrderedDict(
-        [('id', 3), ('form', 'James'), ('lemma', '_'), ('upostag', 'NNP'), ('xpostag', 'NNP'), ('feats', None),
-         ('head', 4), ('deprel', 'nsubj'), ('deps', None), ('misc', None)]), OrderedDict(
-        [('id', 4), ('form', 'falls'), ('lemma', '_'), ('upostag', 'VBZ'), ('xpostag', 'VBZ'), ('feats', None),
-         ('head', 0), ('deprel', 'null'), ('deps', None), ('misc', None)]), OrderedDict(
-        [('id', 5), ('form', 'out'), ('lemma', '_'), ('upostag', 'IN'), ('xpostag', 'IN'), ('feats', None), ('head', 4),
-         ('deprel', 'prep'), ('deps', None), ('misc', None)]), OrderedDict(
-        [('id', 6), ('form', 'of'), ('lemma', '_'), ('upostag', 'IN'), ('xpostag', 'IN'), ('feats', None), ('head', 5),
-         ('deprel', 'dep'), ('deps', None), ('misc', None)]), OrderedDict(
-        [('id', 7), ('form', 'a'), ('lemma', '_'), ('upostag', 'DT'), ('xpostag', 'DT'), ('feats', None), ('head', 8),
-         ('deprel', 'det'), ('deps', None), ('misc', None)]), OrderedDict(
-        [('id', 8), ('form', 'boat'), ('lemma', '_'), ('upostag', 'NN'), ('xpostag', 'NN'), ('feats', None),
-         ('head', 6), ('deprel', 'pobj'), ('deps', None), ('misc', None)]), OrderedDict(
-        [('id', 9), ('form', '.'), ('lemma', '_'), ('upostag', '.'), ('xpostag', '.'), ('feats', None), ('head', 4),
-         ('deprel', 'punct'), ('deps', None), ('misc', None)])]
-
-
-def he_tokens1():
-    return [OrderedDict(
-        [('id', 1), ('form', 'הלילה'), ('lemma', '_'), ('upostag', 'RB'), ('xpostag', 'RB'), ('feats', None),
-         ('head', 5), ('deprel', 'parataxis'), ('deps', None), ('misc', None)]), OrderedDict(
-        [('id', 2), ('form', "'"), ('lemma', '_'), ('upostag', 'NNP'), ('xpostag', 'NNP'),
-         ('feats', OrderedDict([('gen', 'F,M'), ('num', 'S')])), ('head', 5), ('deprel', 'parataxis'), ('deps', None),
-         ('misc', None)]), OrderedDict(
-        [('id', 3), ('form', ','), ('lemma', '_'), ('upostag', 'yyCM'), ('xpostag', 'yyCM'), ('feats', None),
-         ('head', 5), ('deprel', 'punct'), ('deps', None), ('misc', None)]), OrderedDict(
-        [('id', 4), ('form', "ג'יימס"), ('lemma', '_'), ('upostag', 'NNP'), ('xpostag', 'NNP'), ('feats', None),
-         ('head', 5), ('deprel', 'subj'), ('deps', None), ('misc', None)]), OrderedDict(
-        [('id', 5), ('form', 'נופל'), ('lemma', '_'), ('upostag', 'VB'), ('xpostag', 'VB'),
-         ('feats', OrderedDict([('gen', 'F,M'), ('num', 'P'), ('per', '1'), ('tense', 'FUTURE')])), ('head', 0),
-         ('deprel', 'ROOT'), ('deps', None), ('misc', None)]), OrderedDict(
-        [('id', 6), ('form', 'מסירה'), ('lemma', '_'), ('upostag', 'NN'), ('xpostag', 'NN'),
-         ('feats', OrderedDict([('gen', 'F'), ('num', 'S')])), ('head', 5), ('deprel', 'obj'), ('deps', None),
-         ('misc', None)]), OrderedDict(
-        [('id', 7), ('form', '.'), ('lemma', '_'), ('upostag', 'yyDOT'), ('xpostag', 'yyDOT'), ('feats', None),
-         ('head', 5), ('deprel', 'punct'), ('deps', None), ('misc', None)])]
-
-
-def english_srl1():
-    return [{'target': {'name': 'Partitive', 'spans': [{'start': 4, 'end': 6, 'text': 'out of'}]}, 'annotationSets': [
-        {'rank': 0, 'score': 9.101323875751197,
-         'frameElements': [{'name': 'Subset', 'spans': [{'start': 2, 'end': 3, 'text': 'James'}]},
-                           {'name': 'Group', 'spans': [{'start': 6, 'end': 8, 'text': 'a boat'}]}]}]},
-            {'target': {'name': 'Change_position_on_a_scale', 'spans': [{'start': 3, 'end': 4, 'text': 'falls'}]},
-             'annotationSets': [{'rank': 0, 'score': 84.85292008150958,
-                                 'frameElements': [{'name': 'Item', 'spans': [{'start': 2, 'end': 3, 'text': 'James'}]},
-                                                   {'name': 'Attribute',
-                                                    'spans': [{'start': 4, 'end': 8, 'text': 'out of a boat'}]}]}]},
-            {'target': {'name': 'Vehicle', 'spans': [{'start': 7, 'end': 8, 'text': 'boat'}]}, 'annotationSets': [
-                {'rank': 0, 'score': 26.65792845712213,
-                 'frameElements': [{'name': 'Vehicle', 'spans': [{'start': 7, 'end': 8, 'text': 'boat'}]}]}]}]
-
-
 def project_srl(english_srl, alignment, en_tokens, he_tokens):
-    print(' '.join([t['form'] for t in en_tokens]))
     hebrew_srl = copy.deepcopy(english_srl)
-    print(english_srl)
 
     en2he_alignment = {}
     for key, group in groupby(sorted(alignment), key=itemgetter(0)):
         en2he_alignment[key] = list(map(itemgetter(1), group))
     try:
-        print(en2he_alignment)
         for obj in hebrew_srl:
             span = obj['target']['spans'][0]
             head_of_span = get_head_of_span(en_tokens, span['start'], span['end'])
@@ -166,9 +106,9 @@ def project_srl(english_srl, alignment, en_tokens, he_tokens):
 
 def create(filename):
     with open(os.path.join(DATA_ROOT, 'english_parsed', filename), encoding='utf-8') as f:
-        english = conllu_parse(f.read())
+        english = conllu.parse(f.read())
     with open(os.path.join(DATA_ROOT, 'hebrew_parsed', filename), encoding='utf-8') as f:
-        hebrew = conllu_parse(f.read())
+        hebrew = conllu.parse(f.read())
     with open(os.path.join(DATA_ROOT, 'english_srl', filename), encoding='utf-8') as f:
         english_srl = [json.loads(line.strip()) for line in f]
     with open(os.path.join(DATA_ROOT, 'fastalign_outputs', filename + '.forward'), encoding='utf-8') as f:
