@@ -24,7 +24,15 @@ In order to run the SRL visualization tool, you need:
 The best way to get started is to create a new virtual environment (either through Conda or `python3 -m venv <venv name>`), and run `pip install -r requirements.txt`.
 
 
-## Data Processing
+## Data
+
+### Statistics
+
+| # of subtitles | # of sentences | # of English tokens | # of Hebrew tokens (before segmentation) | # of Hebrew tokens (after segmentation) | English vocabulary size | Hebrew vocabulary size |
+|----------------|----------------|---------------------|------------------------------------------|-----------------------------------------|-------------------------|------------------------|
+| 30,789         | 23,062,193     | 194,217,249         | 118,236,346                              | 188,375,525                             | 1,540,672               | 894,759                |
+
+### Processing
 The following diagram shows the data pipeline in our work:
 
 ![Flowchart](msc_flow.png)
