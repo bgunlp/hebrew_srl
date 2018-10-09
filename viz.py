@@ -15,7 +15,7 @@ from flask_wtf import FlaskForm
 from wtforms import RadioField, SubmitField
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = 'balls'
+app.config['SECRET_KEY'] = 'msc'
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///data.sqlite3'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 Bootstrap(app)
