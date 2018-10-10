@@ -4,9 +4,11 @@
     <h1>Choose a sentence:</h1>
     <ul class="list-group">
         {% for sent, annotation in sents %}
-            <li class="list-group-item{% if annotation == 'ok' %} ok{% elif annotation == 'none' %}{% else %} bad{% endif %}">
+            {% if annotation == 'ok' %}
+            <li class="list-group-item">
                 <a href={{ url_for('tree_view', filename=filename, sent_id=loop.index0 ) }}>{{ sent }}</a>
             </li>
+            {% endif %}
         {% endfor %}
     </ul>
 {% endblock %}

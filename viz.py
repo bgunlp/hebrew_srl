@@ -21,7 +21,7 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 Bootstrap(app)
 db = SQLAlchemy(app)
 
-DATA_ROOT = os.path.join(app.root_path, 'static', 'dataset')
+DATA_ROOT = os.path.join(app.root_path, 'static', 'datasubset')
 
 
 class AnnotationForm(FlaskForm):
@@ -160,7 +160,7 @@ def sentence_select(filename):
             annotated_sents.append((sent, annotation.message))
         else:
             annotated_sents.append((sent, 'none'))
-    return render_template('sentenceselect.html',
+    return render_template('sentenceselect2.html',
                            filename=filename,
                            sents=annotated_sents,
                            total_annotations=total_annotations,
