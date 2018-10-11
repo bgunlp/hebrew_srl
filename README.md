@@ -21,7 +21,7 @@ In order to run the SRL visualization tool, you need:
 * `conllu` package to parse CoNLL-U format
 * `scikit-learn` and `imbalanced-learn` for the classifier
 
-The best way to get started is to create a new virtual environment (either through Conda or `python3 -m venv <venv name>`), and run `pip install -r requirements.txt`.
+The best way to get started is to create a new virtual environment (either through Conda or `python3 -m venv <venv name>`), and run `pip install -r requirements.txt`, followed by `python3 viz.py`.
 
 
 ## Data
