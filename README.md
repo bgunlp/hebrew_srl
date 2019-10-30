@@ -20,6 +20,7 @@ In order to run the SRL visualization tool, you need:
 * Python 3.5 or later (Python 2 not supported)
 * `conllu` package to parse CoNLL-U format
 * `scikit-learn` and `imbalanced-learn` for the classifier
+* Download the dataset from [here](https://drive.google.com/file/d/1zaaBKsilWd4mYb9tAs7G07lxSrIBKbyG/view?usp=sharing) and place it in the `static/dataset` directory
 
 The best way to get started is to create a new virtual environment (either through Conda or `python3 -m venv <venv name>`), and run `pip install -r requirements.txt`, followed by `python3 viz.py`.
 
