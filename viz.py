@@ -1,13 +1,10 @@
 import copy
 import json
 import os
-
-import conllu
-
-from collections import OrderedDict
 from itertools import groupby
 from operator import itemgetter
 
+import conllu
 from flask import Flask, render_template, request, redirect, url_for
 from flask_bootstrap import Bootstrap
 from flask_sqlalchemy import SQLAlchemy
@@ -21,7 +18,7 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 Bootstrap(app)
 db = SQLAlchemy(app)
 
-DATA_ROOT = os.path.join(app.root_path, 'static', 'datasubset')
+DATA_ROOT = os.path.join(app.root_path, 'static', 'dataset')
 
 
 class AnnotationForm(FlaskForm):
@@ -111,7 +108,7 @@ def create(filename):
         hebrew = conllu.parse(f.read())
     with open(os.path.join(DATA_ROOT, 'english_srl', filename), encoding='utf-8') as f:
         english_srl = [json.loads(line.strip()) for line in f]
-    with open(os.path.join(DATA_ROOT, 'fastalign_outputs', filename + '.forward'), encoding='utf-8') as f:
+    with open(os.path.join(DATA_ROOT, 'fastalign_outputs', filename), encoding='utf-8') as f:
         alignment = []
         for line in f:
             dashed_pairs = line.strip().split(' ')
