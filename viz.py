@@ -9,6 +9,7 @@ from flask import Flask, render_template, request, redirect, url_for
 from flask_bootstrap import Bootstrap
 from flask_sqlalchemy import SQLAlchemy
 from flask_wtf import FlaskForm
+from sqlalchemy import func
 from wtforms import RadioField, SubmitField
 
 app = Flask(__name__)
@@ -134,22 +135,32 @@ def create(filename):
 
 @app.route('/')
 def index():
-    files = os.listdir(os.path.join(DATA_ROOT, 'english_parsed'))
     total_annotations = len(Annotation.query.all())
-    annotations_by_file = {file: len([*Annotation.query.filter_by(file=file)]) for file in files}
-    files.sort(key=lambda f: annotations_by_file[f], reverse=True)
+    page = request.args.get('page', 1, type=int)
+    files = Annotation.query \
+        .with_entities(Annotation.file, func.count(Annotation.file)) \
+        .group_by(Annotation.file) \
+        .order_by(func.count(Annotation.file).desc()) \
+        .paginate(page, 10, False)
+    annotations_by_file = dict(files.items)
+    next_url = url_for('index', page=files.next_num) if files.has_next else None
+    prev_url = url_for('index', page=files.prev_num) if files.has_prev else None
     return render_template('index.html',
-                           files=files,
                            total_annotations=total_annotations,
                            annotations_by_file=annotations_by_file,
-                           page='File Selection')
+                           next_url=next_url,
+                           prev_url=prev_url,
+                           title='File Selection')
 
 
 @app.route('/<filename>')
 def sentence_select(filename):
     sents = english_sents(filename)
-    sent2annotation = {a.sentence: a for a in Annotation.query.filter_by(file=filename)}
-    total_annotations = len(sent2annotation)
+    page = request.args.get('page', 1, type=int)
+    annotations = Annotation.query.filter_by(file=filename)
+    total_annotations = len(annotations.all())
+    annotations_page = annotations.paginate(page, 10, False)
+    sent2annotation = {a.sentence: a for a in annotations_page.items}
     annotated_sents = []
     for sent_id, sent in enumerate(sents):
         annotation = sent2annotation.get(sent_id)
@@ -157,11 +168,17 @@ def sentence_select(filename):
             annotated_sents.append((sent, annotation.message))
         else:
             annotated_sents.append((sent, 'none'))
+    next_url = url_for('sentence_select', filename=filename, page=annotations_page.next_num) \
+        if annotations_page.has_next else None
+    prev_url = url_for('sentence_select', filename=filename, page=annotations_page.prev_num) \
+        if annotations_page.has_prev else None
     return render_template('sentenceselect2.html',
                            filename=filename,
                            sents=annotated_sents,
                            total_annotations=total_annotations,
-                           page='Sentence Selection')
+                           next_url=next_url,
+                           prev_url=prev_url,
+                           title='Sentence Selection')
 
 
 @app.route('/<filename>/<sent_id>', methods=['GET', 'POST'])
@@ -177,7 +194,7 @@ def tree_view(filename, sent_id):
         return redirect(url_for('sentence_select', filename=filename))
     form = AnnotationForm(annotation=annotation.message) if annotation else AnnotationForm()
     data = create(filename)
-    return render_template('treeview.html', data=data[int(sent_id)], page='Graphic', form=form)
+    return render_template('treeview.html', data=data[int(sent_id)], title='Graphic', form=form)
 
 
 if __name__ == '__main__':
